@@ -19,6 +19,7 @@
 - [[Séance 13-Les élections aux USA]]
 - [[Séance 14,15-Intro à la politique suisse]]
 - [[Séance 16-Comportement politique]]
-- [[Séance 17-Analyse des politiques publiques]]
+- [[Séance 17,18-Analyse des politiques publiques]]
+- [[Séance 18-Formulation des PP]]
 
 #UNIGE #Introsciencepo #Plaque-tournante
