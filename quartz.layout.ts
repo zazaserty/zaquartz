@@ -1,10 +1,13 @@
+
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
-  header: [],
+  header: [
+    Component.PageTitle(), // Use an existing, valid component for the header
+  ],
   afterBody: [],
   footer: Component.Footer({
     links: {
