@@ -40,5 +40,4 @@ C'est un ensemble de parties en interaction, orienté à remplir une fonction do
 Pour David Easton, le système politique est la *black box* et il le représente comme tel dans son schéma.
 ![[Pasted image 20240927152620.png]]
 
-#UNIGE 
-#Introsciencepo
+#UNIGE #Introsciencepo

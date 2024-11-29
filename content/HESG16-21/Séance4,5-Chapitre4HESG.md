@@ -85,5 +85,4 @@ Les personnes vont gagner plus et avoir des meilleures conditions au fils et a m
 ### Simplicité
 Les nouvelles technologies sont simples et faciles à copier, ce qui permet un développement international. Les artisans et les travailleurs qui réparaient l'outillage étaient pas trop différenciés donc c'était facile de changer de secteur. Il y avait pas mal d'illettrés (44% et 60-70% dans les ouvriers), il n'y avait pas d'école obligatoire (avant 1880) et les enfants sont dans sa majorité dans les usines, ceci a diminué grâce a l'école primaire. Cette hausse dans l'éducation a permis des revendications sociales dans le futur.
 
-#UNIGE 
-#HESG
+#UNIGE #HESG

@@ -21,6 +21,4 @@ Enregistrements des cours:
 - [[Séance 12,13,14,15,16-Contentieux]]
 - [[Séance 16-Les affaires pénales]]
 
-#UNIGE 
-#IntroDroit 
-#Plaque-tournante 
+#UNIGE #IntroDroit #Plaque-tournante 

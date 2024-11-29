@@ -49,6 +49,4 @@ Les économistes distinguent trois familles de discrimination par les prix:
 - On peut montrer que l’équilibre du monopoleur discriminant se caractérise par des prix fixés en fonction de l’élasticité-prix de la demande de chaque groupe.
 ![[Pasted image 20241122133240.png]]
 
-
-#UNIGE 
-#IntroMicroéconomie 
+#UNIGE #IntroMicroéconomie 

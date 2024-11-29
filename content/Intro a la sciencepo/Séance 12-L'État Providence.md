@@ -115,5 +115,4 @@ Il y a une stratification, puisque dans les modèles les plus conservateurs sont
     - **Décommodification** : Mesure dans laquelle l'État-providence libère les individus de la dépendance au marché.
     - **Stratification** : Mesure dans laquelle l'État-providence traite différemment les groupes sociaux, préservant ou réduisant les inégalités.
 
-#UNIGE 
-#Introsciencepo 
+#UNIGE #Introsciencepo 

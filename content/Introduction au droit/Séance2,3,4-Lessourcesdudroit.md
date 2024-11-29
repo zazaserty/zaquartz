@@ -90,5 +90,4 @@ Ce sont des principes qui découlent de la pratique juridique ou de valeurs qui 
 ![[Pasted image 20240927084513.png]]
 Le droit coutumier et les principes généraux du droit ne sont pas la même chose. Les principes généraux ne sont pas des droits et des obligations mais plutôt des réflexions sur comment appliquer le droit.
 
-#UNIGE 
-#IntroDroit
+#UNIGE #IntroDroit

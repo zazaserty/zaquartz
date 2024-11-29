@@ -14,6 +14,4 @@
 - [[Séance16,17-Chapitre13HESG]]
 - [[Séance17-Chapitre14HESG]]
 
-#UNIGE 
-#HESG
-#Plaque-tournante 
+#UNIGE #HESG #Plaque-tournante 

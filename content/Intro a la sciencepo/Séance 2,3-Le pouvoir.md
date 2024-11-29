@@ -91,5 +91,4 @@ Pour lui, il y a trois idéaux-types de légitimité (Pour lui un idéal-type es
 3. Charismatique: On considère une personne comme notre père ou mère, on est attachés. On dirait qui'il fait des choses dont on n'est pas capables (surhumain). Il défend avec de la charisme une grande cause avec laquelle on s’identifie.
 	- Sa grande cause elle varie. **Exemple**: Une personne qui avec un discours charismatique défend la cause d'une partie de la population.
 
-#UNIGE 
-#Introsciencepo 
+#UNIGE #Introsciencepo 

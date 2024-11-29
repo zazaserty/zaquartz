@@ -69,5 +69,4 @@ L'utilitarisme quantitatif (Bentham) se concentre sur la quantité de plaisir, p
 - Les utilitaristes visent à maximiser le bonheur ou l'utilité pour le plus grand nombre de personnes.
 - Les utilitaristes insistent sur l'importance de prendre en compte les résultats et de peser les bénéfices potentiels et les dommages des actions.
 
-#UNIGE 
-#Introsciencepo 
+#UNIGE #Introsciencepo 

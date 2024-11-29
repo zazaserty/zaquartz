@@ -93,5 +93,4 @@ La position des pays et les contrôles des routes comerciales (guerre totale don
 	- Sèvres (10 août 1920): fin de l'empire ottoman.
 - Cette paix et injuste pour vainqueurs et vaincus et va peser négativement dans l’entre-deux-guerres.
 
-#UNIGE 
-#IntroHistoireInternationale1
+#UNIGE #IntroHistoireInternationale1

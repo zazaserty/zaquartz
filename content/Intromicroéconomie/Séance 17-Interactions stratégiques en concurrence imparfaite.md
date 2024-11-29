@@ -99,5 +99,4 @@ Lorsque les firmes en oligopole choisissent individuellement la production qui m
 - Importance du choix de stratégies crédibles.
 - Ici: approche très sommaire de la théorie des jeux, qui fait appel à des notions mathématiques parfois très poussées.
 
-#UNIGE 
-#IntroMicroéconomie 
+#UNIGE #IntroMicroéconomie 

@@ -117,5 +117,4 @@ Ce *pacte* - qui n'est qu'un ensemble de pratiques menées par les colons- a eu 
 
 La colonie va aussi représenter un abri de richesses loin de la métropole. L'église, les marchands, etc; vont utiliser les populations natives pour en tirer beaucoup d'argent. Les inégalités entre les colons et natifs on permis la monétisation.
 
-#UNIGE 
-#HESG 
+#UNIGE #HESG 

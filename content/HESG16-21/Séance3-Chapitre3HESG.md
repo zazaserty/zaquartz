@@ -77,5 +77,4 @@ On commence à avoir moins de peur envers la nature, on n'est plus dependants de
 
 Aussi, on développe un anthropocentrisme-> la nature est là pour satisfaire nos besoins.
 
-#UNIGE 
-#HESG
+#UNIGE #HESG

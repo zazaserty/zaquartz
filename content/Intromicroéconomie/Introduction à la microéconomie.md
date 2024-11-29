@@ -24,6 +24,4 @@ Dates des séminaires:
 - [[Séance 16,17-Le monopole naturel et concurrence monopolistique]]
 - [[Séance 17-Interactions stratégiques en concurrence imparfaite]]
 
-#UNIGE 
-#IntroMicroéconomie
-#Plaque-tournante 
+#UNIGE #IntroMicroéconomie #Plaque-tournante 

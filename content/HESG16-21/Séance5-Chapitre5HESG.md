@@ -69,5 +69,4 @@ On a pas de charbon, mais plein de lacs et de rivières avec lesquels on peut fa
 
 Cela débouche dans un niveau de croissance très supérieur (même chose pour le niveau de vie et notre richesse) au reste de l'Europe. Et aussi dans des vagues de migrations (italiens, allemands, espagnols). A Genève il y a beaucoup d’étrangers.
 
-#UNIGE 
-#HESG 
+#UNIGE #HESG 

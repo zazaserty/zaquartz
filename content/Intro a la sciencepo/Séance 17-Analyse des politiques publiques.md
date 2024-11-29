@@ -89,5 +89,4 @@ La majorité de problèmes ne franchissent pas la barrière vers le problème so
 - Et surtout, le plus important, cadrage avec des effets importants sur le nombre de condamnations et d'exécutions -> analyse quantitative qui montre que le changement de cadrage explique le mieux la réduction du nombre de condamnations (en contrôlant pour nombre d'homicides, opinion publique, inertie de la pratique antérieure, etc.)
 ![[Pasted image 20241126140056.png]]
 
-#UNIGE 
-#Introsciencepo 
+#UNIGE #Introsciencepo 

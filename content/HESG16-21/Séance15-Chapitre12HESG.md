@@ -52,5 +52,4 @@ La consommation va aider à l'acceptation du modèle et à l'obtention de la qua
 
 On fait des voitures mais aussi des consommateurs de masse qui peuvent s'offrir même une ford.
 
-#UNIGE 
-#HESG 
+#UNIGE #HESG 

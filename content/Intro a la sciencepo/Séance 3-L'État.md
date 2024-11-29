@@ -26,5 +26,4 @@ La nationalité a aussi différentes conceptions. Dans quelques pays il y existe
 - Politique étrangère, interagir avec d'autres États.
 Ces fonctions évoluent. Par exemple, les États ne battent plus de monnaie dans certains cas comme celui de l'euro. Et au niveau européen la justice peut ne pas être gérée par l'État mais par le Conseil des droits de l'homme.
 
-#UNIGE 
-#Introsciencepo 
+#UNIGE #Introsciencepo 

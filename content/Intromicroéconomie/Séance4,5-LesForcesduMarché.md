@@ -96,5 +96,4 @@ On pourrait dire que l'offre est le coût marginal des entreprises, parce que le
 ![[Pasted image 20240930135900.png]]
 ![[Pasted image 20240930135913.png]]
 
-#UNIGE 
-#IntroMicroéconomie 
+#UNIGE #IntroMicroéconomie 

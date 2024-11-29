@@ -116,5 +116,4 @@ Le parti républicain a trouvé le moyen de gouverner sans obtenir la majorité:
 
 Un parti qui ne peut pas obtenir la majorité lors d'une élection est fortement incité au backsliding.
 
-#UNIGE 
-#Introsciencepo 
+#UNIGE #Introsciencepo 

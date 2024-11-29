@@ -146,5 +146,4 @@ Sa monnaie est maintenant comme la fiduciaire moderne et sa valeur dépend de l'
 - Monétaire: instruments avec lesquels on paie.
 - Financier: mouvements d'emprunts et de prêts entre pays.
 
-#UNIGE 
-#HESG 
+#UNIGE #HESG 

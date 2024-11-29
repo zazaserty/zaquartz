@@ -70,5 +70,4 @@ La concurrence imparfaite renvoie à ces structures de marché qui ont certains 
 ![[Pasted image 20241125123210.png]]
 ![[Pasted image 20241125123405.png]]
 
-#UNIGE 
-#IntroMicroéconomie 
+#UNIGE #IntroMicroéconomie 

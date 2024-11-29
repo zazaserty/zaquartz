@@ -65,5 +65,4 @@ Rawls souligne qu'au-delà de l'égalité formelle (égalité devant la loi), il
 #### Structure de base de la société 
 Rawls soutient que les principes de justice s'appliquent principalement à la "structure de base" de la société, qui comprend les principales institutions sociales (telles que le système juridique, l'économie) qui déterminent les droits, les devoirs et les perspectives de vie des individus.
 
-#UNIGE 
-#Introsciencepo 
+#UNIGE #Introsciencepo 

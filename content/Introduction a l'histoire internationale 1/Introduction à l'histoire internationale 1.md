@@ -16,6 +16,4 @@ QCM a la fin du semestre d'automne.
 - [[Séance 8,9-Le tiers-monde et le non-alignement]]
 - [[Séance 9- La fin de la guerre froide]]
 
-#Plaque-tournante 
-#UNIGE 
-#IntroHistoireInternationale1 
+#Plaque-tournante #UNIGE #IntroHistoireInternationale1 

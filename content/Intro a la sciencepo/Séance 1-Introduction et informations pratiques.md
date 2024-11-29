@@ -56,5 +56,4 @@ Quand même, il est important de savoir aussi comment on devrait vivre (morale).
 - Les actes du gouvernement
 - Les décisions et actions publiques dans un domaine déterminé: Comme lutter contre une pandémie. Grâce a un ensemble de ressources.
 
-#UNIGE 
-#Introsciencepo
+#UNIGE #Introsciencepo 

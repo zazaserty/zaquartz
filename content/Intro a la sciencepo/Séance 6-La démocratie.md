@@ -48,5 +48,4 @@ A quel point est-ce que la population participe?
 - Vanhanen Index
 - Democracy Barometer (nouveau, d'origine Zurichois au Centre d'études sur la démocratie d'Aarau).
 
-#UNIGE 
-#Introsciencepo 
+#UNIGE #Introsciencepo 

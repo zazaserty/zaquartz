@@ -126,5 +126,4 @@ Divers pays européens voient d'important acquis sociaux:
 
 L'État-Providence a été ébauché.
 
-#UNIGE 
-#HESG 
+#UNIGE #HESG 

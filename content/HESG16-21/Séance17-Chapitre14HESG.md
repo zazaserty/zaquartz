@@ -12,5 +12,4 @@ On questionne la croissance, il y a de la concurrence pour le travail et mainten
 - La fin des accords de Bretton Woods (1973).
 - Le ralentissement des gains de productivité.
 
-#UNIGE 
-#HESG
+#UNIGE #HESG

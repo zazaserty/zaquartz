@@ -31,5 +31,4 @@ Elle est un organe (juge/tribunal) chargé de *dire le droit* (appliquer les rè
 
 La juridiction contentieuse tranche les litiges entre parties dans le cadre d'un procès. Un tribunal peut s'occuper du futur juridique d'une seule personne, mais le terme juridiction *contentieuse* est seulement utilisé dans un conflict entre deux personnes ou plus.
 
-#UNIGE 
-#IntroDroit 
+#UNIGE #IntroDroit 
