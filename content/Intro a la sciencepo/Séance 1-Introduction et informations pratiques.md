@@ -29,8 +29,7 @@ Il est le premier théoricien politique, puis qu'il analyse les fait et n'imagin
 C'est de cet auteur qui est né l'adjectif machiavélique (Exemple, un politicien qui ne gouverne pas moralement). Le propre Machiavelli disait qu'un prince, un leader fort, doit être capable d'ouvrer bien ou mal selon la situation.
 
 Quand même, il est important de savoir aussi comment on devrait vivre (morale). Ces principes et normes de base sont importantes pour gouverner (Prochaines séances):
-- [[Justice, égalité, liberté]]
-- [[Est-ce que la suisse est une démocratie?]]
+- Est-ce que la suisse est une démocratie?
 	- Oui-> Démocratie directe, dans certaines communes même les étrangers votent.
 		- Selon le baromètre démocratique la suisse et forte proche de l'idéal démocratique.
 	- Non-> Controle des lobbys, surreprésentation des riches, mineurs ne votent pas. ==Représentation proportionnelle qui bénéficient les minorités==**(surreprésentation)**
