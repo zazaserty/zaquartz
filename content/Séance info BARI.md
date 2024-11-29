@@ -42,5 +42,4 @@ https://mediaserver.unige.ch/
 ### Contact
 Site GSI->Contact
 
-#UNIGE 
-#Séance-INFO
+#UNIGE #Séance-INFO
