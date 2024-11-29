@@ -1,18 +1,31 @@
-# Quartz v4
+BARI UNIGE Notes Repository
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+    "Knowledge grows by sharing, not saving."
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+This repository hosts my BARI UNIGE notes, published as a website for easy access and collaboration. The website is built using Quartz and written in Obsidian, a powerful markdown-based note-taking app.
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+🔗 View the Notes Website: [https://zazaserty.github.io/zaquartz/]
+About This Repository
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+These notes cover topics from the BARI program at the University of Geneva (UNIGE). They are publicly available to:
 
-## Sponsors
+    Share Knowledge: Make academic resources accessible to fellow students and interested learners.
+    Encourage Collaboration: Contributions are welcome! Open an issue to suggest corrections or improvements. Verified updates will be reflected on the website.
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+Contributing
+
+Found an error or have suggestions? Here's how you can help:
+
+    Open an issue describing the problem or suggestion.
+    Submit corrections or improvements via a pull request.
+
+Your feedback will be reviewed, and any accepted changes will be published on the site.
+Tools Used
+
+    Obsidian: For writing and organizing the notes in markdown format.
+    Quartz: For publishing markdown files as a professional, web-accessible digital garden.
+
+Special thanks to the Quartz Community for their support and resources.
+License
+
+The content of this repository is licensed under the MIT license, unless otherwise noted.
