@@ -20,7 +20,5 @@
 - [[Séance 14,15-Intro à la politique suisse]]
 - [[Séance 16-Comportement politique]]
 - [[Séance 17-Analyse des politiques publiques]]
-- [[Séance ? Justice, égalité, liberté]]
-- [[Séance ? Est-ce que la suisse est une démocratie?]]
 
 #UNIGE #Introsciencepo #Plaque-tournante
