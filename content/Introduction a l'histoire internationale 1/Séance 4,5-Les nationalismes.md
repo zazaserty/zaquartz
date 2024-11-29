@@ -78,5 +78,4 @@ Le nationalisme n'est pas un phénomène uniquement européen.
 
 ==Il y a aussi le nationalisme en Afrique et en Asie, traité dans la prochaine séance==.
 
-#UNIGE 
-#IntroHistoireInternationale1 
+#UNIGE #IntroHistoireInternationale1 

@@ -185,5 +185,4 @@ Facteurs explicatifs?
 ### Exemple de question d'examen
 ![[Pasted image 20241122155522.png]]
 
-#UNIGE 
-#Introsciencepo 
+#UNIGE #Introsciencepo 

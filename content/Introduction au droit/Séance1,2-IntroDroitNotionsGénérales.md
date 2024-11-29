@@ -44,5 +44,4 @@ Les lois on existé même dans des sociétés très différentes de la notre. **
 ## Questions type examen
 ![[1726813282541.jpg]]
 
-#UNIGE 
-#IntroDroit
+#UNIGE #IntroDroit

@@ -165,5 +165,4 @@ L'ONU a fait des choses pendant cette période, mais beaucoup des thèmes import
 - **Crise des euromissiles (1977-1987)**:  
     → Déploiement de missiles soviétiques et américains en Europe, suivi par l'Accord de Washington (décembre 1987) et leur retrait.
 
-#UNIGE 
-#IntroHistoireInternationale1 
+#UNIGE #IntroHistoireInternationale1 

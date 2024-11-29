@@ -97,5 +97,4 @@ Les empires augmentent dans le commerce des métropoles dans l'entre-deux-guerre
 
 Les puissances ne peuvent pas lâcher les empires maintenant, elles dépendent d'eux pour surmonter la crise. Ceci aide aussi les économies des colonies évidemment.
 
-#UNIGE 
-#IntroHistoireInternationale1
+#UNIGE #IntroHistoireInternationale1

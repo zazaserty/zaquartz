@@ -137,5 +137,4 @@ CMoy=264 800/11.
 - **Rendements d’échelle constants**: propriété selon laquelle le coût moyen total de long terme ne varie pas lorsque la production augmente.
 	![[Pasted image 20241111130328.png]]
 
-#UNIGE 
-#IntroMicroéconomie 
+#UNIGE #IntroMicroéconomie 

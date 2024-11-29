@@ -100,5 +100,4 @@ La SDN est une tentative de réguler les RI par la création d'une entité supra
 - Les grands problèmes comme les réparations ne sont pas traités mais confiés à une commission extérieure à la SDN.
 - Les grandes puissances traitent les grands problèmes géopolitiques comme le traité des 9 puissances en dehors de la SDN.
 
-#UNIGE 
-#IntroHistoireInternationale1
+#UNIGE #IntroHistoireInternationale1

@@ -63,5 +63,4 @@ La carte montre la Grande Migration (1916-1930), où de nombreux Afro-Américain
 
 Ils émigrent à cause de la ségrégation raciale, mais aussi pour fuir la pauvreté. Ils font face à la même discrimination qu'avant le bannissement de l'esclavage. Il y a quand même des entreprises au nord qui les embauchent ce qui explique cette redistribution de la population noire.
 
-#UNIGE 
-#HESG 
+#UNIGE #HESG 

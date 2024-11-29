@@ -106,5 +106,4 @@ Et les Îles du Pacifique administrées par les USA au nom de l'ONU en 1947: Mar
 
 De nous jours, il reste aussi 17 territoires non encore autonomes selon le décompte de l'ONU.
 
-#UNIGE 
-#IntroHistoireInternationale1 
+#UNIGE #IntroHistoireInternationale1 

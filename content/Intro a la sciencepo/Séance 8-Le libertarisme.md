@@ -41,5 +41,4 @@ Selon le libertarianisme:
 - État minimal. Le rôle du gouvernement doit se limiter à la protection des droits individuels — à savoir assurer la sécurité et faire respecter les contrats.
 - Opposition à la redistribution : Aucune forme de redistribution des richesses par l'État n'est justifiée, car cela viole les droits individuels. La taxation à des fins autres que celles de l'État minimal (comme les programmes de protection sociale) est assimilée à du travail forcé et porte atteinte à la liberté personnelle.
 
-#UNIGE 
-#Introsciencepo 
+#UNIGE #Introsciencepo 

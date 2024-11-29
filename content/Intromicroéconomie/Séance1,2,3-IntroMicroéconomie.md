@@ -206,5 +206,4 @@ Bref, on doit faire gaffe parce qu'une relation de correlation n'implique pas un
 - Méthodes économétriques pour garantir que la causalité n'est pas qu'apparent. Ex: Causalité au sens de Granger.
 		- Si les prix du pétrole augmentent (variable A), on pourrait s'attendre à ce que les coûts de transport augmentent également après un certain temps (variable B).
 		- La causalité de Granger teste si connaître les valeurs passées de la variable A améliore les prévisions de la variable B par rapport à un modèle où on ne se base que sur les valeurs passées de B.
-#UNIGE 
-#IntroMicroéconomie
+#UNIGE #IntroMicroéconomie

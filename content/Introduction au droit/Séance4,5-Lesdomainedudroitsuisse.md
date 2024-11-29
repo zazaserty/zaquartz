@@ -100,5 +100,4 @@ Un État (en Suisse un canton par exemple) ne va jamais pouvoir refuser de ne pa
 Des fois il peut y avoir des discrépances, la loi international ne permet pas la discrimination entre hommes et femmes mais en la CH seul les hommes font le service militaire obligatoirement. Mais ceci n'est pas nécessairement en contre du droit international. C'est pour ça qu'on a des tribunaux comme la cour des Droits de l'Homme qui interprètent le droit international.
 ![[Pasted image 20240927094105.png]]
 
-#UNIGE 
-#IntroDroit 
+#UNIGE #IntroDroit 

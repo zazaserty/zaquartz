@@ -84,5 +84,4 @@ Il émane de la contestation de la logique de guerre froide et la dynamique hist
 ### Le non-alignement aujourd'hui
 120 pays qui représentent 55% de la population mondiale. C'est une influence en diminution depuis la fin de la guerre froide. Cependant la concurrence d'autres groupements (G20) est apparue. En plus, la raison d'être de ce mouvement est disparue.
 
-#UNIGE 
-#IntroHistoireInternationale1 
+#UNIGE #IntroHistoireInternationale1 

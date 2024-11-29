@@ -41,5 +41,4 @@ Ce qu'on observe dans la réalité, ce sont simplement des prix et des quantité
 - Lorsque le cours et les transactions vont *dans des sens opposés*, c'est l'inverse: l'offre se déplace plus que la demande.
 - Problème: les anticipations et les réserves influencent également le prix.
 
-#UNIGE 
-#IntroMicroéconomie 
+#UNIGE #IntroMicroéconomie 

@@ -265,5 +265,4 @@ Des concessions vont être faites pour des compagnies privés/semi-publiques pou
 
 Cette période coloniale dure environ 70 ans et finit en 1960.
 
-#UNIGE 
-#HESG 
+#UNIGE #HESG 

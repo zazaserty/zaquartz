@@ -23,6 +23,4 @@
 - [[Séance ? Justice, égalité, liberté]]
 - [[Séance ? Est-ce que la suisse est une démocratie?]]
 
-#UNIGE 
-#Introsciencepo 
-#Plaque-tournante
+#UNIGE #Introsciencepo #Plaque-tournante

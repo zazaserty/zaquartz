@@ -71,5 +71,4 @@ La fin du régime soviétique entraîne la fin du soutien de régimes alliés ho
 - En Corée du Nord: fin de l’aide financière.
 - La Chine devient la puissance majeure du monde communiste.
 
-#UNIGE 
-#IntroHistoireInternationale1 
+#UNIGE #IntroHistoireInternationale1 

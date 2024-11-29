@@ -15,5 +15,4 @@
 Ceci protège l'individu, qui est sans pouvoir face au tribunal et qui peut recevoir des conséquences très graves comme résultat d'un procès d'affaire pénales. On est plus dans le procès civil, les pires peines de notre société émanent des procès pénaux.
 ![[Pasted image 20241129092421.png]]
 
-#UNIGE 
-#IntroDroit 
+#UNIGE #IntroDroit 

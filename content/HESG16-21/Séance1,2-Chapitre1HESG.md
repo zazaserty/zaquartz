@@ -60,5 +60,4 @@ La moitié des enfants mouraient avant le premier an et la misère était centra
 - Les pauvres vont émigrer aux villes, celles ci vont devoir se protéger. **Exemple**: *Poor Laws* de GB: Aide aux pauvres pour avoir moins de mendiants dans les rues.
 - La pauvreté était aussi lié a la dette (genre peut être pas monétaire mas de la dette en matière par example), la creation d'un crédit général **aurait** aidé a sortir de cette misère. Selon Laurence Fontaine.
 
-#UNIGE 
-#HESG
+#UNIGE #HESG

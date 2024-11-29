@@ -78,5 +78,4 @@ L’élasticité-prix de l’offre s’obtient en divisant la différence en pou
 ![[Pasted image 20241018131717.png]]
 ![[Pasted image 20241018131730.png]]
 
-#UNIGE 
-#IntroMicroéconomie 
+#UNIGE #IntroMicroéconomie 

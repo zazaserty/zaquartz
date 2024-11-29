@@ -131,5 +131,4 @@ Dans ce cas, le coût marginal est nul? Que doit donc faire l'entreprise?
 ![[Pasted image 20241122124709.png]]
 ![[Pasted image 20241122124842.png]]
 
-#UNIGE 
-#IntroMicroéconomie 
+#UNIGE #IntroMicroéconomie 

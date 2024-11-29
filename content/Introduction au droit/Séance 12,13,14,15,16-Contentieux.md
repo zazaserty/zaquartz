@@ -172,5 +172,4 @@ MmeZ ne peut pas recourir.
 **Exemple de dispositif de contentieux administratif:**
 ![[Pasted image 20241129090104.png]]
 
-#UNIGE 
-#IntroDroit 
+#UNIGE #IntroDroit 

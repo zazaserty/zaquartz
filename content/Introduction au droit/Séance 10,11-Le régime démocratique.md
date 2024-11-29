@@ -170,5 +170,4 @@ Il y a des outils communs a tous les cantons:
 ![[Pasted image 20241031094352.png]]
 ![[Pasted image 20241031094404.png]]
 
-#UNIGE
-#IntroDroit 
+#UNIGE #IntroDroit 

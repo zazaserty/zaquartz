@@ -97,5 +97,4 @@ Mais: Très fort si le gouvernement est majoritairement composé d'un seul parti
 - La différence entre les systèmes de gouvernement présidentiel et parlementaire.
 - Les impacts sur la force des gouvernements.
 
-#UNIGE 
-#Introsciencepo 
+#UNIGE #Introsciencepo 

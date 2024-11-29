@@ -238,5 +238,4 @@ Il est impossible d'être un citoyen suisse sans appartenir à une commune. Les 
 - **Soutien de la Confédération**
     - **Art. 112c al. 2** : _La Confédération soutient les efforts déployés à l’échelle nationale en faveur des personnes âgées et des personnes handicapées. Elle peut utiliser à cette fin les ressources financières de l’assurance-vieillesse, survivants et invalidité._
 
-#UNIGE 
-#IntroDroit 
+#UNIGE #IntroDroit 

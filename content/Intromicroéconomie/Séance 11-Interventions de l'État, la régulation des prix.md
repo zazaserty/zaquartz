@@ -91,5 +91,4 @@ Des fois les États fixent des salaires minimum qui maintenant sont au-dessous d
 Il y a des gagnants et des perdants avec cette mesure. Peut-on les identifier et mesurer les gains et pertes sur le marché? Pour cela, on fait appel au concept de surplus des consommateurs et des producteurs.
 ![[Pasted image 20241021135910.png]]
 
-#UNIGE 
-#IntroMicroéconomie 
+#UNIGE #IntroMicroéconomie 

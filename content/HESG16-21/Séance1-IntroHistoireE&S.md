@@ -48,5 +48,4 @@ Les natifs n'étaient pas préparés aux patogénes des européens.
 - L'histoire économique est sociale. Un individu pèse moins que le collectif.
 - La vision de l'histoire économique comprendra le XVIème-nos jours dans ce cours.
 
-#UNIGE 
-#HESG
+#UNIGE #HESG

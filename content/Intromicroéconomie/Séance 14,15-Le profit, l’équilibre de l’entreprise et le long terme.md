@@ -112,5 +112,4 @@ Malgré tout il serait possible d'avoir un profit à long terme:
 - Par conséquent, la quantité sur le marché peut augmenter pour deux raisons distinctes: Les firmes existantes produisent davantage (marge intensive), des nouveaux entrants offrent une quantité supplémentaire sur le marché (marge extensive).
 ![[Pasted image 20241118124955.png]]
 
-#UNIGE 
-#IntroMicroéconomie 
+#UNIGE #IntroMicroéconomie 

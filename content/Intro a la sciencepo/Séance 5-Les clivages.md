@@ -49,5 +49,4 @@ Superposer vs entrecroiser. Selon Lijphart (1977):
 	- clivage mondialistes (souvent les gagnants) vs anti-mondialistes (souvent les perdants de la mondialisation)
 	- Il contribue à expliquer l'émergence des *partis anti-système* (identitaires et/ou souverainistes et/ou populistes)
 
-#UNIGE 
-#Introsciencepo 
+#UNIGE #Introsciencepo 

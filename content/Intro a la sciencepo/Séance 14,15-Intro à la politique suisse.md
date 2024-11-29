@@ -226,5 +226,4 @@ Tel que dans [[Séance 5-Les clivages]].
 	- Importance croissante du "vote d'enjeu": immigration/asile; climat.
 	- Polarisation.
 
-#Introsciencepo 
-#UNIGE 
+#Introsciencepo #UNIGE 

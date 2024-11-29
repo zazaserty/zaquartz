@@ -158,5 +158,4 @@ On est plus dans une société de statut hérité, on a des nouvelles aspiration
 #### Révolution du mod/e de vie
 Il y aura des critiques à ce mode de vie comme celle de Galbraight. Dans son ouvrage il critique la surabondance de biens privés et le manque de biens privés. Il y a des nouvelles formes de pauvreté dans une société opulente qui a les moyens de l'éviter et de créer des services publics (**ex**:USA). Il veut plus d'impôts pour redistribuer les revenus. Pour lui les services publics sont une manière de réduire l'inégalité.
 
-#UNIGE
-#HESG
+#UNIGE #HESG

@@ -74,5 +74,4 @@ Il ne vont pas conduire l'enquête sur le terrain, mais diriger par exemple les 
 
 L'objectif n'est pas de réussir à démontrer la culpabilité mais de comprendre la vérité.
 
-#UNIGE 
-#IntroDroit 
+#UNIGE #IntroDroit 

@@ -95,5 +95,4 @@ De manière analogue à l’impôt, la subvention génère une perte nette pour 
 - Les mêmes principes sur la répartition de la subvention et l’équivalent de la charge fiscale excédentaire s’appliquent au cas de la subvention.
 ![[Pasted image 20241101124115.png]]
 
-#UNIGE 
-#IntroMicroéconomie 
+#UNIGE #IntroMicroéconomie 

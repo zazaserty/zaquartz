@@ -38,5 +38,4 @@ Ce marriage tardif n'entraîne pas nécessairement la posibilité de célibat d�
 #### La mort omniprésente
 - Une forte mortalité infantile touche les familles, restant forte pendant toute l'enfance. Si une famille a 7 enfants, environ 4/5 survivent.
 
-#UNIGE 
-#HESG
+#UNIGE #HESG

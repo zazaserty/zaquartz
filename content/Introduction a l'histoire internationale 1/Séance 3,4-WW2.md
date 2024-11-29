@@ -100,5 +100,4 @@ Elles commencent dès le début de WW2, de 1941 à 1945:
 - Europe et Japon détruits et appauvris.
 - L'entrée dans l'ère nucléaire avec des armes capables de détruire l'Humanité.
 
-#UNIGE 
-#IntroHistoireInternationale1 
+#UNIGE #IntroHistoireInternationale1 

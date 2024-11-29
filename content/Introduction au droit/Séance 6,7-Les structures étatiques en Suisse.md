@@ -65,5 +65,4 @@ On trouve un cocktail du régime parlementaire et présidentiel. On accord un po
 
 **Exemple**: La France avec un président élu par le peuple donc avec une grande légitimité mais dépendant du parlement. Il peuvent être renversés par lui, par une motion de censure.
 
-#UNIGE 
-#IntroDroit 
+#UNIGE #IntroDroit 

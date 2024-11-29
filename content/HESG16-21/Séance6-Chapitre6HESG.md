@@ -78,5 +78,4 @@ Les médecins essaient d'utiliser les méthodes empiriques pour curer la cholér
 
 L'arrivée des pratiques asiatiques (charlatans) et exotiques pour curer la maladie ridiculise la médecine et empire la mortalité de la choléra.
 
-#UNIGE 
-#HESG 
+#UNIGE #HESG 

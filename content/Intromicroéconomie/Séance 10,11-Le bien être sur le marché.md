@@ -47,5 +47,5 @@ Corollaire: l'équilibre de marché concurrentiel maximise le surplus social, un
 ![[Pasted image 20241021123152.png]]
 #### L'optimum de Pareto
 C'est une allocation des ressources pour laquelle il est impossible d'améliorer le bien-être d'un individu sans détériorer celui d'au moins une personne. C'est assimilable au concept d'efficience (*absence de gaspillage*). Au sens de Pareto, l'amélioration apparaît quand au moins un individu voit son bien-être augmenté sans qu'aucun autre voit son bien-être réduit.
-#UNIGE 
-#IntroMicroéconomie 
+
+#UNIGE #IntroMicroéconomie 
