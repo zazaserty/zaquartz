@@ -14,8 +14,14 @@ export default ((opts?: Options) => {
     return (
       <footer class={`${displayClass ?? ""}`}>
         <p>
-          {i18n(cfg.locale).components.footer.createdWith}{" "}
-          <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a> © {year}
+          Réalisé par MPGA pour le BARI. Construit avec{" "}
+          <a href="https://quartz.jzhao.xyz/" target="_blank" rel="noopener noreferrer">
+            Quartz
+          </a>{" "}
+          et{" "}
+          <a href="https://obsidian.md/" target="_blank" rel="noopener noreferrer">
+            Obsidian
+          </a>.
         </p>
         <ul>
           {Object.entries(links).map(([text, link]) => (
@@ -31,3 +37,4 @@ export default ((opts?: Options) => {
   Footer.css = style
   return Footer
 }) satisfies QuartzComponentConstructor
+
