@@ -7,5 +7,4 @@
 - [[Introduction à l'histoire internationale 1]]
 - [[Introduction à la science politique]]
 
-#UNIGE
-#Plaque-tournante
+#UNIGE #Plaque-tournante
