@@ -92,9 +92,9 @@ La majorité de problèmes ne franchissent pas la barrière vers le problème so
 ![[Pasted image 20241129141850.png]]
 L'UDC a eue une croissance spectaculaire, surtout en 1992. A quoi ce doivent ces gains électoraux? À la mise en avant de certains sujets politique?
 ![[Pasted image 20241129142222.png]]
-Le tableau montre le changement des thèmes traités dans le manifestes électoraux de l'UDC. Petit à petit l'importance relative accordée aux enjeux politique change. Comme on a vu dans [[Séance 16-Comportement politique]] l'offre politique et le vote d'enjeu influence la comportement des électeurs.
+Le tableau montre le changement des thèmes traités dans le manifestes électoraux de l'UDC. Petit à petit l'importance relative accordée aux enjeux politiques change. Comme on a vu dans [[Séance 16-Comportement politique]] l'offre politique et le vote d'enjeu influencent le comportement des électeurs.
 ![[Pasted image 20241129142419.png]]
-L'UDC accorde de l'importance surtout à l'immigration. Il y a une différence entre l'ancienne UDC (parti agricole) et le grand parti de droite actuel. L'agriculture ne change pas trop, l'UDC reste agrarien à la base.
+L'UDC accorde de l'importance surtout à l'immigration. Il y a une différence entre l'ancienne UDC (parti agricole) et le grand parti de droite actuel. L'agriculture est toujours un thème traité, l'UDC reste agrarien à la base (il a un fort appuie dans l'ancienne classe moyenne-> agriculteur).
 #### Action
 La mise à l'agenda de ces problèmes va avoir plusieurs effets mais on doit aussi passer a l'action c'est pas seulement une question d'agenda:
 ![[Pasted image 20241129142728.png]]
@@ -113,9 +113,10 @@ Avant l'UDC ne passait pas par la démocratie directe. Jamais. Cependant mainten
 - Formule électorale gagnante.
 - Influence accrue sur l'agenda politique, surtout au travers de la démocratie directe
 - Mais avec des impacts limités en termes de pp.
+##### Causalité
 - Pour aller plus loin
 	- Analyse de l'agenda de tous les partis et des médias.
 	- Comparaison avec d'autres partis populistes de la droite radicale dans des systèmes parlementaires sans démocratie directe.
-	- Ceci nous permettrait de déterminer le sens de la causalité. Beaucoup des gens culpabilisent la démocratie directe mais c'est peut-être pas si simple.
+	- Ceci nous permettrait de déterminer le sens de la causalité. Beaucoup de gens culpabilisent la démocratie directe mais c'est peut-être pas si simple.
 
 #UNIGE #Introsciencepo 

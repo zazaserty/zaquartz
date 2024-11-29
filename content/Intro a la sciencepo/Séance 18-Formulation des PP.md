@@ -3,8 +3,8 @@
 ### Niveau fédéral
 #### La phase pré-parlementaire
 - Avant-projet de l'administration.
-- Commissions d'experts (commissions extra-parlementaires = "administration de milice": expertise et représentation).
-- On soumet le brouillon -> Consultation "interne" des offices et procédure de co-rapport.
+- Commissions d'experts (commissions extra-parlementaires = *administration de milice*: expertise et représentation).
+- On soumet le brouillon -> Consultation *interne* des offices et procédure de co-rapport.
 - Procédure de consultation externe (qualité technique, acceptabilité politique, applicabilité). On consulte les groupes d'intérêt ou *lobbies*, surtout s'ils pourraient contrer la pp avec un référendum.
 - Message du Conseil fédéral (Gouvernement) à l'Assemblée fédérale (Parlement).
 	- Le projet est transmis au parlement.
@@ -18,19 +18,20 @@
 #### La phase référendaire (référendum obligatoire ou facultatif: vote populaire)
 50 000 citoyen.ne.s ne sont pas d'accord et on vote. Si ils ont des moyens et ils sont beaucoup ils ont du pouvoir pour faire une campagne et annuler la loi, ils est important dans le processus de décision de tenir ceci en compte.
 
-NB. Hypothèse de Neidhart (1970): inclusion en amont des acteurs à "capacité référendaire" (dès la phase pré-parlementaire).
-**Nombre de lois**
+L'hypothèse de Neidhart (1970) suggère que, dans un système démocratique où les référendums sont possibles, les groupes ou acteurs qui ont la capacité d'organiser un référendum (acteurs à "capacité référendaire") doivent être inclus très tôt dans le processus législatif, dès la phase pré-parlementaire. Cela permet d'éviter qu'ils bloquent les décisions politiques en lançant un référendum contre la loi. Cette inclusion favorise donc un compromis avant même que le projet de loi n'arrive au parlement.
+
+**Nombre de lois et durée**
 ![[Pasted image 20241129152030.png]]
 La phase pré-parlementaire est de long la plus longue puisqu'on essaye d'éviter son annulation. La durée moyenne du processus est d'environ 5 ans et la moitié des processus durent 3-4 ans.
 #### Phases les plus importantes (%)
 ![[Pasted image 20241129152612.png]]
 On observe que le processus pré-parlementaire est très important (61-78%).
 ### Groupes d'intérêt
-Il y a un mythe populaire où il paraît que le gouvernement est une poupée qui est contrôlée par les lobbies à travers l'argent.
+Il y a un mythe populaire où il paraît que le gouvernement est une poupée qui est contrôlée par les lobbies à travers l'argent. Est-ce que ceci est vrai?
 ![[Pasted image 20241129153223.png]]
 ![[Pasted image 20241129153238.png]]
 #### Caractéristiques
-- Organisation avec structure pérenne (vs NMS).
+- Organisation avec structure pérenne (vs NMS->Nouveaux mouvements sociaux).
 - Composée de membres individuels ou collectifs (vs entreprises).
 - Qui cherche à influencer les processus politiques.
 - Mais sans assumer de mandat électif (vs partis politiques).
@@ -39,17 +40,18 @@ Il y a un mythe populaire où il paraît que le gouvernement est une poupée qui
 ![[Pasted image 20241129153532.png]]
 #### Opinion publique
 ![[Pasted image 20241129153957.png]]
-Aux yeux du peuple on penserait que les lobbies sont les acteurs les plus importants. Ceci est dû à une tradition helvétique:
+Aux yeux du peuple on penserait que les lobbies sont les acteurs les plus importants. Ceci est dû à une tradition helvétique.
 ##### Tradition néolibérale
-1. Faiblesse de l'État fédéral et des partis politiques et organisation précoce des associations économiques.
+1. Faiblesse de l'État fédéral et des partis politiques et organisation précoce des associations économiques. L'État fédéral est très *jeune* par rapport aux cantons et même à la CH.
 2. Importance des associations économiques dans la régulation sociale et économique et dans le processus de décision.
-3. Impact de la démocratie (référendum) dans l'intégration des acteurs à capacité référendaire (CEP et consultation).
+3. Impact de la démocratie (référendum) dans l'intégration des acteurs à capacité référendaire (CEP(->Commission d'experts préparatoires) et consultation).
 4. Ressources des groupes d'intérêt économiques supérieures à celles des partis politiques.
 
-Les grandes associations économiques sont les acteurs dominants du processus de décision, dont le centre de gravité se situe dans la phase pré-parlementaire, le Parlement ne faisant que ratifier les compromis de la PPP.
+Les grandes associations économiques sont les acteurs dominants du processus de décision, dont le centre de gravité se situe dans la phase pré-parlementaire, le Parlement ne faisant que ratifier les compromis de la PPP->Phase pre-parlementaire.
 #### La *Quiet politics*
 Selon le directeur de Vorort en 1963:
-![[Pasted image 20241129154554.png]]
+![[Pasted image 20241129154554.png]] 
+*Nous devons respecter les règles du jeu démocratique et ne devrions pas donner l'impression, à l'extérieur, que nous voulons exercer une influence massive sur les affaires parlementaires. Notre influence à Berne est plus grande lorsque nous restons discrets en arrière-plan et lorsque l'on ne parle pas trop de nous. À mon avis, la méthode actuelle du Vorort s'est avérée très efficace.*
 ### Stratégies des groupes d'intérêt
 ![[Pasted image 20241129154653.png]]
 #### Phase pré-parlementaire
