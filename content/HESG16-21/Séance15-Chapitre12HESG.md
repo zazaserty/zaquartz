@@ -31,22 +31,22 @@ Le livre de Taylor es publié en 1911 mais la diffusion du taylorisme arrive bie
 Cet objectif d'accroître la production est la base du productivisme.
 
 Les ouvriers considèrent le superviseur un traître.
-#### USA
+##### USA
 En USA ceci est plus accepté qu'en Europe, puisque les ouvriers étasuniens avaient moins de pouvoir.
-#### Guerre
+##### Guerre
 La WW1 va aider à accepter le nouvel ordre, le patriotisme aide les travailleurs à le supporter.
 
 Le taylorisme va quand même progresser après la guerre, avec la retransformation des entreprises à leur rôles originaux. 
 #### Michelin
 Michelin va être pionnière, avec l'implementation du taylorisme mais aussi une boîte à suggestions, Il y a une applications des idées des ouvriers ce qui leur attache à l'entreprise d'une manière pédagogique. C'est un investissement de la part de Michelin.
 ### Fordisme
-C'est pas les ouvriers qui bougent mais les produits. Son nom provient de la voiture Ford, avec des pièces simples qui a utilisé et innové avec cette manière de production.
+C'est pas les ouvriers qui bougent mais les produits. Son nom provient de la voiture Ford, faite avec des pièces simples qui permettaient l'innovation avec cette manière de production.
 
 Un produit standardisée est acheminée vers l'ouvrier dont les ingénieurs décident la cadence de ces mouvements. On fait même plus d'économies dans le gaspillage de temps et d'argent. Ceci permet d'augmenter les salaires et commencer la consommation de masse.
 
 On supprime les tâches de déplacement et on fait des équipes (jour, soir) pour que la chaîne de production ne cesse jamais. On standardise les pièces donc on a plus besoin d'ajusteurs pour celles ci, ce qui augmente l'efficience. Il y a une diversité apparente (différence dans la couleur des voitures) mais les processus sont toujours les mêmes.
 
-On légalise la durée des produits (obsolescence programmée) pour les renouveler à l'intérêt de l'entreprise.
+Finalement, on légalise la durée des produits (obsolescence programmée) pour les renouveler à l'intérêt de l'entreprise.
 #### Consommation
 La consommation va aider à l'acceptation du modèle et à l'obtention de la qualité de vie moderne. Mais il attire aussi de la main d'oeuvre, ce qui permet de remplacer les employés qui travaillent mal. Ford payait 5$/jour et les autres 2 ou 3 au maximum.
 

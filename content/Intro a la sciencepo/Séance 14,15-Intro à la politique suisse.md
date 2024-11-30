@@ -2,7 +2,9 @@
 ### Elections Fédérales 2023
 #### Forces des partis au Conseil National (% des suffrages)
 ![[Pasted image 20241112122304.png]]
-Après la WW2, la Suisse est réputée par sa stabilité, mais à partir des années 1990 les choses changent. Avant faire sa montée en popularité l'UDC c'était juste un parti *junior*. Le parti vert a aussi connu un score historique en 2015.
+
+Après la WW2, la Suisse est réputée par sa stabilité, mais à partir des années 1990 les choses changent. Avant de faire sa montée en popularité l'UDC c'était juste un parti *junior*. Le parti vert a aussi connu un score historique en 2015.
+
 ![[Pasted image 20241112122637.png]]
 L'évolution entre 2019 et 2023 est le miroir de celle de 2015 à 2019. Les partis reculent et avancent après.
 ![[Pasted image 20241112122811.png]]
@@ -14,7 +16,7 @@ On a un système triparti, avec plus ou moins la même force politique pour chaq
 ### Le système de gouvernement
 La chambre du peuple avec 200 sièges (conseil national):
 ![[Pasted image 20241112123519.png]]
-La chambre des cantons (conseil des états) avec 46 sièges dont un par canton sauf les demi-cantons:
+La chambre des cantons (conseil des états) avec 46 sièges, deux par canton sauf das le cas des demi-cantons:
 ![[Pasted image 20241112123550.png]]
 On élit les conseillers fédéraux dans le conseil national où ils doivent prêter serment à la CH:
 ![[Pasted image 20241112123638.png]]
@@ -31,18 +33,18 @@ Comment est le gouvernement élu? Quel est le rapport parlement-exécutif? Quel 
 **Exemple-type**: Grande-Bretagne
 ###### Système présidentiel
 - Élection du/de la président-e par le peuple
-- Concentration des pouvoirs exécutifs dans les mains du/de la président-e (Chef/fe de l'Etat, du gouvernement, de la diplomatie et des forces armées)
-- Indépendance mutuelle entre président-e et parlement (l'un-e ne peut pas destituer l'autre – sauf en cas de procédure de type *impeachment*)
+- Concentration des pouvoirs exécutifs dans les mains du président (Chef de l'État, du gouvernement, de la diplomatie et des forces armées)
+- Indépendance mutuelle entre président et parlement (l'un ne peut pas destituer l'autre, sauf en cas de procédure de type *impeachment*)
 	- Séparation des pouvoirs législatif et exécutif (*checks and balances*)
-**Exemple-type**: Etats-Unis (élection du président par le peuple via le collège électoral – "grands électeurs"
+**Exemple-type**: Etats-Unis (élection du président par le peuple via le collège électoral -> *grands électeurs*)
 #### Contexte institutionnel: système de gouvernement suisse
-Notre système est un mix entre le présidentiel et le parlementaire, il est la partie la plus originale de la CH et ne ressemble à rien à celui des autres pays.
+Notre système est un mix entre le présidentiel et le parlementaire, il est la partie la plus originale de la CH et ne ressemble en rien à celui des autres pays.
 ##### Cas hybride
 On est proche du système parlementaire du point de vue du mode d'élection (élection indirecte du gouvernement par l'Assemblée fédérale). Le peuple n'élit pas l'exécutif. Cependant on se rapproche du présidentiel du point de vue des rapports gouvernement-parlement (indépendance mutuelle).
 ##### Cas particulier
 **Concordance**: partage du pouvoir exécutif entre les principaux partis. Conseil fédéral en tant que *collège*, un système directorial qui assure le pouvoir égal des 7 membres et principe de collégialité. C'est la **non-hiérarchisation**. La collégialité assure que une fois une décision prise tout le conseil doit la défendre.
 ##### Conséquences
-Election indirecte du gouvernement + concordance. Les citoyen-nes ont peu d'impact, via les élections parlementaires, sur la composition du gouvernement.
+Election indirecte du gouvernement + concordance. Les citoyens ont peu d'impact, via les élections parlementaires, sur la composition du gouvernement.
 ###### **Composition du CF**
 ![[Pasted image 20241112125550.png]]
 Les partis se mettent d'accord, la répartition des sièges ne dépend pas de la couleur du parlement.
@@ -144,7 +146,7 @@ Il y existe un bicaméralisme parfait (ou intégral):
 		![[Pasted image 20241115142955.png]]
 #### Mode de scrutin
 Le mode de distribution des sièges entre les partis est aussi influencé par cette structure. C'est les règles qui traduisent les suffrages en sièges et comment on les distribue entre les partis:
-- Il y a deux grands types de système electoral:
+- Il y a deux grands types de système électoral:
 	- Le majoritaire: le parti ou candidat ayant obtenu la majorité absolue ou le parti ou candidat ayant obtenu plus de voix que les autres emporte l'élection.
 	- Proportionnel: les sièges sont attribués proportionnellement au vote ce qui représente plus fidèlement les votes des electeurs.
 ##### Loi de Duverger
