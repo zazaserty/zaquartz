@@ -16,11 +16,17 @@ On a un système triparti, avec plus ou moins la même force politique pour chaq
 ### Le système de gouvernement
 La chambre du peuple avec 200 sièges (conseil national):
 ![[Pasted image 20241112123519.png]]
+
 La chambre des cantons (conseil des états) avec 46 sièges, deux par canton sauf das le cas des demi-cantons:
+
 ![[Pasted image 20241112123550.png]]
+
 On élit les conseillers fédéraux dans le conseil national où ils doivent prêter serment à la CH:
+
 ![[Pasted image 20241112123638.png]]
+
 Ils travaillent dans un collège de 7 et se réunissent, ils sont l’exécutif:
+
 ![[Pasted image 20241112123712.png]]
 #### Critères pour déterminer le régime
 Comment est le gouvernement élu? Quel est le rapport parlement-exécutif? Quel est le degré de séparation des pouvoirs?
