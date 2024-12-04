@@ -83,5 +83,59 @@ Les lobbies sont ici aussi importants, ils le lancent et financent. Avoir plus d
 **Financement de la campagne pour les autoroutes**
 ![[Pasted image 20241129155835.png]]
 Inconnu= ils ont pas dépensé suffisant pour apparaître.
+### Résumé sur les GI
+- Augmentation de l’accès des GI public à l’administration et au parlement, mais on doit nuancer selon les domaines de politiques publiques.
+- L’accès des GI public relatif à celui des associations économiques reste stable au parlement tandis qu’il augmente dans l’administration.
+- MAIS, il reste malgré tout un "biais" en faveur des associations économiques.
+### Choix des instruments comme enjeu central de la formulation 
+C'est le choix des outils qu'on va utiliser pour changer le comportement du groupe cible d'une PP. Très important dans la phase de formulation. Pour Max Weber, l'État a le monopole de la contrainte (violence légitime). Le **continuum du degré de contrainte** décrit une échelle graduelle qui va des interventions étatiques les moins contraignantes aux plus contraignantes:
+1. **Auto-régulation** (*gentlemen agreements*):
+	- L'État ne légifère pas directement mais encourage des accords volontaires entre les parties concernées.
+	- **Exemples**: accords contre le blanchiment d'argent en profitant du secret bancaire en Suisse. On encourage les banquiers a se mettre d'accord pour lutter contre ceci.
+2. **Information/Persuasion**:
+	- L'État sensibilise ou informe pour changer les comportements, sans coercition.
+	- **Exemples**: Campagnes de prévention contre le tabac, l'alcool ou le SIDA.
+3. **Incitations positives**:
+	- Utilisation de subventions ou avantages financiers pour encourager des comportements spécifiques.
+	- **Exemples**: aides aux agriculteurs ou bourses d'études.
+4. **Incitations négatives**:
+	- Introduction de taxes ou changes pour décourager certains comportements.
+	- **Exemples**: taxe carbone ou centime climatique.
+5. **Prescriptions** (autorisation/interdiction):
+	- L'État impose des règles strictes ou interdit certains pratiques.
+	- **Exemples**: permis de construire, interdictions (chiens dangereux).
+6. **Étatisation/Sanction**:
+	- L'État intervient directement, via nationalisation ou sanctions pénales
+	- **Exemples**: nationalisation des industries stratégiques, peines de prison, peine de mort.
+### **Exemple**: politique de promotion de l'efficacité énergétique
+![[Pasted image 20241203123400.png]]
+#### Fukushima (*focusing event*->événement focalisant)-DETEC 2011
+![[Pasted image 20241203123633.png]]
+#### Problème public à resoudre: *Energy Efficiency Gap*
+Les appareils électroménagers (lave vaisselle, lave linge, frigos, TV, stéréo, ampoules, etc.) et les équipement bureautiques (ordinateurs, photocopieuses, projecteurs et écrans divers, etc.) consomment souvent beaucoup (trop) d'énergie pour fournir leurs services.
+
+Des innovations technologiques sont possibles/disponibles pour améliorer l'efficacité énergétique de ces appareils et équipements. Ce qui permettrait de réduire les coûts pour les acheteurs/consommateurs et pour la société dans sa globalité.
+
+Néanmoins, le marché de ces appareils et équipement ne se transforme pas et les appareils et équipement les plus efficients d'un point de vue énergétique ne sont pas les plus utilisés. D'où un fossé entre le potentiel technique et économique d'économie d'énergie et la réalité (*energy efficiency gap*->utilisation sous-optimale de l'énergie).
+##### Formulation de la politique d'efficacité énergétique
+###### **Quels groupes-cibles viser avec quels instruments?**
+- Étiquette, label de qualité, campagne info pour les consommateurs.
+	- Peu de pays ont avancé au delà de cet instrument.
+		![[Pasted image 20241203124357.png]]
+- Système de bonus-malus pour les acheteurs.
+	- Les appareils plus efficients sont plus élevés, ce qui n'incite pas. On devrait subventionner les appareils les plus efficients.
+- Formation pour les distributeurs/vendeurs.
+	- Comme ça on pourrait mieux informer les consommateurs.
+- Valeurs cibles volontaires ou normes contraignantes pour les producteurs.
+	- On a fixé des normes, avant les produits étaient bien moins efficients. On interdit un certain degré d'inefficience.
+- Soutien à R&D, *technology procurement* (achats publics) pour les pionniers.
+	- Aux EU l'État achète selon l'efficience du produit.
+- Facture détaillée pour les entreprises électriques.
+#### Loi du parlement-2016
+Deux ans après Fukushima, le parlement finit le processus de navette:
+![[Pasted image 20241203124817.png]]
+Il est facile de trouver une combinaison des instruments mais pas de les faire accepter:
+![[Pasted image 20241203125131.png]]
+![[Pasted image 20241203125143.png]]
 
 #UNIGE #Introsciencepo 

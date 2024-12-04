@@ -1,6 +1,6 @@
 ## Grands flux migratoires
 ### Qui, quand et pourquoi?
-Des flux migratoires apparaissent depuis l'Europe même si la vie était meilleure. Elle avait toujours été un continent de migration et maintenant l'Atlantique est le cœur de mouvement migratoire puisque les nouveaux transports facilitent transporter les personnes. Ceci permet aussi de rentabiliser les transports de biens. On pouvait juste aller à travers la mer à cette époque. Au XIXème le plus grand flux migratoire apparaît, envers l'Amérique.
+Des flux migratoires apparaissent depuis l'Europe même si la vie était maintenant meilleure. Elle avait toujours été un continent de migration et maintenant l'Atlantique est le cœur de mouvement migratoire puisque les nouveaux transports facilitent transporter les personnes. Ceci permet aussi de rentabiliser les transports de biens. On pouvait juste aller à travers la mer à cette époque. Au XIXème le plus grand flux migratoire apparaît, envers l'Amérique.
 
 Les problèmes (famines, épidémies) représentent des chocs pour la classe populaire et débouchent dans des migrations. Les travailleurs non qualifiés bougent constamment. Le recensement était imparfait, mais on dispose de divers chiffres qui montrent l'hausse.
 ### Systèmes et vagues migratoires
@@ -12,7 +12,7 @@ Les immigrations annuelles augmentent considérablement.
 ![[Pasted image 20241017125529.png]]
 On peut observer comment la GB est la première dans ce classement. Pendant cette période les USA n'ont pas mis de limite à l'immigration, il y avait quand même des clandestins et les chiffres pourraient être plus grands.
 
-Il y a aussi une grand immigration du Mexique, et vers la Californie des Chinois. Le phénomène n'est pas européen exclusivement
+Il y a aussi une grand immigration du Mexique, et vers la Californie de la part des Chinois. Le phénomène n'est pas européen exclusivement
 ### Les facteurs
 L'amélioration des transports comme expliqué au debut de ces notes. Mais aussi:
 #### La transition démographique
@@ -43,21 +43,22 @@ Des pays comme l'Irlande avec sa grande famine, ont perdu une grande partie de l
 
 La croissance économique des pays d'émigration est bloquée par ce phénomène, des nouveaux liens vont devoir être trouvés. Les pays d'arrivée perçoivent un effet positif sur leur économie, ils ont maintenant une main d'oeuvre bien plus grande. Mais ces nouveaux migrants acceptaient des salaires inférieurs ce qui augmentait le chômages chez les natifs non-qualifiés et diminuait leur salaire.
 ### L'expérience des USA
+#### Melting pot
 Les USA deviennent un *melting pot* sociologique, des différentes cultures commencent à s'assimiler dans le même pays. Peu à peu ils ont changés leur coutumes pour ceux des autochtones. Au fur et à mesure du temps on pouvait pas distinguer les immigrants des colons. La raison pour laquelle ceci a marché si bien c'est à cause de la *american way of life* qui a unifié la société dans un rêve de société de la consommation.
-
+#### Domination des WASP
 Ces colons, *les pilgrims*, sont le cœur de la société américaine et la référence pour les nouveaux venus.
 
 L'Amérique va aussi voir l'émergence de l'esclavage et une fermeture éventuelle à l'immigration. Les WASP (anciens colons) dominent le pays et finalement en 1960 on élu président le premier non-WASP. Dans les années 1880 l'Italie et l'Europe de l'est émigre aux USA, avant c'était juste l'Irlande et l'Angleterre. La communauté d'immigrés est très segmentée: on a des ghettos urbains avec une forte ségrégation.
-
+#### Permanence des flux
 Le flux migratoire peut continuer indépendamment des causes. Même si la situation entre pays d'immigration et d'émigration se stabilisent le réseau d'accueil et la facilité pour trouver du travail permet que ce flux ne soit pas bloqué. De nos jours, on a toujours un flux (llégale) de l'Amérique latine envers l'USA.
-
+#### Inégalités
 Les marchés comme celui de l'immobilier reproduisent les inégalités originelles. **Exemple**: Les italiens vont s'installer dans une partie spécifique de Manhattan où ils vont faire des marchés ambulants, des épiceries, etc. Les italiens font face à une forte discrimination ce qui va leur confiner à certaines expectatives. Ceci va déboucher dans la création des communautés et d'un fort lien entre les immigrés italiens et leur Italie originelle (qui n'existe pas pour le moment).
 
-Les anciens migrants vont réussir dans la société américaine, mais les immigrants ultérieurs vont avoir des problèmes (même avec les communautés d'accueil). Le bas salaire débouchant de l'immigration à causé une inégalité sociale plus grande.
-
+Les anciens migrants vont réussir dans la société américaine, mais les immigrants ultérieurs vont avoir des problèmes (même avec les communautés d'accueil). Le bas salaire débouchant de l'immigration a causé une inégalité sociale plus grande.
+#### Fermeture
 La société américaine se ferme vers le début du XXème. Il y a beaucoup de conflicts sociales, les bas salaires ne permettent pas aux immigrants de s'installer. Les chemins de fers et autres sont déjà établis, on n'a pas ce dynamisme original du début de l'immigration. On n'a pas l'industrie pour accueillir plus de migrants et les USA se ferment. Par **exemple**: en Californie une xénophobie contre les asiatiques apparaît. Ce nativisme perçoit les migrants comme un fléau qui n'est plus accueilli, même avec ses avantages. L'immigration asiatique est interdite. Pour la première fois, les USA instaurent les lois des quotas (1924).
 ![[Pasted image 20241023104414.png]]
-
+#### La Grande Migration, l'émigration interne des USA
 ![[Pasted image 20241023104507.png]]
 La carte montre la Grande Migration (1916-1930), où de nombreux Afro-Américains ont quitté le Sud des États-Unis pour s'installer dans les villes industrielles du Nord et de l'Ouest, fuyant la ségrégation et cherchant de meilleures opportunités économiques. Les principales destinations incluent Chicago, New York, et Los Angeles.
 

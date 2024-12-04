@@ -69,6 +69,6 @@
 La fin du régime soviétique entraîne la fin du soutien de régimes alliés hors d’Europe:
 - A Cuba: fin des relations commerciales privilégiées entre l’URSS et Cuba (L’URSS achetait auparavant plus de 80% du sucre cubain) et crise économique dans l’île.
 - En Corée du Nord: fin de l’aide financière.
-- La Chine devient la puissance majeure du monde communiste.
+- La Chine devient la puissance majeure du monde communiste à partir des années 1970-80 après commencer sa montée en 1950-60.
 
 #UNIGE #IntroHistoireInternationale1 

@@ -14,7 +14,7 @@ Selon John Rawls, la justice est la première vertu des institutions sociales co
 - Conception de la société comme un système de coopération mutuellement bénéfique.
 - Une société bien ordonnée.
 - Une société régie par une conception publique de la justice.
-- Chacun accepte et sait que les autres acceptent également les mêmes principes de justice.
+	- Chacun accepte et sait que les autres acceptent également les mêmes principes de justice.
 - Les institutions sociales respectent et sont reconnues pour respecter ces principes.
 #### Comment réfléchir aux principes qui devraient régir une société juste?
 Imaginez que nous nous réunissions, tels que nous sommes, pour déterminer les principes d'après lesquels gouverner notre vie collective - pour rédiger, autrement dit, un contrat social. Quels principes choisirions- nous? Nous aurions probablement du mal à nous entendre. Les gens, étant différents, privilégieront des principes distincts, correspondant aux divers intérêts, croyances morales et religieuses qui sont les leurs, ainsi qu'à leur position sociale. Certains sont riches, d'autres sont pauvres; certains ont du pouvoir et des réseaux, d'autres nettement moins; certains appartiennent à des minorités ethniques ou religieuses, d'autres non. Nous pourrions parvenir à un compromis. Mais même ce compromis refléterait probablement le pouvoir de négociation supérieur de certains. Il n'y a pas de raison de croire que nous parviendrions de cette façon à un contrat social juste.

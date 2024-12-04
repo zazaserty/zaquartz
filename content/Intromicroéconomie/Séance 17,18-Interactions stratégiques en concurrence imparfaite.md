@@ -98,5 +98,51 @@ Lorsque les firmes en oligopole choisissent individuellement la production qui m
 - Il peut également être l’objet d’une incertitude si on adopte une certaine stratégie avec une probabilité et une autre avec une autre probabilité (Cf. jeu de poker).
 - Importance du choix de stratégies crédibles.
 - Ici: approche très sommaire de la théorie des jeux, qui fait appel à des notions mathématiques parfois très poussées.
+#### Dans l'oligopole
+- Chaque entreprise est un joueur qui maximise son profit (gain du jeu).
+- Chaque entreprise sait que l’action des autres peut affecter son profit ou gain.
+- Particularité absente de la concurrence parfaite et du monopole. En concurrence parfaite, l’entreprise peut être vue comme jouant *contre le marché*, et en monopole, *contre la demande*.
+### Équilibre de Nash
+- John F. Nash (1951) a donné une caractérisation de l’équilibre dans la théorie des jeux non-coopératifs, qui lui a valu le prix Nobel en 1994.
+- Principe: l’équilibre non coopératif de Nash est atteint avec un ensemble de stratégies, lorsque, pour tout joueur, la meilleure stratégie est choisie en considérant les stratégies des autres comme données.
+- C’est un équilibre, car aucun participant n’est incité à changer de stratégie.
+- Remarque: Cet équilibre peut être sous-optimal pour tous les participants!
+#### Matrice de gains/pertes
+Il est courant de recourir à des tableaux ou matrices de gains en théorie des jeux, qui synthétisent les résultats pour chaque joueur en fonction des stratégies adoptées. La notation est la suivante:
+![[Pasted image 20241202123607.png]]
+Le terme de gauche dans chaque cellule (en gras) indique le gain de A et celui à droite (en italique) celui de B, en fonction des stratégies choisies respectivement par A (en ligne) et B (en colonne).
+#### Le Dilemme du Prisonnier
+- Le dilemme du prisonnier illustre le fait que la coopération est difficile à maintenir.
+- Souvent les individus (firmes) ne parviennent pas à coopérer les uns avec les autres même si la coopération est mutuellement avantageuse.
+- **Le dilemme du prisonnier**:
+	- Deux suspects sont arrêtés et mis dans des cellules séparées.
+	- Impossibilité de communiquer entre eux.
+	- Preuves insuffisantes en l’état, mais l’aveu d’un des deux prisonniers constitue une preuve suffisante de condamnation pour la justice, même si l’autre persiste à nier.
+	- L’information que les prisonniers connaissent:
+		- Si aucun n’avoue, ils doivent purger une peine mineure (1 an de prison);
+		- Si les deux avouent, ils écopent tous deux de la peine prévue pour le délit (8 ans de prison);
+		- Si un prisonnier avoue, il bénéficie d’une mesure de clémence et est immédiatement relâché. L’autre purge une peine plus grave que celle du délit pour obstruction à la justice (20 ans de prison). 
+		- Ici, le jeu est symétrique, mais ce n’est pas nécessairement le cas.
+		![[Pasted image 20241202124259.png]]
+		- Le nombre de gauche (en gras) dans chaque cellule indique la peine infligée à Brute et le nombre de droite (en italique) celle infligée à Truand. La cellule reflète les stratégies choisies par Brute et Truand.
+### Duopole comme dilemme du prisonnier
+- La stratégie dominante est une stratégie qui est la meilleure pour un joueur, quelle que soit la stratégie jouée par les autres joueurs.
+- La coopération est difficile à maintenir car la coopération n’est pas une chose rationnelle au niveau individuel.
+- Tout comme la logique de l’intérêt individuel conduit les prisonniers à avouer, ce même intérêt individuel engendre des difficultés pour l’oligopole à maintenir une situation coopérative, avec une production faible, des prix élevés et des profits de monopole.
+- Avec le passage du temps, on peut envisager la coopération comme plus stable, car les duopoleurs se rendent compte des profits auxquels ils renoncent en trichant.
+- Lorsque Gilles triche, Jacqueline peut le *punir* par la cessation immédiate de la coopération et le retour à l’équilibre non-coopératif.
+- Gilles se rend compte qu’il a gagné un profit de triche de court terme mais perdu tous les profits de monopole futur...
+- La répétition du jeu sans date de fin, ou une incertitude permet d’assurer un équilibre coopératif.
+	![[Pasted image 20241202125813.png]]
+- Le nombre de gauche (en gras) dans chaque cellule indique le profit de Gilles et le nombre de droite (en italique) celui de Jacqueline. La cellule reflète les stratégies choisies par Gilles et Jacqueline.
+### Jeu de publicité sans stratégie dominante
+![[Pasted image 20241202132426.png]]
+Le nombre de gauche (en gras) dans chaque cellule indique le profit d’AcquaBon et le nombre de droite (en italique) celui d’EauVive. La cellule reflète les stratégies choisies par AcquaBon et EauVive. Il y a deux équilibres de Nash dans ce jeu.
+### L'oligopole et le rôle de l'État
+- La coopération entre les membres de l’oligopole est désirable du point de vue des entreprises du secteur en question uniquement!
+- Pour la la société dans son ensemble, l’oligopole est indésirable car il conduit à une production trop basse et à des prix trop élevés.
+- La plupart des pays s’équipent d’un appareil législatif visant à empêcher les enfreintes à la concurrence par des cartels ou des ententes sur les prix.
+- Certaines lois sont plus souples que d’autres selon le pays.
+- Les économistes ne sont pas toujours unanimes sur la manière de juger les restrictions à la concurrence, et la nécessité de légiférer contre certaines pratiques.
 
 #UNIGE #IntroMicroéconomie 

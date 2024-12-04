@@ -6,7 +6,7 @@ La RI c'est une série de révolutions qui marquent la transition d'une économi
 #### Enchaînement technique et économique
 Il y a 3 secteurs fondateurs, qui mettent en place les changements qui débouchent dans la RI:
 ##### Textile
-Grande tradition anglaise d'industrie de la laine, cotton, tissu, etc. L’existence de blocages dans la production on causé l'innovation et ces changements si importants. Ceci sera aussi aceleré par le désir de réduire les coûts de production.
+Grande tradition anglaise d'industrie de la laine, cotton, tissu, etc. L’existence de blocages dans la production ont causé l'innovation et ces changements si importants. Ceci sera aussi aceleré par le désir de réduire les coûts de production.
 
 On commence par le filage, en prenant une matière brute (laine par exemple) et hétérogène a partir de laquelle on obtient des fils. Ce filage exige le travail de plusieurs personnes, normalement ceci se faisait en famille avec l'aide des enfants et les femmes. Après on tisse, pour faire des biens plus complexes. Et c'est le tissage ce qui origine la première innovation. En 1733 J. Kay invente une manière de tisser plus rapide (navette volante). Cependant le filage est toujours primitif et suppose un cou de bouteille. Donc on fait une deuxième innovation! La spinning jenny est inventée par J. Hargreaves en 1764, en débloquant la production du fil aussi.
 
@@ -30,7 +30,7 @@ Il y a aussi un besoin de baisser les salaires pour baisser les coûts et donc l
 
 L'invention se nourrit d'elle même accélérant le rythme de creation technologique, maintenant il y a une volonté de faire face a tous les blocages de la production et aux nouvelles contraintes que cela génère.
 ### Le factory system
-On va regrouper les gents pour les surveiller, avec des horaires fixes. Les contraintes commence a peser sur les ouvriers. Tant que l'employeur ne mets pas la machine en pause ils travaillent. Un nouveau rapport du temps, on peut pas arrêter de travailler a notre guise. Le paysan lui il dépend du cycle solaire, mais ceci n'est pas du tout le rythme d'une usine.
+On va regrouper les gents pour les surveiller, avec des horaires fixes. Les contraintes commence a peser sur les ouvriers. Tant que l'employeur ne met pas la machine en pause ils travaillent. Un nouveau rapport du temps, on peut pas arrêter de travailler a notre guise. Le paysan lui il dépend du cycle solaire, mais ceci n'est pas du tout le rythme d'une usine.
 
 Ceci ce donnait par exemple à Manchester en 1770 et est connu comme une sorte d'esclavage des machines.
 #### Mécanisation
@@ -67,11 +67,11 @@ Les profits de ce qu'on produits c'est 20-30% mais de nos jours c'est 10%. Ces g
 
 Il est nécessaire d'avoir des profits grands pour s’autofinancer et pouvoir investir pour innover. Aussi pour payer les coûts des transports.
 ### Coûts des transports
-Le coûts des transports de nos jours est plutôt bas, en faite on importe et exporte beaucoup. Cependant, au tout début de la R.I ces coûts étaient très élevés et les distances qu'ils pouvaient traverser étaient très courtes (routes sans goudron, voies dangereuses, etc.). On transportait par chevaux (cher, on a besoin de beaucoup de chevaux) par la voie terrestre et par navigation côtière dans la mer (mais si on devait éloigner le produit du port on avait les mêmes problèmes qu'avec le transport terrestre). Le charbon était économique à faire mais cher à transporter (relation démesurée entre prix du bien et coût de transport, le prix se multiplie par 5 quand on transporte le charbon.).
+Le coûts des transports de nos jours est plutôt bas, en faite on importe et on exporte beaucoup. Cependant, au tout début de la R.I ces coûts étaient très élevés et les distances qu'ils pouvaient traverser étaient très courtes (routes sans goudron, voies dangereuses, etc.). On transportait par chevaux (cher, on a besoin de beaucoup de chevaux) par la voie terrestre et par navigation côtière dans la mer (mais si on devait éloigner le produit du port on avait les mêmes problèmes qu'avec le transport terrestre). Le charbon était économique à faire mais cher à transporter (relation démesurée entre prix du bien et coût de transport, le prix se multiplie par 5 quand on transporte le charbon.).
 #### Protection
 Comme le transports est cher-> les entreprises locales sont protégées, des petites organisations apparaissent partout.
 
-On commence par des entreprises régionales (Manchester) en GB et après on passe au plan international (France, Alsace). Ceci entraînera le développement des chemins de fer et les bateaux à vapeur (transport moins cher). Mais pour le moment il est cher, donc les économies de chaque pays elles sont protégées.
+On commence par des entreprises régionales (Manchester) en GB et après on passe au plan international (France, Alsace). Ceci entraînera le développement des chemins de fer et les bateaux à vapeur (transports moins chers). Mais pour le moment il est cher, donc les économies de chaque pays elles sont protégées.
 ### Conditions de travail
 Il n'y a pas de protection sociale donc on peut exploiter femmes, enfants et hommes sans qu'il puissent protester ce qui augmente les bénéfices. Ceci débouche dans une hausse de l'urbanisation aussi influencé par la posibilité de s'employer partout, il n'y avait pas d'études requis.
 

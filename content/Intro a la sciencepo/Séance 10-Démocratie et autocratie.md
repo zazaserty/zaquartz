@@ -4,7 +4,7 @@ C'est nous demander: Pourquoi les pays réagissent différemment aux mêmes déf
 - La transition démographique.
 - Le COVID.
 ![[Pasted image 20241022123126.png]]
-Dans l'USA, par exemple, l'amour pour les armes débouche dans une permission de les porter librement et, donc, dans des *mass-shootings* usuels. On a la tendance à penser que notre système national est normal, est donc on a de la peine pour trouver des solutions à nos problèmes.
+Dans l'USA, par exemple, l'amour pour les armes débouche dans une permission de les porter librement et, donc, dans des *mass-shootings* usuels. On a la tendance à penser que notre système national est normal, et donc on a de la peine pour trouver des solutions à nos problèmes.
 
 Ce n'est pas une question de comparer les pays, mais les cantons, les villes, etc. Tout peut-être utile.
 #### Formation des concepts
@@ -12,7 +12,7 @@ Ce n'est pas une question de comparer les pays, mais les cantons, les villes, et
 - Nous devons développer des termes (*concepts*) qui nous permettent de décrire et d'analyser le monde de manière systématique.
 - Dans le domaine de la politique comparée, de nombreux désaccords portent sur la définition de l'application correcte des concepts.
 - Qu'entendons-nous par *paix*, *démocratie*, *État de droit*, etc.
-	- *Est-ce que l'Hongrie est toujours démocratique? Est-ce que ça démocratie est en déclin?* Pour répondre à cela on aura besoin de définir *démocratie* et *déclin*.
+	- *Est-ce que l'Hongrie est toujours démocratique? Est-ce que sa démocratie est en déclin?* Pour répondre à cela on aura besoin de définir *démocratie* et *déclin*.
 ##### Le meilleur ami des comparatistes: la typologie
 - Il existe souvent une immense variété de formations institutionnelles: chaque système électoral/parti/système juridique est différent.
 - Nous voulons créer des catégories qui nous permettent de mettre de l'ordre dans cette variété:
@@ -44,7 +44,7 @@ Selon Steven Levitsky dans son livre *Elections without democracy*: "*Modern dem
 4) *elected authorities possess real authority to govern, in that they are not subject to the tutelary control of military or clerical leaders.* "
 Selon ceci, la Suisse n'était pas une vraie démocratie avant le vote féminin. Schumpeter laisse chacun faire cette réflexion. Selon la définition de Levitsky, on peut avoir des élections très compétitives mais qui ne débouchent pas dans un régime soi-disant *démocratique*.
 ##### Laquelle?
-Aucune de ces définitions sont *mauvaises*. Mais, pour quel but voulons nous utiliser la définition? Parfois la minimaliste est meilleure, ça dépend totalement de la question à discuter.
+Aucune de ces définitions est *mauvaise*. Mais, pour quel but voulons nous utiliser la définition? Parfois la minimaliste est meilleure, ça dépend totalement de la question à discuter.
 #### Non-démocraties
 1) Totalitarisme
 2) Régimes autoritaires
@@ -66,7 +66,7 @@ Le fascisme et le stalinisme sont différents des dictatures traditionnelles, ma
 Dans l'autoritarisme, on ne cherche pas tellement ce changement dans la société.
 ###### **Autoritarisme**
 1. Dictatures personnelles:
-	- Autocratie dans laquelle le pouvoir est concentré dans une seule personne. Probablement c'est à cela qu'on pense quand on imagine une dictature, avec son dictateur dans son front. Il peut avoir un parlement, etc; mais le pouvoir est subjugué à un seul *leader*. **Exemples**: Nombreux pays africans, Turkmenistan, Biélorussie, etc.
+	- Autocratie dans laquelle le pouvoir est concentré dans une seule personne. Probablement c'est à cela qu'on pense quand on imagine une dictature, avec son dictateur dans son front. Il peut avoir un parlement, etc; mais le pouvoir est subjugué à un seul *leader*. **Exemples**: Nombreux pays africains, Turkmenistan, Biélorussie, etc.
 2. Régimes à parti unique:
 	- Organisation très forte qui aime le *leader*: le parti. C'est ce parti qui prend les décisions fondamentales. **Exemples**: La Chine, où on avait des règles pour limiter les mandats mais on les a changés pour Xi Jin Ping.
 3. Régimes militaires:

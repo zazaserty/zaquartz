@@ -53,7 +53,7 @@ Au début du 17ème la différence climatique entre l'Europe et l'Amérique du S
 
 Il y a pas de main d'oeuvre alors on prends les esclaves africains pour planter dans les Amériques. C'est la traite transatlantique, commerce triangulaire. Ce qu'ils produisent ne reste pas local, c'est pour exporter. On implante aussi les *encomiendas* et *haciendas*:
 - **Encomienda**: Sous contrôle de la couronne espagnole les indigènes travaillent pour une protection (beaucoup d'abus). Il sera aboli au milieu du 16ème.
-- **Hacienda**: Propriétaire des terres pas lié a un pays, il prends les meilleures terres.
+- **Hacienda**: Propriétaire des terres pas lié a un pays, il prend les meilleures terres.
 - Les *peones* sont des ouvriers normalement pas libres et liés au dettes.
 -  **Exemples**: Plantations de sucre, mines de potosi.
 
