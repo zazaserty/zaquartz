@@ -118,7 +118,7 @@ En 1947 l'Inde devient indépendante, elle avait souffert en 1929 les mêmes pro
 #### Boycott
 Les indiens feront le boycott à l'industrie textile anglaise dans le contexte de la lutte par l'indépendance.
 ### Chine
-La Chine va mieux resister que l'Inde puisque elle va être colonisée (et désindustrialisée) plus tardivement et obtiens son industrialisation avant que l'Inde donc elle souffre pendant moins de temps.
+La Chine va mieux resister que l'Inde puisque elle va être colonisée (et désindustrialisée) plus tardivement et obtient son industrialisation avant que l'Inde donc elle souffre pendant moins de temps.
 #### Début
 Entre 1650 et 1800 il y a une croissance et peu de relations avec l'occident. Les européens et leur influence arrive avec Macao et les anglais aussi avec Hong Kong. C'est un pays avancé soumis à la dominations des mongols et autres peuples, qui utilisait même déjà le billet. Ils ont aussi un système d'aménagement territorial plutôt décent.
 #### Guerre
@@ -257,7 +257,7 @@ Les nouvelles frontières marquées par les européens ne respectent pas les cul
 - GB moins invasive, contrôle les élites/autorités locales mais laisse celles ci en place.
 - FR (et autres pays) invasive, politique d'assimilation et bureaucratie coloniale.
 
-Des concessions vont être faites pour des compagnies privés/semi-publiques pour exploiter les territoires concernés. À la fin du 19ème siècle il y a rien à coloniser, tout est contrôlé (==ceci n'est pas tout à fait correct puisque on a l'Éthiopie qui n'est pas colonisée==).
+Des concessions vont être faites pour des compagnies privés/semi-publiques pour exploiter les territoires concernés. À la fin du 19ème siècle il y a rien à coloniser, tout est contrôlé (==ceci n'est pas tout à fait correct puisque qu'on a l'Éthiopie qui n'est pas colonisée==).
 - Richesses minières.
 - Cacao.
 - Etc.

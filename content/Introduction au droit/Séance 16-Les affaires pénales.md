@@ -14,5 +14,26 @@
 
 Ceci protège l'individu, qui est sans pouvoir face au tribunal et qui peut recevoir des conséquences très graves comme résultat d'un procès d'affaire pénales. On est plus dans le procès civil, les pires peines de notre société émanent des procès pénaux.
 ![[Pasted image 20241129092421.png]]
+Ce principe est contesté puisque pour quelques personnes il est négatif pour les victimes de certaines agressions, en permettant des acquittements qui n'auraient pas lieu normalement.
+#### Droit d'être informé de ses droits
+![[Pasted image 20241205083655.png]]
+![[Pasted image 20241205083805.png]]
+- Droit d'être informé de l'accusation.
+- Droit d'être présent au procès.
+- Le droit à l'assistance d'un défenseur de son choix.
+- Le droit de préparer sa défense.
+	- Temp suffisant.
+	- Consultation du dossier.
+	- Libre communication avec son avocat.
+- Le droit de ne pas s'incriminer.
+	- Droit de se taire ou de mentir.
+	- Droit de ne pas collaborer.
+	- C'est le *Miranda warning* (avertissement Miranda).
+- Le droit à une bonne administration des preuves.
+	- Droit de faire administrer des preuves et de participer à leur administration.
+	- Droit à la confrontation.
+	- Non-recours à des preuves inexploitables.
+![[Pasted image 20241205095111.png]]
+![[Pasted image 20241205084339.png]]
 
 #UNIGE #IntroDroit 

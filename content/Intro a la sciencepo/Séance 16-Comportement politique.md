@@ -121,7 +121,7 @@ Au sein de l'électorat de gauche, le vote pour les Verts (plutôt que pour le P
 En mesurant la probabilité de vote au niveau individuel l'enquête Select (Swiss election studies) pose la question: *Quelles chances y a-t-il que vous votiez un jour pour le parti X?* (échelle de 0 à 10).
 - **Faiblesses**: Cette méthode ne prends pas en compte le fait que les personnes hésitent lors des élections. En plus c'est pas très exact pour les petit partis au contraire des grands, si on a que 10 votants d'un petit parti dans l'enquête on ne peut pas l'étudier correctement.
 
-Cette question fut posée pour les 7 principaux partis (tout le monde évalue tout les partis même les petits alors la faiblesse est compensée). Un tiers des électeurs ont probabilité identique de voter PS ou Vert.e.s et un tiers ont probabilité très similaire (une à deux points de différence).
+Cette question fut posée pour les 7 principaux partis (tout le monde évalue tous les partis même les petits alors la faiblesse est compensée). Un tiers des électeurs ont probabilité identique de voter PS ou Vert.e.s et un tiers ont probabilité très similaire (une à deux points de différence).
 - PS et Vert.e.s se partagent quasiment le même électorat: plutôt féminin, jeune, urbain, athée, éduqué, nouvelle classe moyenne (*spécialistes socio-culturels*-> profession de l'état providence comme la santé, l'éducation, etc.), de gauche, europhile, solidaire, écolo.
 - Généralement, les votants de gauche finissent par voter pour le PS plutôt que pour les Vert.e.s (concurrence *asymétrique*); il y a eu un rééquilibrage en 2019 (lien avec le graphique des enjeux et l'environment) mais qui bascule à nouveau en 2023. En gros le PS bénéficiait/bénéfice pas mal.
 ##### Transferts de voix d'une élection à l'autre
