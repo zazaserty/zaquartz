@@ -23,6 +23,8 @@ Dates des séminaires:
 - [[Séance 16-La fixation des prix et le pouvoir de marché]]
 - [[Séance 16,17-Le monopole naturel et concurrence monopolistique]]
 - [[Séance 17,18-Interactions stratégiques en concurrence imparfaite]]
-- [[Séance 18-Les biens publics]]
+- [[Séance 18,19-Les biens publics]]
+- [[Séance19,20-Les externalités]]
+- [[Séance 20-Les décisions en incertitude]]
 
 #UNIGE #IntroMicroéconomie #Plaque-tournante 

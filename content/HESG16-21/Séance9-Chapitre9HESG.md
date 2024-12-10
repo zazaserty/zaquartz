@@ -26,7 +26,7 @@ Ces mutations technologiques et organisationnelles entraînent une transformatio
     - **Aux États-Unis**, cette pratique a conduit à la création des **lois antitrust** comme le **Sherman Antitrust Act** de 1890 pour lutter contre les monopoles.
 ###### **Les cartels en Allemagne**
 - Formation de **cartels** dans des industries clés comme la chimie pour contrôler les marchés.
-- Évolution vers des **Konzerns** : Grands conglomérats intégrant plusieurs entreprises sous une même direction.
+- Évolution vers des **Konzerns**: Grands conglomérats intégrant plusieurs entreprises sous une même direction.
 ###### **Impact des lois antitrust**
 - Adoption de lois pour empêcher les monopoles et promouvoir la concurrence.
     - En **1890**, le **Sherman Antitrust Act** est signé aux États-Unis.

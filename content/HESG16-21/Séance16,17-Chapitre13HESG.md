@@ -29,14 +29,14 @@ Certains sont présents dans la [[Séance 3,4-WW2]]:
 Dans ce nouvel ordre les EU sont au centre de l'échange et l'Europe est son principal partenaire.
 #### Croissance
 ![[Pasted image 20241127104948.png]]
-Tout est en place pour croître et reconstruire les pays. En 1971, le rôle du dolar finit et une période troublée par l'inconvertibilité commence. La GB va rester à distance du marché commun européen qui sera crée pendant un certain temps. Il y aura des disparités géographiques dans ce processus, par exemple le gran changement dans l'Allemagne qui se relève tout d'un coup.
+Tout est en place pour croître et reconstruire les pays. En 1971, le rôle du dolar finit et une période troublée par l'inconvertibilité commence. La GB va rester à distance du marché commun européen qui sera crée pendant un certain temps. Il y aura des disparités géographiques dans ce processus, par exemple le grand changement dans l'Allemagne qui se relève tout d'un coup.
 ##### Facteurs
 ###### **Immigration et éducation**
 La population est décimée, mais il y a un boom géographique et on a une bonne offre de travail. L'enseignement secondaire s'améliore et la qualité de la main d'oeuvre change positivement. Chaque pays vont bénéficier aussi d'un influx de main d'oeuvre comme l'Allemagne (surtout RFA).
 ###### **Agriculture et main d'oeuvre**
 La main d'oeuvre de l'agriculture va être libérée pour l'industrie, même si elle n'est pas si qualifiée elle aide le secteur secondaire. On rattrape le retard (17% 25% de la richesse investie dans la technologie). Le taylorisme et le fordisme est imposé ce qui innove dans le secteur et alimente la croissance.
 ###### **Fordisme et consommation**
-Le compromis fordiste (augmentation des salaires) améliore les niveaux de vie. La main d'oeuvre va être apaisée. Puis il produisent puis ils vont gagner large, ce qui est une régulation inédite du capitalisme qui encourage la main d'oeuvre.
+Le compromis fordiste (augmentation des salaires) améliore les niveaux de vie. La main d'oeuvre va être apaisée. Plus il produisent puis ils vont gagner large, ce qui est une régulation inédite du capitalisme qui encourage la main d'oeuvre.
 
 Les ouvriers ont maintenant la capacité de consommer (ils dépensent moins dans l'alimentation ([[Séance6-Chapitre6HESG]]). Chacun est maintenant conscient de l'importance de que l'économie tourne bien.
 ###### **L'État et rôle d'ouverture**
@@ -56,7 +56,7 @@ Dans la France l’accès au logement était très important mais pas toujours �
 Après deux guerres mondiales, des destructions massives et le fardeau des réparations, la RFA commence à se relever. Entre 1951 et 1960, la croissance annuelle atteint environ 9 %, marquant le début du *Wirtschaftswunder* (miracle économique). Avant la construction du mur de Berlin, un important afflux de population contribue à l'expansion économique. Les *Konzerns* jouent un rôle clé dans cette reprise, consolidant leur position dans des secteurs stratégiques comme la chimie, l'automobile et l'ingénierie.
 #### Les konzerns à Nuremberg
 Cependant, cette renaissance économique est marquée par des tensions historiques. Les dirigeants d'entreprises telles que Krupp, qui avaient collaboré avec le régime nazi, sont jugés à Nuremberg. Les Alliés, apprenant des erreurs du passé, adoptent une stratégie différente. Ils veulent éviter d’affaiblir l’économie allemande et s’appuient sur la RFA comme un rempart contre le communisme pendant la guerre froide. Cela se traduit par une aide internationale significative, notamment via le Plan Marshall, et par la mise en place de réformes structurelles.
-#### La *Soziale Marktwirtschaft* : le modèle de l’économie sociale de marché
+#### La *Soziale Marktwirtschaft*: le modèle de l’économie sociale de marché
 L’une des clés de la réussite allemande réside dans l’adoption de la *Soziale Marktwirtschaft*. Ce modèle économique, introduit par Ludwig Erhard en 1948, combine les principes du libre marché avec une forte régulation sociale pour équilibrer croissance et justice. Avec l’introduction du Deutsche Mark, une nouvelle monnaie, la stabilisation monétaire et la confiance économique sont restaurées. La monnaie est différente, on veut quelle soit forte pour éviter la dévaluation (il y avait un traumatisme après la crise de 1929 et ceci a causé une peur envers rejoindre l'UE). Les EU dévaluent l'ancienne monnaie et créent une nouvelle qui équivaut a 10 *Reichsmark*. L'ALL veut éviter revenir au passé et collabore avec les américains.
 ##### Points centraux :
 1. **Réduction du rôle de l’État** : Les mécanismes de marché sont privilégiés, mais l’État reste garant de la régulation et de la redistribution (ordo-libéralisme).
@@ -150,7 +150,7 @@ Une société qui consomme de manière infinie et de laquelle se nourrit le capi
 
 Cette extension de la gamme de produits entraîne le crédit populaire, le gens s'endettent pour acheter des voitures individuelles et autres biens. Les cartes de crédit vont apparaître après. Après la stagnation des revenus en 1990 ce crédit change de nature et il y a des gens qui l'utilisent plutôt par nécessité (factures, etc).
 
-Avant il y avait pas de biens consommables comme l'ordinateur, consommait par tranches à travers de cette démocratisation (élargissement de la consommation à toutes les classes sociales grâce à l'accès facilité aux biens (baisse des coûts, crédit) et à la consommation de masse.).
+Avant il y avait pas de biens consommables comme l'ordinateur, on consommait par tranches à travers de cette démocratisation (élargissement de la consommation à toutes les classes sociales grâce à l'accès facilité aux biens (baisse des coûts, crédit) et à la consommation de masse.).
 #### Engels
 Les dépenses alimentaires baissent. Les prix baissent, et la nouvelle classe moyenne (surtout pro-frontpopulaire en FR) peut se payers les loisirs et consacrer moins de son revenu à se nourrir.
 ![[Pasted image 20241128134151.png]]

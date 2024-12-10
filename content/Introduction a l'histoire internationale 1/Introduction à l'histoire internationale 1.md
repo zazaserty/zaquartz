@@ -15,6 +15,6 @@ QCM a la fin du semestre d'automne.
 - [[Séance 7-La Guerre Froide]]
 - [[Séance 8,9-Le tiers-monde et le non-alignement]]
 - [[Séance 9,10- La fin de la guerre froide]]
-- [[Séance 10- Les politiques de puissance dans le monde post-guerre froide]]
+- [[Séance 10,11- Les politiques de puissance dans le monde post-guerre froide]]
 
 #Plaque-tournante #UNIGE #IntroHistoireInternationale1 

@@ -3,8 +3,8 @@
 ### Niveau fédéral
 #### La phase pré-parlementaire
 - Avant-projet de l'administration.
-- Commissions d'experts (commissions extra-parlementaires = *administration de milice*: expertise et représentation).
-- On soumet le brouillon -> Consultation *interne* des offices et procédure de co-rapport.
+- Commissions d'experts (commissions extra-parlementaires=*administration de milice*: expertise et représentation).
+- On soumet le brouillon-> Consultation *interne* des offices et procédure de co-rapport.
 - Procédure de consultation externe (qualité technique, acceptabilité politique, applicabilité). On consulte les groupes d'intérêt ou *lobbies*, surtout s'ils pourraient contrer la pp avec un référendum.
 - Message du Conseil fédéral (Gouvernement) à l'Assemblée fédérale (Parlement).
 	- Le projet est transmis au parlement.
@@ -13,12 +13,12 @@
 - Plénum de la première Chambre.
 - Seconde Chambre, selon les mêmes modalités.
 - Les deux chambres ont **le même pouvoir/poids**, bicaméralisme parfait.
-- *Navette (à deux tours)* (dans 48% des processus) voire *Conférence de conciliation* (6%), si le conflit persiste entre les deux Chambres (NB. CN se rallie au CE plutôt que l'inverse)-> comité de conciliation où quelques représentants de chaque chambre se mettent d'accord. Si le conflit persiste on a tendance à accepter et laisser aller, l'insistance est rare (6% de CC).
+- *Navette (à deux tours)* (dans 48% des processus) voir *Conférence de conciliation* (6%), si le conflit persiste entre les deux Chambres (NB. CN se rallie au CE plutôt que l'inverse)-> comité de conciliation où quelques représentants de chaque chambre se mettent d'accord. Si le conflit persiste on a tendance à accepter et laisser aller, l'insistance est rare (6% de CC).
 - Vote final dans les deux Chambres.
 #### La phase référendaire (référendum obligatoire ou facultatif: vote populaire)
-50 000 citoyen.ne.s ne sont pas d'accord et on vote. Si ils ont des moyens et ils sont beaucoup ils ont du pouvoir pour faire une campagne et annuler la loi, ils est important dans le processus de décision de tenir ceci en compte.
+50 000 citoyen.ne.s ne sont pas d'accord et on vote. S'ils ont des moyens et ils sont beaucoup ils ont du pouvoir pour faire une campagne et annuler la loi, ils est important dans le processus de décision de tenir ceci en compte.
 
-L'hypothèse de Neidhart (1970) suggère que, dans un système démocratique où les référendums sont possibles, les groupes ou acteurs qui ont la capacité d'organiser un référendum (acteurs à "capacité référendaire") doivent être inclus très tôt dans le processus législatif, dès la phase pré-parlementaire. Cela permet d'éviter qu'ils bloquent les décisions politiques en lançant un référendum contre la loi. Cette inclusion favorise donc un compromis avant même que le projet de loi n'arrive au parlement.
+L'hypothèse de Neidhart (1970) suggère que, dans un système démocratique où les référendums sont possibles, les groupes ou acteurs qui ont la capacité d'organiser un référendum (acteurs à *capacité référendaire*) doivent être inclus très tôt dans le processus législatif, dès la phase pré-parlementaire. Cela permet d'éviter qu'ils bloquent les décisions politiques en lançant un référendum contre la loi. Cette inclusion favorise donc un compromis avant même que le projet de loi n'arrive au parlement.
 
 **Nombre de lois et durée**
 ![[Pasted image 20241129152030.png]]
@@ -65,7 +65,7 @@ On consulte beaucoup les GI.
 Dans cette phase les parlementaires ne sont pas approchés par les groupes d'intérêt directement, puisque de toute façon beaucoup d'eux sont déjà dans ces groupes. Il doivent quand même déclarer leur liens:
 ![[Pasted image 20241129155038.png]]
 ![[Pasted image 20241129155045.png]]
-Les groupes de caractère économique sont très présents, surtout celui des propriétaire.
+Les groupes de caractère économique sont très présents, surtout celui des propriétaires.
 ![[Pasted image 20241129155136.png]]
 ##### Liens *pertinents* dans les commissions législatives
 On voit même le conseiller fédéral Guy Parmelin:
@@ -86,7 +86,7 @@ Inconnu= ils ont pas dépensé suffisant pour apparaître.
 ### Résumé sur les GI
 - Augmentation de l’accès des GI public à l’administration et au parlement, mais on doit nuancer selon les domaines de politiques publiques.
 - L’accès des GI public relatif à celui des associations économiques reste stable au parlement tandis qu’il augmente dans l’administration.
-- MAIS, il reste malgré tout un "biais" en faveur des associations économiques.
+- MAIS, il reste malgré tout un *biais* en faveur des associations économiques.
 ### Choix des instruments comme enjeu central de la formulation 
 C'est le choix des outils qu'on va utiliser pour changer le comportement du groupe cible d'une PP. Très important dans la phase de formulation. Pour Max Weber, l'État a le monopole de la contrainte (violence légitime). Le **continuum du degré de contrainte** décrit une échelle graduelle qui va des interventions étatiques les moins contraignantes aux plus contraignantes:
 1. **Auto-régulation** (*gentlemen agreements*):

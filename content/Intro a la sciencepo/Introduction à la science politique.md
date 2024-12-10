@@ -22,5 +22,7 @@
 - [[Séance 17,18-Analyse des politiques publiques]]
 - [[Séance 18,19-Formulation des PP]]
 - [[Séance 19-Analyse des PP]]
+- [[Séance 20-Évaluation des PP]]
+- [[Séance 21-Relations Internationales 1]]
 
 #UNIGE #Introsciencepo #Plaque-tournante

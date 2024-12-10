@@ -8,7 +8,7 @@ Les pays qui ont atteint l'industrialisation ont perçu l'apparition de bassins 
 ![[Pasted image 20241003122537.png]]
 Jusqu'à ce moment les villes avaient un rôle administratif mais avec l'industrialisation on a une fonction industrielle de ces centres urbains. Les personnes viennent travailler dans l'industrie et cela débouche dans une hausse de la population urbaine.
 
-Au 19ème siècle, avec ces bassins industriels, le travail rural du putting-out system disparaît. Dans les champs il est maintenant plus profitable de juste cultiver et l'industrie est plus productive dans les villes, même s'il y a toujours des industries qui exploitent ce type d’ouvriers. Il y a une hausse de l'emploiement dans l'industrie, certaines villes étaient très specialises dans un secteur, mais une grande disparité (dans la Russie l'industrie n'est pas une grande partie de l'emploi.). C'est pas seulement les bourgades qui grandissent mais des nouvelles villes qui apparaissent.
+Au 19ème siècle, avec ces bassins industriels, le travail rural du putting-out system disparaît. Dans les champs il est maintenant plus profitable de juste cultiver et l'industrie est plus productive dans les villes, même s'il y a toujours des industries qui exploitent ce type d’ouvriers. Il y a une hausse de l'emploiement dans l'industrie, certaines villes étaient très spécialisées dans un secteur, mais une grande disparité (dans la Russie l'industrie n'est pas une grande partie de l'emploi.). C'est pas seulement les bourgades qui grandissent mais des nouvelles villes qui apparaissent.
 
 Cependant, les conditions des travailleurs sont mauvaises:
 ![[Pasted image 20241003123144.png]]
@@ -20,7 +20,7 @@ Il y a une contradiction entre la modernisation et ses progrès face aux mauvais
 Il n'y a pas de transports publiques donc les ouvriers vivent le plus près possibles de leur postes de travail. Les entrepreneurs vont s'associer pour construire des logements dans de zones ouvrières et accueillir plus de population. Les maisons et les usines sont liées, avec la sidérurgie vivant au cœur des quartiers résidentiels ouvriers.
 #### Explosion démographique
 ##### Construction sans planification ni infrastructures
-Demande de main d'oeuvre importante et massive comme résultat de l'explosion de cette industrie. L'extraction de charbon était laborieuse et nécessitait une masse importante de travailleurs, la population des ces bassins c'est multiplié par 10. Ils captent beaucoup de gents qui cherchent des emplois. Ces villes grandissent sans planification, avec un besoin en infrastructure qui est difficile à satisfaire-> gens pas contents.
+Demande de main d'oeuvre importante et massive comme résultat de l'explosion de cette industrie. L'extraction de charbon était laborieuse et nécessitait une masse importante de travailleurs, la population des ces bassins c'est multipliée par 10. Ils captent beaucoup de gents qui cherchent des emplois. Ces villes grandissent sans planification, avec un besoin en infrastructure qui est difficile à satisfaire-> gens pas contents.
 
 Cette manière de construire a débouché dans une dualité urbaine, des villes ou l'ancien centre et les *slums* cohabitent.
 ![[Pasted image 20241003125436.png]]

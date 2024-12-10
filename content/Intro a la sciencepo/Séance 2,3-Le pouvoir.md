@@ -18,7 +18,7 @@ Hobbes écrit dans son Léviathan (1640) que le contrat social est le fondement 
 
 Pour éviter cela, les personnes renoncer mutuellement et rationnellement a une partie de ses libertés et pouvoirs. Comme ça, c'est une personne artificielle (l'État) qui est confié ses libertés. L'État est donc le Souverain et représente *le pouvoir souverain*.
 ### Parsons
-Pour lui, le P en politique est l'équivalent de la monnaie en économie. Ce le medium à travers le quel les acteurs interagissent. À travers de ce medium, des hiérarchies entre acteurs sont crées.
+Pour lui, le P en politique est l'équivalent de la monnaie en économie. C'est le medium à travers le quel les acteurs interagissent. À travers de ce medium, des hiérarchies entre acteurs sont crées.
 
 Mais ce medium et fluide, et difficile de quantifier. Comme il est si fluide, les acteurs sans pouvoir ou avec peu peuvent se présenter comme s'ils étaient puissants. Donc ils ont un pouvoir potentiel, une puissance, mais pas encore activé.
 
@@ -85,7 +85,7 @@ Michel Foucault était d'accord avec cette approche. Selon lui:
 - Machiavelli dit que pour lui gouverner c'est faire croire. Le Prince gouverne la société grâce à un jeu habile de contrôle et de manipulation des circuits du pouvoir.
 - Pourquoi les individus croient en des décideurs, en les obéissant, et comment ils font croire?
 #### Weber
-Pour lui, il y a trois idéaux-types de légitimité (Pour lui un idéal-type est un outil méthodologique abstrait qui aide a comprendre la réalité sans prétendre que les caractéristiques de ce type ce retrouvent toujours comme ça dans les phénomènes observés.). C'est des idéaux-types parce que ces types de légitimité se basent en ce que la population pense que les choses devraient être:
+Pour lui, il y a trois idéaux-types de légitimité (Pour lui un idéal-type est un outil méthodologique abstrait qui aide a comprendre la réalité sans prétendre que les caractéristiques de ce type se retrouvent toujours comme ça dans les phénomènes observés.). C'est des idéaux-types parce que ces types de légitimité se basent en ce que la population pense que les choses devraient être:
 1. Rationnelle-légale: Le pouvoir repose sur une organisation bureaucratique, l'administration publique. Les gens obéissent a une administration qui est composée par des bureaucrates expérimentes (supposément).
 2. Traditionnelle: On fait ça parce que c'est la tradition, donc on la suit. Un groupe de personnes a toujours décidé les règles d'un village et les autres il obéissent. C'est la tradition et il n'y a pas une raison pour se rebeller.
 3. Charismatique: On considère une personne comme notre père ou mère, on est attachés. On dirait qui'il fait des choses dont on n'est pas capables (surhumain). Il défend avec de la charisme une grande cause avec laquelle on s’identifie.

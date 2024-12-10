@@ -19,7 +19,7 @@ Ceci débouche dans le taylorisme, la grande expression de cette mentalité:
 - Gain de productivité mais le travail des ouvriers est appauvri.
 - On analyse la meilleure méthode pour chaque tâche. Chaque mouvement est analysé.
 - Les ouvriers doivent être formés.
-- C'est même un odre économique moral, une production ordonnée et pacifique.
+- C'est même un ordre économique moral, une production ordonnée et pacifique.
 - Division du travail en deux manières différentes:
 	- Horizontale: On décompose le processus de production et chaque tâche revient à un individu.
 	- Verticale: On répartit les responsabilités entre les niveaux hiérarchiques-> direction pour décider, employés pour exécuter.
@@ -40,7 +40,7 @@ Le taylorisme va quand même progresser après la guerre, avec la retransformati
 #### Michelin
 Michelin va être pionnière, avec l'implementation du taylorisme mais aussi une boîte à suggestions, Il y a une applications des idées des ouvriers ce qui leur attache à l'entreprise d'une manière pédagogique. C'est un investissement de la part de Michelin.
 ### Fordisme
-C'est pas les ouvriers qui bougent mais les produits. Son nom provient de la voiture Ford, faite avec des pièces simples qui permettaient l'innovation avec cette manière de production.
+C'est pas les ouvriers qui bougent mais les produits. Son nom provient de la voiture Ford, faite avec des pièces simples qui permettaient l'innovation tout en respectant cette manière de production.
 
 Un produit standardisée est acheminée vers l'ouvrier dont les ingénieurs décident la cadence de ces mouvements. On fait même plus d'économies dans le gaspillage de temps et d'argent. Ceci permet d'augmenter les salaires et commencer la consommation de masse.
 
