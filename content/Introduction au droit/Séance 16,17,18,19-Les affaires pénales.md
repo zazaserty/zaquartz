@@ -66,5 +66,13 @@ Ce principe est contesté puisque pour quelques personnes il est négatif pour l
 	- Elle n’a pas à prouver la culpabilité du prévenu.
 	- Elle peut faire valoir des conclusions civiles.
 	- Les proches d’une victime peuvent aussi faire valoir des conclusions civiles.
+![[Pasted image 20241212082530.png]]
+#### Les débat devant le tribunal
+- Procédure probatoire:
+	- Soumise à la maxime inquisitoire-> recherche de la vérité matérielle.
+- Plaidoiries.
+- Possibilité laissée au prévenu de s'exprimer.
+- Délibération et décision.
+![[Pasted image 20241212084340.png]]
 
-#UNIGE #IntroDroit 
+#UNIGE #IntroDroit

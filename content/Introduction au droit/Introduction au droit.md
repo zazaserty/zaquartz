@@ -19,6 +19,7 @@ Enregistrements des cours:
 - [[Séance 10,11-Le régime démocratique]]
 - [[Séance 11-Les acteurs de la justice]]
 - [[Séance 12,13,14,15,16-Contentieux]]
-- [[Séance 16,17,18-Les affaires pénales]]
+- [[Séance 16,17,18,19-Les affaires pénales]]
+- [[Séance 19-Affaires pénales 2]]
 
 #UNIGE #IntroDroit #Plaque-tournante 
