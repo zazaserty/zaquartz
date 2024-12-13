@@ -25,7 +25,7 @@ Toutes ces crises sont connectées, et naissent souvent dans le contexte d'une c
 ### Homéostasie
 Ce concept référence une dynamique de stabilisation face aux crises, il est emprunté de la biologie. La population ne grandit pas tellement, elle maintient un certain équilibre avec les ressources dont elle dispose. Si la population pre-industrielle augmente, elle baisse après. C'est aussi l'inverse.
 #### Régulation sociale
-Ces normes sociétales vont aider a équilibrer la population en proportion au terres disponibles. L'âge du marriage était tardif puis qu'il était nécessaire d'obtenir une terre avant de former un couple pour pouvoir vivre, et les terres il y en avait peu. L'âge moyen du 1er marriage >25 ans.
+Ces normes sociétales vont aider a équilibrer la population en proportion au terres disponibles. L'âge du marriage était tardif puis qu'il était nécessaire d'obtenir une terre avant de former un couple pour pouvoir vivre, et des terres il y en avait peu. L'âge moyen du 1er marriage >25 ans.
 Marriage tardif->Moins de fécondité puis qu'elle se déroule entre les 15-49 ans cela en plus du fait que l'age à la dernière maternité était 40 ans en moyenne. Donc 1/3 de la fécondité est perdue.
 
 Il y aussi peu de naissances illégitimes (religion, coitus interruptus, manque d'éducation sexuelle; on ne sait pas trop pourquoi).

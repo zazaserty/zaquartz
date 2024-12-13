@@ -142,7 +142,15 @@ Les membres du parlement européen sont élus par le peuple et ne représentent 
 L'UE par exemple est basé sur les règles reconnues dans un ordre horizontal.==?==
 #### Typologie d'ordres internationaux
 ![[Pasted image 20241210140118.png]]
+L'État mondial est une utopie qui n'existe pas et n'existera pas tant qu'on aie des états.
+
 ![[Pasted image 20241210140150.png]]
+Jusqu'à 1989 ce nouvel ordre ne s'impose pas sans contestations. Et même maintenant on a des problèmes:
+- Blocage de l'OMC.
+- Veto.
+- Brexit.
+![[Pasted image 20241213153456.png]]
+
 ![[Pasted image 20241210140201.png]]
 
 #UNIGE #Introsciencepo 

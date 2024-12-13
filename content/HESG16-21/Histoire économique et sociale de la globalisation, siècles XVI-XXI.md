@@ -13,6 +13,6 @@
 - [[Séance15-Chapitre12HESG]]
 - [[Séance16,17-Chapitre13HESG]]
 - [[Séance17,18-Chapitre14HESG]]
-- [[Séance18,19-Chapitre15HESG]]
+- [[Séance18,19,20-Chapitre15HESG]]
 
 #UNIGE #HESG #Plaque-tournante 

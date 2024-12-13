@@ -86,10 +86,10 @@ Ceci nous ramène au clivage de Kriesi entre les *gagnants* et les *perdants* de
 - Du point de vue normatif, ce clivage s'exprime par un conflit sur la dimension *ouverture-traditions* (Brunner et Sciarini 2002) ou *intégration-démarcation* (Bornschier 2007).
 ###### **Exemple: le vote d'enjeu**
 Idées de base:
-- Les facteurs de long terme (socio-structurels ou psycho- sociologiques) ont perdu du poids au profit des facteurs de court terme, tels que le "vote d'enjeu".
+- Les facteurs de long terme (socio-structurels ou psycho-sociologiques) ont perdu du poids au profit des facteurs de court terme, tels que le *vote d'enjeu*.
 - L'électeur/trice va voter pour le parti le plus proche de lui/elle sur les enjeux importants:
 	- Modèle de *proximité*, dérivé du choix rationnel.
-- Ou l'électeur/trice va voter pour le parti qui "possède" l'enjeu jugé le plus important, **càd** le parti qui est réputé le plus actif et/ou le plus compétent sur cet enjeu → "vote selon la possession de l'enjeu" (*issue ownership voting*, Petrocik 1996).
+- Ou l'électeur/trice va voter pour le parti qui *possède* l'enjeu jugé le plus important, **càd** le parti qui est réputé le plus actif et/ou le plus compétent sur cet enjeu → *vote selon la possession de l'enjeu* (*issue ownership voting*, Petrocik 1996).
 - Selon le second modèle, les partis qui *possèdent* les enjeux les plus importants en tirent profit électoralement.
 
 Dans le cas de l'UDC en Suisse, un **exemple**: l'enjeu migratoire. Selon un enquête le *problème le plus important aujourd'hui en Suisse* est:
@@ -133,7 +133,7 @@ Dans les élections européennes les partis verts ont progressé dans plusieurs 
 Les avis changent à cause du covid, le pouvoir d'achat, la migration, etc; l'environment passe à un deuxième plan.
 ### Exemple 3: âge, sexe et participation politique
 ![[Pasted image 20241122144427.png]]
-Il y a eu un déclin considerable dans la participation, moins du 50% vote. En Genève, pour les dernières élections, le taux sera environ 35-45% au maximum.
+Il y a eu un déclin considerable dans la participation, moins du 50% vote. En Genève, pour les dernières élections, le taux sera environ 35-45% au maximum. Causes possibles:
 - Perte d'intérêt pour la politique.
 - Perte du sens du devoir civique avec les générations successives.
 - Les femmes votent moins que les hommes (en 1971 elles commencent à voter).
@@ -142,7 +142,7 @@ Il y a eu un déclin considerable dans la participation, moins du 50% vote. En G
 - Complexification des thèmes? Où plutôt population qui est/se sent moins compétente?
 - Fin du vote obligatoire dans plusieurs cantons sauf dans Schaffhausen (canton avec le plus de bulletins blancs).
 
-Dans les années 70 le taux ce stabilise et commence à augmenter un tout petit peu jusqu'à 2023. Les votations sont pour les gents plus importantes mais plus fréquentes alors on fait la moyenne sur 4 ans, la différence dans le taux de participation entre une votation et l'autre ainsi comme la fréquence de celles ci (manquer une n'est pas si grave) expliquent la différence élections/votation dans le graphique.
+Dans les années 70 le taux se stabilise et commence à augmenter un tout petit peu jusqu'à 2023. Les votations sont pour les gents plus importantes mais plus fréquentes alors on fait la moyenne sur 4 ans, la différence dans le taux de participation entre une votation et l'autre ainsi comme la fréquence de celles ci (manquer une n'est pas si grave) expliquent la différence élections/votation dans le graphique.
 
 On est un pays à faible participation, si on regarde chaque votation individuelle. Cependant:
 ![[Pasted image 20241122145817.png]]
@@ -156,7 +156,7 @@ Dans le cas du sexe, il y a un écart entre les sexes qui apparaît avec l'âge 
 ![[Pasted image 20241122153717.png]]
 ##### Effet de l'âge
 Les trois effets de l'âge:
-- Effet du cycle de vie / vieillissement biologique:
+- Effet du cycle de vie/vieillissement biologique:
 	- L'âge affecte la participation via l'intégration sociale et l'expérience politique → participation augmente avec l'âge (carrière professionnelle, mariage/enfants), avant de chuter dans le grand âge (isolement, santé).
 - Effet de cohorte (ou *générationnel*):
 	- Evénements qui touchent tous les individus d'une même cohorte (ex: Mai 68) → participation est systématiquement plus/moins élevée pour une génération donnée (exemple: sens du devoir civique aurait reculé d'une génération à l'autre).
@@ -170,10 +170,10 @@ Les trois effets de l'âge:
 - Thèse *révisionniste*:
 	- Effet de rattrapage ou de convergence: accroissement de l'intégration sociale et professionnelle des femmes; évolution des modèles du rôle des femmes.
 	- Le *fossé de genre* (*gender gap*) en termes de participation politique a disparu.
-- Thèse pas valable pour femmes âgées en Suisse:
-	- Facteur compositionnel: surreprésentation des femmes parmi personnes âgées veuves; or veuvage favorise l'abstention.
-	- Facteur institutionnel: octroi tardif du droit de vote aux femmes.
-	- Facteur socio-culturel: modèles traditionnels du rôle des femmes ont durablement affecté les femmes aujourd'hui les plus âgées.
+	- Thèse pas valable pour femmes âgées en Suisse:
+		- Facteur compositionnel: surreprésentation des femmes parmi personnes âgées veuves; or veuvage favorise l'abstention.
+		- Facteur institutionnel: octroi tardif du droit de vote aux femmes.
+		- Facteur socio-culturel: modèles traditionnels du rôle des femmes ont durablement affecté les femmes aujourd'hui les plus âgées.
 ![[Pasted image 20241122155050.png]]
 Ceci change dans les nouvelles générations, les jeunes femmes votent plus que les jeunes hommes.
 ##### Âge et sexe

@@ -23,6 +23,7 @@
 - [[Séance 18,19-Formulation des PP]]
 - [[Séance 19-Analyse des PP]]
 - [[Séance 20-Évaluation des PP]]
-- [[Séance 21-Relations Internationales 1]]
+- [[Séance 21,22-Relations Internationales 1]]
+- [[Séance 22-Relations Internationales 2]]
 
 #UNIGE #Introsciencepo #Plaque-tournante
