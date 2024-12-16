@@ -31,7 +31,7 @@ La politique du ministre de l'intérieur Sarko.
 ![[Pasted image 20241206143258.png]]
 On utilise les statistiques policières (arrêts judiciaires, etc) pour examiner la criminalité de certains banlieues *chaudes*. On voit la pression (objective) du problème.
 ![[Pasted image 20241206143419.png]]
-L'objectif de Sarko: réduire la criminalité dans les banlieues *chaudes* en utilisant la présence policière comme moyen de dissuasion. On voit les priorités. Il y a des quartiers chauds avec police mais d'autres sans. Les objectifs ne sont pas suffisamment pertinent. Il y a aussi des banlieues sûres avec de la police.
+L'objectif de Sarko: réduire la criminalité dans les banlieues *chaudes* en utilisant la présence policière comme moyen de dissuasion. On voit les priorités. Il y a des quartiers chauds avec police mais d'autres sans. Les objectifs ne sont pas suffisamment pertinents. Il y a aussi des banlieues sûres avec de la police.
 ![[Pasted image 20241206143647.png]]
 C'est plutôt une stratégie politique pour gagner de l'électorat dans les banlieues avec forte probabilité de triangulaire.
 ![[Pasted image 20241206144054.png]]

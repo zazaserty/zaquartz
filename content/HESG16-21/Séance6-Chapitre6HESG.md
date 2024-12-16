@@ -67,7 +67,7 @@ Dans les villes industrielles anglaises vers 1820-30, au Creusot vers 1840, en B
 Cependant l'espérance de vie augmente dans les campagnes voisines.
 #### Le choléra
 ![[Pasted image 20241003134143.png]]
-Ces conditions favorisent le retour des pandémies depuis l'Asie et passant chronologiquement par divers pays cause 20000 victimes seulement a Marseille. Il va provoquer la confusion chez les médecins sur comment le soigner du a la vitesse a laquelle elle se propage. Les élites économiques ne sont pas tellement touchés et ont une attitude méprisante, ce qui débouche dans des tensions sociales élevées.
+Ces conditions favorisent le retour des pandémies depuis l'Asie et passant chronologiquement par divers pays cause 20000 victimes seulement a Marseille. Il va provoquer la confusion chez les médecins sur comment le soigner du a la vitesse a laquelle elle se propage. Les élites économiques ne sont pas tellement touchées et ont une attitude méprisante, ce qui débouche dans des tensions sociales élevées.
 
 Louis-René Villermé conclus sur Paris qu'il existe une grande inégalité face a la mort, les classes laborieuses sont décimées.
 ![[Pasted image 20241003134430.png]]
@@ -76,6 +76,6 @@ Dans certaines villes des commissions médicales émergent pour essayer de stopp
 ![[Pasted image 20241003134804.png]]
 Les médecins essaient d'utiliser les méthodes empiriques pour curer la choléra mais ceci n'est pas économique et ne marche pas. Les classes d'élites étaient toujours moins affectées.
 
-L'arrivée des pratiques asiatiques (charlatans) et exotiques pour curer la maladie ridiculise la médecine et empire la mortalité de la choléra.
+L'arrivée des pratiques asiatiques (charlatans) et exotiques pour curer la maladie ridiculisent la médecine et empire la mortalité de la choléra.
 
 #UNIGE #HESG 

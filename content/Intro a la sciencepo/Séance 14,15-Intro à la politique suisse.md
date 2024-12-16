@@ -2,9 +2,7 @@
 ### Elections Fédérales 2023
 #### Forces des partis au Conseil National (% des suffrages)
 ![[Pasted image 20241112122304.png]]
-
 Après la WW2, la Suisse est réputée par sa stabilité, mais à partir des années 1990 les choses changent. Avant de faire sa montée en popularité l'UDC c'était juste un parti *junior*. Le parti vert a aussi connu un score historique en 2015.
-
 ![[Pasted image 20241112122637.png]]
 L'évolution entre 2019 et 2023 est le miroir de celle de 2015 à 2019. Les partis reculent et avancent après.
 ![[Pasted image 20241112122811.png]]
@@ -16,17 +14,11 @@ On a un système triparti, avec plus ou moins la même force politique pour chaq
 ### Le système de gouvernement
 La chambre du peuple avec 200 sièges (conseil national):
 ![[Pasted image 20241112123519.png]]
-
 La chambre des cantons (conseil des états) avec 46 sièges, deux par canton sauf das le cas des demi-cantons:
-
 ![[Pasted image 20241112123550.png]]
-
 On élit les conseillers fédéraux dans le conseil national où ils doivent prêter serment à la CH:
-
 ![[Pasted image 20241112123638.png]]
-
 Ils travaillent dans un collège de 7 et se réunissent, ils sont l’exécutif:
-
 ![[Pasted image 20241112123712.png]]
 #### Critères pour déterminer le régime
 Comment est le gouvernement élu? Quel est le rapport parlement-exécutif? Quel est le degré de séparation des pouvoirs?
@@ -50,7 +42,7 @@ On est proche du système parlementaire du point de vue du mode d'élection (él
 ##### Cas particulier
 **Concordance**: partage du pouvoir exécutif entre les principaux partis. Conseil fédéral en tant que *collège*, un système directorial qui assure le pouvoir égal des 7 membres et principe de collégialité. C'est la **non-hiérarchisation**. La collégialité assure que une fois une décision prise tout le conseil doit la défendre.
 ##### Conséquences
-Election indirecte du gouvernement + concordance. Les citoyens ont peu d'impact, via les élections parlementaires, sur la composition du gouvernement.
+Election indirecte du gouvernement+concordance. Les citoyens ont peu d'impact, via les élections parlementaires, sur la composition du gouvernement.
 ###### **Composition du CF**
 ![[Pasted image 20241112125550.png]]
 Les partis se mettent d'accord, la répartition des sièges ne dépend pas de la couleur du parlement.
@@ -118,8 +110,8 @@ Il y existe le fédéralisme territorial et le fédéralisme non-territorial:
 	- Le Sénat aux USA. Il a beaucoup de pouvoir en proportion à l'autre chambre.
 	- Le Conseil des États en Suisse. Les deux chambres ont les mêmes compétences.
 - Constitution écrite difficile à amender:
-	- Aux Etats-Unis, majorité qualifiée de 2/3 dans chaque Chambre + ratification par 3/4 des États.
-	- En Suisse, deux chambres du parlement + référendum obligatoire (avec double majorité du peuple et des cantons).
+	- Aux Etats-Unis, majorité qualifiée de 2/3 dans chaque Chambre+ratification par 3/4 des États.
+	- En Suisse, deux chambres du parlement+référendum obligatoire (avec double majorité du peuple et des cantons).
 - Cour suprême ou Cour constitutionnelle spéciale:
 	- Habilitée à arbitrer les différends relatifs au partage des compétences entre l'Etat fédéral et les entités fédérées.
 	- La Suisse fait exception: le Tribunal fédéral n'a pas cette prérogative. C'est probablement la seule institution fédérale qui n'a pas été adoptée, le tribunal fédéral est consultatif.
@@ -136,7 +128,7 @@ Il y a une division territoriale du pouvoir avec 26 sous-systèmes politiques. C
 Il y existe un bicaméralisme parfait (ou intégral):
 - Deux chambres qui ont les mêmes prérogatives.
 - Conseil national avec 200 sièges dont l'allocation est proportionnelle à la population des cantons.
-- Conseil des états avec 46 sièges: deux sièges pour chaque canton sauf les demi-cantons avec 1 sièges.
+- Conseil des états avec 46 sièges: deux sièges pour chaque canton sauf les demi-cantons avec 1 siège.
 - Ceci donne un poids considerable aux cantons petits comme les catholiques qui sont surreprésentés au parlement fédéral (Conseil des États). Même chose qu'en USA.
 #### Conséquences/Influence
 - Ceci change les systèmes de partis:
@@ -153,8 +145,8 @@ Il y existe un bicaméralisme parfait (ou intégral):
 #### Mode de scrutin
 Le mode de distribution des sièges entre les partis est aussi influencé par cette structure. C'est les règles qui traduisent les suffrages en sièges et comment on les distribue entre les partis:
 - Il y a deux grands types de système électoral:
-	- Le majoritaire: le parti ou candidat ayant obtenu la majorité absolue ou le parti ou candidat ayant obtenu plus de voix que les autres emporte l'élection.
-	- Proportionnel: les sièges sont attribués proportionnellement au vote ce qui représente plus fidèlement les votes des electeurs.
+	- Le majoritaire: le parti ou candidat ayant obtenu la majorité absolue ou le parti ou candidat ayant obtenu plus de voix que les autres remporte l'élection.
+	- Proportionnel: les sièges sont attribués proportionnellement au vote ce qui représente plus fidèlement les votes des électeurs.
 ##### Loi de Duverger
 Selon cette loi il y a une relation entre le système electoral et le système de partis:
 - Le proportionnel favorise le multipartisme et le majoritaire les grands partis, voire le bipartisme.
@@ -198,7 +190,7 @@ Tel que dans [[Séance 5-Les clivages]].
 #### Trois composantes
 - Structurelle-empirique: division sociale ou culturelle (langue, religion, classe sociale, etc.).
 - Culturelle-normative: représentations et valeurs communes au groupe et distinctes de celles des autres groupes.
-- Politique-organisationnelle: parti ou autre organisation qui "articule" le clivage.
+- Politique-organisationnelle: parti ou autre organisation qui *articule* le clivage.
 #### Fluctuation des clivages
 - Clivages traditionnels… (Lipset et Rokkan 1967):
 	- Religieux, linguistique, de classe, ville-campagne.
@@ -211,7 +203,7 @@ Tel que dans [[Séance 5-Les clivages]].
 - Normative:
 	- Ouverture/modernisation vs fermeture/défense des traditions (ou intégration vs démarcation ou universaliste vs communautaire).
 - Composante structurelle:
-	- Niveau de formation, catégories socio-professionnelles, lieu d'habitat ("gagnants-perdants").
+	- Niveau de formation, catégories socio-professionnelles, lieu d'habitat (*gagnants-perdants*).
 - Composante politique-organisationnelle:
 	- Clivage articulé par la gauche (PS/Verts) vs UDC.
 #### Clivages politiques
@@ -224,14 +216,14 @@ Tel que dans [[Séance 5-Les clivages]].
 	- Réduit l'importance des élections parlementaires.
 #### Système de partis
 - Fédéralisme, système proportionnel, nombreux clivages:
-	- Système de partis "fragmenté" (nombre élevé de partis).
+	- Système de partis *fragmenté* (nombre élevé de partis).
 - Transformation des rapports de force:
 	- Montée en puissance de l'UDC, vague verte en 2019, reflux en 2023.
-	- Déclin des deux partis "historiques" de la droite modérée.
+	- Déclin des deux partis *historiques* de la droite modérée.
 	- Recul (par vagues) du PS.
 - Transformation des lignes de conflit sous-jacentes:
 	- Affirmation du clivage de globalisation.
-	- Importance croissante du "vote d'enjeu": immigration/asile; climat.
+	- Importance croissante du *vote d'enjeu*: immigration/asile; climat.
 	- Polarisation.
 
 #Introsciencepo #UNIGE 

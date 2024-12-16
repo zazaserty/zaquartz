@@ -5,7 +5,7 @@ Pendant le 20ème siècle il y a eu pas mal de crises, qui ont arrivé dès le d
 Cette crise entraîne aussi un grand traumatisme et une période d'inflation qui explique la WW2.
 #### Coûts de WW2
 ![[Pasted image 20241127102223.png]]
-Il y aura des nombreuses pertes militaires, mais aussi civiles. Ceci cause de pertes importantes par rapport à la population totale. Les civils représentent 2/3 de la population totale à cause des bombardements (nouvelles formes d'armement) et le génocide.
+Il y aura des nombreuses pertes militaires, mais aussi civiles. Ceci cause de pertes importantes par rapport à la population totale. Les civils représentent 2/3 des pertes totales à cause des bombardements (nouvelles formes d'armement) et le génocide.
 
 De la même manière, il y aura des nombreux déplacés. Par ailleurs, un monde bipolaire émergera. Celui ci sera divisé par le *rideau de fer*, baptisé par Churchill.
 
@@ -78,7 +78,7 @@ La Suisse partage plusieurs caractéristiques avec le modèle économique allema
 - Le Franc suisse joue un rôle crucial dans l'économie du pays, servant de valeur refuge internationale grâce à la stabilité politique et économique de la Suisse.
 - Cette monnaie forte attire les investisseurs étrangers et contribue à la prospérité économique, bien qu’elle puisse freiner les exportations en rendant les produits suisses plus coûteux.
 #### Un élément original : la *paix du travail*
-- La « paix du travail » est un accord informel entre les syndicats et les employeurs suisses depuis 1937. Elle repose sur l'engagement des syndicats à ne pas recourir à des grèves en échange de négociations collectives régulières et de conditions de travail favorables. Ceci a commencé dans la métallurgie pour éviter les conflits comme les grèves.
+- La *paix du travail* est un accord informel entre les syndicats et les employeurs suisses depuis 1937. Elle repose sur l'engagement des syndicats à ne pas recourir à des grèves en échange de négociations collectives régulières et de conditions de travail favorables. Ceci a commencé dans la métallurgie pour éviter les conflits comme les grèves.
 - Ce système assure une grande stabilité sociale et économique, favorisant l’attractivité de la Suisse pour les entreprises internationales.
 ### État-providence et société d'abondance: de Ford à Beveridge et Keynes
 L'émergence de ce système n'est pas rapide, les voies sociales tardent à être mises en place et le question sociale n'émerge qu'au 19ème siècle. C'est une période de croissance positive économiquement ce qui facilite son apparition. Il va faire partie des droits des citoyens.
