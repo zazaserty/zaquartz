@@ -25,5 +25,6 @@
 - [[Séance 20-Évaluation des PP]]
 - [[Séance 21,22-Relations Internationales 1]]
 - [[Séance 22-Relations Internationales 2]]
+- [[Séance 23-Défis et innovations de la démocratie]]
 
 #UNIGE #Introsciencepo #Plaque-tournante

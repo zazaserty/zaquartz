@@ -94,7 +94,7 @@ Le deuxième permet de garder un bon niveau de vie, mais le premier (moins strat
 #### Exemples
 - Libéral: États-Unis, Royaume-Uni, Canada, Nouvelle-Zélande, Australie, Irlande.
 - Conservateur: Allemagne, Autriche, Belgique, Pays-Bas, France.
-	- **Breadwinners** : Dans le modèle conservateur (ex. Allemagne, France), l'État-providence soutient principalement le "soutien de famille" (souvent l'homme), renforçant les rôles de genre en étendant les protections à sa famille.
+	- **Breadwinners** : Dans le modèle conservateur (ex. Allemagne, France), l'État-providence soutient principalement le *soutien de famille* (souvent l'homme), renforçant les rôles de genre en étendant les protections à sa famille.
 - Sociaux-démocrate: Suède, Danemark, Norvège, Finlande.
 
 Manque de clarté: Suisse? Pays méditerranéens?

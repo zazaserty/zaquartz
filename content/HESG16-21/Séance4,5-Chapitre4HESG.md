@@ -10,7 +10,7 @@ Grande tradition anglaise d'industrie de la laine, cotton, tissu, etc. L’exist
 
 On commence par le filage, en prenant une matière brute (laine par exemple) et hétérogène a partir de laquelle on obtient des fils. Ce filage exige le travail de plusieurs personnes, normalement ceci se faisait en famille avec l'aide des enfants et les femmes. Après on tisse, pour faire des biens plus complexes. Et c'est le tissage ce qui origine la première innovation. En 1733 J. Kay invente une manière de tisser plus rapide (navette volante). Cependant le filage est toujours primitif et suppose un cou de bouteille. Donc on fait une deuxième innovation! La spinning jenny est inventée par J. Hargreaves en 1764, en débloquant la production du fil aussi.
 
-Ces deux inventions seront combinées en innovation pour donner place a les 1ères techniques de tisser mécaniques. Angleterre avait crée une loi pour protéger les innovations. Elles ont pu se diffuser assez rapidement. En 1779 la Mule de Crompton permet de faire les premiers métiers à tisser mécaniques en 1780. La production augmente tellement qu'on importe du cotton d'outre Atlantique.
+Ces deux inventions seront combinées en innovation pour donner place a les 1ères techniques de tisser mécaniques. Angleterre avait crée une loi pour protéger les innovations. Elles ont pu se diffuser assez rapidement. En 1779 la Mule de Crompton est inventée, et les premiers métiers à tisser complètement mécaniques apparaissent en 1780. La production augmente tellement qu'on importe du cotton d'outre Atlantique.
 
 Ainsi, petit à petit, on a réussi a passer de la production du domestic system au factory system. Le filage voit sa production quintuplée, grâce aux innovations techniques qui se mettent en place. Ceci est important pour la main-d'oeuvre infantile qui ne doit plus faire des travails si pénibles. De toute façon elle augmente considérablement.
 ##### Sidérurgie-Charbonnage
@@ -34,7 +34,7 @@ On va regrouper les gents pour les surveiller, avec des horaires fixes. Les cont
 
 Ceci ce donnait par exemple à Manchester en 1770 et est connu comme une sorte d'esclavage des machines.
 #### Mécanisation
-On voit donc une mécanisation qui va se diffuser ==dans== l'Angleterre. Les historiens sont en consensus sur les interactions entre production et culture. Les traditions sont liés a consommation.
+On voit donc une mécanisation qui va se diffuser ==dans== l'Angleterre. Les historiens sont en consensus sur les interactions entre production et culture. Les traditions sont liées à la consommation.
 #### Nouvelles attitudes
 Nouvelles attitudes de consommation, notamment la consommation de masse. Les tissus d'Inde, la sucre, le café, le thé... Le commerce international génère des désirs de consommer nouveaux. Les historiens peuvent savoir que est-ce qu'on consommait a partir des décès (l'inventaire après-décès).
 
@@ -42,10 +42,10 @@ Les vendeurs ambulants vont être remplacés pour des boutiques dans les zones u
 
 Une hausse démographique vers le 18ème siècle augmente aussi la demande.
 #### Hausse des coûts comme incitation
-1700-1760-> (+60% de production) Augmentation de la production industrielle mais même méthode. On voit une forte demande de travailleurs ce qui débouche dans des salaires plus hauts (ceci est apparu 1700-1750, sinon on aurait des tensions avec la main d'oeuvre) et les employeurs qui veulent mécaniser la procédure pour réduire les coûts. L'Angleterre veut rester competitive internationalement. Ses produits doivent être moins chers. Sinon on importe les bien d'ailleurs et pas d'Angleterre.
+1700-1760-> (+60% de production) Augmentation de la production industrielle mais même méthode. On voit une forte demande de travailleurs ce qui débouche dans des salaires plus hauts (ceci est apparu vers 1700-1750, sinon on aurait des tensions avec la main d'oeuvre) et les employeurs qui veulent mécaniser la procédure pour réduire les coûts. L'Angleterre veut rester competitive internationalement. Ses produits doivent être moins chers. Sinon on importe les bien d'ailleurs et pas d'Angleterre.
 ### L'agriculture anglaise
 #### Revolution agricole?
-Selon Bairoch, c'est l'agriculture celle qui a été à la base de tout. L'agriculture va se mécaniser et les nourrir mieux pour utiliser le sol mieux. On utilise des tréflés pour générer de l'azote et nourrir le sol. Le fourrage sera aussi utilisé->ça nourrit des animaux-> on a plus de fumier->plus de fourrage->cycle.
+Selon Bairoch, c'est l'agriculture celle qui a été à la base de tout. L'agriculture va se mécaniser et nourrir mieux les sols pour utiliser ces derniers mieux. On utilise des tréflés pour générer de l'azote et nourrir le sol. Le fourrage sera aussi utilisé->ça nourrit des animaux-> on a plus de fumier->plus de fourrage->cycle.
 
 Théoriquement c'est une espèce de revolution agricole. On sélectionne maintenant les graines et les animaux pour plus produire, c'est le début de l'agronomie.
 #### Reformes des terres
