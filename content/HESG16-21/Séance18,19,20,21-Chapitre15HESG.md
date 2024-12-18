@@ -123,8 +123,32 @@ Le *consensus de Washington*-> Quand les pays ne peuvent pas payer des dettes le
 On change de stratégie, on fait une *lutte contre la pauvreté*. La Banque Mondiale elle fait un tournant, elle se préoccupe à cause de l'augmentation de la pauvreté. Le FMI joue toujours le même rôle. Maintenant on se préoccupe aussi de développer la santé, l'éducation, etc. C'est pas juste libéraliser pour augmenter la croissance économique.
 
 189 pays s'engagent à réduire l'extrême pauvreté vers 2015: eau potable, égalité des femmes, etc. L'extrême pauvreté passe de 2 milliards à moins de 800 millions. En 1990 c'était 50% des suds et maintenant 14%, la pauvreté est réduite même si c'est pas homogène partout-> Chine des résultats très bons par **exemple**. Quelques pays augmentent beaucoup leur PNB. Après l'agenda 2030 apparaît, très ambitieuse.
+### Nord<->Sud
 #### Convergence et divergence
 ![[Pasted image 20241212135538.png]]
 L'opposition nord et sud n'a pas tellement d'importance maintenant, le BRIC émerge. Il y a de la convergence mais de la divergence. Europe diminue, l'Asie émerge et l'USA pert de la vitesse. LATAM est stable mais vers le bas. Grâce aux pays asiatiques la pauvreté baisse. L'URSS/RSS (en 2008) s'effondre btw, de 7.8 en 1900 à 4.5% en 2008.
+#### Émergence de l'Asie
+Les pays d'Asie de l'Est convergent en séquence-> Japon, Corée du Sud, Hong Kong, Chine. Ils vont devenir néoliberaux et s'intéresser au commerce international. Elle va suivre sa propre voie sans suivre complètement la recette occidentale et s'insérer dans la chaîne de production mondiale. L'État va intervenir-> consensus asiatique opposé au consensus de Washington. C'est pas une économie de marché totale-> 8% d'entreprises étrangères (exportent essentiellement) et plus de la moitié des entreprises sont étatiques.
+#### BRIC
+Les BRIC (maintenant BRICS+) représentent une somme de richesses qui était amenée à dépasser celle des 6 plus grandes puissances économiques (selon la banque mondiale). BRIC représente une très grande partie de la population mondiale. L'Europe perd de la vitesse, BRIC et BRICS dès 2010 représente un nouvel espoir pour les investisseurs. Ils ont la capacité de parler pour les pays en développement qui n'ont pas tellement de pouvoir. Ils sont caractérisés par les exportations dans la chaîne de production mondiale ou les produits bruts comme le Brésil qui exporte surtout des produits agricoles (44% des exportations dans le Brésil). Ils sont dépendants. Ils ont du mal a stimuler la demande intérieur (Chine et Inde surtout).
+
+Ils ont des projets ambitieux communs pour réduire leur dépendance envers l'occident. Ça les aide à émerger dans la scène internationale. Il y a des régimes politiques différents entre ces pays et aussi des industries très différentes, des fois très avancées comme celle de la Chine et autres non comme le Brésil. Ce dernier a même perçu des processus de désindustrialisation.
+##### Crise positive
+Même dans cette situation, la crise de 2007-8 elle va être super pour ces pays là. On va donner plus de pois au pays du G20 (où ces pays sont) et pas au G8. 
+#### Décrochage
+Les 49 pays les plus pauvres (PMA) sont surtout dans l'Afrique Subsaharienne. Le commerce international est 50% de la richesse crée dans ces pays. C'est fragile. Dans l'Asie il y a une industrie plus centrée dans les produits manufacturés mais c'est avec un travail très fort en main d'oeuvre déprotégée et exploitée. Ceci facilite l'installation d'entreprises étrangères, ce qui fait quand même croître leur PNB.
+
+Le taux de croissance de l'Afrique est 0.01% par habitant par année. Le paramètre démographique absorbe la croissance du continent. Le Soudan par exemple est exportateur agricole ce qui explique ceci. Dans l'Asie c'est 4% ==sans les PMAs==. C'est pays pauvres sont bien intégrés à l'économie mondiale mais faibles.
+#### Sud<->Sud
+![[Pasted image 20241218104933.png]]
+Les accords de commerce régionales comme celui du Mexique avec l'Amérique du Nord (pas le meilleur exemple c'est pas sud<->sud) où ceux en Asie ou l'Afrique, favorisent le commerce sud<->sud. Dans le nord c'est la même chose avec des zones comme l'UE (nord<->nord). Les exportations du sud vers le sud ont augmenté jusqu'à 50%. Mondialement c'est pas trop important mais pour ces pays oui. En 2007 c'était 25% de toutes les échanges mondiaux.
+
+Certains pays du sud contribuent même aux aides au développement initiées par Truman comme ceux de l'Afrique ou le Brésil de Lula. Par exemple l'Afrique du Sud avec l'Afrique Subsaharienne-> proximité culturelle et facilité d'échange pour l'égalité. Aussi la Chine, avec une intervention différente à celle des occidentaux.
+
+Il y a des critiques envers la Chine:
+- Manque de transparence.
+- Violation des droits humains.
+- Intérêts comerciaux.
+- Endettement des suds.
 
 #UNIGE #HESG 
