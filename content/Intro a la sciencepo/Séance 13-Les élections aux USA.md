@@ -46,7 +46,7 @@ De 33 états, une grande partie est déjà décidée.
 ![[Pasted image 20241101144650.png]]
 Il reste que 30-40 sièges compétifis de 400. Dans le système majoritaire seulement les districts compétitifs sont intéressants au contraire du système proportionnel.
 ### Effet: Représentation inégale.
-Les *swing districts* sont très importants dans les systèmes majoritaires. Donc, les intérêts particuliers qui peuvent apporter les votes cruciaux dans les Swing States ont potentiellement beaucoup d'influence. Par **exemple**: les politiques tarifaires, las partis se concentrent sur le protection des producteurs concentrés au niveau régional.
+Les *swing districts* sont très importants dans les systèmes majoritaires. Donc, les intérêts particuliers qui peuvent apporter les votes cruciaux dans les Swing States ont potentiellement beaucoup d'influence. Par **exemple**: les politiques tarifaires, les partis se concentrent sur la protection des producteurs concentrés au niveau régional.
 
 Dans Michigan, très industriel, on protège l'industrie automobile.
 #### La droite en profite
@@ -65,8 +65,8 @@ Les démocrates sont *punis* pour avoir une base de votants plutôt concentrée.
 
 Pourquoi? Les districts démocrates sont souvent situées au centre des grandes villes. Presque tout le monde y vote démocrate. Les sièges républicains sont souvent plus hétérogènes : Des zones rurales, une petite ville, quelques banlieues: Il y a toujours quelques démocrates dans ces sièges. Par conséquent, avec 50 % des voix, les partis urbains remportent généralement moins de 50 % des sièges.
 #### Gerrymandering
-Les districts sont établis par les États. C'est une invitation à l'abus:
-- Créer quelques districts regroupant le plus grand nombre possible d'électeurs de votre adversaire (*Packing*). Dans la majorités des états c'est le parlement qui décide et pas des juges ni des experts.
+Les districts sont établis par les États. Dans la majorités des états c'est le parlement qui décide et pas des juges ni des experts. C'est une invitation à l'abus:
+- Créer quelques districts regroupant le plus grand nombre possible d'électeurs de votre adversaire (*Packing*).
 - Créez de nombreux districts dans lesquels vous disposez d'un avantage faible mais solide (*Cracking*).
 
 Dans l'exemple de droite, 9 électeurs bleus et 6 électeurs rouges peuvent être répartis de la manière suivante:
@@ -112,7 +112,7 @@ Dans le système américain, le président nomme un nouveau juge (la cour suprê
 Le parti républicain a trouvé le moyen de gouverner sans obtenir la majorité:
 - Restreindre l'accès au vote.
 - Contrôle de la Cour suprême.
-- Surreprésentation rural et Gerrymandering.
+- Surreprésentation rurale et Gerrymandering.
 
 Un parti qui ne peut pas obtenir la majorité lors d'une élection est fortement incité au backsliding.
 

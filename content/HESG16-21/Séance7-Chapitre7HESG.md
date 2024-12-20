@@ -29,14 +29,14 @@ L'Angleterre perd de la vitesse, elle reste dans une industrie de la première g
 L'économie change de visage de 1850 à 1913 grâce à:
 - Nouveaux transports qui permettent de compenser les coûts de transporter les biens (à la fin le protectionnisme va être nécessaire dans quelques pays).
 - Complexification et complémentarités: L'évolution des économies vers des structures plus complexes et des relations internationales interdépendantes où les pays se spécialisent et échangent entre eux
-- Le protectionnisme laissera la place au libre échange.
-- Les flux financiers envers la GB et la France, et après aux USA.
-- La circulation humaine entre les divers pays.
+- Le protectionnisme laissera la place au libre échange:
+	- Les flux financiers envers la GB et la France, et après aux USA.
+	- La circulation humaine entre les divers pays.
 #### Le révolution des transports
 ##### 1850
 Pour transporters des biens lourds et beaucoup de marchandises on avait besoin de beaucoup de chevaux et l'infrastructure routière était mauvaise. C'était cher. Acheminer marchandises et humains ne valait pas la peine dans beaucoup de cas. **Exemple**: Une dizaine de jours entre Marseille et Paris en diligence.
 
-Mais une révolution va venir avec les chemins de fer et la machine à vapeur. On va transporter le charbons des mines et après des personnes sur des distances plus longues. On commence avec des petites lignes sur de courtes distances pour convaincre les investisseurs et passer à une échelle plus grande. Il y a divers promoteurs pour convaincre les gens et les banquiers de la faisabilité du train. Ligne de test entre Saint-Germain et Paris. Il y aura une extension du réseau entre Paris et Lille après.
+Mais une révolution va venir avec les chemins de fer et la machine à vapeur. On va transporter le charbon des mines et après des personnes sur des distances plus longues. On commence avec des petites lignes sur des courtes distances pour convaincre les investisseurs et passer à une échelle plus grande. Il y a divers promoteurs pour convaincre les gens et les banquiers de la faisabilité du train. Ligne de test entre Saint-Germain et Paris. Il y aura une extension du réseau entre Paris et Lille après.
 
 Il y a ensuite une construction de réseaux nationaux qui relient des centre économiques. On ne reliera des centres petits que vers le fin de la révolution, puisque ceci est cher et n'attire pas tellement de capital.
 
@@ -70,7 +70,7 @@ Il y a un exode massif des campagnes pour chercher des opportunités ailleurs. U
 
 Les grands espaces américains permettent de produire beaucoup de nourriture, les européens vont tenter chance là. Ceci augmente l'agriculture des USA qui va rentrer en concurrence avec le blé européen et déboucher dans une déflation et exodus rural. Mais il y a aussi un progrès technique, on produit maintenant plus avec moins de paysans. La faillite bancaire et la baisse des prix de l'agriculture européenne sont les résultats directs de cette crise.
 
-Comme on redistribue l'agriculture géographiquement la population change aussi, surtout en France où il y avait plus de population rurale. Cependant plus de gents on migré depuis GB et l'Irlande par exemple.
+Comme on redistribue l'agriculture géographiquement la population change aussi, surtout en France où il y avait plus de population rurale. Cependant plus de gents ont migré depuis GB et l'Irlande par exemple.
 ##### Timide fermeture
 Pour essayer de faire face a cet exodus on met en place un protectionnisme. Comme le cas de l'Allemagne avec Bismarck. On impose des taux sur les produits importés mais la thèse du libre-échange progresse. Par exemple, en 1860 le traité franco-anglais est signé est le libre-échange entre la France et la GB est assuré.
 
@@ -89,19 +89,18 @@ Les tarifs vont petit à petit être abolies, elles avaient même baissé autour
 - Les exportations anglaises de la première génération sont en baisse est préoccupent la population. Les pays de la deuxième génération ont déjà progressé.
 - La France va aussi se marginaliser pendant cette période.
 ### Mondialisation de l'argent
-Le système monétaire international est basé sur la monnaie anglaise. GB et FR sont les places les plus importantes économiquement et ses monnaies sont à la base du système. Le système monétaire établissait la valeur de la monnaie comme les francs français dans le poids d'un seul métal (*monométallisme*). Cependant, après l'instauration du bimétallisme on ne depend pas de la production d'un seul métal. Ce système est donc basé sur la production des métaux, qui reposent sur des ressources naturelles.
+Le système monétaire international était basé sur la monnaie anglaise. GB et FR sont les places les plus importantes économiquement et ses monnaies sont à la base du système.
 #### Fin bimétalliste.
 Des nouvelles découvertes d'or et l'amélioration de son extraction cause une perte de sa valeur. L'Union Latine est crée pour assurer le transfer de monnaies en or entre France, Suisse, etc.
 - l'Union Latine était une union monétaire qui visait à standardiser les pièces de monnaie en fixant des poids et des titres (pureté du métal) uniformes pour l'or et l'argent. Cela permettait aux pays membres d'avoir des monnaies facilement interchangeables, ce qui facilitait le commerce et les transactions financières entre eux. En réponse aux fluctuations de l'or.
 
 Le bimétallisme finit en 1873 après la guerre franco-prussienne, l'Union (Monétaire) Latine perdure jusqu'à 1927 (quelques pays essaient de garder le système). Le bimétallisme a été abandonné parce que les fluctuations du prix de l'or et de l'argent rendaient difficile le maintien d'un taux de change fixe entre les deux métaux. Cela créait de l'instabilité économique et compliquait les transactions internationales. L'étalon-or a été adopté comme une alternative plus stable.
 - Si l'or varie je vais le garder et mettre en circulation juste les pièces en argent (Loi de Gesham-> la mauvaise monnaie chasse la bonne).
-- **Définition** : Le bimétallisme est un système monétaire où deux métaux précieux, généralement l'or et l'argent, sont utilisés comme base pour la monnaie. Les pièces sont frappées en or ou en argent, avec une valeur légale fixée par l'État. Cependant, ce système pose des problèmes :
     - **Fluctuations des métaux** : Les variations du prix de l'or et de l'argent sur le marché mondial créent une instabilité monétaire, compliquant le commerce et la stabilité des prix.
     - **Arbitrage** : Les différences de valeur entre l'or et l'argent peuvent inciter à fondre les pièces pour profiter des écarts de prix, réduisant ainsi la masse monétaire en circulation.
 ##### Nouvel ordre
 #### L’Alignement sur l’Or
-- Pour résoudre les problèmes du bimétallisme, de nombreux pays, dont le Royaume-Uni et la France, adoptent un système monométallique basé uniquement sur l'or : c'est l'**étalon-or**. Ce système présente plusieurs avantages :
+- Pour résoudre les problèmes du bimétallisme, de nombreux pays, dont le Royaume-Uni (très tôt) et la France, adoptent un système monométallique basé uniquement sur l'or : c'est l'**étalon-or**. Ce système présente plusieurs avantages :
     - **Stabilité des échanges internationaux** : L'or offre une référence commune, facilitant le commerce entre les nations.
     - **Confiance accrue** : L'or est universellement reconnu comme une réserve de valeur fiable, ce qui renforce la confiance dans les pièces et les billets de banque.
 - Cependant, l'**Angleterre** va plus loin en faisant de sa monnaie, la **livre sterling**, la valeur de référence internationale, un système parfois appelé **étalon sterling**. La livre sterling est basée sur l'or et est librement convertible, ce qui la rend particulièrement attractive pour les échanges internationaux.

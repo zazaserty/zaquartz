@@ -48,8 +48,8 @@ L'économie ne peut pas absorber toute la main d'oeuvre et le chômage se rend p
 Les ouvriers moins qualifiés sont le plus touchés puisqu'on est dans une économie de services et ils sont pas qualifiés (ils ont même pas d'argent pour bouger et chercher ailleurs).
 #### 2007-2008
 Une autre crise avec la bulle des entreprises du NASDAC (dotcom) qui explose en 2001. Le valeur boursier des entreprises est perdu.
-
-À partir de là on a une économie américaine qui fonde ça croissance sur l'endettement des ménages alors en 2007 ceci cause une crise financière puisque les ménages pauvres étaient risqués et on vendait les risques à d'autres intermédiaires. En 2007 ceci explose et les marchés financiers globaux dérégulés causent en partie cette crise. On peut se débarrasser des risques mais c'est pas très sain pour le marché.
+##### Subprimes
+À partir de là on a une économie américaine qui fonde ça croissance sur l'endettement des ménages alors en 2007 ceci cause une crise financière puisque les ménages pauvres étaient risqués (le prix de la maison augmente et ils ne peuvent pas payer leur crédit) et on vendait les risques à d'autres intermédiaires. En 2007 ceci explose et les marchés financiers globaux dérégulés causent en partie cette crise. On peut se débarrasser des risques mais c'est pas très sain pour le marché.
 
 Les prix des matières premières et la demande changent ce qui nuit les pays du Sud. Ceci cause aussi le chômage structurel.
 ### État providence: apogée-> remise en cause

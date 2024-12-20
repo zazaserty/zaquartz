@@ -136,7 +136,7 @@ Ils ont des projets ambitieux communs pour réduire leur dépendance envers l'oc
 ##### Crise positive
 Même dans cette situation, la crise de 2007-8 elle va être super pour ces pays là. On va donner plus de pois au pays du G20 (où ces pays sont) et pas au G8. 
 #### Décrochage
-Les 49 pays les plus pauvres (PMA) sont surtout dans l'Afrique Subsaharienne. Le commerce international est 50% de la richesse crée dans ces pays. C'est fragile. Dans l'Asie il y a une industrie plus centrée dans les produits manufacturés mais c'est avec un travail très fort en main d'oeuvre déprotégée et exploitée. Ceci facilite l'installation d'entreprises étrangères, ce qui fait quand même croître leur PNB.
+Les 49 pays les plus pauvres (PMA) sont surtout dans l'Afrique Subsaharienne (3/4 en faite et 75% de la population en pauvreté, beaucoup de population donc beaucoup de chômage). Le commerce international est 50% de la richesse crée dans ces pays. C'est fragile. Dans l'Asie il y a une industrie plus centrée dans les produits manufacturés mais c'est avec un travail très fort en main d'oeuvre déprotégée et exploitée. Ceci facilite l'installation d'entreprises étrangères, ce qui fait quand même croître leur PNB.
 
 Le taux de croissance de l'Afrique est 0.01% par habitant par année. Le paramètre démographique absorbe la croissance du continent. Le Soudan par exemple est exportateur agricole ce qui explique ceci. Dans l'Asie c'est 4% ==sans les PMAs==. C'est pays pauvres sont bien intégrés à l'économie mondiale mais faibles.
 #### Sud<->Sud

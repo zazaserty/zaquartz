@@ -21,6 +21,7 @@ Enregistrements des cours:
 - [[Séance 12,13,14,15,16-Contentieux]]
 - [[Séance 16,17,18,19-Les affaires pénales]]
 - [[Séance 19,20-Affaires pénales 2]]
-- [[Séance 20-Organisation de la justice]]
+- [[Séance 20,21-Organisation de la justice]]
+- [[Séance 22-Application du droit]]
 
 #UNIGE #IntroDroit #Plaque-tournante 

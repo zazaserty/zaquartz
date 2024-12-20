@@ -38,7 +38,7 @@
 - Il n'y a pas de production en usines de masse donc on a un certain blocage.
 - Le capitale reste dans les mains de marchands et donc on n'a pas un réinvestissement dans l'industrie suffisant.
 ### La proto-industrialisation
-Celle-ci n'est pas une étape déconnectée de l'industrie complètement. Cette thèse a été lancée par Mendels comme une explication sur l'évolution industrielle de la Flandre du 18e siècle.
+Celle-ci n'est pas une étape déconnectée de l'industrie complètement. Cette thèse a été lancée par Mendels comme une explication sur l'évolution industrielle de la Flandre du 17.5-18e siècle. Il dit que l'industrialisation commence avant regrouper les ouvriers dans des usines et zones urbaines, en 1750:
 - Il y a des dynamiques rurales mais pas des concentrations d'usines.
 - Deux groupes en croissance:
 	- Paysans sans terres, lesquelles sont maintenant privatisées et très régulées pour son usage.
@@ -57,6 +57,7 @@ Celle-ci n'est pas une étape déconnectée de l'industrie complètement. Cette 
 - Travail à domicile et à temps partiel.
 - On produit pour vendre et pas pour consommer.
 - Cette production est coordonnée par les marchands.
+- Plus de paysans concernés.
 - Il y a finalement un investissement en machines basiques pour mieux travailler.
 - Ce système et bien plus connecté que le domestique, le commerçant va étendre son influence.
 - Alors les lieux de production s'éloignent.
