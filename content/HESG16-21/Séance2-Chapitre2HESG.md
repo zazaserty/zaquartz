@@ -9,7 +9,7 @@
 #### Guerres
 Les guerres sont une des causes de mortalités principales.
 - Les pertes militaires étaient élevées, mais les civiles aussi souffraient. Les pillages étaient fréquents dans la campagne.
-	- **Exemple**: Guerre franco-espagnole (1635-1659)-> 380000 morts.
+	- **Exemple**: Guerre franco-espagnole (1635-1659)-> 380 000 morts.
 	- Europe a perdu de 2,5 à 3 millions d'habitants a cause de ce type de guerres.
 #### Les épidémies
 La peste s'installe pendant 400 ans sur l'Europe, en revenant sur quelques *peaks* (hausses).
@@ -28,7 +28,7 @@ Ce concept référence une dynamique de stabilisation face aux crises, il est em
 Ces normes sociétales vont aider a équilibrer la population en proportion au terres disponibles. L'âge du marriage était tardif puis qu'il était nécessaire d'obtenir une terre avant de former un couple pour pouvoir vivre, et des terres il y en avait peu. L'âge moyen du 1er marriage >25 ans.
 Marriage tardif->Moins de fécondité puis qu'elle se déroule entre les 15-49 ans cela en plus du fait que l'age à la dernière maternité était 40 ans en moyenne. Donc 1/3 de la fécondité est perdue.
 
-Il y aussi peu de naissances illégitimes (religion, coitus interruptus, manque d'éducation sexuelle; on ne sait pas trop pourquoi).
+Il y aussi peu de naissances illégitimes (religion, *coitus interruptus*, manque d'éducation sexuelle; on ne sait pas trop pourquoi).
 
 Ce marriage tardif n'entraîne pas nécessairement la posibilité de célibat définitif (mais il y a une correlation). Cependant 50% des femmes de 15 à 49 ans (fertiles) étaient célibataires (ne se remarient pas ou ne trouvent pas de couple) ce qui influence la dynamique démographique.
 - 50% de femmes célibataires pour des raisons diverses:

@@ -77,7 +77,7 @@ Le prolétariat veut s'organiser et faire des partis socialistes pour améliorer
 
 Marx va aussi dialoguer avec Proudhon. La vision de Marx est plutôt *communiste*. 4 million d'ouvriers qui vers les années 1865-1880 voient comment la lutte syndicale s'intensifie. Les lois changent pour permettre aux ouvriers de s'assembler et s'organiser, ceci n'était pas permis dans la France et d'autres pays avant.
 #### La grève et le conflit à Genève
-Les ouvriers utilisent la grève comme moyen de lutte, en plus de détruire les machines pour pas être remplacés. Chaque fois les grèves sont plus réprimés et plus nombreuses. Par exemple, à Genève (un état avec un conseil relativement socialiste et des idées plus modernes) une grève de solidarité avec les conducteurs de tramway apparaît pendant 3 jours. Cependant, la compagnie commence a licencier. Le conseil d'état doit réquisitionner l'armée à la Jonction. Dans les prochains jours les membres du comité de grève sont arrêtés et reprennent le travail.
+Les ouvriers utilisent la grève comme moyen de lutte, en plus de détruire les machines pour pas être remplacés. Chaque fois les grèves sont plus réprimées et plus nombreuses. Par exemple, à Genève (un état avec un conseil relativement socialiste et des idées plus modernes) une grève de solidarité avec les conducteurs de tramway apparaît pendant 3 jours. Cependant, la compagnie commence a licencier. Le conseil d'état doit réquisitionner l'armée à la Jonction. Dans les prochains jours les membres du comité de grève sont arrêtés et reprennent le travail.
 
 La désertion collective arrive, on fait la grève de manière tournante mais aussi de manière générale. La productivité baisse à cause de ces débrayages.
 
@@ -86,7 +86,7 @@ Entre 1880 et 1914 2.000 conflicts émergent à Genève. En 1864 l'International
 La législation sociale commence dans l'Angleterre:
 - 1802 Peel’s Factory Act. Les familles qui étaient embauchés (tous) dans une entreprise pas concernées.
 - 1833 Factory Act. Les enfants ne peuvent plus travailler avant un certain âge.
-- 1854: la 1ère loi générale sur la durée du travail. Conditions de travails pour les adultes et pas seulement les enfants.
+- 1854: la 1ère loi générale sur la durée du travail. Conditions de travail pour les adultes et pas seulement les enfants.
 - 1880: introduction de l’école obligatoire. Ceci permet d'éduquer et contrôler mieux l'état des enfants.
 
 De *iure*, ceci était une bonne opportunité de ce moderniser avant les autres. De *facto*, ces lois n'était pas toujours appliquées dans la réalité. Normalement elles s’appliquaient juste à un secteur (le textile normalement) et donc elles étaient une solution limitée. On règle la journée laborale infantile à 12 heures mais on l'applique pas. Pas de contrôle. GB était une des premières a implementer ces mesures, puisqu'elle a été une des premières à s'industrialiser. Après ALL, Suisse, etc; feront la même chose.
@@ -108,7 +108,7 @@ Cependant elle est une retardaire dans les autres pilliers de l'état providence
 #### USA
 L'USA est plutôt fan de la liberté et n'a jamais été une grande régulatrice du travail, c'est les entreprises qui gèrent. En faite, c'est l'employeur qui fait le fond de pension pour les retraités. Ils cherchent le *welfare capitalism*, l'employeur est le moteur de la providence. C'est pas avant après la crise de 1929 avec Roosevelt que le pays est doté de co-contributions entre l'état fédéral et les états fédérés pour ces programmes.
 #### France
-En France cette question sociale est difficile, il y a beaucoup de commerçants et on aime le *travail individuel*. La 3ème république est conservatrice et n'est pas intéressée par ceci. Mais en 1884 l'education est rendue laïque, gratuite et obligatoire. Les syndicats sont aussi légalisés, ils vont être le moteur de la naissance de cette question sociale. Le syndicalisme est apparu:
+En France cette question sociale est difficile, il y a beaucoup de commerçants et on aime le *travail individuel*. La 3ème république est conservatrice et n'est pas intéressée par ceci. Mais en 1884 l'education est rendue laïque, gratuite et obligatoire. Les syndicats sont aussi légalisés, ils vont être le moteur de la naissance de cette question sociale (avec l'éducation qui facilite la contestation sociale). Le syndicalisme est apparu:
 **Rousseau**:
 ![[Pasted image 20241025183648.png]]
 

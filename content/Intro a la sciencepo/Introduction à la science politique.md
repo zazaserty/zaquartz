@@ -26,5 +26,6 @@
 - [[Séance 21,22-Relations Internationales 1]]
 - [[Séance 22-Relations Internationales 2]]
 - [[Séance 23-Défis et innovations de la démocratie]]
+- [[Séance 24-Innovations démocratiques; conclusion]]
 
 #UNIGE #Introsciencepo #Plaque-tournante

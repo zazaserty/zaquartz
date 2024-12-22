@@ -40,13 +40,13 @@ Superposer vs entrecroiser. Selon Lijphart (1977):
 ![[Pasted image 20241001125115.png]]
 **Exemple Suisse**: Les francophones protestants/catholiques et les allemands protestants/catholiques. Clivages dans les groupes (ce qui affaiblit les clivages) et pas entre eux (ce qui les grandit) comme avec l'Irlande.
 ### Nouveaux clivages, nouveaux partis
-- La *Revolution Silencieuse* (Ingelhart 1977)
+- La *Revolution Silencieuse* (Ingelhart 1977):
 	- Le clivage matérialistes (sécurité économiques) vs post-matérialistes (la vie, l'environment, etc.). Ces clivages peuvent ce donner dans un groupe comme dans les différentes ailes d'un parti.
 	- Il contribue à expliquer l'émergence des partis écologistes.
 	- **Clivage Matérialistes vs Post-Matérialistes :** Inglehart a observé que, dans les sociétés où les besoins économiques de base sont largement satisfaits, les individus tendent à accorder plus d'importance à des valeurs post-matérialistes. Ce clivage se manifeste au sein des populations et même au sein des partis politiques, où des ailes peuvent être plus matérialistes ou post-matérialistes.
-	- **Émergence des Partis Écologistes :** Ce changement de valeurs a contribué à l'apparition et à la croissance des partis écologistes. Les préoccupations pour l'environnement, la durabilité et la qualité de vie sont au cœur des valeurs post-matérialistes. Ainsi, la "Révolution Silencieuse" explique en partie pourquoi de plus en plus de citoyens soutiennent des politiques et des partis axés sur ces enjeux.
-- Mondialisation
-	- clivage mondialistes (souvent les gagnants) vs anti-mondialistes (souvent les perdants de la mondialisation)
+	- **Émergence des Partis Écologistes :** Ce changement de valeurs a contribué à l'apparition et à la croissance des partis écologistes. Les préoccupations pour l'environnement, la durabilité et la qualité de vie sont au cœur des valeurs post-matérialistes. Ainsi, la *Révolution Silencieuse* explique en partie pourquoi de plus en plus de citoyens soutiennent des politiques et des partis axés sur ces enjeux.
+- Mondialisation:
+	- Clivage mondialistes (souvent les gagnants) vs anti-mondialistes (souvent les perdants de la mondialisation)
 	- Il contribue à expliquer l'émergence des *partis anti-système* (identitaires et/ou souverainistes et/ou populistes)
 
 #UNIGE #Introsciencepo 

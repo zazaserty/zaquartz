@@ -70,7 +70,7 @@ Séparation du chef de gouvernement et du chef d'État (en grande partie cérém
 ![[Pasted image 20241025154526.png]]
 Dans le système parlementaire l'idéal c'est pas séparer, mais fusionner les pouvoirs. Seul le législatif est élu directement, l'exécutif est issu du législatif. Les lois émanent de l'exécutif et sont présentées au parlement par le gouvernement. Dans de nombreux systèmes (pas tous), le PM -et parfois les membres du cabinet - doit être membre du parlement.
 
-Ceci ne fait pas de ce régime un système moins démocratique, la séparation des pouvoirs n'est pas la seul essence de la démocratie.
+Ceci ne fait pas de ce régime un système moins démocratique, la séparation des pouvoirs n'est pas la seule essence de la démocratie.
 #### Gouvernement minoritaire
 Il est possible que le parti ou la coalition du premier ministre ne dispose pas de la majorité au parlement. Cet arrangement est plus fragile qu'un gouvernement divisé (en fonction des dispositions relatives au renversement d'un PM). En même temps, il y a un moindre risque de *gridlock*. Il y a des majorités changeantes avec chaque nouvelle élection.
 ## Lien entre les systèmes électoraux et les systèmes de gouvernement
@@ -84,7 +84,7 @@ Il est possible que le parti ou la coalition du premier ministre ne dispose pas 
 ### Exemples
 ![[Pasted image 20241025155601.png]]
 ### Force de l'exécutif
-Le présidentialisme: L'exécutif n'a pas besoin de garder la "confiance" du parlement, il est donc assez indépendant.
+Le présidentialisme: L'exécutif n'a pas besoin de garder la *confiance* du parlement, il est donc assez indépendant.
 - Il dispose d'une légitimité démocratique directe.
 - Accès direct à la population.
 
