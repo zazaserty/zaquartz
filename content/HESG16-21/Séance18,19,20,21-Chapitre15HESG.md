@@ -6,7 +6,7 @@ Surtout l'Asie, en particulier l'Inde.
 #### Vague 2-> 1956-1963
 Surtout l'Afrique subsaharienne et du Nord. Plus tardive et résulte d'une mobilisation des autres pays pour la décolonisation des pays. Les pays des non-alignés construisent une force politique au Sud.
 ### Émergence du tiers-monde dans la GF
-Pas de phénomènes nouveaux, il y a toujours eu de l’indépendantisme. L'indépendance devient l'horizon de beaucoup de mouvements politiques. Les puissances coloniales doivent comme toujours répondre. Après la participation des colonies à la WW2 et les discours anti-colons des USA et l'URSS l'indépendance devient réaliste. Ils ont des intérêts pour pas soutenir les empires coloniaux.
+Pas de phénomènes nouveaux, il y a toujours eu de l’indépendantisme. L'indépendance devient l'horizon de beaucoup de mouvements politiques. Les puissances coloniales doivent comme toujours répondre. Après la participation des colonies à la WW2 et les discours anti-colons des USA et l'URSS, l'indépendance devient réaliste. Ils ont des intérêts pour pas soutenir les empires coloniaux.
 
 En plus on a le contexte de l'ONU et sa charte qui dit que les peuples doivent avoir leur propre pouvoir et doivent être libres. Truman fait un discours à la nation en 1949 dans lequel il dit que les relations entre les pays du sud et du nord:
 - Il sort de la notion métropole-colonie. On a maintenant des pays développés et sous-développés.
@@ -20,7 +20,7 @@ La théorie de la modernisation est étudiée par les étapes de la croissance d
 
 Dans son livre (lequel était un manifeste anticommuniste) il essaie de montrer que le modèle de la modernisation n'est pas compatible avec le communisme. Selon lui ses schémas étaient indépendants du contexte.
 
-Mais il y a des nuances idéologiques et des limites, on est dans un monde bipolarité. Dans son livre on passe de l’archaïsme à une société moderne commandée par les EU. C'est un conception problématique, en étant déterministe et linéaire. Un manifeste anticommuniste mais dans le style de Marx: le Marx sans Marx.
+Mais il y a des nuances idéologiques et des limites, on est dans un monde bipolaire. Dans son livre on passe de l’archaïsme à une société moderne commandée par les EU. C'est une conception problématique, en étant déterministe et linéaire. Un manifeste anticommuniste mais dans le style de Marx: le Marx sans Marx.
 ### Non-alignement
 Les pays des suds veulent en faite s'éloigner de cette bipolarisation. Ils vont revendiquer ce mouvement pendant divers événements:
 #### Bandung
@@ -40,16 +40,16 @@ La mortalité baisse et la fécondité reste très élevée dans beaucoup de pay
 #### Nouvelle trappe malthusienne
 Après la WW2 il y a une ère d'optimisme, d'indépendance, etc. Mais maintenant on a un problème démographique. Le pessimisme et la peur montent, il faut contrôler la population et pas l'économie d'après quelques personnes.
 
-L'Inde par exemple va favoriser fiscalement ne pas avoir des enfants et va promouvoir la stérilisation, la contraception, etc. La Chine fera sa fameuse politique de l'enfant unique (si on a deux enfants ou 0=conséquences). Très efficace.
+L'Inde par exemple va favoriser fiscalement ne pas avoir des enfants et va promouvoir la stérilisation, la contraception, etc. La Chine fera sa fameuse politique de l'enfant unique (si on a deux enfants (ou 0) =conséquences). Très efficace.
 
-Il y a une population très jeune (moitié de la population a moins de 28 ans au Nigéria). L'Afrique est donc un continent avec beaucoup d'espoir. Mais il y a un handicap, on doit investir dans des infrastructures pour les éduquer. Il y a pas autant de gens qui travaillent et il faut insérer les jeunes dans le marché du travail. Cette dynamisme démographique serait liée au développement, en absorbant la croissance économique. La richesse par habitant diminue.
+Il y a une population très jeune (moitié de la population a moins de 28 ans au Nigéria). L'Afrique est donc un continent avec beaucoup d'espoir. Mais il y a un handicap, on doit investir dans des infrastructures pour les éduquer. Il y a pas autant de gens qui travaillent et il faut insérer les jeunes dans le marché du travail. Ce dynamisme démographique serait liée au développement, en absorbant la croissance économique. La richesse par habitant diminue.
 ### Le développement du sous-développement
 Il y a une division internationale du travail-> les cultures d'exportation dans les relations entre métropole et colonie. Les cultures d'exportation ont connu une croissance de 2,5 à 3% par an de 1800 à 1970, principalement orientée vers les marchés internationaux.
+#### Agriculture
+On produit pour le marché international mais on n'a pas vraiment une agriculture pour nourrir notre population. Si je produis pour exporter c'est au détriment de nourrir ma population. Les pays des suds dépendent des importations pour se nourrir et des prix internationaux pour exporter ce qui les rend très faibles. Les populations rurales n'ont pas d'argent et pour l'avoir, puisqu'il y a pas de subsides, il doivent produire des produits d'exportation comme la canne à sucre et le cacao. C'est pas seulement un choix d'état mais des familles. La géographie est importante, certains pays ont une demande très grande ce qui influence l'offre dans d'autres. On privilège la cultivation de certaines marchandises et après on a une crise de surproduction.
 
-On produit pour le marché international mais on n'a pas vraiment une agriculture pour nourrir notre population. Si je produit pour exporter c'est au détriment de nourrir ma population. Les pays su suds dépendent des importations pour se nourrir et des prix internationaux pour exporter ce qui les rend très faibles. Les populations rurales n'ont pas d'argent et pour l'avoir, puisqu'il y a pas de subsides, il doivent produire des produits d'exportation comme la canne à sucre et le cacao. C'est pas seulement un choix d'état mais des familles. La géographie est importante, certains pays ont une demande très grande ce qui influence l'offre dans d'autres. On privilège la cultivation de certaines marchandises et après on a une crise de surproduction.
-
-Ils vont essayer de s'industrialiser mais vont être freinés par leur dépendance et fragilité. La Corée du Sud est un exemple de correcte industrialisation qui redistribue les terres et assure ça production agricole pour s'industrialiser après. Les états vont essayers d'amorcer ce processus mais (rôle important de l'état-> époque keynésienne) peuvent pas toujours.
-#### Révolution verte
+Ils vont essayer de s'industrialiser mais vont être freinés par leur dépendance et fragilité. La Corée du Sud est un exemple de correcte industrialisation qui redistribue les terres et assure sa production agricole pour s'industrialiser après. Les états vont essayers d'amorcer ce processus mais (rôle important de l'état-> époque keynésienne) peuvent pas toujours.
+##### Révolution verte
 Cette révolution a introduit de nouvelles variétés de céréales à haut rendement. Cependant, elle a aussi engendré des coûts sociaux et environnementaux. On peu planter plus avec moins d'eau et de terre. On améliore la production aussi avec des engrais et des pesticides mais on va dépendre d'eux. On fait le CIMMYT au Mexique ou on experimente et l'IRRI aux Philippines. Les gouvernements vont pousser à l'adoption de ces nouvelles pratiques, mais toutes les régions n'ont pas les moyens-> décalages. En 1980 environ 2/3 des cultives de blé sont du blé mexicain et 1/2 de ceux de riz sont du riz philippin.
 
 La crise des coûts des engrais découle de la dépendance des pays du Sud. La hausse des prix est liée à la volatilité des marchés des ressources naturelles comme le gaz. Incapables de subventionner ces intrants, les pays du Sud ont vu leur sécurité alimentaire diminuer.
@@ -57,13 +57,13 @@ La crise des coûts des engrais découle de la dépendance des pays du Sud. La h
 Cependant la production alimentaire par habitant ne change pas trop, même si la production totale augmente. On suit à peine la croissance démographique.
 ![[Pasted image 20241211114159.png]]
 Plus productif et plus de production mais chaque fois on importe plus.
-### Industrie
+#### Industrie
 Les pays du sud essaient de rattraper ceux du nord mais ne peuvent pas. Ils suivent une stratégie de substitution des importations. C'est surtout une industrie extractive, où les pays ne voient pas tout le profit. Par **exemple**, ils exportent du lithium manufacturé en batteries en Chine qui perçoit la majorité du profit. Et encore ils sont dépendants de la demande de batteries des pays développés. Les nouveaux transports et techniques permettent de transporter ces produits miniers vers les ports.
 
-Comme on a vu avec l'Inde et etc, avant la colonisation il y a une amorce industrielle mais à la veille de WW1 on a rien. En plus il y a pas de marché intérieur, les gens sont pauvres en dépendant du pays. Les nouveaux pays asiatiques vont réussir leur industrialisation avec le rôle de l'état d'une meilleure manière, ceci est aussi vrai pour les pays massifs avec un grand marché comme le Brésil.
+Comme on a vu avec l'Inde et etc, avant la colonisation il y a une amorce industrielle mais à la veille de WW1 on a rien. En plus il y a pas de marché intérieur, les gens sont pauvres et dépendants dans pas mal de pays. Les nouveaux pays asiatiques vont réussir leur industrialisation avec le rôle de l'état d'une meilleure manière, ceci est aussi vrai pour les pays massifs avec un grand marché comme le Brésil.
 ![[Pasted image 20241211115743.png]]
 En 1913 2/3 de la population sont 8% de l'industrie. Après 1945 on donne la priorité à l'industrie.
-### Le commerce extérieur
+#### Le commerce extérieur
 Le pays du sud participent chaque fois plus aux exportations mondiales, jusqu'à 1928 quand le commerce mondial est sur le point de s'effondrer avec la crise de 1929 qui va bientôt arriver. Après 1950 les pays du sud vont perdre de la vitesse avec la crise de les années 70 (1973), la demande des produits tropicaux est saturée. La fin du système de l'étalon $<->or et le retour des protectionnisme endommagent les économies. Il va y avoir des inégalités, tous les pays ne sont pas touchés de la même manière. Mais en général, la demande des produits bruts baisse.
 
 En 1990 les conditions de vie augmentent et comme le dit la loi d'Engels les produits de base voient leur demande baisser. Les termes de l'échange se détériorent et les pays des suds peuvent importer moins de machines et produits complexes avec leur exportations brutes. Cette tendance va se maintenir en 1950-70. De 1950-1960/70 on voit comment il y a tellement de produits bruts que la demande baisse, et les progrès techniques font aussi baisser les prix.
@@ -74,15 +74,15 @@ Le pays du nord voient des bénéfices à cause de ceci, c'est un peu un contre 
 ### Les relations nord-sud post GF
 Les gouvernements libéraux arrivent aux pays du nord et les pays du sud sont détruits à cause des détériorations des échanges. Il y a de l'inflation, du chômage, etc à cause des chocs pétroliers. Ceci entraîne une crise de la dette, en débouchant dans des politiques libérales.
 #### Des critiques des théories de la modernisation
-Les pays du sud critiquent, des théories de la dépendance émergent. Les pays se spécialisent et les théoriciens s'en rendent compte. On va créer une nouvelle école de pensée à travers d'une commission à l'ONU: CEPAL. Elle analyse l'économie de LATAM.
+Les pays du sud critiquent et des théories de la dépendance émergent. Les pays se spécialisent et les théoriciens s'en rendent compte. On va créer une nouvelle école de pensée à travers d'une commission à l'ONU: CEPAL. Elle analyse l'économie de LATAM.
 
-On s’intéresse la trajectoire le passé et le présent des pays du nord et du sud. On voit si le passé colonial freine le développement.
+On s’intéresse à la trajectoire passée et au présent des pays du nord et du sud. On voit si le passé colonial freine le développement.
 
 En faite on dit que le sous-développement n'est pas une étape mais un état permanent produit d'une histoire de colonialisme passée. C'est pas si simple de dépasser ces obstacles. En contre du discours de Rostow.
 
 Pour ces auteurs il est impossible de continuer à se développer de cette manière. Dans le long terme les pays spécialisés dans ces produits bruts perdent du pouvoir d'achat. On critique aussi les investissements étrangers *extractivistes* (Les investissements extractivistes exploitent les ressources naturelles des pays du Sud, profitant surtout aux pays du Nord, souvent au détriment des locaux et de l’environnement, ils profitent que les entreprises et pas le peuple->on fait pas d'infrastructures). Ils mentionnent aussi la dépendance à cause des dettes des suds envers les nords ce qui est aussi une cause du sous-développement.
 
-La CNUCED-UNCTAD va aussi être très importante.
+La CNUCED-UNCTAD va aussi être très importante ici.
 #### Critique au discours de Truman et Rostow
 L'histoire des pays industrialisés ne peut pas se répéter. Il n'est pas possible por les suds de suivre les mêmes étapes puisqu'ils sont déjà spécialisés. L'autonomie favorise le développement et la dépendance le sous-développement. Il faut couper les relations avec les nords pour se développer, c'est la conclusion politique de ces théories.
 ![[Pasted image 20241212124446.png]]
@@ -104,7 +104,7 @@ Elles rapatrient les profits et ferment si les choses tournent mal. C'est une so
 
 Il y a aussi du gaspillage de ressources à cause d'erreurs de planification. L'État fait des mauvaix choix-> plus de fragilité.
 
-Certains pays comme les quatre dragons ou le brésil ont réussi a s'industrialiser mais pas comme les pays de latam. Les 4 dragons c'était taiwan, corée du sud, Hong Kong et Singapour. Ils concentrent 1/10 de la population des suds mais sont le 70% du potentiel industriel en 1980. Ils ont pas utilisé la libéralisation mais ils ont utilisé les épargnes de la population pour investir dans l'industrie-> en s'insérant dans la chaîne de production mondiale.
+Certains pays comme les quatre dragons ou le brésil ont réussi a s'industrialiser mais pas comme les pays de latam. Les 4 dragons c'était taiwan, corée du sud, Hong Kong et Singapour. Ils concentrent 1/10 de la population des suds mais sont 70% du potentiel industriel en 1980. Ils ont pas utilisé la libéralisation mais ils ont utilisé les épargnes de la population pour investir dans l'industrie-> en s'insérant dans la chaîne de production mondiale.
 
 Dans le brésil et mexique ils sont dépendants des firmes étrangères. Le mexique fait des conditions de travail mauvaises pour avoir des firmes étrangères. L'industrialisation au sud était faible en 1990.
 ![[Pasted image 20241212132841.png]]
@@ -116,7 +116,7 @@ Crise du pétrole (1974-85). La crise de la dette des suds est liée à l'argent
 #### Crise
 L'État est moteur du développement dans l'époque keynésienne. Les pays du sud s'endettent avec les nords. Le taux d'intérêt et le montant de la dette influencent le taux de dette. Les taux étaient variables et pas fixés sur le long terme, ce qui sera pas cool quand ils augmenteront avec le temps.
 
-C'est une spirale de la dette pour financer le développement-> infrastructures,etc. En 1979 P. Volcker augmente les taux d'intérêt puisque les pays du nord ont une inflation forte (trop d'argent en circulation). Europe est dépendante des EU et les suds de l'Europe donc ils paillent le prix. La dette des pays du sud est multipliée par 30 entre 1970 et 1990. Mexique fait défaut en 1982.
+C'est une spirale de la dette pour financer le développement-> infrastructures,etc. En 1979 P. Volcker augmente les taux d'intérêt puisque les pays du nord ont une inflation forte (trop d'argent en circulation). Europe est dépendante des EU et les suds de l'Europe donc ils payent le prix. La dette des pays du sud est multipliée par 30 entre 1970 et 1990. Mexique fait défaut en 1982.
 
 Le *consensus de Washington*-> Quand les pays ne peuvent pas payer des dettes le FMI leur fait des prêts et du temps pour payer, comme ça ils peuvent échelonner leur dettes. Mais en échange ils doivent suivre les prescriptions politiques du FMI et n'ont plus d'autonomie économique. On met en place les mêmes politiques dans tous les pays, pas de spécificité. On baisse les dépenses, les fonctionnaires, les banques et les entreprises publiques sont privatisées et mises en faillite, etc. C'est des reformes radicales qui vers les années 90 n'ont pas vraiment donné des réponses positives.
 
@@ -126,7 +126,7 @@ On change de stratégie, on fait une *lutte contre la pauvreté*. La Banque Mond
 ### Nord<->Sud
 #### Convergence et divergence
 ![[Pasted image 20241212135538.png]]
-L'opposition nord et sud n'a pas tellement d'importance maintenant, le BRIC émerge. Il y a de la convergence mais de la divergence. Europe diminue, l'Asie émerge et l'USA pert de la vitesse. LATAM est stable mais vers le bas. Grâce aux pays asiatiques la pauvreté baisse. L'URSS/RSS (en 2008) s'effondre btw, de 7.8 en 1900 à 4.5% en 2008.
+L'opposition nord et sud n'a pas tellement d'importance maintenant, le BRIC émerge. Il y a de la convergence mais de la divergence. Europe diminue, l'Asie émerge et l'USA pert de la vitesse. LATAM est stable mais vers le bas. Grâce aux pays asiatiques la pauvreté baisse. L'URSS/RSS (en 2008) s'effondre btw, de 7.8% en 1900 à 4.5% en 2008.
 #### Émergence de l'Asie
 Les pays d'Asie de l'Est convergent en séquence-> Japon, Corée du Sud, Hong Kong, Chine. Ils vont devenir néoliberaux et s'intéresser au commerce international. Elle va suivre sa propre voie sans suivre complètement la recette occidentale et s'insérer dans la chaîne de production mondiale. L'État va intervenir-> consensus asiatique opposé au consensus de Washington. C'est pas une économie de marché totale-> 8% d'entreprises étrangères (exportent essentiellement) et plus de la moitié des entreprises sont étatiques.
 #### BRIC
@@ -141,14 +141,14 @@ Les 49 pays les plus pauvres (PMA) sont surtout dans l'Afrique Subsaharienne (3/
 Le taux de croissance de l'Afrique est 0.01% par habitant par année. Le paramètre démographique absorbe la croissance du continent. Le Soudan par exemple est exportateur agricole ce qui explique ceci. Dans l'Asie c'est 4% ==sans les PMAs==. C'est pays pauvres sont bien intégrés à l'économie mondiale mais faibles.
 #### Sud<->Sud
 ![[Pasted image 20241218104933.png]]
-Les accords de commerce régionales comme celui du Mexique avec l'Amérique du Nord (pas le meilleur exemple c'est pas sud<->sud) où ceux en Asie ou l'Afrique, favorisent le commerce sud<->sud. Dans le nord c'est la même chose avec des zones comme l'UE (nord<->nord). Les exportations du sud vers le sud ont augmenté jusqu'à 50%. Mondialement c'est pas trop important mais pour ces pays oui. En 2007 c'était 25% de toutes les échanges mondiaux.
+Les accords de commerce régionales comme celui du Mexique avec l'Amérique du Nord (==pas le meilleur exemple c'est pas sud<->sud==) où ceux en Asie ou l'Afrique, favorisent le commerce sud<->sud. Dans le nord c'est la même chose avec des zones comme l'UE (nord<->nord). Les exportations du sud vers le sud ont augmenté jusqu'à 50%. Mondialement c'est pas trop important mais pour ces pays oui. En 2007 c'était 25% de toutes les échanges mondiaux.
 
 Certains pays du sud contribuent même aux aides au développement initiées par Truman comme ceux de l'Afrique ou le Brésil de Lula. Par exemple l'Afrique du Sud avec l'Afrique Subsaharienne-> proximité culturelle et facilité d'échange pour l'égalité. Aussi la Chine, avec une intervention différente à celle des occidentaux.
 
 Il y a des critiques envers la Chine:
 - Manque de transparence.
 - Violation des droits humains.
-- Intérêts comerciaux.
+- Intérêts commerciaux.
 - Endettement des suds.
 
 #UNIGE #HESG 

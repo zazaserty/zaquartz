@@ -47,7 +47,7 @@ Le coût humain de cette conquête est terrifiant, la population amérindienne s
 - Les colonisateurs apportent ses maladies, inconnues pour les natifs: variole, typhus, lèpre, etc.
 - Environ 10% des natifs survivent.
 
-Il y aura aussi des massacres plutôt intentionnels et du travail forcé. Les colonisateurs veulent juste de l'argent, se baigner dans celui ci. Ils voient le paradis de ces civilisations qui ont acumulé d'énormes quantités de métaux.
+Il y aura aussi des massacres plutôt intentionnels et du travail forcé. Les colonisateurs veulent juste de l'argent, se baigner dans celui ci. Ils voient le paradis dans ces civilisations qui ont acumulé d'énormes quantités de métaux.
 ##### Exploitation
 Au début du 17ème la différence climatique entre l'Europe et l'Amérique du Sud débouche dans la création des plantations dans des monocultures intensives. C'est la nouvelle manière d'en tirer de l'argent de l'Amérique. **Exemple:** Le café arrive au Mexique bien plus tard au 18ème grâce aux Allemands, il a besoin d'une altitude et climat spécifique.
 
@@ -63,7 +63,7 @@ En 1620 le Mayflower arrive avec des anglais, qui peuplent l'espace vaste de l�
 #### Asie (l'Inde)
 De 1489 à 1760. L'arrivée de Vasco de Gama à l'Inde commence la colonisation. Les relations comerciales existaient déjà, mais les puissances européennes n'avaient pas envahi le pays. L'Inde exporte des épices vers l'Europe, il y a des compagnies de marchands comme celle des *indes orientales* qui avait la protection de l'état britannique (elle a un monopole de commerce avec l'inde). Ceci n'est qu'un 0.02%/ 0.05% du PNB de l'Asie. L'impact des européens est plutôt petit.
 ##### Conquête
-L'empire Mongole commence à s’essouffler et la première victoire terrestre apparaît en 1757. L'occupation étrangère commence et s'étend de 1790 à 1820. Les anglais vont commander des autorités locales contrôlées par eux. Les anglais sont dans leur RI et ont besoin de cotton et de matières primaires, ceci explique l'obsession par ce type de produits. 
+L'empire Mongole commence à s’essouffler et la première victoire terrestre apparaît en 1757. L'occupation étrangère commence et s'étend. Les anglais vont commander des autorités locales contrôlées par eux. Les anglais sont dans leur RI et ont besoin de cotton et de matières primaires, ceci explique l'obsession par ce type de produits. 
 
 D'autres pays de l'Asie comme l'Indonésie seront colonisée par les Pays-Bays, l'Indochine par les français, les Philippines par les espagnols et l'Inde par les anglais. La Chine, cependant, tiendra bien plus. Elle essaiera d'éviter la colonisation à tout prix.
 #### Le Mahgreb

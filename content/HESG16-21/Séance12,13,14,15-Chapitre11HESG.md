@@ -2,15 +2,15 @@
 ### Des colonies en révolte: USA
 Certains anglais viennent depuis l'Europe pour fonder un pays neuf (pas vraiment puisqu'il y avait déjà une population) avec un territoire illimité. Les nombreux avantages ont attiré beaucoup de migrants. Le nord n'était pas si propice aux plantations intensives comme le sud. Petit à petit on repousse les frontières et on commence à coloniser plus de cet espace si vaste.
 
-Il y a avait des populations natives qui s’opposaient aux européens. L'Angleterre est très commerciale, il y a une oligarchie de propriétaires qui utilisent les esclaves pour leur profit économique. L'Angleterre et les USA sont très liés: échanges commerciaux et taxes. Après la guerre des sept ans les anglais appliquent une politique fiscale plus dure ce qui frustre les étasuniens. Ils ne peuvent pas participer: pas d'impôts sans représentation.
+Il y a avait des populations natives qui s’opposaient aux européens. L'Angleterre est très commerciale, il y a une oligarchie de propriétaires qui utilisent les esclaves pour leur profit économique. L'Angleterre et les USA sont très liés: échanges commerciaux et taxes. Après la guerre des sept ans les anglais appliquent une politique fiscale plus dure ce qui frustre les étasuniens. Ils ne peuvent pas participer-> pas d'impôts sans représentation.
 
 Ces politiques comme la *Tea Act* finissent par causer la guerre d'indépendance, après les manifestations des *Sons of Liberty*.
 #### Évolution
 Les USA s'industrialisent vers le deuxième moitié du 19ème (1860). La guerre civile est dure, beaucoup de morts dans cette bataille sur l'esclavage et la vision de la société. Ceci va causer une fluctuation importante des prix comme celui du cotton.
 
-Les USA ont des ressources presque infinies, c'est un territoire extrêmement vaste. Ils ont aussi un marché intérieur considérable (31 millions d'habitants en 1860 et 10% d'esclaves). La population d'esclaves ne s'est pas vraiment intégré après la guerre. Ceci au contraire de l'Amérique du sud, dans laquelle la population afro-descendante a perçu un dynamisme plus grand et s'est emancipé mieux.
+Les USA ont des ressources presque infinies, c'est un territoire extrêmement vaste. Ils ont aussi un marché intérieur considérable (31 millions d'habitants en 1860 et 10% d'esclaves). La population d'esclaves ne s'est pas vraiment intégrée après la guerre. Ceci au contraire de l'Amérique du sud, dans laquelle la population afro-descendante a perçu un dynamisme plus grand et s'est emancipé mieux.
 
-Sa politique d'indépendance et la doctrine Monroe de 1923 définit une politique plutôt positive pour le développement. L'idée est que les USA ne vont pas se mêler de l'Europe et le reste du monde (ceci n'est plus vrai maintenant).
+Sa politique d'indépendance et la doctrine Monroe de 1923 définissent une politique plutôt positive pour le développement. L'idée est que les USA ne vont pas se mêler de l'Europe et le reste du monde (ceci n'est plus vrai maintenant).
 
 Les USA sont vus comme le centre de l'échange, mais ceci n'est pas si vrai. Alexander Hamilton, trésorier de l'état américain, a influencé les idées américaines du protectionnisme pour impulser l'industrialisation. Il était convaincu que l'indépendance des USA passait par une industrie nationale forte. Pour cela il impose des lois de douanes (importations et exportations taxées), des incitations fiscales, etc.
 
@@ -24,6 +24,9 @@ L'industrialisation américaine se distingue par sa vitesse et son ampleur, déb
 - Le milieu du 19e siècle a marqué le début de vagues d'immigration massive aux États-Unis, attirant des travailleurs d'Europe et d'autres régions.
 - Cette main-d'œuvre abondante et souvent peu coûteuse a permis aux industries de fonctionner à pleine capacité, ce qui a réduit les coûts de production et permis d’étendre rapidement la capacité industrielle.
 - Les conditions de travail étaient toutefois souvent précaires, avec des salaires bas et des horaires de travail longs.
+##### Exploitation de la main-d'œuvre
+- Cette industrialisation rapide a conduit à une exploitation importante de la main-d'œuvre, avec des conditions de travail difficiles pour de nombreux ouvriers, y compris les immigrés, les femmes et les enfants.
+- Les bas salaires et les longues heures de travail étaient courants, les régulations étant peu nombreuses à cette époque. Cela a entraîné des luttes sociales, avec des mouvements syndicaux qui se sont peu à peu organisés pour améliorer les conditions de travail. **Exemple**: *Association Fédérale des Travailleurs*
 ##### Les matières premières
 - Les États-Unis disposaient de vastes ressources naturelles, notamment le charbon, le fer, et plus tard, le pétrole, qui ont été cruciaux pour soutenir l'expansion industrielle.
 - Ces ressources ont permis de développer des industries lourdes (comme la métallurgie et la sidérurgie) et ont contribué à l’autosuffisance des États-Unis en matière de production industrielle.
@@ -31,9 +34,6 @@ L'industrialisation américaine se distingue par sa vitesse et son ampleur, déb
 - L'agriculture américaine, en pleine expansion, a soutenu l’industrialisation en fournissant des matières premières comme le coton pour l’industrie textile.
 - Les innovations dans les machines agricoles ont également libéré une partie de la main-d'œuvre rurale, qui a ensuite migré vers les villes pour travailler dans les usines.
 - On perçoit un déploiement capitalistique de l'agriculture sur les grandes plaines américaines.
-##### Exploitation de la main-d'œuvre
-- Cette industrialisation rapide a conduit à une exploitation importante de la main-d'œuvre, avec des conditions de travail difficiles pour de nombreux ouvriers, y compris les immigrés, les femmes et les enfants.
-- Les bas salaires et les longues heures de travail étaient courants, les régulations étant peu nombreuses à cette époque. Cela a entraîné des luttes sociales, avec des mouvements syndicaux qui se sont peu à peu organisés pour améliorer les conditions de travail. **Exemple**: *Association Fédérale des Travailleurs*
 
 Cette industrialisation si rapide à doté aux USA d'un statut sans précédent.
 ![[Pasted image 20241031125155.png]]
@@ -75,17 +75,13 @@ Il va y avoir une surproduction importante et une incapacité d'entamer tout pro
 
 Petit à petit les gouvernements de latam vont vouloir du progrès, en utilisant des tarifs douaniers entre autres mesures. Le Brésil est un bon exemple, il arrête d'importer et commence à produire ses propres biens. Le Mexique essaie d'attirer les entreprises américaines avec une main d'oeuvre exploitée mais ça ne marche pas trop. Après en 1910 on démantèle les *haciendas* mexicaines et on fait une réforme agraire.
 ###### **Betterave**
-La sucre est coûteuse, la betterave devient son remplacement. Elle peut être mécanisée. Ceci fait apparaître des nouveaux concurrents comme la Réunion. Il y aura un blocus de la GB par la France pour lutter contre leur dépendance de canne sucre anglaise. Les économies de latam sont gravement impactées par cette nouvelle concurrence.
+Le sucre est coûteuse, la betterave devient son remplacement. Elle peut être mécanisée. Ceci fait apparaître des nouveaux concurrents comme la Réunion. Il y aura un blocus de la GB par la France pour lutter contre leur dépendance de canne sucre anglaise. Les économies de latam sont gravement impactées par cette nouvelle concurrence.
 ![[Pasted image 20241031135515.png]]
 Le sucre de canne pert du rapport d'échange pour d'autres biens, les termes d'échange se détériorent comme le pouvoir d'achat de ces pays. Ceci arrive avec beaucoup plus de bien primaires (non-manufacturés) ce qui est la cause de la misère de latam.
 ![[Pasted image 20241114122036.png]]
 1871-1913. Chaque décennie les termes d'échange changent mais la tendance est vers la dépréciation.
 
 Le blé, par exemple, perd 20% de sa valeur d'échange par rapport au bien manufacturés. Cette fluctuation change en fonction de l'époque.
-### Abolition de l'esclavage et l'économie
-L'esclavage est racialisé par la traite transatlantique, mais les occidentaux ne l'ont pas inventée. La traite d'esclaves subsaharienne est faite du point de vue de supériorité blanche. Petit à petit ceci change et les sociétés avec des esclaves sont vues comme *en decadence*. Des sociétés abolitionistes se mettent en place pour mobiliser l'opinion publique et les intellectuels. La GB interdit cette traite au début du 19ème (1815).
-
-Cependant la question de l'esclavage ne se résolue pas si facilement. Au Brésil en particulier il y a une abolition progressive, pour contrer les différentes oppositions. Ceci va augmenter les coûts de productions et la migration européenne envers l'Amérique. La main d'oeuvre est maintenant plus coûteuse. Cela a souvent conduit à la promotion de l'immigration européenne pour combler le besoin de travailleurs, en particulier envers le Brésil.
 ### Le cas de l'Argentine
 ![[Pasted image 20241114123515.png]]
 Dans un premier temps les pays comme l'Argentine s’intègrent très bien dans le marché. Cependant cette dépendance envers les exportations va les punir dans le long terme surtout après la crise de 1929. La chute est brutale.
@@ -108,7 +104,7 @@ C'est pas la même chose cultiver pour produire/exporter que pour alimenter, le 
 
 L'Inde voit sa production industrielle passer de 20% à 4%. 150 millions d'habitants qui sont en péril, si un événement apparaît ils ont pas de stock.
 #### Ré-industrialisation
-Après 1850 l'industrie cotonnière plus moderne indienne apparaît grâce aux capitaux du commerce d'opium avec la chine. Plusieurs chef d'industrie comme ceux de la famille tata apparaissent de la minorité monothéiste pour favoriser la ré-industrialisation.
+Après 1850 l'industrie cotonnière plus moderne indienne apparaît grâce aux capitaux du commerce d'opium avec la chine. Plusieurs chefs d'industrie comme ceux de la famille Tata apparaissent de la minorité monothéiste pour favoriser la ré-industrialisation.
 
 L'industrie reste assez modeste, elle ne représente que 5% des broches à filer même si elle est 18% de la population mondiale. Il y a de la sidérurgie mais c'est juste 0,1% (même moins) de la production mondiale d'acier. La première ligne de chemin de fer est ouverte (1853) tôt et grâce aux importations de GB alors maintenant on a pas l'effet entraînant.
 
@@ -140,7 +136,7 @@ Le rail s'était installé comme dans l'Inde. L'agriculture était bien administ
 - L'Égypte faisait partie de l’Empire ottoman depuis le VIe siècle, en restant politiquement et économiquement dépendant de celui-ci.
 - En 1798, Napoléon Bonaparte mène une grande expédition en Égypte via la Méditerranée. Cela inaugure une période d’occupation française de trois ans, qui se termine avec la reconquête ottomane sous Méhémet-Ali.
 #### Le développement sous Méhémet-Ali
-Méhémet-Ali amorce un projet ambitieux pour transformer l'Égypte en un État moderne et puissant. Ses réformes marquent un cas original de **« résistance au sous-développement »**, avec pour objectifs la modernisation agricole, industrielle et éducative, et une insertion internationale de l’Égypte.
+Méhémet-Ali amorce un projet ambitieux pour transformer l'Égypte en un État moderne et puissant. Ses réformes marquent un cas original de *résistance au sous-développement, avec pour objectifs la modernisation agricole, industrielle et éducative, et une insertion internationale de l’Égypte.
 #### Réformes agricoles
 1. **Étatisation et redistribution des terres**
     - Méhémet-Ali étatise les terres agricoles et les redistribue pour mieux contrôler leur exploitation.
@@ -162,7 +158,7 @@ Méhémet-Ali amorce un projet ambitieux pour transformer l'Égypte en un État 
     - L’industrie textile est le point de départ de l’industrialisation, alimentée par les productions agricoles (notamment le coton).
     - Cette industrie entraîne une diversification vers d’autres secteurs, tels que la production de machines et d’outils très techniques et de précision.
 2. **Technologies étrangères**
-    - Les experts britanniques et français importent leurs savoir-faire et leurs techniques modernes.
+    - Les experts britanniques et français importent leur savoir-faire et leurs techniques modernes.
     - En 1830, environ 5 000 techniciens européens travaillent en Égypte, attirés par les salaires élevés. Certains supervisent même directement le processus d'industrialisation.
 3. **Transition industrielle**
     - On passe d’une production artisanale à une production mécanisée, soutenue par l’importation de machines modernes, principalement de Grande-Bretagne.
@@ -176,11 +172,11 @@ Il fallait être indépendant des pays de l'extérieur comme avec l'empire ottom
 - Resistance au marchandises d'ailleurs.
 - Promotion des produits locaux, propagande.
 - L'armée est le principal débouché des biens des industries naissantes comme le papier, le textile, le naval. C'est un système de marché étatique où on ne dynamise pas, c'est pas une économie marchande mais un capitalisme d'état très régulé.
-- Comparé a des pays comme la RSS où l'ES, qui a cet époque étaient moins industrialisés que EG.
+- Comparé a des pays comme la RSS où l'ES, qui a cet époque étaient moins industrialisés que l'EG.
 #### Échec
-EG s'intègre dans l'économie internationale, le pays ne peut plus se protéger. M.A s'en va et sa politique est mise à mal par des éléments extérieurs. Liberté de commerce avec des ottomans et avec GB.
+EG s'intègre dans l'économie internationale, le pays ne peut plus se protéger. M.A s'en va et sa politique est mise à mal par des éléments extérieurs. Liberté de commerce avec les ottomans et avec GB.
 
-Les différentes guerres aux anées 20 vont forcer EG à s'ouvrir. Une économie de marché s'établit et le cotton commence a être commercé. EG est fragile et dépendant.
+Les différentes guerres des années 20 vont forcer EG à s'ouvrir. Une économie de marché s'établit et le cotton commence a être commercé. EG est fragile et dépendant.
 
 Il y a des guerres au sein de l'empire ottoman, M.A a des maladies mentales et est affaiblit. Il mort et aura plusieurs successeurs comme Abas I. Il n'aime pas l'européanisation de EG. Il va réduire l'armée et fermer les écoles, il renvoiera aussi les techniciens étrangers. Il n'est pas intéressé par la modernité.
 ##### Guerre civile de EU
@@ -188,7 +184,7 @@ La guerre civile met à bien l'exportation de cotton de EG et Abas I a été ass
 ##### Suez
 GB finance le canal de suez de 1869 qui a une histoire compliquée. Ils dépendent financièrement de GB ce qui ouvre la voie à la colonisation de EG. En 1882 ils occupent le pays avec un régime colonial. Ceci à cause de sa valeur stratégique pour commercer avec l'Asie. Ce régime désindustrialise l'EG.
 
-À la veille de WW1 ils n'ont pas d'industrie. L'experience de EG avait été courte et originale dans les pays des suds.
+À la veille de WW1 ils n'ont pas d'industrie. L'experience de l'EG avait été courte et originale dans les pays des suds.
 ### L'exception japonaise
 C'est un pays non-européen, et il s'industrialise quand même. Le Japon était gouverné pas les Shoguns qui sont des militaires. L'empereur n'a pas de pouvoir depuis de 10ème. Au 17ème c'est la même chose, l'empereur est une entité divine décorative. Le Shogun Tokugawa avait était nommé par l'empereur, il était le chef d'état officiel.
 
@@ -202,7 +198,7 @@ Les Shogun s'affaiblissent à cause de l'ouverture, il y a une prise de conscien
 
 C'est la révolution Meiji, qui a aussi pour but la modernisation de la société à travers l'abolition des territoires feudaux. L'empereur est tout puissant sur l'ensemble du territoire à travers ses représentants, qui n'ont pas d'autonomie. La liberté de circulation et la fin des castes arrivent, tout comme la libéralisation des mœurs (marriage inter castes, christianisme, etc). L'ascension sociale est maintenant possible.
 #### Industrie
-La R.I est très tardive. Après la WW1 Japon apparaît comme une vraie puissance internationale mais pas avant, même si sa R.I commence en 1913.
+La R.I est très tardive. Après la WW1 Japon apparaît comme une vraie puissance internationale mais pas avant, même si sa R.I avait déjà commencée en 1913.
 
 L'État aura un rôle essentiel comme dans EG, il permet de surmonter les obstacles de la RI. C'est un pays petit pas comme les EU ou l'Arg, on n'a pas de grandes plaines pour cultiver.
 ##### Agriculture
@@ -225,6 +221,10 @@ Vers 1910, le Japon se situe entre la 14e et la 18e place dans le monde.
 ![[Pasted image 20241120113653.png]]
 Le Japon s'occupe même avec des conflicts.
 ### L'abolition de la traite et de l'esclavage
+L'esclavage est racialisé par la traite transatlantique, mais les occidentaux ne l'ont pas inventée. La traite d'esclaves subsaharienne est faite du point de vue de supériorité blanche. Petit à petit ceci change et les sociétés avec des esclaves sont vues comme *en decadence*. Des sociétés abolitionistes se mettent en place pour mobiliser l'opinion publique et les intellectuels. La GB interdit cette traite au début du 19ème (1815).
+
+Cependant la question de l'esclavage ne se résolue pas si facilement. Au Brésil en particulier il y a une abolition progressive, pour contrer les différentes oppositions. Ceci va augmenter les coûts de productions et la migration européenne envers l'Amérique. La main d'oeuvre est maintenant plus coûteuse. Cela a souvent conduit à la promotion de l'immigration européenne pour combler le besoin de travailleurs, en particulier envers le Brésil.
+
 L'Afrique Subsaharienne est colonisée très tardivement et s'intègre dans le commerce international à travers du commerce triangulaire et la traite transatlantique.
 
 La traite n'était pas nouvelle, elle arrive à sa forme moderne à cause du besoin de main d'oeuvre des occidentaux. Ça met du temps à s'institutionnaliser et à devenir un processus massif. C'est quand même la première fois que cette traite est basée sur l'ethnie.

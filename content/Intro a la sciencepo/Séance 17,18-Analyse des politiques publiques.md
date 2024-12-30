@@ -39,7 +39,7 @@ La phase de formulation commence dans l'émergence et finit avec l'adoption d'un
 	- Les acteurs veulent définir la manière dont on parle et on encadre le problème.
 ### Définition d'un problème public
 ![[Pasted image 20241126125755.png]]
-La majorité de problèmes ne franchissent pas la barrière vers le problème social. Des fois ça reste comme politique publique pendant des décennies par manque de consensus comme l'assurance de maternité.
+La majorité de problèmes ne franchissent pas la barrière vers le problème social. Des fois ça reste comme problème publique pendant des décennies par manque de consensus comme l'assurance de maternité.
 ### Construction (stratégique) des problèmes
 - Sévérité: conséquences dramatiques (**ex**. SARS en 2002-3 en Asie et le COVID-19 dès 2020 partout dans le monde).
 	- Montrer l'inaction comme ayant des conséquences sévères.

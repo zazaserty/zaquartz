@@ -5,7 +5,7 @@ Selon l'article premier du Code civil suisse (RS 210):
 ![[Pasted image 20240920083131.png]]
 Donc la loi est une source, mais pas la seule. En absence d'une règle, le juge peut procéder selon le droit coutumier, et imposer un certain nombre de règles comme un législateur. Il doit aussi s'inspirer des solutions consacrées par la doctrine et la jurisprudence.
 
-La loi n'est pas parfaite, mais lacune (con lagunas). Elle ne répond pas a tous les situations. Le législateur peut laisser la loi incomplète puisqu'il préfère que ça soit les tribunaux qui règlent le problème, ou juste parce qu'il na pas prévu un cas concret.
+La loi n'est pas parfaite, mais lacune. Elle ne répond pas a tous les situations. Le législateur peut laisser la loi incomplète puisqu'il préfère que ça soit les tribunaux qui règlent le problème, ou juste parce qu'il na pas prévu un cas concret.
 ### La loi
 La loi désigne en faite l'ordre juridique, toutes les règles de droit impératives. Quand on dit: La loi est dure mais c'est la loi (Dura lex sed lex). On fait référence aux règles du droit.
 #### Le sens large

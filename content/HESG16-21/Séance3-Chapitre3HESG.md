@@ -16,12 +16,12 @@
 	- Les valeurs de la revolution Française.
 ### Le domestic system ou Verlagsystem
 - Apparaît surtout dans l'industrie textile.
-- Production artisanale à la maison (on a déjà vu ça au Chap. de l'agriculture-> les paysans faisaient l'industrie dans son temps libre).
+- Production artisanale à la maison (on a déjà vu ça au Chap. de l'agriculture-> les paysans faisaient l'industrie dans leur temps libre).
 - La transition vers les usines commence, mais il n'y a pas des usines de production massives constituées.
 #### Marchands
 - La demande textile commence a augmenter, on a besoin de main-d'oeuvre, et les marchands deviennent des intermédiaires pour informer les paysans de combien de biens il ont besoin pour vendre (secteur tertiaire). Les marchands apportent souvent aussi la matière primaire.
 #### Producteurs
-- Les paysans sont dociles et abondants donc ils travaillent pour peu dans des mauvaises conditions. Il se nourrissent de ses cultives donc il s'en foutent du salaire, c'est des bénéfices. La main-d'oeuvre urbaine est plus exigente, elle dépend de son salaire.
+- Les paysans sont dociles et abondants donc ils travaillent pour peu dans des mauvaises conditions. Il se nourrissent de leur récoltes donc ils s'en foutent du salaire, c'est tout des bénéfices. La main-d'oeuvre urbaine est plus exigente, elle dépend de son salaire.
 - On passe d'une main d'ouvre pour l'auto-consommation à des paysans salariés qui produisent a temps partiel sur le secteur secondaire.
 #### Transport
 - Les communications sont de mauvaise qualité, pas de routes goudronnées. Il est facile de se faire voler.
@@ -36,7 +36,7 @@
 - On commence a délocaliser une partie de la production a des pays en développement qui sont plus dociles. Il n'y a pas de syndicats là-bas donc pas de conditions de travail acceptables.
 - On donne a la ferme un micro-crédit pour qu'elles puissent produire et après on donne le produit aux multinationales. **Exemple ==actuel==**: Danone donne du lait aux usines gratuitement pour qu'elles puissent alimenter la production de yaourts. Les producteurs sont limités par leurs marchands ou intermédiaires, on peut leur donner différents noms, qui contrôlent les ressources qu'on leur donne.
 - Il n'y a pas de production en usines de masse donc on a un certain blocage.
-- Le capitale reste dans les mains de marchands et donc on n'a pas un réinvestissement dans l'industrie suffisant.
+- Le capitale reste dans les mains des marchands et donc on n'a pas un réinvestissement dans l'industrie suffisant.
 ### La proto-industrialisation
 Celle-ci n'est pas une étape déconnectée de l'industrie complètement. Cette thèse a été lancée par Mendels comme une explication sur l'évolution industrielle de la Flandre du 17.5-18e siècle. Il dit que l'industrialisation commence avant regrouper les ouvriers dans des usines et zones urbaines, en 1750:
 - Il y a des dynamiques rurales mais pas des concentrations d'usines.
@@ -67,7 +67,7 @@ Celle-ci n'est pas une étape déconnectée de l'industrie complètement. Cette 
 Les crises de mortalité s’atténuent, les morts son régulières maintenant. Il y a une meilleure santé et une mortalité en baisse.
 - La peste avait disparu.
 - L'homme remporte son premier triomphe sur les épidémies, la variole.
-	- On observe que les personnes qui travaillent avec des vaches souffrent d'une maladie mais après sont épargnés par la variole.
+	- On observe que les personnes qui travaillent avec des vaches souffrent d'une maladie mais après sont épargnées par la variole.
 	- On découvre les vaccines (on commence par l'inoculation et on avance vers la vaccination).
 	- Ceci n'est pas si révolutionnaire, la Chine expérimentait déjà pour obtenir une inoculation contre la variole.
 	- Pasteur et etc, ce n'est pas arrivé jusqu'au 19ème siècle.

@@ -2,7 +2,7 @@
 ### Caractéristiques de la population européenne pre-industrielle
 - L'agriculture était l'activité économique principale. Non seulement en Europe, mais dans le monde.
 - La population était plutôt active, dans le secteur primaire bien sûr
-- L'agriculture fournis la matière première pour le futur mais aussi présent secteur industriel, et les richesses essentielles dans cette société pre-industrie.
+- L'agriculture fournis la matière première pour le futur mais aussi présent secteur industriel, et les richesses essentielles dans cette société pre-industrielle.
 	- L'industrie existe, mais pas en sa forme moderne. Elle est dispersée et concentrée seulement dans quelques exceptions. Les chefs de famille s'occupaient de la terre et ses fils tissaient et transformaient ses biens en matières secondaires (industrie).
 	- Ceci se donnait dans le domicile ou des petits ateliers.
 	- Ces activités se diffusent vers la campagne agricole, puisque dans l'hiver (climat peu cultivable) les paysans n'avait pas grande chose a faire.
@@ -36,7 +36,7 @@ Le rendement (quantité récoltée/quantité semée) est plutôt faible: **5 à 
 - L'outillage est primitif et ne permet pas une hausse du rendement. Ceci n'est pas comme notre agriculture capitalisée, qui utilise des tracteurs... etc.
 - Il n'était pas posible d'améliorer l'outillage puis que les paysans n'avaient pas accès au crédit pour le financer. Après, des cooperatives agricoles seraient formées pour faciliter ceci.
 - La quantité que les agriculteurs devaient donner aux seigneur variaient selon les prix. Donc une période de bonne récolte dans la région et prix bas= grande quantité due au seigneur.
-- Aussi, il y a une absence d'utilisation du fumier des animaux. La relation entre cette matière et la croissance végétale n'existait pas. Ceci changera avec la revolution industrielle qui entraînera une revolution agricole.
+- Aussi, il y a une absence d'utilisation du fumier des animaux. La relation entre cette matière et la croissance végétale n'était pas connue. Ceci changera avec la revolution industrielle qui entraînera une revolution agricole.
 - Le sol n'était pas bien nourri (même pas de fumier). Si cette terre est trop cultivée elle sera erosionée. Pour maintenir la fertilité de la terre l'assolement biennal était utilisé.
 ##### Systèmes
 - Biennal: Une partie cultivée et une partie qui ne l'est pas. **Sud d'Europe**
@@ -49,8 +49,8 @@ Le rendement (quantité récoltée/quantité semée) est plutôt faible: **5 à 
 ### Surplus
 - Il doit y avoir un certain surplus, pour permettre la croissance et industrialisation de la population. Si il n'y a pas de surplus, donc l'agriculture est de subsistance pure, la population industrielle ne peut pas compter sur cette nourriture pour survivre.
 #### La *loi* du 15%
-Selon quelques démographes, une société ne peut pas avoir plus du 15% de ça population dans des villes puis qu'elle a besoin de produire ses matériaux.
-Ce seuil a été franchi par quelques sociétés comme l'Italie du Moyen Âge, qui dépendaient d'autres pour obtenir ses ressources. (Ceci n'est évidemment pas vrai de nos jours, cette théorie a été pensée pour expliquer la démographie pre-industrielle.)
+Selon quelques démographes, une société ne peut pas avoir plus du 15% de sa population dans des villes puisqu'elle a besoin de produire ses matériaux.
+Ce seuil a été franchi par quelques sociétés comme l'Italie du Moyen Âge, qui dépendaient d'autres pour obtenir ses ressources. (Ceci n'est évidemment plus vrai de nos jours, cette théorie a été pensée pour expliquer la démographie pre-industrielle.)
 ==Selon Paul Bairoch.==
 ### Pauvreté
 La moitié des enfants mouraient avant le premier an et la misère était centrale dans la vie.
@@ -58,6 +58,6 @@ La moitié des enfants mouraient avant le premier an et la misère était centra
 	- Les pauvres de l'élite économique qui tombent dans la pauvreté pour des raisons conjoncturelles (faillites, disgrâces...).
 - Pauvres structurels qui sont durablement pauvres.
 - Les pauvres vont émigrer aux villes, celles ci vont devoir se protéger. **Exemple**: *Poor Laws* de GB: Aide aux pauvres pour avoir moins de mendiants dans les rues.
-- La pauvreté était aussi lié a la dette (genre peut être pas monétaire mas de la dette en matière par example), la creation d'un crédit général **aurait** aidé a sortir de cette misère. Selon Laurence Fontaine.
+- La pauvreté était aussi liée a la dette (genre peut être pas monétaire mas de la dette en matière par example), la creation d'un crédit général **aurait** aidé a sortir de cette misère. Selon Laurence Fontaine.
 
 #UNIGE #HESG

@@ -125,7 +125,7 @@ Il y a certaines obligations et droits pour les cantons. Par exemple, ils peuven
 **Exemple de constitution, Appenzell Rhodes-Intérieures**:
 	![[Pasted image 20241018093442.png]]
 
-Un canton ne peut pas d'organiser comme une dictature. La constitution doit émaner du peuple et pouvoir être modifié par eux mêmes. A l'origine la majorité des cantons qui rejoignaient la CH étaient loin de démocratiques mais ceci a changé. Les cantons sont aussi obligés de séparer les pouvoirs. Chaque canton doit donc disposer de:
+Un canton ne peut pas s'organiser comme une dictature. La constitution doit émaner du peuple et pouvoir être modifié par eux mêmes. A l'origine la majorité des cantons qui rejoignaient la CH étaient loin de démocratiques mais ceci a changé. Les cantons sont aussi obligés de séparer les pouvoirs. Chaque canton doit donc disposer de:
 - Une constitution.
 - Un parlement avec une chambre unique avec les députés de la population cantonale.
 - Un gouvernement. L'organisation de l'exécutif est souvent semblable et collégiale entre cantons.

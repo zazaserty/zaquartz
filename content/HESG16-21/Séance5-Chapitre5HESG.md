@@ -13,7 +13,7 @@ La Suisse n'a pas tellement de cette influence d'entrepreneurs et est plus indé
 ##### Boule de neige
 Il y a des effets entraînants, par exemple utiliser des machines pour tisser augmente la demande dans la sidérurgie.
 ##### L'État
-En Suisse (petite mais bien industrialisée a la fin) l'État intervient moins (GB reste chill et laisse faire la R.I ailleurs). La Société générale Belge est crée par l'État pour apporter des capitaux au développement industriel. En France la première grande usine est crée par l'État.
+En Suisse (petite mais bien industrialisée a la fin) l'État intervient moins (GB reste chill à la fin et laisse faire la R.I ailleurs). La Société générale Belge est crée par l'État pour apporter des capitaux au développement industriel. En France la première grande usine est crée par l'État.
 
 En gros l'État favorisait la R.I.
 #### 2ème vague
@@ -31,7 +31,7 @@ L'Allemagne avait déjà perçue l'ouverture des frontières d'outrance, elle ad
 #### Les tard venus
 Espagne, Italie, Russie et Suède: 1860-1890.
 
-Le servage dans la Russie jusqu'à 1861 ne permet pas de libérer la main d'oeuvre. On l'abolit pragmatiquement pour commencer la R.I. Ceci fait grandir le textile et la sidérurgie. 
+Le servage dans la Russie jusqu'à 1861 ne permet pas de libérer la main d'oeuvre. On l'abolit pragmatiquement (Alexandre II) pour commencer la R.I. Ceci fait grandir le textile et la sidérurgie. 
 ##### Investissement
 L'État fait aussi un appel proactif du capital étranger (emprunts qui ne sont souvent pas remboursés). Napoleon III avait été battu face aux prussiens et les russes s'allient avec eux en échange d'un emprunt.
 
@@ -46,16 +46,16 @@ Certaines machines vont être adoptées comme dans Catalogne (Espagne) pour tiss
 Pour l'Italie, la production de fils de cotton est très dynamique. Cependant elle manque de matières premières comme le charbon, quand elle l'importe elle peut donc produire du fer. 1899 voit naître Fiat et comme ça l'industrie commence a grandir. L'unification tardive avait les mêmes handicaps qu'avec l'Allemagne.
 ### Difficultés pour s'industrialiser
 ![[Pasted image 20241002113841.png]]
-==Parties d'empires comme Irlande==
+(==Parties d'empires comme Irlande==)
 #### Les pays complémentaires de la GB
 ##### Portugal
 Le Portugal avait été isolé de l'Europe continentale, étant voisin de l'Espagne. Il commerçait, étant un empire, avec ses machins issus de la colonisation. Quand les diamants de l'Amérique on cessé d'arriver une École de Commerce a été fondée par l'État.
 
-Cependant, le Portugal (surtout le sud) était dominé par des conservateurs qui voulaient garder les terres et cultiver. Il y avait aussi beaucoup de gens qui vivait de l'agriculture de subsistance (pas de posibilité de nourrir la population urbaine).
+Cependant, le Portugal (surtout le sud) était dominé par des conservateurs qui voulaient garder les terres et y cultiver. Il y avait aussi beaucoup de gens qui vivaient de l'agriculture de subsistance (pas de posibilité de nourrir la population urbaine).
 
 Il va se spécialiser dans l'exportation de vin envers l'Angleterre pour survivre (il devient complémentaire). On se spécialise avec nos avantages relatifs. Ceci empêche la R.I.
 
-Le Portugal importe des bien industriels de GB. Il n'en a pas.
+Le Portugal importe des biens industriels de GB. Il n'en a pas. Après le vin français remplacera une partie du portugais (dans les importations de GB), ce qui sera négatif pour eux.
 ##### Danemark
 En vrai, ce pays a pu faire ça propre R.I grâce à s'avoir inscrit dans cette complémentarité avec la GB. Il fournit des céréales. Grand exportateur de céréales (même avec les USA). Mais ils sont trop chers par rapport à ceux d'outre mer. Donc elle est forcée a faire des produits laitiers, qui sont absorbés par GB. En utilisant des cooperatives (système ou on partage les machines et les résultats entre quelques producteurs) on produit ces biens.
 

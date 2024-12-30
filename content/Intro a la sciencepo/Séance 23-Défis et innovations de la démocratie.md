@@ -80,7 +80,7 @@ Les gens, même les jeunes, préfèrent quand même les PSM plus que les autres 
 
 Mais seulement le 46% des suisses les considèrent des médias fiables.
 ![[Pasted image 20241217134513.png]]
-On se sent manipulés. Une média qui n'est plus capable de savoir si ce qu'elle dit est vrai a un problème de légitimité. La désinformation est important pour les européens:
+On se sent manipulés. Une média qui n'est plus capable de savoir si ce qu'elle dit est vrai a un problème de légitimité. La désinformation est importante pour les européens:
 ![[Pasted image 20241217134712.png]]
 Même chose pour la polarisation, elle est perçue comme un risque:
 ![[Pasted image 20241217134740.png]]

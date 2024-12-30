@@ -13,7 +13,7 @@ Le travail va être mécanisé, on va transformer les personnes en machines quoi
 Ceci débouche dans le taylorisme, la grande expression de cette mentalité:
 - La flânerie est la cause de bas rendements.
 - L'organisation scientifique du travail est née.
-- On observe les tâches et on le redistribue et mesure le temps et quantité de tâches que chaque ouvrier va faire (ceci prend quelques années même dans les plus pionniers comme Michelin).
+- On observe les tâches et on le redistribue et on mesure le temps et quantité de tâches que chaque ouvrier va faire (ceci prend quelques années même dans les plus pionniers comme Michelin).
 - C'est un processus chronométré à cause de l'incitation financière (les ouvriers ils n'aiment pas ça, on les rémunère en fonction du nombre produit.).
 - **Exemple**: Michelin
 - Gain de productivité mais le travail des ouvriers est appauvri.
@@ -24,7 +24,7 @@ Ceci débouche dans le taylorisme, la grande expression de cette mentalité:
 	- Horizontale: On décompose le processus de production et chaque tâche revient à un individu.
 	- Verticale: On répartit les responsabilités entre les niveaux hiérarchiques-> direction pour décider, employés pour exécuter.
 #### Conséquences
-Les rapports au travail vont beaucoup changer. C'est un travail dur qui cause de la douleur à cause de tâches répétitives. Leur vie est vide maintenant. Il se sentent aliénés. On vide le travail de son intérêt, sauf pour les entrepreneurs quoi.
+Les rapports au travail vont beaucoup changer. C'est un travail dur qui cause de la douleur à cause des tâches répétitives. Leur vie est vide maintenant. Il se sentent aliénés. On vide le travail de son intérêt, sauf pour les entrepreneurs quoi.
 
 Le livre de Taylor es publié en 1911 mais la diffusion du taylorisme arrive bien avant, dès 1900. Son importation va susciter pas mal de conflits et gréves. Il va accélérer la production pour WW1, on est maintenant à sa veille.
 
@@ -36,11 +36,11 @@ En USA ceci est plus accepté qu'en Europe, puisque les ouvriers étasuniens ava
 ##### Guerre
 La WW1 va aider à accepter le nouvel ordre, le patriotisme aide les travailleurs à le supporter.
 
-Le taylorisme va quand même progresser après la guerre, avec la retransformation des entreprises à leur rôles originaux. 
+Le taylorisme va quand même progresser après la guerre, avec la retransformation des entreprises vers leur rôles originaux. 
 #### Michelin
-Michelin va être pionnière, avec l'implementation du taylorisme mais aussi une boîte à suggestions, Il y a une applications des idées des ouvriers ce qui leur attache à l'entreprise d'une manière pédagogique. C'est un investissement de la part de Michelin.
+Michelin va être pionnière avec l'implementation du taylorisme et une boîte à suggestions; Il y a une applications des idées des ouvriers ce qui leur attache à l'entreprise d'une manière pédagogique. C'est un investissement de la part de Michelin.
 ### Fordisme
-C'est pas les ouvriers qui bougent mais les produits. Son nom provient de la voiture Ford, faite avec des pièces simples qui permettaient l'innovation tout en respectant cette manière de production.
+C'est pas les ouvriers qui bougent mais les produits. Son nom provient de la voiture Ford Pinto, faite avec des pièces simples qui permettaient l'innovation tout en respectant cette manière de production.
 
 Un produit standardisée est acheminée vers l'ouvrier dont les ingénieurs décident la cadence de ces mouvements. On fait même plus d'économies dans le gaspillage de temps et d'argent. Ceci permet d'augmenter les salaires et commencer la consommation de masse.
 
@@ -50,6 +50,6 @@ Finalement, on légalise la durée des produits (obsolescence programmée) pour 
 #### Consommation
 La consommation va aider à l'acceptation du modèle et à l'obtention de la qualité de vie moderne. Mais il attire aussi de la main d'oeuvre, ce qui permet de remplacer les employés qui travaillent mal. Ford payait 5$/jour et les autres 2 ou 3 au maximum.
 
-On fait des voitures mais aussi des consommateurs de masse qui peuvent s'offrir même une ford.
+On fait des voitures mais aussi des consommateurs de masse qui peuvent s'offrir même une ford. Ceci aide les ouvriers a accepter le système.
 
 #UNIGE #HESG 
