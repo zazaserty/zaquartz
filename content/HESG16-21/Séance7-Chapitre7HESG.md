@@ -24,7 +24,7 @@ Face à ce problème il y a deux réponses non-gouvernementales:
 - Une hausse dans le taux de migration, l'exode des européens vers les pays surtout d'Amérique. Ceci était une mesure de sécurité préférable aux révoltes.
 - Création de coopératives par des agriculteurs qui sont dans des difficultés. Les agriculteurs peuvent maintenant accéder à des crédits. **Exemple**: Raiffaisen.
 #### 1890-1914: Retour à la prospérité
-L'Angleterre perd de la vitesse, elle reste dans une industrie de la première génération face à la modernité de l'Allemagne et l'USA entre autres. Ces nouvelles puissances industrielles qui étaient en retard son maintenant au devant avec électricité, l'acier, etc. Le nationalisme entraîne un protectionnisme qui reste timide à cause de la prospérité. L'Europe est au centre du commerce international, ce qui finira avec la WW1.
+L'Angleterre perd de la vitesse, elle reste dans une industrie de la première génération face à la modernité de l'Allemagne et l'USA entre autres. Ces nouvelles puissances industrielles qui étaient en retard son maintenant au devant avec l'électricité, l'acier, etc. Le nationalisme entraîne un protectionnisme qui reste timide à cause de la prospérité. L'Europe est au centre du commerce international, ce qui finira avec la WW1.
 ### Facteurs
 L'économie change de visage de 1850 à 1913 grâce à:
 - Nouveaux transports qui permettent de compenser les coûts de transporter les biens (à la fin le protectionnisme va être nécessaire dans quelques pays).
@@ -36,9 +36,9 @@ L'économie change de visage de 1850 à 1913 grâce à:
 ##### 1850
 Pour transporters des biens lourds et beaucoup de marchandises on avait besoin de beaucoup de chevaux et l'infrastructure routière était mauvaise. C'était cher. Acheminer marchandises et humains ne valait pas la peine dans beaucoup de cas. **Exemple**: Une dizaine de jours entre Marseille et Paris en diligence.
 
-Mais une révolution va venir avec les chemins de fer et la machine à vapeur. On va transporter le charbon des mines et après des personnes sur des distances plus longues. On commence avec des petites lignes sur des courtes distances pour convaincre les investisseurs et passer à une échelle plus grande. Il y a divers promoteurs pour convaincre les gens et les banquiers de la faisabilité du train. Ligne de test entre Saint-Germain et Paris. Il y aura une extension du réseau entre Paris et Lille après.
+Mais une révolution va arriver avec les chemins de fer et la machine à vapeur. On va transporter le charbon des mines et après des personnes sur des distances plus longues. On commence avec des petites lignes sur des courtes distances pour convaincre les investisseurs et passer à une échelle plus grande. Il y a divers promoteurs pour convaincre les gens et les banquiers de la faisabilité du train. Ligne de test entre Saint-Germain et Paris. Il y aura une extension du réseau entre Paris et Lille après.
 
-Il y a ensuite une construction de réseaux nationaux qui relient des centre économiques. On ne reliera des centres petits que vers le fin de la révolution, puisque ceci est cher et n'attire pas tellement de capital.
+Il y a ensuite une construction de réseaux nationaux qui relient des centres économiques. On ne reliera des centres petits que vers le fin de la révolution, puisque ceci est cher et n'attire pas tellement de capital.
 
 Dans 1850 GB et BELG feront ceci et FR viendra plus tard vers 1860.
 ##### 1870
@@ -53,7 +53,7 @@ Les marchands peuvent tout d'un coup transporter des produits périssables comme
 **Croissance des chemins de fer français**
 ![[Pasted image 20241016105147.png]]
 ##### Les bateaux à vapeur
-On remplace lea voile par le vapeur, on peut maintenant aller aux USA en 15 et pas 30 jours. Ce moyen de transport et plus rapide et stable, mais aussi régulier puisqu'il ne dépend pas du vent. Mais l'implantation de cette innovation mets du temps. De la même manière, le transport frigorifique qui arrive après permet d'acheminer de la viande argentine (par exemple) vers l'Europe.
+On remplace lea voile par le vapeur, on peut maintenant aller aux USA en 15 et pas 30 jours. Ce moyen de transport et plus rapide et stable, mais aussi régulier puisqu'il ne dépend pas du vent. Mais l'implantation de cette innovation met du temps. De la même manière, le transport frigorifique qui arrive après permet d'acheminer de la viande argentine (par exemple) vers l'Europe.
 
 Ceci va favoriser une spécialisation relative de chaque pays, on peut transporter du blé étasunien d'une manière plus économique.
 ### Conséquences
@@ -83,24 +83,23 @@ Les tarifs vont petit à petit être abolies, elles avaient même baissé autour
 ##### Après 1900
 - L'industrie de GB est en recul, il y a des secteurs qui restent dynamiques comme la finance et la politique.
 - Les complémentarités sont maintenant plus régionales mais mondiales. Des nouveaux pays exportateurs apparaissent comme le Japon. Des pays comme l'Argentine, l'USA, etc; fournissent des céréales.
-- Pas besoin de protéger les paysans puisqu'il y a moins que dans la France et il ne produisent pas trop de céréales.
+- Pas besoin de protéger les paysans dans GB puisqu'il y a moins que dans la France et il ne produisent pas trop de céréales.
 - Dépendance de l'étranger, les paysans de GB ne sont pas assez nombreux pour soutenir la population urbaine. Les prix sont bas même si importés ce qui permet aux pauvres de sortir de la pauvreté.
 - L'Angleterre reste la puissance mondiale mais d'autres économies comme celle d'ALL augmentent.
-- Les exportations anglaises de la première génération sont en baisse est préoccupent la population. Les pays de la deuxième génération ont déjà progressé.
+- Les exportations anglaises de la première génération sont en baisse et préoccupent la population. Les pays de la deuxième génération ont déjà progressé.
 - La France va aussi se marginaliser pendant cette période.
 ### Mondialisation de l'argent
 Le système monétaire international était basé sur la monnaie anglaise. GB et FR sont les places les plus importantes économiquement et ses monnaies sont à la base du système.
 #### Fin bimétalliste.
-Des nouvelles découvertes d'or et l'amélioration de son extraction cause une perte de sa valeur. L'Union Latine est crée pour assurer le transfer de monnaies en or entre France, Suisse, etc.
-- l'Union Latine était une union monétaire qui visait à standardiser les pièces de monnaie en fixant des poids et des titres (pureté du métal) uniformes pour l'or et l'argent. Cela permettait aux pays membres d'avoir des monnaies facilement interchangeables, ce qui facilitait le commerce et les transactions financières entre eux. En réponse aux fluctuations de l'or.
+Des nouvelles découvertes d'or (Californie) et l'amélioration de son extraction cause une perte de sa valeur. L'Union Latine est crée pour assurer le transfer de monnaies en or entre France, Suisse, etc.
+- l'Union Latine était une union monétaire qui visait à standardiser les pièces de monnaie en fixant des poids et des titres (pureté du métal) uniformes pour l'or et l'argent. Cela permettait aux pays membres d'avoir des monnaies facilement interchangeables, ce qui facilitait le commerce et les transactions financières entre eux. Ceci en réponse aux fluctuations de l'or.
 
 Le bimétallisme finit en 1873 après la guerre franco-prussienne, l'Union (Monétaire) Latine perdure jusqu'à 1927 (quelques pays essaient de garder le système). Le bimétallisme a été abandonné parce que les fluctuations du prix de l'or et de l'argent rendaient difficile le maintien d'un taux de change fixe entre les deux métaux. Cela créait de l'instabilité économique et compliquait les transactions internationales. L'étalon-or a été adopté comme une alternative plus stable.
 - Si l'or varie je vais le garder et mettre en circulation juste les pièces en argent (Loi de Gesham-> la mauvaise monnaie chasse la bonne).
     - **Fluctuations des métaux** : Les variations du prix de l'or et de l'argent sur le marché mondial créent une instabilité monétaire, compliquant le commerce et la stabilité des prix.
     - **Arbitrage** : Les différences de valeur entre l'or et l'argent peuvent inciter à fondre les pièces pour profiter des écarts de prix, réduisant ainsi la masse monétaire en circulation.
-##### Nouvel ordre
 #### L’Alignement sur l’Or
-- Pour résoudre les problèmes du bimétallisme, de nombreux pays, dont le Royaume-Uni (très tôt) et la France, adoptent un système monométallique basé uniquement sur l'or : c'est l'**étalon-or**. Ce système présente plusieurs avantages :
+- Pour résoudre les problèmes du bimétallisme, de nombreux pays, dont le Royaume-Uni (très tôt) et la France, adoptent un système monométallique basé uniquement sur l'or : c'est l'**étalon-or**. On paie en papier et en monnaies dont la valeur est basée sur la livre sterling laquelle est basée sur l'or. Ce système présente plusieurs avantages :
     - **Stabilité des échanges internationaux** : L'or offre une référence commune, facilitant le commerce entre les nations.
     - **Confiance accrue** : L'or est universellement reconnu comme une réserve de valeur fiable, ce qui renforce la confiance dans les pièces et les billets de banque.
 - Cependant, l'**Angleterre** va plus loin en faisant de sa monnaie, la **livre sterling**, la valeur de référence internationale, un système parfois appelé **étalon sterling**. La livre sterling est basée sur l'or et est librement convertible, ce qui la rend particulièrement attractive pour les échanges internationaux.

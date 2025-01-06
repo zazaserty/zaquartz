@@ -70,7 +70,7 @@ Les groupes de caractère économique sont très présents, surtout celui des pr
 ##### Liens *pertinents* dans les commissions législatives
 On voit même le conseiller fédéral Guy Parmelin:
 ![[Pasted image 20241129155322.png]]
-Ils sont présents dans la phase parlementaire alors, à travers les commissions législatives.
+Ils sont aussi présents dans la phase parlementaire alors, à travers les commissions législatives.
 #### Phase référendaire
 ![[Pasted image 20241129155512.png]]
 - Depuis 2022, les personnes et organisations politiques qui font campagne pour des votations ou des élections fédérales doivent déclarer leur financement si leur campagne dépasse 50 000 francs (Art. 76c.1, LDP, OFIPO).

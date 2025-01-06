@@ -25,12 +25,12 @@ On n'étudie pas seulement le comportement et l'action politiques mais les attit
 - Campagne électorale n'a qu'un rôle limité.
 #### École psycho-sociologique (modèle de Michigan; Campbell 1960)
 Ils ont étudié l'élection présidentielle et ont creé un modèle d'explication électoral centré sur l'individu en tal que tel et pas comme membre d'un groupe:
-- Accent sur les attitudes politiques, en particulier l'identification partisane qu'on obtient dans l'enfance et détermine leur choix partisan quand celle ci se renforce au long de leur vies.
+- Accent sur les attitudes politiques, en particulier l'identification partisane qu'on obtient dans l'enfance et détermine notre choix partisan quand celle ci se renforce au long de notre vie.
 - C'est un attachement affectif, psychologique qui fonctionne comme *raccourci cognitif*.
 - Le déterminant principal du vote est donc la loyauté à un parti, le vote n'est qu'une expression de cette loyauté.
 - Comme le modèle de Columbia, on met un accent sur la stabilité des préférences partisanes.
 #### École du choix rationnel (école de Rochester; Downs 1957)
-- Changement de perspective important, on postule que le vote est le résultat d'un processus de prise de décision au niveau individuel. On ne presuppose pas un choix électoral dicté par la classe social ou une préférence partisane. Les électeurs vont choisir le parti qui va maximiser leur utilité, dans un analyse coût-bénéfice.
+- Changement de perspective important, on postule que le vote est le résultat d'un processus de prise de décision au niveau individuel. On ne presuppose pas un choix électoral dicté par la classe social ou une préférence partisane. Les électeurs vont choisir le parti qui va maximiser leur utilité, dans une analyse coût-bénéfice.
 - Déterminant du vote = calcul d'utilité (vote *instrumental* ou *utilitariste*); homo *politicus*=homo *economicus*; arène électorale=marché.
 - **Exemple**: modèles spatiaux du vote: l'individu vote pour le parti/candidat le plus proche du point de vue idéologique (dimension gauche-droite) ou sur un enjeu politique spécifique.
 - Ce modèle assume que les individus sont capables de situer leur idées et de comprendre où se situent les différents partis.
@@ -148,7 +148,7 @@ On est un pays à faible participation, si on regarde chaque votation individuel
 ![[Pasted image 20241122145817.png]]
 On peut observer que plus de 60% des genevois a voté entre 1 fois et 9 fois sur 10. Les abstentionnistes chroniques représentent une petite partie de la population. Depuis cette perspective on n'est pas un pays a si petite participation. SI on participe soi-disant *peu* c'est puisqu'on vote beaucoup.
 #### C'est mauvais?
-L’abstentionnisme chronique réduit la légitimité du régime pour quelques uns. Mais une baisse n'est pas mauvais, peut-être ça veut juste dire que les gens préfèrent ne pas participer à voter n'importe quoi s'ils n'ont pas le temps ou que le pays est bien géré.
+L’abstentionnisme chronique réduit la légitimité du régime pour quelques uns. Mais une baisse n'est pas mauvaise, peut-être ça veut juste dire que les gens préfèrent ne pas participer à voter n'importe quoi s'ils n'ont pas le temps ou que le pays est bien géré.
 
 C'est un problème si juste certains groupes ne s'expriment pas donc ils sont sous-représentés. Il y aurait donc une inégalité de participation (genre, âge, éducation, revenu, etc). En Suisse les personnes votent moins quand elles sont moins éduquées. En ce qui respecte le sexe et l'âge:
 ![[Pasted image 20241122153239.png]]

@@ -8,7 +8,7 @@ Ces politiques comme la *Tea Act* finissent par causer la guerre d'indépendance
 #### Évolution
 Les USA s'industrialisent vers le deuxième moitié du 19ème (1860). La guerre civile est dure, beaucoup de morts dans cette bataille sur l'esclavage et la vision de la société. Ceci va causer une fluctuation importante des prix comme celui du cotton.
 
-Les USA ont des ressources presque infinies, c'est un territoire extrêmement vaste. Ils ont aussi un marché intérieur considérable (31 millions d'habitants en 1860 et 10% d'esclaves). La population d'esclaves ne s'est pas vraiment intégrée après la guerre. Ceci au contraire de l'Amérique du sud, dans laquelle la population afro-descendante a perçu un dynamisme plus grand et s'est emancipé mieux.
+Les USA ont des ressources presque infinies, c'est un territoire extrêmement vaste. Ils ont aussi un marché intérieur considérable (31 millions d'habitants en 1860 et 10% d'esclaves). La population d'esclaves ne s'est pas vraiment intégrée après la guerre. Ceci au contraire de l'Amérique du sud, dans laquelle la population afro-descendante a perçu un dynamisme plus grand et s'est mieux émancipée.
 
 Sa politique d'indépendance et la doctrine Monroe de 1923 définissent une politique plutôt positive pour le développement. L'idée est que les USA ne vont pas se mêler de l'Europe et le reste du monde (ceci n'est plus vrai maintenant).
 
@@ -47,14 +47,14 @@ Il y a trois régions différentes dans latam:
 - Lusophone: Portugaise.
 - Caraïbes avec d'autres pays comme l'Angleterre.
 
-Il y aura quand même des pays de latam très développés comme l'Argentine mais qui vont après chuter.
+Il y aura dans ces régions des très développés comme l'Argentine mais qui vont après chuter.
 #### Phases
 ##### Du 16ème siècle à l'indépendance:
 - Extraction.
 - Mines comme celles de Potosi.
-- Plantations comme le café dans le Brésil et les Caraïbes.
+- Plantations comme celles de café dans le Brésil et les Caraïbes.
 	- Le sucre a commencé comme un médicament et après on l'a utilisé dans la nourriture.
-	- La canne à sucre elle était déjà présente en Europe. Mais l'Amérique avait un terrain plus propice à sa production.
+	- La canne à sucre était déjà présente en Europe. Mais l'Amérique avait un terrain plus propice à sa production.
 	- L'esclavage sera nécessaire pour sa production en masse. On utilisera aussi les moulins pour pouvoir extraire le jus de sucre. L'économie était extravertie, vers l'exportation.
 	- 1 kg de sucre était 1 ou 2 mois de salaire.
 - Les esclaves forment des communautés dans cette société multiraciale:
@@ -77,26 +77,26 @@ Petit à petit les gouvernements de latam vont vouloir du progrès, en utilisant
 ###### **Betterave**
 Le sucre est coûteuse, la betterave devient son remplacement. Elle peut être mécanisée. Ceci fait apparaître des nouveaux concurrents comme la Réunion. Il y aura un blocus de la GB par la France pour lutter contre leur dépendance de canne sucre anglaise. Les économies de latam sont gravement impactées par cette nouvelle concurrence.
 ![[Pasted image 20241031135515.png]]
-Le sucre de canne pert du rapport d'échange pour d'autres biens, les termes d'échange se détériorent comme le pouvoir d'achat de ces pays. Ceci arrive avec beaucoup plus de bien primaires (non-manufacturés) ce qui est la cause de la misère de latam.
+Le sucre de canne pert du rapport d'échange pour d'autres biens, les termes d'échange se détériorent comme le pouvoir d'achat de ces pays. Ceci arrive avec beaucoup plus de biens primaires (non-manufacturés) ce qui est la cause de la misère de latam.
 ![[Pasted image 20241114122036.png]]
 1871-1913. Chaque décennie les termes d'échange changent mais la tendance est vers la dépréciation.
 
-Le blé, par exemple, perd 20% de sa valeur d'échange par rapport au bien manufacturés. Cette fluctuation change en fonction de l'époque.
+Le blé, par exemple, perd 20% de sa valeur d'échange par rapport aux bien manufacturés. Cette fluctuation change en fonction de l'époque.
 ### Le cas de l'Argentine
 ![[Pasted image 20241114123515.png]]
 Dans un premier temps les pays comme l'Argentine s’intègrent très bien dans le marché. Cependant cette dépendance envers les exportations va les punir dans le long terme surtout après la crise de 1929. La chute est brutale.
 
-L'Argentine voit ce succès grâce au grande plaines et propriétés consacrées à l'élevage et la culture de céréales. Cependant le marché intérieur (populations autochtones mortes) est très étroit, juste 4 millions d'habitants. Pour pouvoir développer leur terres ils font appel à l'immigration et créent une économie extravertie, pour l'exportation.
+L'Argentine voit ce succès grâce aux grandes plaines et propriétés consacrées à l'élevage et à cultiver les céréales. Cependant le marché intérieur (populations autochtones mortes) est très étroit, juste 4 millions d'habitants. Pour pouvoir développer leur terres ils font appel à l'immigration et créent une économie extravertie, pour l'exportation.
 
 Les pays européens investissaient aussi pas mal de capitaux en développer les infrastructures de latam comme les ports. En 1816 l'immigration est rendue attractive, les natifs remplacés. C'est surtout les européens qui s'installent, 4 millions d'européens arrivent.
 
 En 1929 les économies des pays comme l'Argentine ne pourront pas se récupérer de l'effondrement. La spécialisation dans le secteur primaire va confiner ces pays au sous-développement. Pour les européens, ceci est plutôt positif pour leur développement. Ces crises ont entraîné des coups et des dictatures.
 ### Le cas de l'Inde
-L'Inde (colonie anglaise) et la Chine sont deux puissances démographiques, les géants asiatiques. Elles sont 80% de la population asiatique.
+L'Inde (colonie anglaise) et la Chine sont deux puissances démographiques, les géants asiatiques. Elles représentent 80% de la population asiatique.
 
-La colonisation de l'Inde est plutôt progressive. Vers 1858 la Compagnie des Indes anglaises avance dans l'Inde mais ne la colonise pas, c'est le fournisseur de cottons des européens et est sous le contrôle mongol. En 1858 elle est complètement colonisé par la GB. Avant il y avait juste des enclaves mercantilistes. Ceci dure jusqu'en 1947.
+La colonisation de l'Inde est plutôt progressive. Vers 1858 la Compagnie des Indes anglaises avance dans l'Inde mais ne la colonise pas, c'est le fournisseur de cotton des européens et est sous le contrôle mongol. En 1858 elle est complètement colonisée par la GB. Avant il y avait juste des enclaves mercantilistes. Ceci dure jusqu'en 1947.
 
-L'Inde exportait vers l'Europe, les ressources sont drainés vers l'étranger. L'Angleterre se protège, elle n'aime pas importer tellement. Elle n'importe ==pas== vers l'Angleterre, ceci était interdit. Avant ça avait commencé par du protectionnisme en forme de taxe douaniers mais ça évolue vers des interdictions.
+L'Inde exportait vers l'Europe, les ressources sont drainés vers l'étranger. L'Angleterre se protège, elle n'aime pas importer tellement. Elle n'importe ==pas== vers l'Angleterre, ceci était interdit. Ça a commencé par du protectionnisme en forme de taxes douaniers mais ça évolue vers des interdictions.
 
 L'Inde va être désindustrialisée avec de nombreuses mesures entre 1770-1813. Elle n'exporte plus massivement mais importe des tissus anglais. La Compagnie des indes perd le monopole du commerce et la concurrence apparaît. Le textile et autres industries apparaissent mais ne peuvent pas concurrencer les importations, ces dernières aident à construire les chemins de fer et etc. L'Inde perd ce dynamisme d'industrialisation dans le textile par exemple.
 
@@ -114,9 +114,9 @@ En 1947 l'Inde devient indépendante, elle avait souffert en 1929 les mêmes pro
 #### Boycott
 Les indiens feront le boycott à l'industrie textile anglaise dans le contexte de la lutte par l'indépendance.
 ### Chine
-La Chine va mieux resister que l'Inde puisque elle va être colonisée (et désindustrialisée) plus tardivement et obtient son industrialisation avant que l'Inde donc elle souffre pendant moins de temps.
+La Chine va mieux resister que l'Inde puisque elle va être colonisée (et désindustrialisée) plus tardivement et obtient son indépendance avant l'Inde donc elle souffre pendant moins de temps.
 #### Début
-Entre 1650 et 1800 il y a une croissance et peu de relations avec l'occident. Les européens et leur influence arrive avec Macao et les anglais aussi avec Hong Kong. C'est un pays avancé soumis à la dominations des mongols et autres peuples, qui utilisait même déjà le billet. Ils ont aussi un système d'aménagement territorial plutôt décent.
+Entre 1650 et 1800 il y a une croissance et peu de relations avec l'occident. Les européens et leur influence arrivent. C'est un pays avancé soumis à la domination des mongols et autres peuples, qui utilisait même déjà le billet. Ils avaient aussi un système d'aménagement territorial plutôt décent.
 #### Guerre
 Les britanniques vont faire pression pour ouvrir le marché chinois, ils pouvaient juste faire du commerce dans leur enclaves commerciaux contrôlés par les fonctionnaires chinois. Les britanniques vont faire de l'opium en Inde pour ne pas payer leur achats à la Chine en monnaie mais en opium. Ils obtiennent de la soie, de la porcelaine, etc; des produits manufacturés chers.
 
@@ -136,7 +136,7 @@ Le rail s'était installé comme dans l'Inde. L'agriculture était bien administ
 - L'Égypte faisait partie de l’Empire ottoman depuis le VIe siècle, en restant politiquement et économiquement dépendant de celui-ci.
 - En 1798, Napoléon Bonaparte mène une grande expédition en Égypte via la Méditerranée. Cela inaugure une période d’occupation française de trois ans, qui se termine avec la reconquête ottomane sous Méhémet-Ali.
 #### Le développement sous Méhémet-Ali
-Méhémet-Ali amorce un projet ambitieux pour transformer l'Égypte en un État moderne et puissant. Ses réformes marquent un cas original de *résistance au sous-développement, avec pour objectifs la modernisation agricole, industrielle et éducative, et une insertion internationale de l’Égypte.
+Méhémet-Ali amorce un projet ambitieux pour transformer l'Égypte en un État moderne et puissant. Ses réformes marquent un cas original de *résistance au sous-développement, ayant pour objectifs la modernisation agricole, industrielle et éducative, et une insertion internationale de l’Égypte.
 #### Réformes agricoles
 1. **Étatisation et redistribution des terres**
     - Méhémet-Ali étatise les terres agricoles et les redistribue pour mieux contrôler leur exploitation.
@@ -172,7 +172,7 @@ Il fallait être indépendant des pays de l'extérieur comme avec l'empire ottom
 - Resistance au marchandises d'ailleurs.
 - Promotion des produits locaux, propagande.
 - L'armée est le principal débouché des biens des industries naissantes comme le papier, le textile, le naval. C'est un système de marché étatique où on ne dynamise pas, c'est pas une économie marchande mais un capitalisme d'état très régulé.
-- Comparé a des pays comme la RSS où l'ES, qui a cet époque étaient moins industrialisés que l'EG.
+- Comparable a des pays comme la RSS où l'ES, qui a cet époque étaient moins industrialisés que l'EG.
 #### Échec
 EG s'intègre dans l'économie internationale, le pays ne peut plus se protéger. M.A s'en va et sa politique est mise à mal par des éléments extérieurs. Liberté de commerce avec les ottomans et avec GB.
 
@@ -180,9 +180,9 @@ Les différentes guerres des années 20 vont forcer EG à s'ouvrir. Une économi
 
 Il y a des guerres au sein de l'empire ottoman, M.A a des maladies mentales et est affaiblit. Il mort et aura plusieurs successeurs comme Abas I. Il n'aime pas l'européanisation de EG. Il va réduire l'armée et fermer les écoles, il renvoiera aussi les techniciens étrangers. Il n'est pas intéressé par la modernité.
 ##### Guerre civile de EU
-La guerre civile met à bien l'exportation de cotton de EG et Abas I a été assasiné. Le cotton n'est plus fait par les EU et la production de EG augmente et est très demandée.
+La guerre civile met à bien l'exportation de cotton de EG et Abas I a été assasiné. Les EU ne vendent plus tellement de cotton et la production de EG augmente et est très demandée.
 ##### Suez
-GB finance le canal de suez de 1869 qui a une histoire compliquée. Ils dépendent financièrement de GB ce qui ouvre la voie à la colonisation de EG. En 1882 ils occupent le pays avec un régime colonial. Ceci à cause de sa valeur stratégique pour commercer avec l'Asie. Ce régime désindustrialise l'EG.
+GB finance le canal de suez de 1869 qui a une histoire compliquée. Ils dépendent financièrement de GB ce qui ouvre la voie à la colonisation d'EG. En 1882 ils occupent le pays avec un régime colonial. Ceci à cause de sa valeur stratégique pour commercer avec l'Asie. Ce régime désindustrialise l'EG.
 
 À la veille de WW1 ils n'ont pas d'industrie. L'experience de l'EG avait été courte et originale dans les pays des suds.
 ### L'exception japonaise
@@ -190,13 +190,13 @@ C'est un pays non-européen, et il s'industrialise quand même. Le Japon était 
 
 Il y existait un système de castes dans le Japon. Ils sont plutôt fermés (raisons religieuses anti-christianistes) après Tokugawa, qui prend le contrôle du Japon et assure sa dynastie. Seulement quelques bateaux chinois peuvent entrer. Au 17ème les portugais sont decapités quand ils arrivent au Japon et seulement quelques uns sont renvoyés, les japonais ne veulent pas l'occident. C'es pas jusqu'au 19ème en 1953 que les EU les forcent à s'ouvrir un peu.
 
-En 1853 le traité de Kanagawa est signé quand un commandant américain arrive en Japon. L'annexion de la Californie permet aux EU d'accéder au Pacifique et les EU peuvent bloquer je Japon vers le Chine. Les japonais étaient au yeux des EU riches et stratégiques. Ils n'aimaient pas les christians mais les Quakers étaient reformés.
+En 1853 le traité de Kanagawa est signé quand un commandant américain arrive en Japon. L'annexion de la Californie permet aux EU d'accéder au Pacifique et les EU peuvent bloquer le Japon vers le Chine. Les japonais étaient au yeux des EU riches et stratégiques. Ils n'aimaient pas les christians mais les Quakers étaient reformés.
 
 Ils arrivent avec des cadeaux pour les montrer qu'ils ont des choses à leur offrir comme les télescopes. Une fois le traité signé les américains passant par le Japon sont protégés par les natifs. Ils devaient aussi ouvrir deux ports pour le ravitaillement des navires EU, c'est pas tellement un traité commercial il y a pas une garantie du droit à commercer mais il ouvre la voie à des concessions futures.
 #### Affaiblissement
 Les Shogun s'affaiblissent à cause de l'ouverture, il y a une prise de conscience et des révoltes par exemple avec les samurais. En 1868 il y a une restauration du pouvoir de l'empereur. Le pays s'est unifié au 19ème siècle.
 
-C'est la révolution Meiji, qui a aussi pour but la modernisation de la société à travers l'abolition des territoires feudaux. L'empereur est tout puissant sur l'ensemble du territoire à travers ses représentants, qui n'ont pas d'autonomie. La liberté de circulation et la fin des castes arrivent, tout comme la libéralisation des mœurs (marriage inter castes, christianisme, etc). L'ascension sociale est maintenant possible.
+C'est la révolution Meiji (fin du Sakoku), qui a aussi pour but la modernisation de la société à travers l'abolition des territoires feudaux. L'empereur est tout puissant sur l'ensemble du territoire à travers ses représentants, qui n'ont pas d'autonomie. La liberté de circulation et la fin des castes arrivent, tout comme la libéralisation des mœurs (marriage inter castes, christianisme, etc). L'ascension sociale est maintenant possible.
 #### Industrie
 La R.I est très tardive. Après la WW1 Japon apparaît comme une vraie puissance internationale mais pas avant, même si sa R.I avait déjà commencée en 1913.
 
@@ -212,7 +212,7 @@ L'État importe des machines pour les copier depuis la GB par exemple. Elles cir
 ##### Éducation
 Elle est complètement transformée par rapport au système traditionnel. On augmente le taux de scolarisation et la durée de l'éducation primaire. Un taux d'éducation très haut.
 
-Nationalisme, UNI de Tokyo affirme dans sa charte que l'éducation est pour les besoins de l'État.
+Nationalisme, UNI de Tokyo affirme dans sa charte que l'éducation existe pour les besoins de l'État.
 
 Le Japon n'est pas la plus grand puissance industrielle mais malgré ses handicaps il obtient un niveau de vie comparable a l'Italie ou la RSS. Après la WW1 l'ouverture du marché l'aide à s'hisser vraiment avec une très grande croissance.
 
@@ -225,29 +225,27 @@ L'esclavage est racialisé par la traite transatlantique, mais les occidentaux n
 
 Cependant la question de l'esclavage ne se résolue pas si facilement. Au Brésil en particulier il y a une abolition progressive, pour contrer les différentes oppositions. Ceci va augmenter les coûts de productions et la migration européenne envers l'Amérique. La main d'oeuvre est maintenant plus coûteuse. Cela a souvent conduit à la promotion de l'immigration européenne pour combler le besoin de travailleurs, en particulier envers le Brésil.
 
-L'Afrique Subsaharienne est colonisée très tardivement et s'intègre dans le commerce international à travers du commerce triangulaire et la traite transatlantique.
-
 La traite n'était pas nouvelle, elle arrive à sa forme moderne à cause du besoin de main d'oeuvre des occidentaux. Ça met du temps à s'institutionnaliser et à devenir un processus massif. C'est quand même la première fois que cette traite est basée sur l'ethnie.
 
-Sur un période courte dans l'histoire il y a vraiment un transport d'esclaves massif et totalement industriel. On a déjà vu les destinations, par exemple le Brésil. Il y avait des antecedents locaux ce qui explique la participations des leaders natifs.
+Sur une période courte dans l'histoire il y a vraiment un transport d'esclaves massif et totalement industriel. On a déjà vu les destinations, par exemple le Brésil. Il y avait des antecedents locaux ce qui explique la participations des leaders natifs.
 
-La traite (traiter un humain comme marchandise) et l'esclavage (travail forcé) ne sont pas la même chose et ont été abolis séparément. En premier la traite (1792 danemark) qui est abolie vers la fin du 18ème/ début du 19 (apogée). Après l'esclavage pendant le 19 ème (Haïti 1793). GB en 1833 qui interdit plus tard aussi forcer des esclaves vers le sol anglais (à cause du cas de l'esclave d'ailleurs qui s'est emancipé après être forcé sur sol anglais).
+La traite (traiter un humain comme marchandise) et l'esclavage (travail forcé) ne sont pas la même chose et ont été abolis séparément. En premier la traite (1792 danemark) qui est abolie vers la fin du 18ème/ début du 19 (l'apogée de cette pratique). Après l'esclavage pendant le 19ème (Haïti 1793). GB en 1833 qui interdit plus tard aussi forcer des esclaves vers le sol anglais (à cause du cas de l'esclave d'ailleurs qui s'est emancipé après être forcé sur sol anglais).
 
 Le traffic s'arrête pas, il est réduit.
 ![[Pasted image 20241120114818.png]]
 
-Les esclaves sont remplacés par les européens, c'était maintenant un travail libre mais dur. GB cherchait l'abolitionnisme puisqu'elle était industrielle et elle voulait le libre-échange et c'est pourquoi elle bénéficiait le système de travail libre mondial. C'est le libéralisme économique. Il y aurait eu aussi une influence abolitionniste qui poussaient leur racines dans la philosophie des lumières et les églises non-conformistes.
+Les esclaves sont remplacés par les européens, c'était maintenant un travail libre mais dur. GB cherchait l'abolitionnisme puisqu'elle était industrielle et elle voulait le libre-échange et c'est pourquoi elle bénéficiait le système de travail libre mondial (pas une mesure complètement humanitaire). C'est le libéralisme économique. Il y aurait eu aussi une influence abolitionniste qui poussaient leur racines dans la philosophie des lumières et les églises non-conformistes.
 
 Dans le Brésil en 1850 environ on abolit l'esclavage et on fait la loi du ventre vide, les fils des esclaves étaient déjà libres à leur naissance.
 #### Afrique
-Le premier recensement en Afrique est arrivé après la WW2. L'esclavage a été mauvais pour le continent, les plus jeunes et forts étaient amenés ailleurs par la traite. La colonisation avait été très tardive puisque:
+L’Afrique Subsaharienne est colonisée très tardivement et s’intègre dans le commerce international à travers du commerce triangulaire et la traite transatlantique. Le premier recensement en Afrique est arrivé après la WW2. L'esclavage a été mauvais pour le continent, les plus jeunes et forts étaient amenés ailleurs par la traite. La colonisation avait été très tardive puisque:
 - L'accès à l'intérieur du continent était difficile à cause des montagnes.
 - Il y a pas mal de maladies et parasites que les européens ne supportent pas.
 - C'est pas avant utiliser les chimiques qu'on peut y aller.
 - Chine/Inde était plus intéressant à cause de la production d'opium, thé, etc.
 - Afrique apart l'or y a pas trop à faire avant la découverte des mines de diamants.
 ##### Conquête
-Différentes pays (ALL, IT, BELG) avec la GB et la FR vont se lancer à la conquête de l'Afrique. Ce sont en partie des nations *nouvelles* plus récentes et qui commencent une nouvelle étape. Ils ont aiguisé leur rivalité et l'ont exporté sur le continent africain qui avant était loin d'un enjeu. Il n'y avait que quelques ports pour récupérer les marchandises (esclaves).
+Différentes pays (ALL, IT, BELG) avec la GB et la FR vont se lancer à la conquête de l'Afrique. Ce sont en partie des nations *nouvelles* plus récentes et qui commencent une nouvelle étape. Ils ont aiguisé leur rivalité et l'ont exporté sur le continent africain lequel était avant loin d'être un enjeu. Il n'y avait que quelques ports pour récupérer les marchandises (esclaves).
 
 La deuxième phase du capitalisme européen va créer une nécessite de matières premières qui vont pouvoir être trouvées en Afrique. L'Europe essouffle son élan de la R.I et voit l'Afrique comme un possible colonie dynamisante. On passe à une conquête aggressive. Il y a des traités (**diplomatie**) avec les chefs locaux (anarchie, c'est des initiatives individuelles des explorateurs) mais qui préparaient souvent une conquête militaire avec troupes recrutées sur place (mercenaires).
 

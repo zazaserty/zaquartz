@@ -12,10 +12,10 @@
 - **Taylorisme** : Organisation scientifique du travail visant à augmenter la productivité par la division des tâches.
 - **Fordisme** : Production de masse standardisée associée à des salaires élevés pour les ouvriers afin de stimuler la consommation.
 #### Transformation profonde du capitalisme
-Ces mutations technologiques et organisationnelles entraînent une transformation profonde du capitalisme. Le système évolue vers une structure plus complexe, marquée par la standardisation, la concentration des entreprises et des changements dans les relations de travail. Cela affecte les structures sociales et les relations entre les différentes parties prenantes de l'économie. Les entreprises ont deux options: changer ou disparaître. Quelques unes vont être rachetées, groupées, etc. La concurrence va être absorbée. Si on passe, par **exemple**, de 5% à 20% du marché on n'a pas un monopole mais un contrôle considérablement plus grand.
+Ces mutations technologiques et organisationnelles entraînent une transformation profonde du capitalisme. Les entreprises ont deux options: changer ou disparaître. Quelques unes vont être rachetées, groupées, etc. La concurrence va être absorbée. Si on passe, par **exemple**, de 5% à 20% du marché on n'a pas un monopole mais un contrôle considérablement plus grand quand même.
 ### Pourquoi
 #### Raisons principales de la concentration
-1. **Dominer le marché**: Réduire ou éliminer la concurrence pour pouvoir fixer les prix sans subir de pression concurrentielle.
+1. **Dominer le marché**: Réduire ou éliminer la concurrence pour pouvoir fixer les prix sans subir une pression concurrentielle.
 2. **Fournir de nouveaux marchés de consommation**: Élargir l'offre de produits et services pour atteindre de nouveaux consommateurs et stimuler la demande.
 3. **Contourner le gouvernement (ex: protectionnisme)**: Surmonter les lois comme les barrières commerciales imposées par les gouvernements grâce à des stratégies comme le lobbying ou la création de filiales à l'étranger.
 ##### Dominer le marché
@@ -64,8 +64,6 @@ Ces mutations technologiques et organisationnelles entraînent une transformatio
 - **Réduction de la Concurrence**: Moins de concurrence peut entraîner une diminution de l'innovation et une augmentation des prix pour les consommateurs.
 - **Influence sur les Politiques**: Les grandes entreprises peuvent exercer une influence sur les décisions politiques et réglementaires, souvent pour favoriser leurs propres intérêts.
 - **Impact sur l'Emploi**: Si ces entreprises peuvent créer de nombreux emplois, elles peuvent aussi exercer une pression sur les conditions de travail et les salaires en raison de leur position dominante.
-
-La période à partir de 1870 est marquée par la naissance des très grandes entreprises qui révolutionnent l'industrie grâce à la production de masse, la réduction des coûts et l'innovation. Dès 1914, cette évolution conduit à l'émergence d'oligopoles qui transforment les dynamiques du marché. L'exemple de Migros et Coop en Suisse illustre comment deux entreprises peuvent dominer un secteur entier, influençant ainsi la concurrence et l'économie du pays.
 ### Le prolétariat
 Critique syndicales/prolétaires vers les entrepreneurs qui exploitent les travailleurs, ce capitalisme sera regulé par les législations comme les lois *anti-trust* aussi amplement critiquées (par les entrepreneurs, évidemment).
 #### Dynamiques
@@ -75,9 +73,9 @@ Cette lutte de classe et de revendication vient de deux dynamiques:
 ##### Organisation politique et changement de lois
 Le prolétariat veut s'organiser et faire des partis socialistes pour améliorer leur situation et diffuser leur idées dans la société. Ce socialisme augmente depuis 1840, avec des différents mouvements qui dialoguent et s'influencent. L'objectif c'était d'éliminer la vision (idée de socialisme de Proudhon) négative des classes basses. La société est plus que l'individu, on doit la changer: la classe basse c'est pas des criminels.
 
-Marx va aussi dialoguer avec Proudhon. La vision de Marx est plutôt *communiste*. 4 million d'ouvriers qui vers les années 1865-1880 voient comment la lutte syndicale s'intensifie. Les lois changent pour permettre aux ouvriers de s'assembler et s'organiser, ceci n'était pas permis dans la France et d'autres pays avant.
+Marx va aussi dialoguer avec Proudhon. La vision de Marx est plutôt **communiste**. 4 million d'ouvriers qui vers les années 1865-1880 voient comment la lutte syndicale s'intensifie. Les lois changent pour permettre aux ouvriers de s'assembler et s'organiser, ceci n'était pas permis dans la France et d'autres pays avant.
 #### La grève et le conflit à Genève
-Les ouvriers utilisent la grève comme moyen de lutte, en plus de détruire les machines pour pas être remplacés. Chaque fois les grèves sont plus réprimées et plus nombreuses. Par exemple, à Genève (un état avec un conseil relativement socialiste et des idées plus modernes) une grève de solidarité avec les conducteurs de tramway apparaît pendant 3 jours. Cependant, la compagnie commence a licencier. Le conseil d'état doit réquisitionner l'armée à la Jonction. Dans les prochains jours les membres du comité de grève sont arrêtés et reprennent le travail.
+Les ouvriers utilisent la grève comme moyen de lutte, en plus de détruire les machines pour pas être remplacés. Chaque fois les grèves sont plus réprimées et plus nombreuses. Par exemple, à Genève (un état avec un conseil relativement socialiste et des idées plus modernes) une grève de solidarité avec les conducteurs de tramway se déroule pendant 3 jours. Cependant, la compagnie commence a licencier. Le conseil d'état doit réquisitionner l'armée à la Jonction. Dans les prochains jours les membres du comité de grève sont arrêtés et reprennent le travail.
 
 La désertion collective arrive, on fait la grève de manière tournante mais aussi de manière générale. La productivité baisse à cause de ces débrayages.
 
@@ -89,16 +87,16 @@ La législation sociale commence dans l'Angleterre:
 - 1854: la 1ère loi générale sur la durée du travail. Conditions de travail pour les adultes et pas seulement les enfants.
 - 1880: introduction de l’école obligatoire. Ceci permet d'éduquer et contrôler mieux l'état des enfants.
 
-De *iure*, ceci était une bonne opportunité de ce moderniser avant les autres. De *facto*, ces lois n'était pas toujours appliquées dans la réalité. Normalement elles s’appliquaient juste à un secteur (le textile normalement) et donc elles étaient une solution limitée. On règle la journée laborale infantile à 12 heures mais on l'applique pas. Pas de contrôle. GB était une des premières a implementer ces mesures, puisqu'elle a été une des premières à s'industrialiser. Après ALL, Suisse, etc; feront la même chose.
+De *iure*, ceci était une bonne opportunité de ce moderniser avant les autres. De *facto*, ces lois n'étaient pas toujours appliquées dans la réalité. Normalement elles s’appliquaient juste à un secteur (le textile normalement) et donc elles étaient une solution limitée. On règle la journée laborale infantile à 12 heures mais on l'applique pas. Pas de contrôle. GB était une des premières a implementer ces mesures, puisqu'elle a été une des premières à s'industrialiser. Après ALL, Suisse, etc; feront la même chose.
 #### Allemagne
 Dans l'Allemagne de Bismarck, on a un système complet dans les années 1880
 - 1883: assurance maladie.
 - 1884: assurance accident.
 - 1889: assurance invalidité et vieillesse.
 
-L'Allemagne est très importante dans la construction de ces législations, sous Bismarck qui est l'auteur de l'unification d'ALL. Il était conservateur, et pas très fan de ces lois mais le choses changeaient. 49 millions habitent dans l'empire allemand, qui commence à voir apparaître des villes industrielles.
+L'Allemagne est très importante dans la construction de ces législations, sous Bismarck qui est l'auteur de l'unification d'ALL. Il était conservateur, et pas très fan de ces lois mais les choses changeaient. 49 millions habitent dans l'empire allemand, qui commence à voir apparaître des villes industrielles.
 
-Alfred Krupp, fondateur de Krupp, était soucieux des conditions des travailleurs mais le prolétariat de masse était quand même précaire. Bismarck n'était pas trop progressiste dans cette matière, jusqu'à qu'il voie l'émergence du socialisme (Parti social démocrate futur). Ceci va déboucher dans la création du socialisme d'état, il veut s’approprier de ces idées et pas les laisser aux socialistes. Comme ça on enlève la raison d'être du mouvement.
+Alfred Krupp, fondateur de Krupp, était soucieux des conditions des travailleurs mais le prolétariat de masse était quand même précaire. Bismarck n'était pas trop progressiste dans cette matière, jusqu'à qu'il voie l'émergence du socialisme (Parti social démocrate futur). Ceci va déboucher dans la création du socialisme d'état, il veut s’approprier de ces idées et pas les laisser aux socialistes. Comme ça il enlève la raison d'être du mouvement.
 
 Il fait un système volontaire et obligatoire d'assurance maladie. Le reste des nations fera cela de manière similaire mais plus tardivement. En 1910 l'assurance maladie couvre 80% de la population active et un peu moins pour les autres assurances. Environ en 1910-1914 GB fait la même chose.
 #### Suisse
@@ -106,7 +104,7 @@ Elle est pionnière et attardée. Elle va réguler le travail des enfants en 181
 
 Cependant elle est une retardaire dans les autres pilliers de l'état providence. Avant cela c'était la famille qui devait s'aider. Avant 1946 la Suisse ne fait pas l'AVS.
 #### USA
-L'USA est plutôt fan de la liberté et n'a jamais été une grande régulatrice du travail, c'est les entreprises qui gèrent. En faite, c'est l'employeur qui fait le fond de pension pour les retraités. Ils cherchent le *welfare capitalism*, l'employeur est le moteur de la providence. C'est pas avant après la crise de 1929 avec Roosevelt que le pays est doté de co-contributions entre l'état fédéral et les états fédérés pour ces programmes.
+L'USA est plutôt fan de la liberté et n'a jamais été une grande régulatrice du travail, c'est les entreprises qui gèrent. En faite, c'est l'employeur qui gère le fond de pension pour le retraité. Ils cherchent le *welfare capitalism*, l'employeur est le moteur de la providence. C'est pas avant après la crise de 1929 avec Roosevelt que le pays est doté de co-contributions entre l'état fédéral et les états fédérés pour ces programmes.
 #### France
 En France cette question sociale est difficile, il y a beaucoup de commerçants et on aime le *travail individuel*. La 3ème république est conservatrice et n'est pas intéressée par ceci. Mais en 1884 l'education est rendue laïque, gratuite et obligatoire. Les syndicats sont aussi légalisés, ils vont être le moteur de la naissance de cette question sociale (avec l'éducation qui facilite la contestation sociale). Le syndicalisme est apparu:
 **Rousseau**:

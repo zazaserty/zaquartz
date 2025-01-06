@@ -5,7 +5,7 @@ Des flux migratoires apparaissent depuis l'Europe même si la vie était mainten
 Les problèmes (famines, épidémies) représentent des chocs pour la classe populaire et débouchent dans des migrations. Les travailleurs non qualifiés bougent constamment. Le recensement était imparfait, mais on dispose de divers chiffres qui montrent l'hausse.
 ### Systèmes et vagues migratoires
 ![[Pasted image 20241017125215.png]]
-La France n'est pas au centre de ce flux, mais fais juste partie du transit. C'est l'Irlande, la GB, etc; ceux qui sont au centre de cette migration.
+La France n'est pas au centre de ce flux, mais fait juste partie du transit. C'est l'Irlande, la GB, etc; ceux qui sont au centre de cette émigration.
 #### Cas: USA
 ![[Pasted image 20241017125421.png]]
 Les immigrations annuelles augmentent considérablement.
@@ -17,7 +17,7 @@ Il y a aussi une grand immigration du Mexique, et vers la Californie de la part 
 L'amélioration des transports comme expliqué au debut de ces notes. Mais aussi:
 #### La transition démographique
 ![[Pasted image 20241017132216.png]]
-La population va croître bien plus rapidement. Cette transition est graduelle et ça va prendre du temps pour que tout change, comme on a exploré dans d'autre séances au XIXème siècle la mortalité baisse mais la natalité et la fécondité ne baissent pas. Après cette croissance diminuera puisque dans le 2ème phase les femmes ont moins d'enfants mais avant cela on a un excédant de population.
+La population va croître bien plus rapidement. Cette transition est graduelle et ça va prendre du temps pour que tout change, comme on a exploré dans d'autres séances au XIXème siècle la mortalité baisse mais la natalité et la fécondité ne baissent pas. Après cette croissance diminuera puisque dans le 2ème phase les femmes ont moins d'enfants mais avant cela on a un excédant de population.
 
 On a beaucoup de main d'oeuvre mais la demande pour celle-ci n'est pas si grande.
 #### Urbanisation et industrialisation
@@ -27,7 +27,7 @@ On a beaucoup de main d'oeuvre mais la demande pour celle-ci n'est pas si grande
 #### Les crises
 La crise agricole avec l'entrée des céréales étasuniens dans l'économie va entraîner diverses famines qui vont être un facteur de l'émigration. Un exemple est la grand famine irlandaise (1845-1852). Les irlandais émigrent massivement. En Irlande on avait adopté la pomme de terre en provenance de l'Amérique. Elle s'adapte très bien a l'Irlande puisqu'elle est facile a produire. En plus, elle est efficace sur le plan nutritif. Un parasite en provenance du Chile détruit ces pommes de terre.
 - L'Irlande était très dépendante sur la pomme de terre (1/3 de la population la cultivait surtout les plus pauvres).
-- Le système agraire irlandais était très dysfonctionnel. Les paysans et les propriétaires avaient une relation difficile et les contrats étaient durs. Beaucoup de paysans n'avaient qu'un bail temporel court sur une petite surface. Si il y a des problèmes de récolte et ils ne payaient pas les terres ils étaient expulsés par les *middlemans* agents peu empathiques des propriétaires.
+- Le système agraire irlandais était très dysfonctionnel. Les paysans et les propriétaires avaient une relation difficile et les contrats étaient durs. Beaucoup de paysans n'avaient qu'un bail temporel court sur une petite surface. S'il y a des problèmes de récolte et ils ne payaient pas les terres ils étaient expulsés par les *middlemans* agents peu empathiques des propriétaires.
 - Le gouvernement britannique a pris des actions comme la loi des pauvres et des cadres d'emploi public avec les *workhouses* qui ne marchent pas trop.
 Les irlandais doivent donc migrer, une des raisons pour lesquelles elle n'est pas précisément peuplée de nos jours. Il y aura une redistribution des terres après la famine. Ils vont migrer vers l'Angleterre et beaucoup d'autres territoires.
 #### Différence des salaires
@@ -46,7 +46,7 @@ La croissance économique des pays d'émigration est bloquée par ce phénomène
 #### Melting pot
 Les USA deviennent un *melting pot* sociologique, des différentes cultures commencent à s'assimiler dans le même pays. Peu à peu ils changent leur coutumes pour celles des autochtones. Au fur et à mesure du temps on pouvait pas distinguer les immigrants des colons. La raison pour laquelle ceci a marché si bien c'est à cause de la *american way of life* qui a unifié la société dans un rêve de société de la consommation.
 #### Domination des WASP
-Ces colons, *les pilgrims*, sont le cœur de la société américaine et la référence pour les nouveaux venus.
+Ces colons, *les pilgrims*, sont au cœur de la société américaine et sont la référence pour les nouveaux venus.
 
 L'Amérique va aussi voir l'émergence de l'esclavage et une fermeture éventuelle à l'immigration. Les WASP (anciens colons) dominent le pays et finalement en 1960 on élit président le premier non-WASP. Dans les années 1880 l'Italie et l'Europe de l'est émigrent aux USA, avant c'était juste l'Irlande et l'Angleterre. La communauté d'immigrés est très segmentée: on a des ghettos urbains avec une forte ségrégation.
 #### Permanence des flux
@@ -56,11 +56,11 @@ Les marchés comme celui de l'immobilier reproduisent les inégalités originell
 
 Les anciens migrants vont réussir dans la société américaine, mais les immigrants ultérieurs vont avoir des problèmes (même avec les communautés d'accueil). Le bas salaire débouchant de l'immigration a causé une inégalité sociale plus grande.
 #### Fermeture
-La société américaine se ferme vers le début du XXème. Il y a beaucoup de conflicts sociales, les bas salaires ne permettent pas aux immigrants de s'installer. Les chemins de fers et autres sont déjà établis, on n'a pas ce dynamisme original du début de l'immigration. On n'a pas l'industrie pour accueillir plus de migrants et les USA se ferment. Par **exemple**: en Californie une xénophobie contre les asiatiques apparaît. Ce nativisme perçoit les migrants comme un fléau qui n'est plus accueilli, même avec ses avantages. L'immigration asiatique est interdite. Pour la première fois, les USA instaurent les lois des quotas (1924).
+La société américaine se ferme vers le début du XXème. Il y a beaucoup de conflicts sociaux, les bas salaires ne permettent pas aux immigrants de s'installer. Les chemins de fers et autres sont déjà établis, on n'a pas ce dynamisme original du début de l'immigration. On n'a pas l'industrie pour accueillir plus de migrants et les USA se ferment. Par **exemple**: en Californie une xénophobie contre les asiatiques apparaît. Ce nativisme perçoit les migrants comme un fléau qui n'est plus accueilli, même avec ses avantages. L'immigration asiatique est interdite. Pour la première fois, les USA instaurent les lois des quotas (1924).
 ![[Pasted image 20241023104414.png]]
 #### La Grande Migration, l'émigration interne des USA
 ![[Pasted image 20241023104507.png]]
-La carte montre la Grande Migration (1916-1930), où de nombreux Afro-Américains ont quitté le Sud des États-Unis pour s'installer dans les villes industrielles du Nord et de l'Ouest, fuyant la ségrégation et cherchant de meilleures opportunités économiques. Les principales destinations incluent Chicago, New York, et Los Angeles.
+La carte montre la Grande Migration (1916-1930), où des nombreux Afro-Américains ont quitté le Sud des États-Unis pour s'installer dans les villes industrielles du Nord et de l'Ouest, fuyant la ségrégation et cherchant de meilleures opportunités économiques. Les principales destinations incluent Chicago, New York, et Los Angeles.
 
 Ils émigrent à cause de la ségrégation raciale, mais aussi pour fuir la pauvreté. Ils font face à la même discrimination qu'avant le bannissement de l'esclavage. Il y a quand même des entreprises au nord qui les embauchent ce qui explique cette redistribution de la population noire.
 

@@ -40,7 +40,7 @@ Notre système est un mix entre le présidentiel et le parlementaire, il est la 
 ##### Cas hybride
 On est proche du système parlementaire du point de vue du mode d'élection (élection indirecte du gouvernement par l'Assemblée fédérale). Le peuple n'élit pas l'exécutif. Cependant on se rapproche du présidentiel du point de vue des rapports gouvernement-parlement (indépendance mutuelle).
 ##### Cas particulier
-**Concordance**: partage du pouvoir exécutif entre les principaux partis. Conseil fédéral en tant que *collège*, un système directorial qui assure le pouvoir égal des 7 membres et principe de collégialité. C'est la **non-hiérarchisation**. La collégialité assure que une fois une décision prise tout le conseil doit la défendre.
+**Concordance**: partage du pouvoir exécutif entre les principaux partis. Conseil fédéral en tant que *collège*, un système directorial qui assure le pouvoir égal des 7 membres et principe de collégialité. C'est la **non-hiérarchisation**. La collégialité assure qu'une fois une décision prise tout le conseil doit la défendre.
 ##### Conséquences
 Election indirecte du gouvernement+concordance. Les citoyens ont peu d'impact, via les élections parlementaires, sur la composition du gouvernement.
 ###### **Composition du CF**
@@ -84,7 +84,7 @@ La Suisse est très particulière, elle a une démocratie directe très dévelop
 - Référendum obligatoire (modification de la Constitution proposée par les autorités; vote populaire à la double majorité du peuple et des cantons).
 - Référendum facultatif (50'000 signatures; opposition à une loi ou un traité international voté par le parlement; vote à la majorité simple du peuple).
 #### Contraste suisse
-- Dans les autres pays les elections sont l'unique occasion d'exprimer ses préférences politiques (à coté de la CH environ chaque 4 ans). En Suisse, la démocratie directe s'ajoute à la démocratie représentative; les votations *concurrencent* les élections.
+- Dans les autres pays les élections sont l'unique occasion d'exprimer ses préférences politiques (à coté de la CH c'est environ chaque 4 ans). En Suisse, la démocratie directe s'ajoute à la démocratie représentative; les votations *concurrencent* les élections.
 - Conséquences:
 	- Multiplication des scrutins populaires → affecte (**réduit**) le taux de participation aux élections (on participe peu parce qu'on vote souvent; participation *sélective*-> on vote quand ça nous intéresse). Pour augmenter la participation on devrait peut-être modifier la quantité de votations.
 	- Possibilité de corriger *après coup* une décision du parlement
@@ -102,7 +102,7 @@ C'est aussi une division du pouvoir sans rapport hiérarchiques, pour Elazar: *L
 
 Il y existe le fédéralisme territorial et le fédéralisme non-territorial:
 - Suisse: territorial-> **cantons**.
-- Belgique: fédéralisme territorial avec ses **régions** et non-territorial avec ses **communautés linguistiques** qui gèrent des compétences liées à la langue et culture.
+- Belgique: fédéralisme territorial avec ses **régions** et non-territorial avec ses **communautés linguistiques** qui gèrent des compétences liées à la langue et à la culture.
 
 ==Si les cantons sont si importants== c'est parce que ce sont ceux qui mettent en oeuvre les lois fédérales. C'est pas juste parce qu'ils ont des compétences éducatives, etc.
 #### Autres caractéristiques
@@ -113,7 +113,7 @@ Il y existe le fédéralisme territorial et le fédéralisme non-territorial:
 	- Aux Etats-Unis, majorité qualifiée de 2/3 dans chaque Chambre+ratification par 3/4 des États.
 	- En Suisse, deux chambres du parlement+référendum obligatoire (avec double majorité du peuple et des cantons).
 - Cour suprême ou Cour constitutionnelle spéciale:
-	- Habilitée à arbitrer les différends relatifs au partage des compétences entre l'Etat fédéral et les entités fédérées.
+	- Habilitée à arbitrer les différends relatifs au partage des compétences entre l'État fédéral et les entités fédérées.
 	- La Suisse fait exception: le Tribunal fédéral n'a pas cette prérogative. C'est probablement la seule institution fédérale qui n'a pas été adoptée, le tribunal fédéral est consultatif.
 ##### Degré de décentralisation dans 21 pays de 1945 à 2010
 ![[Pasted image 20241112135225.png]]
@@ -123,7 +123,7 @@ Il y existe le fédéralisme territorial et le fédéralisme non-territorial:
 ![[Pasted image 20241112135723.png]]
 La Suisse a un fédéralisme coopératif, les 3 niveaux coopèrent. Par exemple pour financer l'éducation avec les écoles fédérales polytechniques.
 ### Structure de l'État
-Il y a une division territoriale du pouvoir avec 26 sous-systèmes politiques. Chaque canton possède son propre système politique et son propre système de partis. Chacun une constitution, un parlement, etc.
+Il y a une division territoriale du pouvoir avec 26 sous-systèmes politiques. Chaque canton possède son propre système politique et son propre système de partis. Chacun a une constitution, un parlement, etc.
 #### Parlement fédéral
 Il y existe un bicaméralisme parfait (ou intégral):
 - Deux chambres qui ont les mêmes prérogatives.
@@ -160,7 +160,7 @@ Ceci n'est pas absolue c'est une *loi* soi-disant. Elle a été critiquée de no
 Le degré de proportionnalité dans un système proportionnel varie selon le quorum:
 - Quorum **légal**: seuil minimal pour obtenir des sièges comme 5% des suffrages exprimés par exemple.
 - Quorum naturel **naturel**: découpage en circonscriptions et nombre de sièges par circonscription.
-	- **Exemple**: si il y a que 4 sièges à disposition dans une circonscription (comme dans Neuchâtel au Conseil national). Ceci représente un quorum naturel de 20%, puisqu'il y a peu de sièges. Dans un système proportionnel avec un quorum légal (directement inscrit dans la loi) et/ou naturel élevé on se rapproche de la logique d'un système majoritaire ce qui veut dire qu'on favorise les grands partis.
+	- **Exemple**: s'il y a que 4 sièges à disposition dans une circonscription (comme dans Neuchâtel au Conseil national). Ceci représente un quorum naturel de 20%, puisqu'il y a peu de sièges. Dans un système proportionnel avec un quorum légal (directement inscrit dans la loi) et/ou naturel élevé on se rapproche de la logique d'un système majoritaire ce qui veut dire qu'on favorise les grands partis.
 #### Système électoral en Suisse
 ##### Conseil national
 - Système proportionnel dans les cantons avec plus d'un siège.

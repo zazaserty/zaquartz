@@ -5,7 +5,7 @@ Pendant le 20ème siècle il y a eu pas mal de crises, qui ont arrivé dès le d
 Cette crise entraîne aussi un grand traumatisme et une période d'inflation qui explique la WW2.
 #### Coûts de WW2
 ![[Pasted image 20241127102223.png]]
-Il y aura des nombreuses pertes militaires, mais aussi civiles. Ceci cause de pertes importantes par rapport à la population totale. Les civils représentent 2/3 des pertes totales à cause des bombardements (nouvelles formes d'armement) et le génocide.
+Il y aura des nombreuses pertes militaires, mais aussi civiles. Ceci cause des pertes importantes par rapport à la population totale. Les civils représentent 2/3 des pertes totales à cause des bombardements (nouvelles formes d'armement) et le génocide.
 
 De la même manière, il y aura des nombreux déplacés. Par ailleurs, un monde bipolaire émergera. Celui ci sera divisé par le *rideau de fer*, baptisé par Churchill.
 
@@ -15,7 +15,7 @@ Il y avait un discrédit envers l'idéologie néolibérale, une réflexion sur l
 
 Les EU ne veulent pas répéter les erreurs du passé, mais construire une Europe solide. Le traumatisme du début de la WW2 comme résultat de la WW1 existe toujours. Après 3-4 ans (vs 7-9 pour WW1), la production retourne aux niveaux normaux.
 
-Ceci était possible grâce au Plan Marshall de 1947, où Truman encourage les EU à aider l'Europe. Ceci permettra aux pays européens de dégager leur ressources pour se reconstruire. De 1948 à 1952 on **donne** 13,2 milliards de $. Après la WW1 ont faisait des prêts mais ==pas des dons==. Ceci était un changement de perspective brutale. Ça a aussi aidé aux EU à garder l'emprise sur l'Allemagne de l'Ouest.
+Ceci était possible grâce au Plan Marshall de 1947, où Truman encourage les EU à aider l'Europe. Ceci permettra aux pays européens de dégager leur ressources pour se reconstruire. De 1948 à 1952 on **donne** 13,2 milliards de $. Après la WW1 on faisait des prêts mais ==pas des dons==. Ceci était un changement de perspective brutale. Ça a aussi aidé aux EU à garder l'emprise sur l'Allemagne de l'Ouest.
 #### Pourquoi
 Cette aide va toucher la FR (21%), GB (20%), RFA (11%) et Italie (11%). Il n'y a pas seulement un objectif humanitaire. L'Europe est un des consommateurs essentiels des EU et ils ont besoin de conserver ce marché. C'est un don, mais il y aura des retours.
 
@@ -23,22 +23,22 @@ Les EU veulent briser le protectionnisme et favoriser le libre échange pour s'a
 #### Accords
 Certains sont présents dans la [[Séance 3,4-WW2]]:
 - En 1945, l'ONU est née avec la Charte de San Francisco. Elle est crée sur la base d'un monde bipolaire pour remplacer la SDN. L'objectif était de favoriser la cooperation et mettre fin aux guerres internationales.
-- Bretton Woods (juillet 1944): Là on voit naître la BIRD et le FMI. La BIRD investit dans le pays et fait des prêts pour favoriser les politiques de développement. Sa mission ne change pas mais les leviers pour y arriver et ses objectifs oui. Le FMI va marcher jusqu'à 1971, il instaure la monnaie d'échange (dollar $) qui a une parité fixe avec l'or et s'impose comme monnaie internationale. Les monnaies nationales sont reliées au dolar.
+- Bretton Woods (juillet 1944): Là on voit naître la BIRD et le FMI. La BIRD investit dans le pays et fait des prêts pour favoriser les politiques de développement. Sa mission n'a pas changé mais les leviers pour y arriver et ses objectifs oui. Le FMI va marcher jusqu'à 1971, il instaure la monnaie d'échange (dollar $) qui a une parité fixe avec l'or et s'impose comme monnaie internationale. Les monnaies nationales sont reliées au dolar.
 - La GATT en 1948: On veut une liberalisation pour renoncer au tarifes et la discrimination au produits étrangers. De cette manière on s'accorde sur certain principes pour former un nouvel ordre.
 
 Dans ce nouvel ordre les EU sont au centre de l'échange et l'Europe est son principal partenaire.
 #### Croissance
 ![[Pasted image 20241127104948.png]]
-Tout est en place pour croître et reconstruire les pays. En 1971, le rôle du dolar finit et une période troublée par l'inconvertibilité commence. La GB va rester à distance du marché commun européen qui sera crée pendant un certain temps. Il y aura des disparités géographiques dans ce processus, par exemple le grand changement dans l'Allemagne qui se relève tout d'un coup.
+Tout est en place pour faire croître et reconstruire les pays. En 1971, le rôle du dolar finit et une période troublée par l'inconvertibilité commence. La GB va rester à distance du marché commun européen qui sera crée pendant un certain temps. Il y aura des disparités géographiques dans ce processus, par exemple le grand changement dans l'Allemagne qui se relève tout d'un coup.
 ##### Facteurs
 ###### **Immigration et éducation**
-La population est décimée, mais il y a un boom géographique et on a une bonne offre de travail. L'enseignement secondaire s'améliore et la qualité de la main d'oeuvre change positivement. Chaque pays vont bénéficier aussi d'un influx de main d'oeuvre comme l'Allemagne (surtout RFA).
+La population est décimée, mais il y a un boom démographique et on a une bonne offre de travail. L'enseignement secondaire s'améliore et la qualité de la main d'oeuvre change positivement. Chaque pays va bénéficier aussi d'un influx de main d'oeuvre comme l'Allemagne (surtout RFA).
 ###### **Agriculture et main d'oeuvre**
-La main d'oeuvre de l'agriculture va être libérée pour l'industrie, même si elle n'est pas si qualifiée elle aide le secteur secondaire. On rattrape le retard (17% 25% de la richesse investie dans la technologie). Le taylorisme et le fordisme est imposé ce qui innove dans le secteur et alimente la croissance.
+La main d'oeuvre de l'agriculture va être libérée pour l'industrie, même si elle n'est pas si qualifiée elle aide le secteur secondaire. On rattrape le retard (17% 25% de la richesse investie dans la technologie). Le taylorisme et le fordisme sont imposés ce qui fait innover le secteur et alimente la croissance.
 ###### **Fordisme et consommation**
 Le compromis fordiste (augmentation des salaires) améliore les niveaux de vie. La main d'oeuvre va être apaisée. Plus il produisent puis ils vont gagner large, ce qui est une régulation inédite du capitalisme qui encourage la main d'oeuvre.
 
-Les ouvriers ont maintenant la capacité de consommer (ils dépensent moins dans l'alimentation ([[Séance6-Chapitre6HESG]]). Chacun est maintenant conscient de l'importance de que l'économie tourne bien.
+Les ouvriers ont maintenant la capacité de consommer (ils dépensent moins dans l'alimentation (**Engels**)->[[Séance6-Chapitre6HESG]]). Chacun est maintenant conscient de l'importance de que l'économie tourne bien.
 ###### **L'État et rôle d'ouverture**
 Les États vont se rendre compte de l'importance de l'ouverture des marchés, le prix des transports est considérablement réduit. On peut importer une chemise de l'autre bout du monde mais le prix ne change pas trop. Le Traité de Rome 1957 instaure le marché commun en Europe.
 
@@ -47,11 +47,11 @@ L'État prend un rôle important avec la nationalisation des entreprises et la r
 #### Effets
 On arrive à un stage où une société de consommation est crée:
 ![[Pasted image 20241127112152.png]]
-Pas vraiment de fétichisme de la croissance. Ceci puisqu'elle entraîne des effets négatifs envers l'environnement et le climat de notre planéte. Les premiers mouvements écolos n'arrivent pas jusqu'à récemment.
+On devrait pas en faire un fétichisme de la croissance. Elle a entraîné des effets négatifs envers l'environnement et le climat de notre planète. Les premiers mouvements écolos n'arrivent pas jusqu'à récemment.
 ##### Sols détruits et maisons
-La surexploitation des sols est causée par l'agriculture intensive et la grande demande de matières premières. Cette nouvelle société débouche dans une croissance jamais vue auparavant des villes et les banlieues. 8 personnes pouvaient vivre dans une pièce, cette croissance se fait dans une complète anarchie. Les personnes émigrent depuis la campagne au villes. Les paysans étaient fiers d'obtenir un logement social pour pouvoir y vivre et avoir un chez-soi.
+La surexploitation des sols est causée par l'agriculture intensive et la grande demande de matières premières. Cette nouvelle société débouche dans une croissance jamais vue auparavant dans les villes et les banlieues. 8 personnes pouvaient vivre dans une pièce, cette croissance se fait dans une complète anarchie. Les personnes émigrent depuis la campagne aux villes. Les paysans étaient fiers d'obtenir un logement social pour pouvoir y vivre et avoir un chez-soi.
 ##### Logement et familles
-Dans la France l’accès au logement était très important mais pas toujours évident, comme résultat de cette croissance. Cependant, pas tout le monde était intégré dans ce marché. En réalité il y avait un modèle familial ou l'homme est le *main breadwinner*. La tutelle masculine (emancipation économique) sur la famille en 1988 dans la Suisse. En France c'est en 1965.
+Dans la France l’accès au logement était très important mais pas toujours évident, comme résultat de cette croissance. Cependant, pas tout le monde était intégré dans ce marché. En réalité il y avait un modèle familial ou l'homme est le *main breadwinner*. La tutelle masculine (emancipation économique) sur la famille est abolie en 1988 dans la Suisse. En France c'est en 1965.
 ### Le miracle de la RFA
 Après deux guerres mondiales, des destructions massives et le fardeau des réparations, la RFA commence à se relever. Entre 1951 et 1960, la croissance annuelle atteint environ 9 %, marquant le début du *Wirtschaftswunder* (miracle économique). Avant la construction du mur de Berlin, un important afflux de population contribue à l'expansion économique. Les *Konzerns* jouent un rôle clé dans cette reprise, consolidant leur position dans des secteurs stratégiques comme la chimie, l'automobile et l'ingénierie.
 #### Les konzerns à Nuremberg
@@ -81,7 +81,7 @@ La Suisse partage plusieurs caractéristiques avec le modèle économique allema
 - La *paix du travail* est un accord informel entre les syndicats et les employeurs suisses depuis 1937. Elle repose sur l'engagement des syndicats à ne pas recourir à des grèves en échange de négociations collectives régulières et de conditions de travail favorables. Ceci a commencé dans la métallurgie pour éviter les conflits comme les grèves.
 - Ce système assure une grande stabilité sociale et économique, favorisant l’attractivité de la Suisse pour les entreprises internationales.
 ### État-providence et société d'abondance: de Ford à Beveridge et Keynes
-L'émergence de ce système n'est pas rapide, les voies sociales tardent à être mises en place et le question sociale n'émerge qu'au 19ème siècle. C'est une période de croissance positive économiquement ce qui facilite son apparition. Il va faire partie des droits des citoyens.
+L'émergence de ce système n'est pas rapide, les voies sociales tardent à être mises en place et la question sociale n'émerge qu'au 19ème siècle. C'est une période de croissance positive économiquement ce qui facilite son apparition. Il va faire partie des droits des citoyens.
 
 Il va aider les personnes en difficulté pour sécuriser la société de consommation, puisque les travailleurs sont des consommateurs. Marshall disait déjà que la citoyenneté s'est élargie pendant les diverses époques [[Séance 12-L'État Providence]]. Mais il y a une critique politique puisque cet élargissement est plutôt vers le  masculin.
 #### Après WW2
@@ -89,7 +89,7 @@ Au 20ème siècle l'État Providence moderne apparaît. Les assurances sociales 
 
 Beveridge écrit un rapport, qui concerne toute la vie des citoyens et développe la nécessité de protéger tous les citoyens *from the cradle to the grave*.
 ##### Universalité
-Les assurances étaient liées à des contributions, mais pour Beveridge on a tous le droit à l'assurance même si on n'est pas affiliés ou on n'a pa financé le système (manque d'argent de certaines personnes). On veut libérer les individus du besoin à travers d'un système à approche universelle. Dans l'Allemagne de Bismarck si on contribue pas on reçoit pas.
+Les assurances étaient liées à des contributions, mais pour Beveridge on a tous le droit à l'assurance même si on n'est pas affiliés ou on n'a pas financé le système (manque d'argent de certaines personnes). On veut libérer les individus du besoin à travers d'un système à approche universelle. Dans l'Allemagne de Bismarck si on contribue pas on reçoit pas.
 
 Beveridge énonce ses trois *U*:
 - Universalité: Toute la population est concernée. La protection s'étend à l'ensemble de la population et pas seulement aux ouvriers qui par le biais de leur emploi ont une protection.
@@ -99,25 +99,25 @@ Beveridge énonce ses trois *U*:
 #### Début de l'État providence
 C'est le début du *welfare state*. Chaque état aura des variantes mais on va apercevoir une diffusion à travers le monde occidental soit-disant *développé*. Cet outil va permettre au partis travaillistes de gagner les élections.
 ![[Pasted image 20241128123540.png]]
-Chaque fois on va financer plus de choses (vieillesse, etc). La richesse est taxée et finance cet état. Pour la Suisse ce plan est mauvais et incompatible avec le fédéralisme et l'intervention d'acteurs non-étatiques, on met en place un système alternatif.
+Chaque fois on va financer plus de choses (vieillesse, etc). La richesse est taxée et finance cet état. Pour la Suisse ce plan est mauvais et semble incompatible avec le fédéralisme et l'intervention d'acteurs non-étatiques, on met en place un système alternatif.
 #### Politique
 On va considérer que l'égalité des droits démocratiques doit s’accompagner de l'égalité des droits sociaux. En FR le FP lance les congés payés et d'autres mesures en 1936. De la même manière la déclaration des Droits de l'Homme de 1948 dit: *Toute personne a droit à un niveau de vie suffisant pour assurer sa santé, son bien-être et ceux de sa famille. Elle a droit à la sécurité en cas de chômage, de maladie, d'invalidité, de veuvage, de vieillesse ou dans les autres cas de perte de ses moyens de subsistance par suite de circonstances indépendantes de sa volonté.*
 ##### Critique féministe
 Les conservateurs critiquent, mais aussi les féministes. Cet état met trop l'accent sur un modèle de famille de *breadwinner* ou les femmes étaient bénéficiaires en dépendant de ces hommes. Il y aura aussi un débat puisque la situation sur le marché des femmes et des hommes n'est pas la même et ce système favorise les familles avec les enfants ce qui maternalise la figure des femmes. Après la mise en place de structures égales pour l'éducation, l'égalité s'améliore un petit peu.
 #### Keynésianisme
-Pour Keynes la redistribution de l'impôt menait à la consommation de masse et la croissance économique (Engels disait déjà que plus de revenu= plus de consommation jusqu'à un de saturation). Protéger les consommateurs des chocs protège leur consommation->État providence. Les gens aiment le système, ce capitalisme régulé. L'État est protecteur et pas seulement gendarme, il sanctionne et protège. Par **exemple**: Poor Laws de 1834 qui stigmatisaient les pauvres et les criminalisaient. Maintenant c'est moins criminalisant. Avant ceci c'était la famille qui devait te protéger. Ceci prospère jusqu'à 1971 quand les conservateurs retournent.
+Pour Keynes la redistribution de l'impôt menait à la consommation de masse et la croissance économique (Engels disait déjà que plus de revenu= plus de consommation jusqu'à un point de saturation). Protéger les consommateurs des chocs protège leur consommation->État providence. Les gens aiment le système, ce capitalisme régulé. L'État est protecteur et pas seulement gendarme, il sanctionne et protège. Par **exemple**: Poor Laws de 1834 qui stigmatisaient les pauvres et les criminalisaient. Maintenant c'est moins criminalisant. Avant ceci c'était la famille qui devait te protéger. La providence prospère jusqu'à 1971 quand les conservateurs retournent.
 
-Mais pendant les 30 glorieuses Keynes s'impose. Après le trauma de 1929 -que Keynes relie avec l'autoritarisme- il est clair que laisser le marché se régler tout seul n'est pas compatible avec la démocratie. Lui il veut l'intervention de l'état. Ceci permet de rééquilibrer le système.
+Mais pendant les 30 glorieuses Keynes elle s'impose. Après le trauma de 1929 -que Keynes relie avec l'autoritarisme- il est clair que laisser le marché se régler tout seul n'est pas compatible avec la démocratie. Lui il veut l'intervention de l'état. Ceci permet de rééquilibrer le système.
 
-*L'impôt sur la fortune et la baisse des taux d'intérêt devaient, selon les termes de Keynes, permettre "l'euthanasie du rentier et du capitalisme oisif.*
-- Consommer et pas épargner, l'argent vaut plus maintenant puisqu'il permet de faire plus d'argent. Faire circuler de l'argent amène du dynamisme.
+L'impôt sur la fortune et la baisse des taux d'intérêt devaient, selon les termes de Keynes, permettre *l'euthanasie du rentier et du capitalisme oisif*.
+- Consommer et pas épargner, l'argent vaut plus dans le moment présent puisqu'il permet de faire plus d'argent. Faire circuler de l'argent amène du dynamisme.
 
 Pour Keynes, il est important d'étudier la demande et pas seulement l'offre. L'offre ne fait pas sa propre demande. Si les revenus sont bloqués dans l'épargne on consomme pas et on a une crise de surproduction.
 ##### Multiplicateur keynésien
 ![[Pasted image 20241128125440.png]]
 On commence avec un état qui a des recettes et des sorties.
 ![[Pasted image 20241128125612.png]]
-Mais tout d'un coup on a une menace comme une dépression économique. Il y a moins de recettes mais plus de sorties. On doit payer le chômage, etc. La depression se multiplique chaque fois plus (**Ex**:1929 et son effet dans les *suds*) chaque fois on consomme moins et on produit moins. Plus de chômage et plus de dépenses et moins de recettes. Avant en s'en foutait, on pensait que le chômage c'était frictionnaire et temporel comme changer de travail. Mais pour Keynes c'est un problème de dynamisme.
+Mais tout d'un coup on a une menace comme une dépression économique. Il y a moins de recettes mais plus de sorties. On doit payer le chômage, etc. La depression se multiplique chaque fois plus (**Ex**:1929 et son effet dans les *suds*) chaque fois on consomme moins et on produit moins. Plus de chômage et plus de dépenses et moins de recettes. Avant en s'en foutait, on pensait que le chômage était frictionnaire et temporel à cause du changement de travail. Mais pour Keynes c'est un problème de dynamisme.
 
 Les banques peuvent réinjecter cet argent ==MAIS== seulement si les entreprises veulent investir et donc empruntent. Dans ce cas elles sont effrayées, elles investissent pas.
 
@@ -152,10 +152,10 @@ Cette extension de la gamme de produits entraîne le crédit populaire, le gens 
 
 Avant il y avait pas de biens consommables comme l'ordinateur, on consommait par tranches à travers de cette démocratisation (élargissement de la consommation à toutes les classes sociales grâce à l'accès facilité aux biens (baisse des coûts, crédit) et à la consommation de masse.).
 #### Engels
-Les dépenses alimentaires baissent. Les prix baissent, et la nouvelle classe moyenne (surtout pro-frontpopulaire en FR) peut se payers les loisirs et consacrer moins de son revenu à se nourrir.
+Les dépenses alimentaires baissent. Les prix baissent, et la nouvelle classe moyenne (surtout pro-frontpopulaire en FR) peut se payer les loisirs et consacrer moins de son revenu à se nourrir.
 ![[Pasted image 20241128134151.png]]
 On est plus dans une société de statut hérité, on a des nouvelles aspirations envers la consommation.
 #### Révolution du mod/e de vie
-Il y aura des critiques à ce mode de vie comme celle de Galbraight. Dans son ouvrage il critique la surabondance de biens privés et le manque de biens privés. Il y a des nouvelles formes de pauvreté dans une société opulente qui a les moyens de l'éviter et de créer des services publics (**ex**:USA). Il veut plus d'impôts pour redistribuer les revenus. Pour lui les services publics sont une manière de réduire l'inégalité.
+Il y aura des critiques à ce mode de vie comme celle de Galbraight. Dans son ouvrage il critique la surabondance de biens privés et le manque de biens publiques. Il y a des nouvelles formes de pauvreté dans une société opulente qui a les moyens de l'éviter et de créer des services publics (**ex**:USA). Il veut plus d'impôts pour redistribuer les revenus. Pour lui les services publics sont une manière de réduire l'inégalité.
 
 #UNIGE #HESG
