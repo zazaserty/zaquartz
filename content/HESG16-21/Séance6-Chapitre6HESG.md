@@ -36,7 +36,7 @@ Les villes ne sont pas préparées, pas assez de marchés et prix prohibitifs à
 - Nourriture chère. Ils reçoivent moins d'argent (maintenant remplacé par nourriture) donc moins de pouvoir d'achat.
 - On incentive les ouvriers pour qu'ils achètent les biens que l’entreprise a acheté (double exploitation).
 
-Ce sweating system a été aboli après des diverses manifestations sociales.
+Ce *sweating system* a été aboli après des diverses manifestations sociales.
 
 En Belgique ils ont par contre essayé d'appliquer une politique de construction urbaine proactive avec des écoles et etc, ce qui a l'avantage de retenir les ouvriers dans les villes.
 ##### Contrôle
@@ -69,7 +69,7 @@ Cependant l'espérance de vie augmente dans les campagnes voisines.
 ![[Pasted image 20241003134143.png]]
 Ces conditions favorisent le retour des pandémies depuis l'Asie en passant chronologiquement par divers pays cause 20000 victimes seulement a Marseille. Il va provoquer la confusion chez les médecins sur comment le soigner du a la vitesse a laquelle elle se propage. Les élites économiques ne sont pas tellement touchées et ont une attitude méprisante, ce qui débouche dans des tensions sociales élevées.
 
-Louis-René Villermé conclus sur Paris qu'il existe une grande inégalité face a la mort, les classes laborieuses sont décimées.
+Louis-René Villermé conclu sur Paris qu'il existe une grande inégalité face a la mort, les classes laborieuses sont décimées.
 ![[Pasted image 20241003134430.png]]
 Dans certaines villes des commissions médicales émergent pour essayer de stopper l'épidémie. A Paris les chiffoniers font des émeutes, un nouveau système de ramassage d'ordures est mis en place (hygiène contre le choléra) ce qui ne leur convient pas. Le choléra est une invention de la bourgeoisie pour affamer le peuple aux yeux des travailleurs. Le racisme de classe (classisme) s'accentue chaque fois plus.
 #### Médecine

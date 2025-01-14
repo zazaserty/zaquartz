@@ -47,7 +47,7 @@ Il y a trois régions différentes dans latam:
 - Lusophone: Portugaise.
 - Caraïbes avec d'autres pays comme l'Angleterre.
 
-Il y aura dans ces régions des très développés comme l'Argentine mais qui vont après chuter.
+Il y aura dans ces régions des pays très développés comme l'Argentine mais qui vont après chuter.
 #### Phases
 ##### Du 16ème siècle à l'indépendance:
 - Extraction.
@@ -65,7 +65,7 @@ Il y aura dans ces régions des très développés comme l'Argentine mais qui vo
 	- 24 millions en total.
 	- Ceci dépendait de la région (Haïti, Argentine, etc.).
 ![[Pasted image 20241031132948.png]]
-La population indienne s'effondre (ça dépend du pays mais en gros elle est décimée par diverses méthodes) ce que les européens ne vont pas pouvoir compenser. Le système de castes (*castes*) où la pureté de la race détermine de qui vous descendez et votre classe sociale. La race la plus pure est dans ce cas la blanche.
+La population indienne s'effondre (ça dépend du pays mais en gros elle est décimée à cause de plusieurs raisons) ce que les européens ne vont pas pouvoir compenser. Le système de castes (*castes*) où la pureté de la race détermine de qui vous descendez et votre classe sociale. La race la plus pure est dans ce cas la blanche.
 ##### Le 19ème siècle:
 Les anglais pénètrent dans le commerce de latam. La GB appuie les indépendances sud-américaines (par intérêt). Ceci avec le but de briser le marché monopolistique espagnol dans latam. Les économies portugaises et espagnoles sont en perte de vitesse.
 
@@ -73,11 +73,11 @@ Ces nations sont indépendantes, mais elles sont quand même plutôt dépendante
 
 Il va y avoir une surproduction importante et une incapacité d'entamer tout processus d'industrialisation.
 
-Petit à petit les gouvernements de latam vont vouloir du progrès, en utilisant des tarifs douaniers entre autres mesures. Le Brésil est un bon exemple, il arrête d'importer et commence à produire ses propres biens. Le Mexique essaie d'attirer les entreprises américaines avec une main d'oeuvre exploitée mais ça ne marche pas trop. Après en 1910 on démantèle les *haciendas* mexicaines et on fait une réforme agraire.
+Petit à petit les gouvernements de latam vont vouloir du progrès, en utilisant des tarifs douanières entre autres mesures. Le Brésil est un bon exemple, il arrête d'importer et commence à produire ses propres biens. Le Mexique essaie d'attirer les entreprises américaines avec une main d'oeuvre exploitée mais ça ne marche pas trop. Après en 1910 on démantèle les *haciendas* mexicaines et on fait une réforme agraire.
 ###### **Betterave**
 Le sucre est coûteuse, la betterave devient son remplacement. Elle peut être mécanisée. Ceci fait apparaître des nouveaux concurrents comme la Réunion. Il y aura un blocus de la GB par la France pour lutter contre leur dépendance de canne sucre anglaise. Les économies de latam sont gravement impactées par cette nouvelle concurrence.
 ![[Pasted image 20241031135515.png]]
-Le sucre de canne pert du rapport d'échange pour d'autres biens, les termes d'échange se détériorent comme le pouvoir d'achat de ces pays. Ceci arrive avec beaucoup plus de biens primaires (non-manufacturés) ce qui est la cause de la misère de latam.
+Le sucre de canne pert du rapport d'échange par rapport aux autres biens, les termes d'échange se détériorent comme le pouvoir d'achat de ces pays. Ceci arrive avec beaucoup plus de biens primaires (non-manufacturés) ce qui est la cause de la misère de latam.
 ![[Pasted image 20241114122036.png]]
 1871-1913. Chaque décennie les termes d'échange changent mais la tendance est vers la dépréciation.
 

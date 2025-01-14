@@ -14,7 +14,7 @@ On peut observer comment la GB est la première dans ce classement. Pendant cett
 
 Il y a aussi une grand immigration du Mexique, et vers la Californie de la part des Chinois. Le phénomène n'est pas européen exclusivement
 ### Les facteurs
-L'amélioration des transports comme expliqué au debut de ces notes. Mais aussi:
+L'amélioration des transports comme on a expliqué au debut de ces notes. Mais aussi:
 #### La transition démographique
 ![[Pasted image 20241017132216.png]]
 La population va croître bien plus rapidement. Cette transition est graduelle et ça va prendre du temps pour que tout change, comme on a exploré dans d'autres séances au XIXème siècle la mortalité baisse mais la natalité et la fécondité ne baissent pas. Après cette croissance diminuera puisque dans le 2ème phase les femmes ont moins d'enfants mais avant cela on a un excédant de population.
@@ -31,7 +31,7 @@ La crise agricole avec l'entrée des céréales étasuniens dans l'économie va 
 - Le gouvernement britannique a pris des actions comme la loi des pauvres et des cadres d'emploi public avec les *workhouses* qui ne marchent pas trop.
 Les irlandais doivent donc migrer, une des raisons pour lesquelles elle n'est pas précisément peuplée de nos jours. Il y aura une redistribution des terres après la famine. Ils vont migrer vers l'Angleterre et beaucoup d'autres territoires.
 #### Différence des salaires
-Dans l'USA il y a beaucoup de dynamismes avec le rail, locomotive, etc. Une grand productivité agricole aussi. Il a beaucoup plus de productivité que dans l'Europe et donc des salaires beaucoup plus hauts. Sans des limites d'immigration et ces salaires la main d'oeuvre est attirée en masse.
+Dans l'USA il y a beaucoup de dynamisme avec le rail, locomotive, etc. Une grand productivité agricole aussi. Il a beaucoup plus de productivité que dans l'Europe et donc des salaires beaucoup plus hauts. Sans des limites d'immigration et ces salaires la main d'oeuvre est attirée en masse.
 ### Modèle de causalité
 - On passe de la navigation à voile à la navigation à vapeur, les gents on un accès plus grand à d'autres territoires.
 - Le taux de croissance démographique 20 à 30 ans auparavant fait ses effets. La population est plus jeune et la pression démographique dans les pays d'origine augmente. Ce sont surtout les hommes qui arrivent dans les premières vagues.
@@ -41,7 +41,7 @@ Dans l'USA il y a beaucoup de dynamismes avec le rail, locomotive, etc. Une gran
 ### Les conséquences
 Des pays comme l'Irlande avec sa grande famine, ont perdu une grande partie de la population (3 millions sur 8 environ). Ceci provoque un basculement du centre de gravité démographique à cause de ces migrations. Les pays comme l'USA (d'immigration) représentent 12% de la population d'Europe en 1850 et 28% en 1913. Ces pays  sont le Canada, l'Australie, Nouvelle Zélande, Brésil, Argentine et évidemment l'USA.
 
-La croissance économique des pays d'émigration est bloquée par ce phénomène, des nouveaux liens vont devoir être trouvés. Les pays d'arrivée perçoivent un effet positif sur leur économie, ils ont maintenant une main d'oeuvre bien plus grande. Mais ces nouveaux migrants acceptaient des salaires inférieurs ce qui augmentait le chômages chez les natifs non-qualifiés et diminuait leur salaire.
+La croissance économique des pays d'émigration est bloquée par ce phénomène, des nouveaux liens vont devoir être trouvés. Les pays d'arrivée perçoivent un effet positif sur leur économie, ils ont maintenant une main d'oeuvre bien plus grande. Mais ces nouveaux migrants acceptaient des salaires inférieurs ce qui augmentait le chômage chez les natifs non-qualifiés et diminuait leur salaire.
 ### L'expérience des USA
 #### Melting pot
 Les USA deviennent un *melting pot* sociologique, des différentes cultures commencent à s'assimiler dans le même pays. Peu à peu ils changent leur coutumes pour celles des autochtones. Au fur et à mesure du temps on pouvait pas distinguer les immigrants des colons. La raison pour laquelle ceci a marché si bien c'est à cause de la *american way of life* qui a unifié la société dans un rêve de société de la consommation.

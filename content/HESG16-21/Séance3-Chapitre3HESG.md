@@ -32,13 +32,13 @@
 	- Elles contrôlent combien, qui et quoi on produit.
 	- Phénomène urbain.
 - Quand elles voient la production rurale elles se rendent compte qu'elles vont perdre son privilège. Elles réagissent donc négativement.
-- Donc les gouvernements vont libéraliser le marchés, on peut maintenant contourner les corporations pour produire. C'est la seule manière de faire face a une demande qui ne permet plus de tout contrôler.
+- Donc les gouvernements vont libéraliser les marchés, on peut maintenant contourner les corporations pour produire. C'est la seule manière de faire face a une demande qui ne permet plus de tout contrôler.
 - On commence a délocaliser une partie de la production a des pays en développement qui sont plus dociles. Il n'y a pas de syndicats là-bas donc pas de conditions de travail acceptables.
 - On donne a la ferme un micro-crédit pour qu'elles puissent produire et après on donne le produit aux multinationales. **Exemple ==actuel==**: Danone donne du lait aux usines gratuitement pour qu'elles puissent alimenter la production de yaourts. Les producteurs sont limités par leurs marchands ou intermédiaires, on peut leur donner différents noms, qui contrôlent les ressources qu'on leur donne.
 - Il n'y a pas de production en usines de masse donc on a un certain blocage.
 - Le capitale reste dans les mains des marchands et donc on n'a pas un réinvestissement dans l'industrie suffisant.
 ### La proto-industrialisation
-Celle-ci n'est pas une étape déconnectée de l'industrie complètement. Cette thèse a été lancée par Mendels comme une explication sur l'évolution industrielle de la Flandre du 17.5-18e siècle. Il dit que l'industrialisation commence avant regrouper les ouvriers dans des usines et zones urbaines, en 1750:
+Celle-ci n'est pas une étape déconnectée de l'industrie complètement. Cette thèse a été lancée par Mendels comme une explication sur l'évolution industrielle de la Flandre du 17(.5)-18e siècle. Il dit que l'industrialisation commence avant regrouper les ouvriers dans des usines et zones urbaines, en 1750:
 - Il y a des dynamiques rurales mais pas des concentrations d'usines.
 - Deux groupes en croissance:
 	- Paysans sans terres, lesquelles sont maintenant privatisées et très régulées pour son usage.
@@ -70,11 +70,11 @@ Les crises de mortalité s’atténuent, les morts son régulières maintenant. 
 	- On observe que les personnes qui travaillent avec des vaches souffrent d'une maladie mais après sont épargnées par la variole.
 	- On découvre les vaccines (on commence par l'inoculation et on avance vers la vaccination).
 	- Ceci n'est pas si révolutionnaire, la Chine expérimentait déjà pour obtenir une inoculation contre la variole.
-	- Pasteur et etc, ce n'est pas arrivé jusqu'au 19ème siècle.
+	- Pasteur et etc ils ne sont pas arrivés jusqu'au 19ème siècle.
 	- C'est pas seulement la médecine qui a permis ces progrès démographiques, elle n'était pas totalement mûre. C'est aussi le fait qu'il y a moins de guerres (la guerre de succession espagnole et etc sont finies) et on a une meilleure source d'aliments.
 ![[Pasted image 20240925114900.png]]
 ### Nouveaux rapports à l'environnement
-On commence à avoir moins de peur envers la nature, on n'est plus dependants de son bon-vouloir et on peut la maîtriser plus. Fin de la *magie* et de *l'ordre divin*. On essaie maintenant de l'observer et de la comprendre, pour nous éloigner du fatalisme. C'est vers la fin de 19ème qu'on arrive a l'apogée de cette culture savante de la nature.
+On commence à avoir moins peur envers la nature, on n'est plus dependants de son bon-vouloir et on peut la maîtriser plus. Fin de la *magie* et de *l'ordre divin*. On essaie maintenant de l'observer et de la comprendre, pour nous éloigner du fatalisme. C'est vers la fin de 19ème qu'on arrive a l'apogée de cette culture savante de la nature.
 
 Aussi, on développe un anthropocentrisme-> la nature est là pour satisfaire nos besoins.
 

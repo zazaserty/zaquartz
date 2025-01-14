@@ -9,7 +9,7 @@ Qu'est-ce qui sera voté mardi?
 ![[Pasted image 20241101142151.png]]
 Aux USA on élit tout à la fois, au contraire que dans la France.
 ### La présidence
-Kamala Harris (vice-présidente) vs Donald Trump. On élit le chef d'état mais aussi le chef de gouvernement, pour siéger à la maison blanche pour quatre ans (une seule réélection possible). Dans les USA on ne choisit pas sur le nombre total de votes mais sur des collèges électoraux (grands électeurs). Ceci donne un avantage aux partis républicains. Même si Harris aura probablement la majorité de voix, ceci ne veut pas dire que Trump va perdre.
+Kamala Harris (vice-présidente) vs Donald Trump. On élit le chef d'état mais aussi le chef de gouvernement, pour siéger à la maison blanche pour quatre ans (une seule réélection possible). Dans les USA on ne choisit pas sur le nombre total de votes mais sur des collèges électoraux (grands électeurs). Ceci donne un avantage aux partis républicains. Même si Harris aura probablement la majorité des voix, ceci ne veut pas dire que Trump va perdre.
 ### Chambre de représentants
 Avec 435 sièges, repartis entre les États en fonction de leur population (comme le conseil national en Suisse, cependant aux USA on l'élit à travers du système majoritaire et non proportionnel), il est réélu intégralement tous les 2 ans. Il y a maintenant une faible majorité de républicains (220-211). Ils se réunissent au *Capitole*.
 ### Le sénat

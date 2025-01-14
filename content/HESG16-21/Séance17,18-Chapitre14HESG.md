@@ -54,7 +54,7 @@ Une autre crise avec la bulle des entreprises du NASDAC (dotcom) qui explose en 
 Les prix des matières premières et la demande changent ce qui nuit les pays du Sud. Ceci cause aussi le chômage structurel.
 ### État providence: apogée-> remise en cause
 #### Bases
-Les personnes qui travaillent paillent pour celles qui ne travaillent pas (chômeurs et personnes à la retraite, etc). Mais si il y a peu de population active on a un problème. À la fin des années 90-début 2000, les bases de la providence se fragilisent.
+Les personnes qui travaillent payent pour celles qui ne travaillent pas (chômeurs et personnes à la retraite, etc). Mais s'il y a peu de population active on a un problème. À la fin des années 90-début 2 000, les bases de la providence se fragilisent.
 #### Apogée
 Dans la majorité des États avant cette crise l'État Providence était à son apogée avec beaucoup de personnes assurées et 30% des dépenses publiques qui débouchent dans lui (25% en Suisse et USA avec des systèmes plus faibles).
 #### Fragilisation
@@ -72,13 +72,13 @@ Les gens ne sont pas si solidaires quand les choses commencent à mal tourner. L
 ##### Concurrence du travail
 L'État Providence recule et on mondialise le marché du travail, tout le monde est en concurrence avec tout le monde. Les travailleurs veulent plus de droits mais le travail dans d'autres pays comme la Chine est plus conformiste donc on cherche l'offre ailleurs. La baisse des coûts permet une consommation de masse mais si tout est produit ailleurs on peut pas gagner sa vie dans le pays.
 ##### Pauvreté
-Dans les USA la pauvreté arrive à 11%. Il y a pas mal d'inégalités et de discriminations puisque la pauvreté n'affecte pas à tout le monde de la même manière. La pauvreté est un état relatif à un état de vie qui permet de vivre bien dans chaque pays. Il y a des gens qui sont plus riches maintenant. Les inégalités avaient augmenté avec la RI et après s'avaient inversés avec l'état providence.
+Dans les USA la pauvreté arrive à 11%. Il y a pas mal d'inégalités et de discriminations puisque la pauvreté n'affecte pas à tout le monde de la même manière. La pauvreté est un état relatif à un état de vie qui permet de vivre bien dans chaque pays. Il y a des gens qui sont plus riches maintenant. Les inégalités avaient augmenté avec la RI et après s'avaient inversées avec l'état providence.
 ##### Kuznets et Piketty
 La **courbe de Kuznets** fournit une première tentative d’explication. Proposée par Simon Kuznets dans les années 1950, cette théorie affirme que les inégalités suivent une trajectoire en forme de cloche au cours du développement économique: elles augmentent d'abord à mesure qu'une économie se modernise, passant de l’agriculture à l’industrie, avant de diminuer grâce à des politiques redistributives et à la généralisation de l’éducation et de la santé.
 
 Cependant, Thomas **Piketty** remet en question cette vision dans son ouvrage _Le Capital au XXIe siècle_. En analysant des données historiques, il montre qu’après une réduction notable des inégalités au XXe siècle, celles-ci ont recommencé à se creuser depuis les années 1980. Cette tendance est attribuée à un rendement du capital (r) supérieur à la croissance économique (g). Autrement dit, les revenus tirés des biens (immobilier, actions, etc.) augmentent plus vite que ceux provenant du travail, ce qui concentre la richesse entre les mains d’une minorité. En conséquence, même avec des emplois multiples, une partie croissante de la population a du mal à vivre décemment.
 ##### Richesse
-La richesse n'est plus le résultat de notre travail. Avec le salaire on gagne de l'argent mais pour être riche on doit avoir des biens et des propriétés comme des immeubles ou des actions. Les salaires stagnent dans les années 1990-2000 mais ces biens non. On concentre de plus en plus la richesse sur une partie de la population et le reste ne peut pas survivre même avec deux emplois.
+La richesse n'est plus le résultat de notre travail. Avec le salaire on gagne de l'argent mais pour être riche on doit avoir des biens et des propriétés comme des immeubles ou des actions. Les salaires stagnent dans les années 1 990-2 000 mais ces biens non. On concentre de plus en plus la richesse sur une partie de la population et le reste ne peut pas survivre même avec deux emplois.
 #### Endettement
 Il y a un décalage avec les dépenses et la stagnation des revenus. Les gens consomment beaucoup et s'endettent. La dette publique et le crédit émergent.
 

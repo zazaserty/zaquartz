@@ -110,7 +110,7 @@ En France cette question sociale est difficile, il y a beaucoup de commerçants 
 **Rousseau**:
 ![[Pasted image 20241025183648.png]]
 
-L'État commence a réguler le capitalisme, les entrepreneurs et travailleurs entrent dans un compromis. La libre association et autres droits sociaux vont aussi apparaître mais dans 1895. L'assurance vieillesse en France et l'état providence c'est plus ou moins vers les années 1930. 
+L'État commence a réguler le capitalisme, les entrepreneurs et travailleurs entrent dans un compromis. La libre association et autres droits sociaux vont aussi apparaître mais en 1895. L'assurance vieillesse en France et l'état providence c'est plus ou moins vers les années 1930. 
 ### Bilan social vers 1913
 Les grèves sont des plus en plus nombreuses. L'association internationale des travailleurs (précurseur du BIT-ONU) émerge. Un forte syndicalisation commence (35 million d'ouvriers syndicalisés en France). Ce mouvement aura son apogée en 1970, mais dans les années 1980 il la perdra. Les conservateurs retournent.
 
@@ -119,7 +119,7 @@ Divers pays européens voient d'important acquis sociaux:
 - Les enfants ne peuvent plus travailler.
 - En dessous de 13 ans la majorité sont scolarisés.
 - On avance vers la journée de 8 heures de travail.
-- Les systèmes d'assurance sociale sont mis en place peu à peu, l'Allemagne est la seule à l'avoir si tôt. Cependant les accidents et maladie sont couverts, les autres choses ça sera plus tard (comme vieillesse).
+- Les systèmes d'assurance sociale sont mis en place peu à peu, l'Allemagne est la seule à l'avoir si tôt. Cependant les accidents et maladies sont couverts, les autres choses ça sera plus tard (comme vieillesse).
 
 L'État-Providence a été ébauché.
 

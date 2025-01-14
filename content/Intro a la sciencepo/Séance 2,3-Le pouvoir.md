@@ -18,11 +18,11 @@ Hobbes écrit dans son Léviathan (1640) que le contrat social est le fondement 
 
 Pour éviter cela, les personnes renoncer mutuellement et rationnellement a une partie de ses libertés et pouvoirs. Comme ça, c'est une personne artificielle (l'État) qui est confié ses libertés. L'État est donc le Souverain et représente *le pouvoir souverain*.
 ### Parsons
-Pour lui, le P en politique est l'équivalent de la monnaie en économie. C'est le medium à travers le quel les acteurs interagissent. À travers de ce medium, des hiérarchies entre acteurs sont crées.
+Pour lui, le P en politique est l'équivalent de la monnaie en économie. C'est le medium à travers lequel les acteurs interagissent. À travers de ce medium, des hiérarchies entre acteurs sont crées.
 
 Mais ce medium et fluide, et difficile de quantifier. Comme il est si fluide, les acteurs sans pouvoir ou avec peu peuvent se présenter comme s'ils étaient puissants. Donc ils ont un pouvoir potentiel, une puissance, mais pas encore activé.
 
-Cependant, les contraintes sont importantes. Il est nécessaire d'avoir des ressources, règles, coutumes, répartitions inégales, etc. **Exemple**: La formule magique qui composait le Conseil Fédéral. Cette règle même si elle n'est pas écrite, elle régie cette partie de la politique et par conséquent du pouvoir suisse. Les ressources sont aussi une contrainte, quelqu'un sans ressources aura du mal a exercer un pouvoir. Sa puissance va dépendre de sa crédibilité en gros.
+Cependant, les contraintes sont importantes. Il est nécessaire d'avoir des ressources, règles, coutumes, répartitions inégales, etc. **Exemple**: La formule magique qui composait le Conseil Fédéral. Cette règle même si elle n'est pas écrite, elle structure cette partie de la politique et par conséquent du pouvoir suisse. Les ressources sont aussi une contrainte, quelqu'un sans ressources aura du mal a exercer un pouvoir. Sa puissance va dépendre de sa crédibilité dans ce cas.
 ### Conceptions
 1. Institutionnaliste. Le P serait donc synonyme de gouvernants au sens large du mot. Exemple: Quand on parle de *séparation des pouvoirs* dans les États.
 2. Substantialiste: Le P est aussi un instrument pour arriver a certain buts, comme le capital dans l'économie (sens économique du terme). Un détenteur de P  peut en tirer un profit. C'est le P de faire quelque chose.
@@ -35,23 +35,23 @@ Les rapports de P sont asymétriques ici. Selon Peter Blau, le P est le résulta
 
 Selon Robert Dahl ceci est comme ça: A a du P sur B puisqu'il peut amener B à faire des choses qu'il n'aurait pas fait autrement. Les conséquences du P ne dépendent pas de l'intention de A, elles auraient pu être bonnes.
 
-**Exemple**: Un président qui peut décider qui va a la guerre. Donc ils nous force a y aller. Ses intentions? Peut être bonnes. Mais cela n'influence pas comment terminera le conflict.
+**Exemple**: Un président qui peut décider qui va a la guerre. Donc ils nous force à y aller. Ses intentions? Peut être bonnes. Mais cela n'influence pas comment terminera le conflict.
 
 A peut aussi ne pas activer son pouvoir, donc il est juste puissant. Le P est l'actualisation de la puissance.
 #### Structurelle
-Dans ce cas une interaction n'est pas requise. Le p manifeste son effect aussi en l'absence de relation directe entre A et B.
+Dans ce cas une interaction n'est pas requise. Le p manifeste son effect aussi en l'absence d'une relation directe entre A et B.
 
 Ici, le P et la position structurelle son indissociables. Et la structure détermine la possibilité d'action des acteurs. Cette dimension a deux interprétations:
-- Selon Marx et al.: les attributs matériels de la structure organisent les positions sociales, politiques et économiques des acteurs. C'est une influence économique qui n'influence pas seulement ta position économique dans la société.
+- Selon **Marx** et al.: les attributs matériels de la structure organisent les positions sociales, politiques et économiques des acteurs. C'est une influence économique qui n'influence pas seulement ta position économique dans la société.
 	- Le P politique est le P organisé d'une classe en vue de l'oppression d'une autre. Il se confond avec l'État qui est au service des plus puissants. Certaines classes utilisent son pouvoir pour oppresser les autres, et l'État sert a leur intérêts de domination.
 	- Les interactions entre ces classes sont donc des rapports de forces.
 	- Et la capacité d'une classe à imposer ses propres intérêts dépend de la position qu'elle occupe dans le champ du pouvoir. Cette position es le reflet de son capital économique.
-- Selon Bourdieu et al.: accent sur le P symbolique (reconnaissance, influence, etc. **Exemple**: un prof d'uni n'est pas riche mais a du pouvoir symbolique) et les privilèges qui en découlent.
+- Selon **Bourdieu** et al.: accent sur le P symbolique (reconnaissance, influence, etc). **Exemple**: un prof d'uni n'est pas riche mais a du pouvoir et les privilèges qui en découlent.
 	- Pas de déterminisme matérialiste.
 	- Rapport équilibré entre acteurs et structures. Il y a des structures, mais les acteurs peuvent transformer ses propres conditions sociales et escalader cette hiérarchie.
 	- L'importance de la contingence (circonstances imprévues. **Exemple**: Un jeune musicien devient célèbre avec une chanson virale, qui pourrait avoir passée inaperçue si on était dans un autre moment ou place.).
 	- Le capital économique est une source de P parmi d'autres comme le capital culturel ou social.
-	- Diversité des champs d'actions comme le littéraire ou économique. Chacun de ces champs a ses règles, qui doivent être maîtrisés pour en tirer un bénéfice sur les autres acteurs. **Exemple**: Prix Nobel de la littérature qui n'a pas d'autorité dans le domaine économique, et qui devrait utiliser des *skills* différentes pour obtenir ce P dans le domaine économique et pas dans le littéraire.
+	- Diversité des champs d'actions comme le littéraire ou économique. Chacun de ces champs a ses règles, qui doivent être maîtrisées pour en tirer un bénéfice sur les autres acteurs. **Exemple**: Prix Nobel de la littérature qui n'a pas d'autorité dans le domaine économique, et qui devrait utiliser des *skills* différentes pour obtenir ce P dans le domaine économique et pas dans le littéraire.
 #### Discursive
 À travers le discours les relations de pouvoir se trament. Le discours est ici une série de représentations et de pratiques à travers lesquelles des significations sont produites et des identités constituées. Il établit aussi les relations sociales et les résultats politiques et étiques (puis qu'il les rends plus ou moins possibles).
 

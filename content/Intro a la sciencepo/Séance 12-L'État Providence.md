@@ -31,13 +31,13 @@ Plus d'**exemples**:
 - À quel âge les gens déménagent-ils de chez leur parents?
 	- Les italiens déménagent plus tard. Ceci est affecté par l'état providence. Dans l'Italie les pensions sont le centre de l'état providence, elle sont protégées. La jeunesse, cependant, n'est pas protégée.
 - À quelle fréquence les employés changent-ils de poste?
-- Les personnes sont-elles locataires ou propriétaires de l'appartement ou de la maison dans laquelle elles vivent.
+- Les personnes sont-elles locataires ou propriétaires de l'appartement ou de la maison dans laquelle elles vivent?
 #### Impact politique
 Cela a des conséquences politiques. **Exemples**:
 - Les propriétaires votent de manière plus conservatrice.
 - Les pensions créent leur propre coalition de soutien politique-> *feedback effects*.
 #### Exemple suisse
-Les gents se marient plus tard, puisqu'elles paient plus d'impôts que si elles ne sont pas mariées. Les gens ont donc tendance à ne pas se marier ou à se marier plus tard (une fois qu'ils sont plus stables financièrement), pour éviter des impôts élevés.
+Les gens se marient plus tard, puisqu'ils paieraient plus d'impôts que s'ils n'étaient pas mariés. Les gens ont donc tendance à ne pas se marier ou à se marier plus tard (une fois qu'ils sont plus stables financièrement), pour éviter des impôts élevés.
 ### Les trois mondes de l'État providence
 On est dans la politique comparée, on ne veut pas juste voir un seul type d'état providence. On se pose donc la question: comment classer les États Providence? Pour cela, il nous faudra une typologie.
 
@@ -75,7 +75,7 @@ Dans quelle mesure est-ce que l’État-providence traite les groupes différemm
 - Possibilité de se soustraire à l'assurance maladie publique.
 - Est-ce que les bénéficiaires sont autorisés à conserver leur patrimoine (par exemple, l'accession à la propriété) ou doivent-ils le vendre?
 ##### Comment différencier
-L'objectif de l'état providence peut être aussi protéger le niveau de vie pré-providence. Pour nous demander comment l'état providence gère la stratification on pourrait nous demander: *dans quelle mesure agit-il comme une assurance*?
+L'objectif de l'état providence peut être aussi protéger le niveau de vie pré-providence. Pour nous demander comment l'état providence gère la stratification on pourrait se demander: *dans quelle mesure agit-il comme une assurance*?
 
 En bref, un État-providence qui agit comme une assurance vise à protéger le niveau de vie préexistant des individus. Cela entraîne une **stratification**, car les prestations sont souvent proportionnelles aux contributions : les personnes ayant cotisé davantage reçoivent plus. Ce modèle tend à maintenir les différences de statut plutôt qu'à les réduire, renforçant ainsi les hiérarchies sociales existantes.
 ##### Exemple suisse

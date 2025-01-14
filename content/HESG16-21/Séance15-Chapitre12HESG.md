@@ -1,10 +1,10 @@
 ## L'organisation des rapports de production
 ### Les ingénieurs et la division du travail
-Au début les machines et etc étaient modestes mais après la R.I initiale la formation académique est nécessaire. Avant il y avait des assistants qui dans des entreprises familiales apportaient du conseil au travailleurs.
+Au début les machines et etc étaient modestes mais après la R.I initiale la formation académique est nécessaire. Avant il y avait des assistants qui dans des entreprises familiales apportaient du conseil aux travailleurs.
 
 À partir de 1870/1880 ils montent en puissance et la manière d'envisager les processus de production va changer. Une nouvelle approche ancrée dans l'ingénieur apparaît. 
 #### Soucis
-Les patrons étaient pas tranquiles, les ouvriers font des tâches inutiles et perdent le temps. Ils parlent et ne sont pas sérieux. Avec les ingénieurs, les patrons veulent rationaliser le processus de production. On veut standardiser ce procès et économiser de l'argent, on veut contrôler les ouvriers. C'est une *chasse à la flânerie*.
+Les patrons n'étaient pas tranquiles, les ouvriers font des tâches inutiles et perdent le temps. Ils parlent et ne sont pas sérieux. Avec les ingénieurs, les patrons veulent rationaliser le processus de production. On veut standardiser ce procès et économiser de l'argent, on veut contrôler les ouvriers. C'est une *chasse à la flânerie*.
 
 Le travail va être mécanisé, on va transformer les personnes en machines quoi. Cette idée n'est pas nouvelle, Adam Smith avait déjà énoncé la division du travail:
 - Elle apportait selon lui du temps et;

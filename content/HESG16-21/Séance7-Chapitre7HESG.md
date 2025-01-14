@@ -8,7 +8,7 @@
 	- Développement et le sous-développement co-existent.
 Dans ce monde maintenant plus petit dans lequel personnes et marchandises se déplacent les inégalités globales sont chaque jour plus importantes.
 ![[Pasted image 20241016102202.png]]
-On a une révolution industrielle et de transports, mais aussi un changement dans l'écart dans le niveau de vie entre chaque nation. Le graphe montre ce changement profond. Cette globalisation ne partage pas le bonheur de manière homogène, des territoires ont plus d'avantages que d'autres.
+On a une révolution industrielle et des transports, mais aussi un changement dans l'écart dans le niveau de vie entre chaque nation. Le graphe montre ce changement profond. Cette globalisation ne partage pas le bonheur de manière homogène, des territoires ont plus d'avantages que d'autres.
 
 Les capitaux, les idées et les personnes vont circuler plus librement à travers les frontières lesquelles sont maintenant moins fortes. C'est ça la mondialisation.
 ### Chronologie
@@ -48,7 +48,7 @@ Maintenant quand on met un bien dans le marché il est relié à la scène inter
 ##### 1914: L'apogée du réseau européen
 À la veille de la WW1 on a un bon réseau qui améliorera avec l'introduction de l'automobile individuel.
 ![[Pasted image 20241016104904.png]]
-Les marchands peuvent tout d'un coup transporter des produits périssables comme le lait. Les marchands parisiens pouvaient acheminer du lait d'autres région et le transformer en place. Une certaine concurrence va se mettre en place, plus de monopole puisqu'on peut aller chercher les bien ailleurs.
+Les marchands peuvent tout d'un coup transporter des produits périssables comme le lait. Les marchands parisiens pouvaient acheminer du lait d'autres régions et le transformer en place. Une certaine concurrence va se mettre en place, plus de monopole puisqu'on peut aller chercher les biens ailleurs.
 
 **Croissance des chemins de fer français**
 ![[Pasted image 20241016105147.png]]
@@ -99,7 +99,7 @@ Le bimétallisme finit en 1873 après la guerre franco-prussienne, l'Union (Mon�
     - **Fluctuations des métaux** : Les variations du prix de l'or et de l'argent sur le marché mondial créent une instabilité monétaire, compliquant le commerce et la stabilité des prix.
     - **Arbitrage** : Les différences de valeur entre l'or et l'argent peuvent inciter à fondre les pièces pour profiter des écarts de prix, réduisant ainsi la masse monétaire en circulation.
 #### L’Alignement sur l’Or
-- Pour résoudre les problèmes du bimétallisme, de nombreux pays, dont le Royaume-Uni (très tôt) et la France, adoptent un système monométallique basé uniquement sur l'or : c'est l'**étalon-or**. On paie en papier et en monnaies dont la valeur est basée sur la livre sterling laquelle est basée sur l'or. Ce système présente plusieurs avantages :
+- Pour résoudre les problèmes du bimétallisme, de nombreux pays, dont le Royaume-Uni (très tôt) et la France, adoptent un système monométallique basé uniquement sur l'or : c'est l'**étalon-or**. Ce système présente plusieurs avantages :
     - **Stabilité des échanges internationaux** : L'or offre une référence commune, facilitant le commerce entre les nations.
     - **Confiance accrue** : L'or est universellement reconnu comme une réserve de valeur fiable, ce qui renforce la confiance dans les pièces et les billets de banque.
 - Cependant, l'**Angleterre** va plus loin en faisant de sa monnaie, la **livre sterling**, la valeur de référence internationale, un système parfois appelé **étalon sterling**. La livre sterling est basée sur l'or et est librement convertible, ce qui la rend particulièrement attractive pour les échanges internationaux.

@@ -5,7 +5,7 @@
 - L'agriculture fournis la matière première pour le futur mais aussi présent secteur industriel, et les richesses essentielles dans cette société pre-industrielle.
 	- L'industrie existe, mais pas en sa forme moderne. Elle est dispersée et concentrée seulement dans quelques exceptions. Les chefs de famille s'occupaient de la terre et ses fils tissaient et transformaient ses biens en matières secondaires (industrie).
 	- Ceci se donnait dans le domicile ou des petits ateliers.
-	- Ces activités se diffusent vers la campagne agricole, puisque dans l'hiver (climat peu cultivable) les paysans n'avait pas grande chose a faire.
+	- Ces activités se diffusent vers la campagne agricole, puisque dans l'hiver (climat peu cultivable) les paysans n'avaient pas grande chose a faire.
 - Les propriétaires des terres cultivées les louaient pour en gagner un revenu.
 - La terre est donc le principal moyen d'investissement
 	- Les nobles achetaient et vendaient/louaient des terres.
@@ -33,9 +33,9 @@
 - Chaque jour chaque individu consommait 800gr-1kg, aujourd'hui c'est 150-200gr (céréales). Ceci représentait une bonne source de calories pour les paysans, étant facile de stocker et cultiver. Ils étaient aussi facilement consommables sous la forme de pain.
 #### Rendement
 Le rendement (quantité récoltée/quantité semée) est plutôt faible: **5 à 6 pour 1 en moyenne**
-- L'outillage est primitif et ne permet pas une hausse du rendement. Ceci n'est pas comme notre agriculture capitalisée, qui utilise des tracteurs... etc.
-- Il n'était pas posible d'améliorer l'outillage puis que les paysans n'avaient pas accès au crédit pour le financer. Après, des cooperatives agricoles seraient formées pour faciliter ceci.
-- La quantité que les agriculteurs devaient donner aux seigneur variaient selon les prix. Donc une période de bonne récolte dans la région et prix bas= grande quantité due au seigneur.
+- L'outillage est primitif et ne permet pas une hausse du rendement. Ceci n'est pas comme notre agriculture capitalisée, qui utilise des tracteurs et etc.
+- Il n'était pas posible d'améliorer l'outillage puisque les paysans n'avaient pas accès au crédit pour le financer. Après, des cooperatives agricoles seraient formées pour faciliter ceci.
+- La quantité que les agriculteurs devaient donner aux seigneur variait selon les prix. Donc une période de bonne récolte dans la région et des prix bas= grande quantité due au seigneur.
 - Aussi, il y a une absence d'utilisation du fumier des animaux. La relation entre cette matière et la croissance végétale n'était pas connue. Ceci changera avec la revolution industrielle qui entraînera une revolution agricole.
 - Le sol n'était pas bien nourri (même pas de fumier). Si cette terre est trop cultivée elle sera erosionée. Pour maintenir la fertilité de la terre l'assolement biennal était utilisé.
 ##### Systèmes
@@ -49,9 +49,8 @@ Le rendement (quantité récoltée/quantité semée) est plutôt faible: **5 à 
 ### Surplus
 - Il doit y avoir un certain surplus, pour permettre la croissance et industrialisation de la population. Si il n'y a pas de surplus, donc l'agriculture est de subsistance pure, la population industrielle ne peut pas compter sur cette nourriture pour survivre.
 #### La *loi* du 15%
-Selon quelques démographes, une société ne peut pas avoir plus du 15% de sa population dans des villes puisqu'elle a besoin de produire ses matériaux.
+Selon quelques démographes (==notablement Paul Bairoch==), une société ne peut pas avoir plus du 15% de sa population dans des villes puisqu'elle a besoin de produire ses matériaux.
 Ce seuil a été franchi par quelques sociétés comme l'Italie du Moyen Âge, qui dépendaient d'autres pour obtenir ses ressources. (Ceci n'est évidemment plus vrai de nos jours, cette théorie a été pensée pour expliquer la démographie pre-industrielle.)
-==Selon Paul Bairoch.==
 ### Pauvreté
 La moitié des enfants mouraient avant le premier an et la misère était centrale dans la vie.
 - Les pauvres conjoncturels, personnes qui tombaient dans la pauvresse à cause de mauvaises récoltes, guerres, etc.
