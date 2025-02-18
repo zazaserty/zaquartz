@@ -65,7 +65,7 @@ La majorité de problèmes ne franchissent pas la barrière vers le problème so
 - Autres acteurs: organisations internationales (OECD, UE; **ex**. évasion fiscale).
 ### Exemple: la peine de mort aux USA
 #### Reste du monde
-- Dans le reste du monde la peine de mort disparaît: Le concept de l'innocence entre dans les discours médiatique et politique. Les citoyens adoptent ce nouveau cadrage du problème pour discuter de la peine de mort. Ce qui se traduit ensuite par une modification majeure de la pratique d'exécution.
+- Dans le reste du monde la peine de mort disparaît: Le concept de l'innocence entre dans les discours médiatiques et politiques. Les citoyens adoptent ce nouveau cadrage du problème pour discuter de la peine de mort. Ce qui se traduit ensuite par une modification majeure de la pratique d'exécution.
 - Ancienne définition de l'enjeu: efficacité, moralité, constitutionnalité, etc. 
 - Nouvelle construction de l'enjeu : innocence / erreurs humaines et du système judiciaire possibles
 - Baumgartner et al. documentent ce phénomène en cascade (concept/cadre -> agenda/débat -> pratique dans pp).

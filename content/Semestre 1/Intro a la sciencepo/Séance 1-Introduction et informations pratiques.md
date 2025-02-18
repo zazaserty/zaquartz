@@ -21,7 +21,7 @@ Il n'est pas possible de voir comment est une montagne si vous êtes en hauteur.
 Par exemple, un Belge pourrait demander à un suisse: *Comment ça se fait que la démocratie directe, ça marche dans un pays avec tellement de minorités? Comment marchent les partis plurilingues?* Belgique/Suisse, pays différents et perspectives différentes.
 ### Machiavelli
 ==Citation le prince chapitre XV==
-Il est le premier théoricien politique, puis qu'il analyse les faits et n'imagine pas:
+Il est le premier théoricien politique, puis qu'il analyse les faits et n'imagine pas.
 - Il utilise la mise en perspective.
 - La comparaison comme méthode.
 - Il observe les faits.
@@ -39,7 +39,7 @@ Quand même, il est important de savoir aussi comment on devrait vivre (morale).
 - Elle garde une relation avec le pouvoir [[Séance 2,3-Le pouvoir]]. La science politique était auparavant définie comme la *science du pouvoir*.
 	- Le pouvoir c'est la domination, c'est faire faire quelque chose a quelqu’un.
 	- C'est aussi l'action collective, accepter des structures pour vivre ensemble et se bénéficier. Comme ça, il s'imposent des règles. ==Le bien commun==
-	- Selon Maurice Duverger la politique est composée a la fois de ces deux points, elle est ambivalente. Pouvoir *de* faire une chose (ici collectivement ) et pouvoir *sur* quelqu'un (je fais faire les autres).
+	- Selon Maurice Duverger la politique est composée a la fois de ces deux points, elle est ambivalente. Pouvoir *de* faire une chose (ici collectivement) et pouvoir *sur* quelqu'un (je fais faire les autres).
 - Selon Max Weber la politique c'est les efforts faits pour participer a l'ensemble du pouvoir ou de le répartir soit entre les groupes composant un État, soit à son intérieur.
 ### Termes
 #### Polity

@@ -1,8 +1,9 @@
 ## Production et distribution de contenus et d’informations d’intérêt public
 Les médias et la démocratie sont une combinaison inseparable. Comme nous l'avons vu dans la [[Séance 6-La démocratie]], la démocratie doit comprendre la liberté de la critiquer.
 ### 2000-2025: Le monde des médias bascule
+Entre ces années le monde des médias change considérablement.
 #### Avant les années 2000
-Entre ces années le monde des médias change considérablement. Le paysage de cette industrie était connu et clair.
+Le paysage de cette industrie était connu et clair.
 #### 2000
 Internet émerge, on peut être connecté constamment. Les médias se sont demandées quoi faire et si elles devraient l'utiliser. On a fini par y investir pour la faire avancer.
 #### 2010
@@ -14,7 +15,7 @@ Les plateformes de streaming arrivent, ce qui multiplie la concurrence dans les 
 Maintenant les médias sont:
 ![[Pasted image 20241217123607.png]]
 
-On abandonne l'idée des médias comme des journaux, radios et télévisions. Au fond les médias représentent la *Production et distribution de contenus et d’informations d’intérêt public*.
+On abandonne l'idée des médias comme des journaux, radios et télévisions. Au fond les médias représentent la *production et distribution de contenus et d’informations d’intérêt public*.
 ![[Pasted image 20241217123810.png]]
 ### Perception de la démocratie dans l'Europe
 En Europe chaque fois les populations voient le régime démocratique de moins en moins évident. Ces valeurs sont mises en discussion chaque fois plus.
@@ -29,7 +30,7 @@ Plus les populations pensent que les médias sont indépendantes, plus ces gouve
 La fragilisation des médias pose des dommages collatéraux importants pour la démocratie. Si un groupe contrôle toutes les médias, un chaos important peut apparaître dans une démocratie. Comment éviter ceci? -> 
 	C'est pas évident de mesurer l'objectivité, mais on peut voir les sources et les intentions de chaque information. On doit voir que les journals suscitent du dialogue et ne se contentent pas juste de critiquer. Il est aussi important pour les journaux de pouvoir faire une production régionale et localisée.
 ### Médias privés
-Ils ne sont pas au services du gouvernement et sont soumises à des pressions économiques importantes. Ils utilisent la pub pour avoir de l'argent, et chaque fois il y a plus de pub:
+Ils ne sont pas au service du gouvernement et sont soumises à des pressions économiques importantes. Ils utilisent la pub pour avoir de l'argent, et chaque fois il y a plus de pub:
 ![[Pasted image 20241217124627.png]]
 
 ==Mais== la pub va vers le digital et pas vers les médias privés comme les journaux mais pour les *Big Tech* surtout Amazon, Meta et Google:

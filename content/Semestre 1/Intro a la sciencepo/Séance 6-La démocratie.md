@@ -17,7 +17,7 @@
 	- Est-ce que c'est vraiment mauvais que la majorité dispose de plus de pouvoir au parlement? C'est quand même ça l'idée de démocratie.
 - Démocratie délibérative-> via le tirage au sort (par **exemple**) pour délibérer et échanger des idées.
 ### Obstacles
-- Selon John Stuart Mill (1861): la démocratie représentative est presque impossible, si il y a une diversité des langues ou des nationalités. Ceci a été traité dans [[Séance 5-Les clivages]].
+- Selon John Stuart Mill (1861): la démocratie représentative est presque impossible, si il y a une diversité de langues ou de nationalités. Ceci a été traité dans [[Séance 5-Les clivages]].
 - Selon Brennan (2016): l'ignorance des citoyen-ne-s rend difficile de pratiquer la démocratie. Certains auteurs disent qu'il serait adéquat de faire passer un test avant de laisser voter.
 - Le danger du populisme. **Exemple**: Les USA pendant l'attaque au Capitole.
 ### Définir et mesurer
@@ -26,7 +26,7 @@ Les États sont plus ou moins démocratiques. Mais comment peut-on mesurer la qu
 - Comment la mesurer?
 - Comment agréger les données?
 #### Conceptualiser selon le democracy barometer
-Définition non minimaliste (minimaliste étant juste *le peuple décide dans des elections régulières...* et c'est tout.) de la démocratie. En vrai ils combinent deux modèles de démocratie.
+Définition non minimaliste (minimaliste étant juste: *le peuple décide dans des elections régulières...* et c'est tout.) de la démocratie. En vrai ils combinent deux modèles de démocratie.
 
 On met de coté le fait qu'on doive baser la démocratie sur ses résultats et on se concentre sur ces procédures (Meyer).
 - Doit on baser la démocratie sur des règles et pas des résultats?

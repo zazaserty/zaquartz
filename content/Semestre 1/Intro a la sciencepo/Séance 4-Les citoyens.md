@@ -17,7 +17,7 @@ Elle est composée par les citoyennes et les citoyens (par opposition au monde p
 - DL-> Le droit d'accéder à des libertés sans risquer d'être freiné par l'État comme la liberté de presse.
 - DC-> La possibilité pour les citoyen.ne.s d'exiger quelque chose de l'État comme le droit à la santé.
 #### Droits de l'homme
-- Droits globales qui correspondent a tous les humains comme le droit a la vie ou a l'expression.
+- Droits globaux qui correspondent a tous les humains comme le droit a la vie ou a l'expression.
 ### Citoyenneté et démocratie représentative
 Dans un régime démocratique (en tant qu’un régime politique parmi d’autres), la citoyenneté est liée à trois formes: représentative, participative, délibérative. Cependant, il est difficile de lier de façon systématique citoyenneté et démocratie (p.ex. en Chine).
 #### Représentation

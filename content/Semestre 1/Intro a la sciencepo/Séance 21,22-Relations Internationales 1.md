@@ -30,7 +30,7 @@ Plus d'optimisme, une vision plus nuancée. On différence entre états démocra
 ##### Constructivisme
 Cette théorie met l'accent sur les aspects idéationnels des relations internationales. Contrairement aux autres théories, le constructivisme ne considère pas uniquement les États comme des acteurs centraux, mais inclut également les institutions et les normes transnationales. Les identités et valeurs des acteurs influencent leurs intérêts et comportements. Les politiques résultent souvent de processus d'apprentissage social et de persuasion, où des normes et idées nouvelles émergent et redéfinissent les relations entre les acteurs internationaux.
 ### Comment expliquer le retour de la guerre
-En 1998 il y avait l'optimisme et pas de signe de revendication russe. Mais d'un point de vue réaliste, l'expansion de l'OTAN et de l'UE serait perçue comme une menace par Moscou et qui provoquerait la guerre.
+En 1998 il y avait l'optimisme et pas de signe de revendication russe. Mais d'un point de vue *réaliste*, l'expansion de l'OTAN et de l'UE serait perçue comme une menace par Moscou et qui provoquerait la guerre.
 ![[Pasted image 20241210125220.png]]
 Pour les libéraux l'OTAN n'est pas l'ennemi de la Russie mais une association defensive qui pourrait stabiliser une région instable comme l'Europe de l'est.
 #### Discours de Poutine avant l'invasion de l'Ukraine
@@ -43,7 +43,7 @@ Les États – et surtout les grandes puissances – ne se laissent pas contrain
 Les transitions de pouvoir déstabilisent le système international et renforcent le dilemme de sécurité:
 	La démise de l'Union Soviétique et l'élargissement de l'OTAN sont perçus comme menace au pouvoir et la sécurité de la Russie <-> les pays qui redoutent la domination par la Russie cherchent à rejoindre l'OTAN car sinon ils risquent de se faire attaquer/dominer.
 
-Le parcours de la guerre est le reflet des intérêts et capacités commun des pays impliqués, surtout les grandes puissances (Russie, Chine, USA, UE, Ukraine…)
+Le parcours de la guerre est le reflet des intérêts et capacités des pays impliqués, surtout les grandes puissances (Russie, Chine, USA, UE, Ukraine…)
 ### Réalisme et la *polity* internationale: l'anarchie
 Le principe de la souveraineté implique l'absence d'autorité politique au-delà des États:
 ![[Pasted image 20241210125938.png]]
@@ -73,7 +73,7 @@ C'est des décisions importantes qui s'attaquent à un membre permanent du CdS e
 Les OI se sont appuyées sur les EU qui voulaient le libre-échange et etc. Mais dés que les puissances sont contraignées par celles ci elles ont les moyens de se retirer.
 #### Mais les états établissent les OI aussi pour répondre à des problèmes d'interdépendance et une fois établies, les OI peuvent développer une dynamique propre
 ![[Pasted image 20241210133601.png]]
-Les organisations internationales (OI) sont établies par les États pour répondre à des problèmes comme l'interdépendance mondiale, mais une fois créées, ces organisations peuvent commencer à fonctionner de manière indépendante, en développant leur propre *dynamique*_
+Les organisations internationales (OI) sont établies par les États pour répondre à des problèmes comme l'interdépendance mondiale, mais une fois créées, ces organisations peuvent commencer à fonctionner de manière indépendante, en développant leur propre *dynamique*:
 - Les États créent des OI pour résoudre des problèmes communs (comme le commerce, la paix, etc.).
 - Après, ces OI ne dépendent plus seulement des États qui les ont créées. Elles peuvent agir et évoluer par elles-mêmes.
 - Tant que les États-Unis (ou un autre gros acteur comme eux) soutiennent ces OI, elles resteront importantes pour maintenir la paix et la stabilité mondiale.
@@ -86,7 +86,7 @@ Donc, l’idée est que les OI sont comme des outils: les États les fabriquent,
 - Les *policies* reflètent le compromis entre les Etats.
 - Une fois établies, les institutions ont tendance à persévérer et même se renforcer.
 ### Le *liberal peace* ou LIO (*liberal international order*)
-Terme qui décrit l'institutionnalisation de valeurs libérales après 1945:
+Terme qui décrit l'institutionnalisation des valeurs libérales après 1945:
 1. Établissement d'organisations internationales basées sur l'égalité formelle des Etats membres et renforcement de leur autorité.
 2. Développement de politiques internationales libérales:
 	- Ouverture des marchés économiques.
@@ -111,7 +111,7 @@ C'est un système plutôt qu'une seule ONU ou une seule ONG:
 - Élit les membres non-permanents du CdS.
 - Adopte le budget.
 - Veille sur fonds et programmes.
-##### Le CS
+##### Le CdS
 15 Etats, 5 permanents avec veto, 10 élus pour 2 ans, majorité 9/15 voix
 - Adopte résolutions contraignantes.
 - Responsable pour le maintien de la paix et de la sécurité internationale.

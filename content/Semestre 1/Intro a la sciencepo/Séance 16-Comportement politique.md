@@ -92,7 +92,7 @@ Idées de base:
 - Ou l'électeur/trice va voter pour le parti qui *possède* l'enjeu jugé le plus important, **càd** le parti qui est réputé le plus actif et/ou le plus compétent sur cet enjeu → *vote selon la possession de l'enjeu* (*issue ownership voting*, Petrocik 1996).
 - Selon le second modèle, les partis qui *possèdent* les enjeux les plus importants en tirent profit électoralement.
 
-Dans le cas de l'UDC en Suisse, un **exemple**: l'enjeu migratoire. Selon un enquête le *problème le plus important aujourd'hui en Suisse* est:
+Dans le cas de l'UDC en Suisse, un **exemple**: l'enjeu migratoire. Selon une enquête le *problème le plus important aujourd'hui en Suisse* est:
 ![[Pasted image 20241119133707.png]]
 Dans la campagne de 2015 il y a eu une forte thématisation de l'enjeu migratoire par l'UDC (monopole) du au *printemps arabe*:
 ![[Pasted image 20241119134009.png]]
@@ -133,7 +133,7 @@ Dans les élections européennes les partis verts ont progressé dans plusieurs 
 Les avis changent à cause du covid, le pouvoir d'achat, la migration, etc; l'environment passe à un deuxième plan.
 ### Exemple 3: âge, sexe et participation politique
 ![[Pasted image 20241122144427.png]]
-Il y a eu un déclin considerable dans la participation, moins du 50% vote. En Genève, pour les dernières élections, le taux sera environ 35-45% au maximum. Causes possibles:
+Il y a eu un déclin considerable dans la participation, moins du 50% de la population vote. En Genève, pour les dernières élections, le taux sera environ 35-45% au maximum. Causes possibles:
 - Perte d'intérêt pour la politique.
 - Perte du sens du devoir civique avec les générations successives.
 - Les femmes votent moins que les hommes (en 1971 elles commencent à voter).

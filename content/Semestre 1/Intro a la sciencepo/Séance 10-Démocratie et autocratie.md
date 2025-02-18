@@ -8,7 +8,7 @@ Dans l'USA, par exemple, l'amour pour les armes débouche dans une permission de
 
 Ce n'est pas une question de comparer les pays, mais les cantons, les villes, etc. Tout peut-être utile.
 #### Formation des concepts
-- La politique comparée est dans une large mesure une entreprise de "formation de concepts". Conceptualiser est au centre de cette pratique.
+- La politique comparée est dans une large mesure une entreprise de *formation de concepts*. Conceptualiser est au centre de cette pratique.
 - Nous devons développer des termes (*concepts*) qui nous permettent de décrire et d'analyser le monde de manière systématique.
 - Dans le domaine de la politique comparée, de nombreux désaccords portent sur la définition de l'application correcte des concepts.
 - Qu'entendons-nous par *paix*, *démocratie*, *État de droit*, etc.
@@ -57,7 +57,7 @@ Aucune de ces définitions est *mauvaise*. Mais, pour quel but voulons nous util
 ![[Pasted image 20241022132502.png]]
 En résumé, les régimes totalitaires se caractérisent par un contrôle absolu du pouvoir, une forte mobilisation et une idéologie omniprésente, tandis que les régimes autoritaires sont plus flexibles, avec un pluralisme limité et une mobilisation idéologique et politique plus variable.
 ###### **Totalitarisme**
-La cohésion de la société totalitariste est menacé par la religion, qui sépare les gens. Le mouvement de masse est nécessaire, par exemple en utilisant les organisations de jeunesse. Cela rend plus facile transformer la culture et la vie quotidienne.
+La cohésion de la société totalitariste est menacée par la religion, qui sépare les gens. Le mouvement de masse est nécessaire, par exemple en utilisant les organisations de jeunesse. Cela rend plus facile transformer la culture et la vie quotidienne.
 ![[Pasted image 20241022132904.png]]
 Ceci fonctionne de cette même manière dans la DPRK. ou dans l’Afghanistan (dans un degré mineur). De nos jours ceci n'est plus si commun.
 

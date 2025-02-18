@@ -1,7 +1,7 @@
 ## RI2
 ### Petits états dans les Nations Unies
+Les états petits sont aussi importants dans l'ONU.
 #### Problèmes
-- Les états petits sont aussi importants dans l'ONU.
 - Ils ont des vulnérabilités envers les crises mondiales exclusives pour les petits pays.
 - Il y a des ressources limitées, ils ne peuvent pas être représentés aussi bien que les autres états.
 - Le multilatéralisme est nécessaire pour eux.
@@ -32,8 +32,8 @@ L'UE et l'EU perdent du pouvoir économique.
 ![[Pasted image 20241213155301.png]]
 ### Conclusion
 - La période après 1945 a été marquée par l'émergence d'un ordre international libéral (LIO):
-	- Passage d'un ordre inter-étatique anarchique (ordre "Westphalien") à un système de gouvernance globale.
-	- Prolifération de normes libérales, déjà dans la charte de l'ONU, et surtout après 1989 (passage d'un ordre international divisé par la Guerre Froide/Bipolarité à une courte période d'unipolarité).
+	- Passage d'un ordre inter-étatique anarchique (ordre *Westphalien*) à un système de gouvernance globale.
+	- Prolifération des normes libérales, déjà dans la charte de l'ONU, et surtout après 1989 (passage d'un ordre international divisé par la Guerre Froide/Bipolarité à une courte période d'unipolarité).
 	- Prolifération et gain en autorité des OI.
 - Depuis environ 2010, cet ordre international libéral est contesté:
 	- Blocage de certaines OI, violations répétées du droit international, opinion publique.
