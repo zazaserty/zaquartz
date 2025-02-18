@@ -10,5 +10,7 @@
 - [[Introduction à l'économie internationale]]
 - [[Introduction aux relations internationales]]
 - [[Introduction à l'histoire internationale 2]]
+- [[Introduction à la démarche scientifique]]
+- [[Introduction à la démarche scientifique (Séminaire)]]
 
 #UNIGE #Plaque-tournante

@@ -97,5 +97,4 @@ Chaque fois il y a plus de pays dans l'ONU et d'organisation régionales.
 ![[Pasted image 20250217135938.png]]
 Il y a pas vraiment une tendance vers la dissolution sauf dans les années 90, avec la mort des organisation liées à l'URSS.
 
-#UNIGE 
-#Introduction-aux-ri
+#UNIGE #Introduction-aux-ri

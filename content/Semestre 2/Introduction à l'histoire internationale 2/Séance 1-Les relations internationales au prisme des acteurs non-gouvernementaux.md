@@ -1,9 +1,9 @@
 ## Introduction
 ### Pourquoi l'histoire internationale 2?
-il existe d'autres types d'acteurs dans les relations internationales qui ne sont pas couverts par ces deux domaines :
+Il existe d'autres types d'acteurs dans les relations internationales :
 - Ceux qui ne relèvent pas des États ou des institutions gouvernementales.
 - Ceux qui ne poursuivent pas un **but lucratif** (contrairement aux entreprises ou aux groupes économiques).
-Ces acteurs se situent dans un espace distinct : celui de la **société civile** .
+Ces acteurs se situent dans un espace distinct : celui de la **société civile**.
 #### Société civile
 La **société civile** est définie comme un ensemble d'organisations et d'individus qui :
 - S'organisent selon le droit privé (elles ne sont pas des institutions publiques).
@@ -32,7 +32,7 @@ actives dans les relations internationales:
 - Ne visant pas le pouvoir politique (contrairement aux partis politiques),
 - Ne visant pas un but lucratif, ne représentant pas des intérêts particuliers (contrairement aux entreprises, lobbies, syndicats) Sous-types: ONG de sensibilisation (sensibilisent autour de leur cause), ONG de terrain (agissent sur le terrain).
 
-==Attention==: dans quelques États démocratiques, mais en particulier dans des États non-démocratiques, il y a des «GONGO» – *government-organized* (=pseudo-) *non-governmental organizations* dont l’autonomie est limitée.
+==Attention==: dans quelques États démocratiques, mais en particulier dans des États non-démocratiques, il y a des *GONGO* – *government-organised* (=pseudo-) *non-governmental organisations* dont l’autonomie est limitée.
 ### Types d'histoire qui s'intéressent aux acteurs non-gouvernementaux
 - Histoire de l'**internationalisme**, selon Akira Iriye:
 	- L’internationalisme est un courant intellectuel qui vise à promouvoir la coopération internationale, il est basé sur l’idée que des nations/sociétés ont beaucoup d’intérêts communs.
@@ -49,7 +49,7 @@ actives dans les relations internationales:
 	- Laïcisation au cours du XVIIIe et XIXe siècle: Lumières: vertu dans l’humanité; essor de la philanthropie et de la bienfaisance laïque; concept d’humanité basé sur le devoir de solidarité (naissance du solidarisme). Idée propagée aussi par la 3ème république française.
 - Actes de solidarité locaux d’abord, puis internationalisation: entrée des ONG en relations internationales; leur caractéristique est donc l’engagement dans des actes de solidarité et de coopération:
 	- 1812: Envoie d’une mission maritime (US-)américaine à Caracas (Vénézuéla) frappé par un tremblement de terre.
-	- 1859: secours genevois pour les victimes de la bataille de Solférino (I).
+	- 1859: secours genevois pour les victimes de la bataille de Solférino (I). Qui a inspiré a Dumant pour créer la Croix Rouge Genevoise.
 #### Contexte historique de l'essor des acteurs non-étatiques en RI
 - Naissance du **citoyen** et de la *civitas*:
 	- Le sujet du roi devient un citoyen avec des droits.
@@ -62,5 +62,4 @@ actives dans les relations internationales:
 	![[Pasted image 20250218112350.png]]
 	- Aujourd’hui: aucune crise, aucun développement, aucune action humanitaire, aucune conférence onusienne sans implication (directe ou indirecte) des ONG. **Ex**: Conférence internationale de la sécurité à Munich du 17-19 févr. 2017: HRW intervenu sur crise syrienne.
 
-#UNIGE 
-#Intro-histoireinter2 
+#UNIGE #Intro-histoireinter2 
