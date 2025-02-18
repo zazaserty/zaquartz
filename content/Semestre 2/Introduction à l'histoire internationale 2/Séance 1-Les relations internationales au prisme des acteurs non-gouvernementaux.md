@@ -51,12 +51,12 @@ actives dans les relations internationales:
 	- 1812: Envoie d’une mission maritime (US-)américaine à Caracas (Vénézuéla) frappé par un tremblement de terre.
 	- 1859: secours genevois pour les victimes de la bataille de Solférino (I).
 #### Contexte historique de l'essor des acteurs non-étatiques en RI
-- Naissance du «citoyen» et de la *civitas*:
+- Naissance du **citoyen** et de la *civitas*:
 	- Le sujet du roi devient un citoyen avec des droits.
 - Lumières et réformes éducatives.
 - Double révolution industrielle et politique (liberté, souveraineté des peuples).
 - Révolutions dans le secteur de communication.
-- Genèse d’un « espace public » transnational.
+- Genèse d’un **espace public** transnational.
 
 - Évolution selon Guillaume Devin (voir bibliographie):
 	![[Pasted image 20250218112350.png]]
