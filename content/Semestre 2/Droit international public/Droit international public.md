@@ -1,3 +1,3 @@
-- [[Séance 1 Aspects Introductifs]]
+- [[Séance 1,2-Aspects Introductifs]]
 
 #UNIGE #Plaque-tournante #DroitInternationalPublic

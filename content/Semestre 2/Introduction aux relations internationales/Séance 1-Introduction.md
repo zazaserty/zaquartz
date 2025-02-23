@@ -23,9 +23,9 @@ Tout comme la science politique, la sous-discipline des Relations Internationale
 	- Relations **transgouvernementales**->représentants d'administrations publiques.
 	- Relations **transnationales**->entre acteurs civils.
 
-Il y a des certains réseaux moins transparents, de collaboration technocratiques et visibles comme l'interpol (collaboration policière) qui ne sont pas dans les journaux et continuent a inclure même des acteurs comme la Russie. Bien que moins visibles ils sont important pour comprendre les RI. (Exemple de relations intergouvernementales?)
+Il y a des certains réseaux moins transparents, de collaboration technocratiques et visibles comme l'interpol (collaboration policière) qui ne sont pas dans les journaux et continuent a inclure même des acteurs comme la Russie. Bien que moins visibles ils sont importants pour comprendre les RI. (Exemple de relations intergouvernementales?)
 ### Génèse
-Les RI ont apparues en 1648, bien que la majorité des états actuels aient étés crées pendant le 19ème siècle. La précondition pour le développement de la discipline  des RI c'est l'établissement des États souverains comme sujets des relations internationales.
+Les RI sont apparues en 1648, bien que la majorité des états actuels aient étés crées pendant le 19ème siècle. La précondition pour le développement de la discipline  des RI c'est l'établissement des États souverains comme sujets des relations internationales.
 #### Précurseurs des r.i.
 - Relations entre cité-États (p.e. entre les polis grecques, voir Thucydide: Histoire de la guerre du Péloponnèse, 5ème siècle av. JC, ou entre villes de la Renaissance, voir Niccolo Machiavel: Le Prince, 1513).
 - Relations entre et à l’intérieur d’empires (p.e. empires Egyptien, Maya, Assyrien, Romain, Chinois, Ottoman, Saint-Empire Romain Germanique…).
