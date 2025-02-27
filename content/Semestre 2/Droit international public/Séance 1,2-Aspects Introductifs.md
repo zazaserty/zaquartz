@@ -65,7 +65,7 @@ Le DIP a été violé en Ukraine? L'important c'est pas tellement les violations
 Les états on aussi put prendre des sanctions envers la Russie, qui ne pourraient pas faire sans le DIP. Il faut être capable de voir au delà des violations.
 ## Hiérarchie
 ### Est une source supérieure à une autre?
-Ceci est intéressant surtout en cas de conflict. Si on a une règle de droit coutumier et le droit d'ordre conventionnel (un traité par exemple) qui nous disent le contraire. Dans ce cas il n'y a pas une source qui l'emporte sur l'autre. Le traité est particulier mais une coutume peut aussi être du droit particulier. On n'est pas supérieur ou inférieur selon la catégorie de la source mais selon les normes. Les sources sont inégales dans les états puisque les organes qui les font n'ont pas la même autorité. Néanmoins, dans le DIP il n'y a pas d'état. Tous les états existent dans une totale égalité. La coutume, les traités, etc; sont tous des sources faites par ces états et donc elles ne devraient pas exister sur un plan vertical. Ceci au moins pour les sources principales.
+Ceci est intéressant surtout en cas de conflict. Si on a une règle de droit coutumier et de droit d'ordre conventionnel (un traité par exemple) qui nous disent le contraire, quoi faire?. Dans ce cas il n'y a pas une source qui l'emporte sur l'autre. Le traité est particulier mais une coutume peut aussi être du droit particulier. On n'est pas supérieur ou inférieur selon la catégorie de la source mais selon les normes. Les sources sont inégales dans les états puisque les organes qui les font n'ont pas la même autorité. Néanmoins, dans le DIP il n'y a pas d'état. Tous les états existent dans une totale égalité. La coutume, les traités, etc; sont toutes des sources faites par ces états et donc elles ne devraient pas exister sur un plan vertical. Ceci au moins pour les sources **principales**.
 #### Donc, comment résoudre les conflits
 Il n'y a pas des conflicts entre sources, elles sont égales. Mais au niveau des normes oui. Il y a des différentes techniques pour résoudre cela:
 - Générales: découlent de l'interpretation et varient selon le cas.
@@ -103,11 +103,11 @@ Ils *l'emportent*, normalement. Cependant: accord, traité et convention ==c'est
 
 Il faut analyser la volonté des états créateurs/signataires et le contenu des traités pour pouvoir vraiment distinguer le type de texte au delà de leur nom.
 
-Il y a des traités qui ne sont plus en vigueur, comme les traités d'amitié suisses du 19ème siècle qui ne sont plus appliqués mais pas éliminés dans un acte par empathie politique. Il y a 100 000 traités endormis. Il sont très utiles et donnent plus de marge de manœuvre que le droit général.
+Il y a des traités qui ne sont plus en vigueur, comme les traités d'amitié suisses du 19ème siècle qui ne sont plus appliqués mais pas éliminés dans un acte par empathie politique (**exemple**: réaliser un acte pour en finir avec un traité d'*amitié*). Il y a environ 100 000 traités endormis. Il sont très utiles et donnent plus de marge de manœuvre que le droit général.
 #### Définitions
 Comme définir un traité? Dans un contentieux où on essaie de savoir quel droit s'applique on doit déjà utiliser et savoir définir les traités. Dans la convention sur les traités de vienne on a essayé de régir toutes les questions sur les traités:
-- Le nom du traité ne compte pas beaucoup, ce qui compte c'est un accord entre deux ou plus états. Donc international.
-- Il doit être par écrit. Dans le droit intérieur c'est pas nécessaire.
+- Le nom du traité ne compte pas beaucoup, ce qui compte c'est un accord entre deux états ou plus. Donc international.
+- Il doit être écrit. Dans le droit intérieur c'est pas nécessaire.
 - Elle régit que certains traités, le reste c'est par le droit coutumier.
 - Objectif de refléter le droit général (mêmes objectifs et 4 points)
 - Obligations de procédures pour les parties ratifiantes.
@@ -119,9 +119,11 @@ Il y a des accords où on peux appliquer le droit coutumier (pas régis par cett
 ##### En droit général
 4 éléments qui constituent (cumulatifs) un traité dans la pratique générale des états:
 - Volontés concordantes entre les différentes parties. Par exemple dans les bilatéraux il y a des offres->réactions->acceptations réciproque.
-	- Il y a aussi des textes élaborés collectivement dans des conférences. Ceux qui votent oui/ratifient sont régis par le traités.
+	- Il y a aussi des textes élaborés collectivement dans des conférences. Ceux qui votent oui/ratifient sont régis par les traités.
 - Celui qui donne la concordance doit être une personnalité juridique. Les états sont ceux qui ont le droit de faire les traités (droit automatique qui n'est pas otorgué mais donné toujours). Les OIs peuvent aussi, mais seulement sur les matières sur lesquelles elles possèdent des compétences. C'est le Jus pactatus. L'individu ne l'a pas. On fait des accords avec des états (entreprise-état, état-individu, etc) mais c'est pas des traités.
+	- Rwanda-RDC (2006). Le ministre de justice signe un traité pour régir les armements. La CIdJ n'exclue pas l'implication de l'état dans certaines circonstances par le ministre de justice en tant que représentant de celui ci dans une négociation.
 - Si les autorités sont dépendantes, il ne pas possible de faire des accords. Par exemple les colonies de l'UK ne peuvent pas (selon la CIdJ) faire des accords avec l'UK pour la décolonisation.
+	- Accord de Lancaster (UK-Maurice). La CIdJ a conclu que c'était un accord de droit constitutionnel britannique et pas un traité international.
 - Il y a une volonté à modifier la situation juridique. Donner/Enlever des droits et etc. Il y a des textes faits comme des traités (*gentlemans agreements*) mais ne le sont pas, c'est pas un lien politique. C'est juste ce mettre d'accord sur quelque chose pour la présenter à la presse par exemple. Comme Helsinki et les tensions ouest/est d'Europe. Les états savent qu'ils doivent être attentifs quand ils font/ne font pas du droit. La contrainte n'est pas la même. ==Ils ne font pas du droit par accident==. Ceci influence aussi la manière dont le texte est rédigé, soit avec des mots *mous* (s'efforcer **par exemple**) ou durs (devoir **par exemple**).
 
 Sans ces qualités on a un contrat mais pas un traité. Par exemple quand on vend un avion ou du matériel entre états on fait des contrats, qui sont moins difficiles à faire et à accepter (pas besoin de passer par le parlement entre autres). Et ces contrats ne sont pas soumis au DIP mais au droit intérieur. Le droit des traités n'est pas applicable.

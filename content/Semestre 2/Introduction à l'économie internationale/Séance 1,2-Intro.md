@@ -124,7 +124,7 @@ La France commerce surtout avec ces voisin:
 Même chose pour la suisse:
 ![[Pasted image 20250221113557.png]]
 ![[Pasted image 20250221113345.png]]
-On peut voir que certains pays représentent à eux tout seuls une grande partie du PNB mondial.
+==Certains pays représentent à eux tout seuls une grande partie du PNB mondial.==
 ### Facteurs explicatifs de la structure des échanges
 #### Taille
 ![[Pasted image 20250221113642.png]]

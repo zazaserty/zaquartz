@@ -15,7 +15,7 @@ Leur ontologie-> des entités comme la terre, le soleil, la lune et d'autres pla
 #### Attitude naturelle vs démarche scientifique
 Dans la vie de tous les jours, nous adoptons toujours une attitude naturelle qui veut que nous ne doutions plus que le monde et ses objets puissent être autres qu'ils ne nous apparaissent. Pour le commun des mortels, c'est le soleil qui tourne autour de la Terre.
 
-Dans l'étude scientifique on se méfie de tout, mais dans les sciences sociales on prend quand même en compte ces expériences bien qu'elles soient incorrectes des fois.
+Dans l'étude scientifique on se méfie de tout, mais dans les sciences sociales on prend quand même en compte ces expériences bien qu'elles soient parfois incorrectes.
 ### Le réalisme
 - Depuis Platon et Aristote: Le monde tel qu'il est est en lui-même, indépendamment de l'esprit, est la mesure de la connaissance.
 - Doctrine qui admet que certaines choses existent indépendamment de la pensée.

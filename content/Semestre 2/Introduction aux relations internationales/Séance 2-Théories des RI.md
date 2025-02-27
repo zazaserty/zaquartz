@@ -1,6 +1,6 @@
 ## Acteurs
 ### Réseaux transgouvernementaux
-Ils s'établissent entre départements étatiques, publiques et les ministères. Ils sont spécialisés dans des secteurs et fonctions spécifiques, en réunissant des experts des administrations publiques. Ils font de la coordination (*soft law* pas contraignante juridiquement). Ceci peut être repris par les états. Ils font aussi des normes internationales.
+Ils s'établissent entre départements étatiques, publiques et les ministères. Ils sont spécialisés dans des secteurs et fonctions spécifiques, en réunissant des experts des administrations publiques. Ils font de la coordination (*soft law* pas contraignante juridiquement). Celle-là peut être reprise par les états. Ils font aussi des normes internationales.
 
 Par exemple Frontex avec les frontières européennes, ou Finma avec l'argent des banques, ou l'International Competition Network pour la concurrence et la politique de marché mondiale. Des chercheurs de l'OCDE on retracé en 2008 la création de ces réseaux. Ont conclu qu'elle s'était exacerbée dès les années 90.
 ### ONGs
@@ -21,10 +21,10 @@ Les gouvernements sont tout en bas de ce schéma. Certains auteurs prennent les 
 ![[Pasted image 20250220143236.png]]
 ### LIO vs W.O
 ![[Pasted image 20250220143337.png]]
-De nos jours on est dans une souveraineté partagée. On n'est plus seulement dans le Wesphalian Order. Mais peut cet ordre être renversé vers une rétrogression?
+De nos jours on est dans une souveraineté partagée. On n'est plus seulement dans le Westphalian Order. Mais peut cet ordre être renversé vers une rétrogression?
 ### Perspectives
 - Offrent des visions contrastées mais complémentaires sur les fondements, le fonctionnement et le futur de l'ordre international
-- En sus de ces trois paradigmes, de nombreuses approches "middle range" (moins paradigmatiques/ philosophiques) se sont développées en RI.
+- En sus de ces trois paradigmes, de nombreuses approches *middle range* (moins paradigmatiques/ philosophiques) se sont développées en RI.
 #### Qu’est-ce qu’une théorie et à quoi sert-elle?
 ##### Définition:
 - Un ensemble de propositions logiquement cohérentes qui explique un phénomène d'intérêt.
@@ -133,7 +133,7 @@ Thucydide (env. 430-400 a. Chr.)-> Il explique la Guerre du Péloponnèse et le 
 	- Pour lui aucun dirigeant ne l'utiliserait offensivement. C'est la meilleure arme de dissuasion.
 - Les mutations dans la distribution du pouvoir sont à la base de la stabilité/instabilité.
 - Recherche de la *Balance of Power* comme stratégie de stabilité dominante (au contraire du néoréalisme offensif postulé p.e. par J. Mearsheimer: recherche de l’hégémonie, qui btw n'est jamais stable à la longue).
-- Il n'existe pas de véritable coopération internationale, les interactions entre états suivent le principe du *bargaining* (marchandage) qui mène toujours à des gagnants et des perdants (0-sum games->si on soustrait ce que l'autre perd à ce que l'on gagne on doit arrive à 0).
+- Il n'existe pas de véritable coopération internationale, les interactions entre états suivent le principe du *bargaining* (marchandage) qui mène toujours à des gagnants et des perdants (0-sum games->si on soustrait ce que l'autre perd à ce que l'on gagne on doit arriver à 0).
 	- Dans les interactions on s’intéresse à qui gagne et perde. Vision réaliste de la rivalité constante.
 #### Débats récents: Réalisme *beyond eurocentrism*
 Kautilya, conseiller du roi Indien Chandragupta (IVe siècle avant J.-C.) et auteur de l' *Arhashastra* = Manuel de la politique étrangère précurseur non-occidental du réalisme:

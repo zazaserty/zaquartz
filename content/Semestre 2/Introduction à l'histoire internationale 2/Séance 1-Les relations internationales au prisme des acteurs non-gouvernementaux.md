@@ -28,7 +28,7 @@ Elles se mettent en place depuis les années 1860 et deviennent les ONG (en angl
 
 De quoi s’agit-il? D’associations volontaires émanant de la société civile et
 actives dans les relations internationales:
-- Acteurs non-étatiques, non-lucratives, non-militaires,
+- Acteurs non-étatiques, non-lucratifs, non-militaires,
 - Ne visant pas le pouvoir politique (contrairement aux partis politiques),
 - Ne visant pas un but lucratif, ne représentant pas des intérêts particuliers (contrairement aux entreprises, lobbies, syndicats) Sous-types: ONG de sensibilisation (sensibilisent autour de leur cause), ONG de terrain (agissent sur le terrain).
 
@@ -58,7 +58,7 @@ actives dans les relations internationales:
 - Révolutions dans le secteur de communication.
 - Genèse d’un **espace public** transnational.
 
-- Évolution selon Guillaume Devin (voir bibliographie):
+- Évolution selon Guillaume Devin:
 	![[Pasted image 20250218112350.png]]
 	- Aujourd’hui: aucune crise, aucun développement, aucune action humanitaire, aucune conférence onusienne sans implication (directe ou indirecte) des ONG. **Ex**: Conférence internationale de la sécurité à Munich du 17-19 févr. 2017: HRW intervenu sur crise syrienne.
 
