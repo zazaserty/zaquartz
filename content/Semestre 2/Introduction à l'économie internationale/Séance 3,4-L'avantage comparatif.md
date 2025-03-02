@@ -84,7 +84,54 @@ A
 ![[Pasted image 20250224095839.png]]
 Les quantités consommées/produites de chaque bien sont déterminées par la demande relative des deux biens au prix relatif fixé par les coefficients de travail unitaire.
 
+Quand ont ouvre le marché les prix vont augmenter (secteur avec avantage comparatif) et baisser (secteur sans avantage comparatif), menant à la spécialisation.
+
 **L'équilibre d'autarcie**: Les quantités consommées d’autarcie sont déterminées par les conditions de demande relative.
 ![[Pasted image 20250224095931.png]]
+### Commerce dans le modèle de Ricardo
+#### Hypothèses
+- Deux pays (Home et Foreign*).
+- Deux biens: Fromage et Vin.
+- Travail est le seul facteur de production.
+- Son offre est fixe (parfaitement inélastique).
+- La productivité du travail est fixe.
+- Concurrence parfaite sur tous les marchés (biens et travail).
+#### Déroulement
+- On exporte le bien dans lequel on a un avantage comparatif et on importe l’autre bien:
+	![[Pasted image 20250228103434.png]]
+- En équilibre de libre-échange on a une spécialisation (**complète?**) de Home en fromage et de Foreign en vin.
+- Le prix d'équilibre se trouvera quelque part entre les prix d'autarcie.
+	![[Pasted image 20250228103604.png]]
+#### Questions
+![[Pasted image 20250228110012.png]]
+A
+![[Pasted image 20250228110023.png]]
+C (==Pour faire le coût d'un bien on fait (autrebien/heuresautrebien)/(bien/heuresdubien)==)
+#### Les gains du commerce
+![[Pasted image 20250228112402.png]]
+#### Salaires
+- En présence de commerce les prix des biens sont identiques dans les 2 pays (sinon arbitrage).
+- Néanmoins, les différences de productivités absolues entre les pays font que les salaires ne sont pas nécessairement égaux.
+	- ==Si on est payé en fonction de ce qu'on produit bien sûr==.
+- Mais tant que le prix relatif de libre échange est entre les deux prix d’autarcie, les salaires (réels) augmentent dans les deux pays lorsqu’ils s’ouvrent au commerce.
+#### Question
+![[Pasted image 20250228113544.png]]
+E.
+### Évidence empirique du modèle de Ricardo
+Malgré une productivité absolue plus élevée aux États-Unis qu’en Angleterre à la fin de la 2ème guerre mondiale, les exportations des 2 pays correspondaient à la prédiction du modèle de Ricardo (McDougall, EJ 1951).
+![[Pasted image 20250228114013.png]]
+
+De nos jours il est plus difficile de prouver cela, les pays se sont spécialisés que dans quelques secteurs donc ils est impossible de savoir quelle serait leur productivité sans cette spécialisation (puisqu'on peut pas connaître tous les secteurs d'un pays, maintenant que beaucoup ont disparus). L'ensemble de la productivité des travailleurs n'est pas connaissable. Mais il y a quand même quelques exemples:
+- Un pays à faible revenu comme le Bangladesh peut avoir un avantage comparatif dans les vêtements même s’il est moins productif dans ce secteur que d’autres pays comme la Chine, car il est encore moins productif que la Chine dans les autres secteurs.
+	- **Exemple**: Productivité (output par travailleur) au Bangladesh était seulement 28 per cent de la moyenne chinoise en 2011. Dans les vêtements, la productivité au Bangladesh était d’environ 77 per cent de celle de la Chine en 2011, ce qui crée un fort avantage comparatif pour le Bangladesh.
+		![[Pasted image 20250228114929.png]]
+### Idées reçues sur l'avantage comparatif
+1. L’ouverture au libre-échange ne peut profiter à une économie qu’à condition qu’elle soit suffisamment efficace ou compétitive.
+	- **Faux**: ce qui détermine les gains au commerce n’est pas l’avantage absolu, mais l’avantage comparatif. Disposer d’un avantage absolu n’est une condition ni nécessaire ni suffisante pour bénéficier d’un avantage comparatif dans un secteur. La capacité à exporter un bien ne dépend pas uniquement des différences internationales de productivité dans ce secteur d’activité, mais aussi des différences de salaires entres les pays.
+2. La concurrence de pays à bas salaires est injuste et pénalise les pays développés (*dumping social*).
+	- **Faux**: Le salaire reflète les différences de productivité absolue entre les pays. Et les gains du commerce sont indépendants des avantages absolus. Le fait qu’un pays étranger ait un cout de production suffisamment faible dans un bien pour l’exporter s’explique effectivement par la présence d’un taux de salaire relativement bas. Mais cela n’a pas de conséquence pour le pays domestique dont le salaire ne fait que refléter sa propre productivité. D’ailleurs, en incitant à se spécialiser, l’ouverture au commerce permet de réorienter la main d’oeuvre dans les secteurs relativement plus efficace ce qui amène a des salaires plus élevés.
+#### Productivité et Coûts du travail en Europe (2022)
+![[Pasted image 20250228115928.png]]
+Salaire dépend de la productivité, pas du pays dans lequel on vit. Ricardo disait déjà cela.
 
 #UNIGE #Introduction-économie-internationale 

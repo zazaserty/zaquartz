@@ -47,8 +47,8 @@ Conséquences pour les RI: absence d'autorité au-delà des États = **anarchie*
 ##### Génèse de la discipline des RI
 ![[Pasted image 20250217125634.png]]
 #### Le contexte libéral de l'entre-guerres
-Président Américain Woodrow Wilson: *The programme of the world's peace* basé sur des valeurs libérales («14 points») Victoire des alliés démocratiques dans la 1ère GM 28.6.1919 Fondation de la Société des Nations 4 buts fondamentaux:
-- Encourager la coopération internationale, faire respecter le droit international, avec la CPIJ (Cour permanente internationale de justice) et la résolution de conflits par la négociation:
+Président Américain Woodrow Wilson: *The programme of the world's peace* basé sur des valeurs libérales (*14 points*) Victoire des alliés démocratiques dans la 1ère GM 28.6.1919 Fondation de la Société des Nations 4 buts fondamentaux:
+- Encourager la coopération internationale, faire respecter le droit international, avec la CPIJ (Cour permanente internationale de justice) et la résolution de conflits par la négociation.
 - Désarmement.
 - Améliorer les conditions de vie.
 - Maintient de la paix; Principe de la sécurité collective.
@@ -85,7 +85,7 @@ Le tableau illustre cette évolution en comparant les données économiques (PIB
 ##### Nombre et autorité
 Plus d'autorité et de nombre:
 ![[Pasted image 20250217135242.png]]
-Après la WW2 il a une explosion du nombre et après la Guerre Froide on voit une explosion de l'autorité inscrite dans une période d'optimisme. Maintenant certains comme les EU voient ces OI comme trop contraignantes, l'optimisme est disparu et ils s'y attaquent à elles.
+Après la WW2 il a une explosion du nombre et après la Guerre Froide on voit une explosion de l'autorité inscrite dans une période d'optimisme. Maintenant certains comme les EU voient ces OI comme trop contraignantes, l'optimisme est disparu et ils s'attaquent à elles.
 
 Pour mesurer leur autorité:
 ![[Pasted image 20250217135605.png]]

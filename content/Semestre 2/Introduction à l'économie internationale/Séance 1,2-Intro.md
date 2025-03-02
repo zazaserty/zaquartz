@@ -84,7 +84,7 @@ Grande variation entre les secteurs.
 	- Réactions de la Chine avec des tarifs similaires.  
 - **Évolution** :  
 	- Pas de retour en arrière sous la présidence de Biden. 
-	- Trump est maintenant président une autre fois.
+	- Trump est maintenant président une autre fois (elles pourraient augmentent encore plus).
 
 Sous la présidence de Trump, les États-Unis ont imposé des tarifs élevés sur les importations chinoises, atteignant jusqu'à 20%. Ces tarifs ont été maintenus sous Biden, créant une incertitude persistante dans les relations commerciales.
 ### En résumé
