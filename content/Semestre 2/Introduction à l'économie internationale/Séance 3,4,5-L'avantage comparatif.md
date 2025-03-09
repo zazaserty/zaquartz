@@ -133,5 +133,24 @@ De nos jours il est plus difficile de prouver cela, les pays se sont spécialis�
 #### Productivité et Coûts du travail en Europe (2022)
 ![[Pasted image 20250228115928.png]]
 Salaire dépend de la productivité, pas du pays dans lequel on vit. Ricardo disait déjà cela.
+![[Pasted image 20250303083015.png]]
+#### 3ème idée reçue
+*Le commerce international permet aux entreprises et consommateurs des pays développés d’exploiter les travailleurs de pays à faible revenu en y maintenant de faibles salaires*.
+- **Faux**: Le commerce augmente le salaire des travailleurs en leur permettant de se spécialiser là où ils sont relativement plus productifs. Lorsque le prix du bien exportable augmente, ceci engendre une augmentation des salaires réels. Si le pays étranger refuse tout commerce avec l’économie domestique, les salaires réels y seront encore plus faibles.
+- La solution n’est pas d’arrêter le commerce, mais de permettre une augmentation de la productivité (transfert de technologie, formation de capital humain, institutions, infrastructure, etc.).
+### Limites
+- Le modèle de Ricardo montre que l’ouverture au commerce mondial génère des gains partagés par tous les pays, théorie connue depuis plus de 2 siècles.
+- Pourtant : Brexit (2016), Manifestation en France contre l’accord avec MERCOSUR (2024), politiques protectionnistes de Trump (2016, 2024).
+- Arguments du chapitre fondés sur des hypothèses très restrictives.
+- Si la théorie économique peut démontrer que le commerce international est favorable à tous les pays pris dans leur ensemble, cela ne veut pas dire que le libre-échange ne fait pas de perdants.
+- Un modèle théorique plus détaillé permet de comprendre comment l’ouverture commerciale, en bouleversant les structures économiques, affecte non seulement le bien-être national mais aussi la distribution des revenus au sein de chaque pays.
+- A CT: déplacer des ressources d’un secteur vers un autre n’est pas instantanée et engendre un cout + à LT: modifier le type de bien que produit un pays réduite la demande de certains facteurs et augmente la demande pour d’autres (section suivant).
+- Si le pays pris dans son ensemble gagne au commerce, que la somme des gains dépasse les pertes et qu’en plus les gagnants (qui incluent tous les consommateurs) sont forcement plus nombreux que les perdants, on devrait observer un large soutien populaire pour le libre-échange.
+- Mais pas le cas, pourquoi ? A CT :
+	- Gains et pertes sont justement très inégalement répartis.
+	- Les travailleurs mis au chômage doivent s’engager dans une reconversion professionnelle, souvent logue, couteuse et difficile – souvent les travailleurs les plus pauvres dans les pays développés (injustice économique).
+	- Secteurs sinistrés souvent regroupés géographiquement donc perte pour tous les habitants des villes et territoires touchés (injustice territoriale).
+	- Mais limiter les échanges internationaux est-elle la bonne politique pour éviter le creusement des inégalités sociales ?
+	- Quid d’un système de protection des travailleurs renforcé.
 
 #UNIGE #Introduction-économie-internationale 

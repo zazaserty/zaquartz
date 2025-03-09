@@ -89,7 +89,7 @@ Grande variation entre les secteurs.
 Sous la présidence de Trump, les États-Unis ont imposé des tarifs élevés sur les importations chinoises, atteignant jusqu'à 20%. Ces tarifs ont été maintenus sous Biden, créant une incertitude persistante dans les relations commerciales.
 ### En résumé
 ![[Pasted image 20250221102830.png]]
-Dans le site de la [World Bank](https://worldbank.com/) il y a des différentes informations économiques des différents pays.
+Dans le site de la [World Bank](https://worldbank.com/) il y a des informations économiques de différents pays.
 ### Spécialisation
 C'est la segmentation internationale de la production. Des chaînes de valeur mondiales.
 ![[Pasted image 20250221105111.png]]
@@ -103,7 +103,7 @@ Là où le produit est fini et exporté n'est pas nécessairement là où il a �
 Cette segmentation internationale de la production est très importante dans certains secteurs.
 ![[Pasted image 20250221105920.png]]
 Les pays comme l'Hongrie ont une grande partie de leur exportations qui ont en faite dû être importées avant.
-#### Redessine les lieux des production
+#### Redessine les lieux de production
 - Il y a des économies *Headquarters* (peu d’imports dans leurs exports) et des économies *factory* (importent une grande parts de leurs exports).
 - La segmentation est plutôt régionale qu’internationale.
 - Une structure *hub and spokes* se développe: dépendance des économies *factory* aux biens intermédiaires importés des économies *Headquarter*.
@@ -139,7 +139,7 @@ Permet de prédire le volume des échanges de biens entre entre deux pays i et j
 - A et B: élasticité des échanges par rapport au PIB de l'autre pays.
 - C: même chose mais envers la distance.
 #### Coûts au commerce encore importants
-Anderson et van Wincoop (2004) estiment que les coûts au commerce « représentatifs » pour les pays industrialisés est de 170% (et encore plus pour les pays en développement) dont:
+Anderson et van Wincoop (2004) estiment que les coûts au commerce *représentatifs* pour les pays industrialisés est de 170% (et encore plus pour les pays en développement) dont:
 ![[Pasted image 20250221114641.png]]
 
 Donc pas de *mort de la distance* - voire même importance grandissante de la géographie dans le commerce:
@@ -170,7 +170,7 @@ Les échanges de biens et services dans l’économie mondiale (en milliards de 
     - Il s’explique par des **similarités** entre pays, notamment entre économies développées présentant des niveaux de vie, des marchés et des structures industrielles comparables.
     - **Économies d’échelle** : Les firmes d’un pays peuvent se spécialiser dans certaines variétés de produits afin de produire en grande quantité à moindre coût. Même si les pays sont similaires, chacun se spécialise dans différentes gammes ou variétés, puis les échanges inter-industriels se font dans des produits similaires (on parle de commerce intra-branche).
 
-Ces théories sont pertinentes même si le marché a évolué. Par exemple comment explique que USA et Allemagne produisent dans le même secteur tout en étant d'accord avec Ricardo.
+Ces théories sont pertinentes même si le marché a évolué. Par exemple comment expliquer que l'USA et Allemagne produisent dans le même secteur tout en étant d'accord avec Ricardo.
 ### Quelques remarques
 Ces modèle théorique montre que l’ouverture au commerce mondial génère des gains partagés par tous les pays.
 #### Mais

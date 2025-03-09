@@ -23,7 +23,7 @@
 - Proposition visant à expliquer un ensemble de faits d’un même ordre = théorie (par ex. *de cause à effet* entre deux phénomènes).
 - Théorie de la gravitation universelle (Newton): Deux corps ponctuels s'attirent avec des forces opposées et de même valeur absolue. Cette valeur est proportionnelle au produit des masses de ces deux corps, et inversement proportionnelle au carré de la distance qui les sépare.
 ##### Mais
-Les théories peuvent être rendues fausses dès le moment ou une observation prouve qu'elle est fausse. Dans les cas de Newton, c'est Einstein qui l'a fait. La méthode hypothético-déductive.
+Les théories peuvent être rendues fausses dès le moment ou une observation prouve qu'elle est fausse. Dans les cas de Newton, c'est Einstein qui l'a fait. C'est la méthode hypothético-déductive.
 
 Mais, peut-on faire cela dans les sciences sociales?
 ### Les sciences sociales sont-elles des sciences?
@@ -82,7 +82,7 @@ Pourquoi les sciences sociales veulent imiter les naturelles?
 - **Modèle mathématique** → Inspiré de la loi de gravitation de Newton pour expliquer les **flux économiques et commerciaux** entre villes.
 #### Objection 1
 **Les pratiques individuelles/sociales ne sont pas indépendantes des sens et détachées des phénomènes**:
-- Car ils sont **liés à la perception et à l'expérience humaine**.
+- Car elles sont **liées à la perception et à l'expérience humaine**.
 
 - Edmund HUSSERL pour le commun des mortels, c’est le soleil qui tourne autour de la Terre = la phénoménologie.
 	- Ce que nous percevons (ex. le Soleil qui *tourne* autour de la Terre) est **notre réalité vécue**, même si la science prouve le contraire.
@@ -94,7 +94,7 @@ Pourquoi les sciences sociales veulent imiter les naturelles?
 - *La cause déterminante d’un fait social doit être cherchée parmi les faits sociaux antécédents et non parmi les états de conscience individuels* (Durkheim, 1895, Les règles…).
 - La religion telle qu’étudiée par Durkheim et Mauss: les rites et leur fonctionnement.
 - Le sens ou les significations que les individus et les collectifs attachent à leurs pratiques doivent-ils rester hors-champ de la science ? Ou sont-ils sans objet?
-	- Sans objet pour les biologistes/neurosciences qui étudient par **ex**. l’attirance sexuelle.
+	- Sans objet pour les biologistes/neuroscientifiques qui étudient par **ex**. l’attirance sexuelle.
 - Wilhelm Dilthey (Introduction aux sciences de l'esprit, 1883) oppose deux types de sciences:
 	- Celles (*positives*) qui cherchent à identifier des lois et les expliquer par des théories générales.
 	- Celles (*de l’esprit*) qui cherchent à comprendre des pratiques ou des événements en étudiant le sens qu’on leur associe.
@@ -120,5 +120,65 @@ notamment en Amérique du nord**
 	- Les pratiques sociales ne peuvent être comprises que du point de vue du sens qu’elles ont pour les individus.
 - Méthode objectiviste:
 	- Les pratiques sociales peuvent être expliquées indépendamment du sens qu’elles ont pour les individus.
+- **Ex**: Explosion de l'urbanisation à Chicago. La ségrégation pour Halbwachs n'a pas de cause objectivable parce qu'elle est, dans beaucoup de cas, volontaire. On doit comprendre les motivations des individus (méthode subjectiviste).
+	![[Pasted image 20250304142337.png]]
+#### Objection 3
+Les sociétés humaines sont guidées par la réflexivité des individus et des groupes sociaux:
+- **Anthony Giddens**: modernité = organisation et réorganisation réflexives des relations sociales à la lumière des apports permanents de connaissance affectant les actions des individus et des groupes.
+- *La production d'un savoir systématique sur la vie sociale devient une partie intégrante de la reproduction du système, détachant la vie sociale des fixités de la tradition*.
+##### La réflexivité des individus et des sociétés sur les apports des sciences humaines/sociales
+- Anthony Giddens
+- *C’est peut-être la malédiction des sciences de l’homme que d’avoir affaire à un objet qui parle*. **Pierre Bourdieu**.
+- Enjeu de prédictivité: les comportements humains peuvent changer en fonction de l’analyse qui en est donnée. Ex: prophéties auto- réalisatrices.
+- Pas absent chez des auteurs qui par ailleurs adoptent des réflexions des théoriciens positivistes: *conscience de classe* chez Marx, comme condition de la révolution.
+	- Groupes ayant des conditions et un style de vie similaires dans un monde social organisé par des formes de différenciation et de domination qui sont réglés par l’inégale distribution des moyens de production = *classe en soi*. **Exemple**: *la classe ouvrière*.
+	- Le travailleur est aliéné: exaltation du travail, de la satisfaction personnelle dans le travail, en toute ignorance de ce que signifie vraiment son travail dans le système capitaliste.
+	- Collectif d’individus qui ont conscience d'une appartenance commune, susceptibles de mener des luttes pour la défense de leurs intérêts communs, une *conscience de classe* = *classe pour soi*.
+	- Passer de la *classe en soi* à la *classe pour soi* = enjeu majeur pour la classe ouvrière.
+	- *Les conditions économiques avaient d'abord transformé la masse du pays en travailleurs. La domination du capital a créé à cette masse une situation commune, des intérêts communs. Ainsi cette masse est déjà une classe vis-à-vis du capital, mais pas encore pour elle-même. Dans la lutte, (…) cette masse se réunit, elle se constitue en classe pour elle-même. Les intérêts qu'elle défend deviennent des intérêts de classe. Mais la lutte de classe à classe est une lutte politique.*
+### Le constructivisme: au-delà de objectivisme versus subjectivisme
+Les entités du monde social et les relations entre elles résultent d’un processus de construction engageant des processus symboliques (identification, qualification, catégorisation, visualisation, etc.):
+- Berger P., Luckmann T. (1986). La construction sociale de la réalité , Paris, Méridien Klincksieck.
+- Hacking, Ian (2001). Entre science et réalité : la construction sociale de quoi ? Paris, La Découverte.
+- Searle, J. R. (1995). La construction de la réalité sociale. Paris, Gallimard.
+#### La construction sociale de quoi ? Le quark
+Les catégories de la connaissance sont des constructions qui résultent de l’usage de la raison, de méthodes et de conventions au sein de la communauté scientifique.
+= Constructivisme épistémologique
+= forme de réalisme critique
+#### La construction social de quoi ? La montagne
+La montagne comme catégorie de la pratique sociale et/ou de la connaissance scientifique: *Il n'existe réellement dans la nature que des individus, et (que) les genres, les ordres, les classes n’existent que dans notre imagination* (Buffon, 1745).
+![[Pasted image 20250304152718.png]]
+#### La construction de la réalité sociale (Searle)
+- Un fait brut : existent indépendamment de toute institution humaine->*la vitesse maximale possible est la vitesse de la lumière* ou *Le mont Everest est la plus haute montagne du monde*.
+- Un *fait social*: requiert une intentionnalité collective. **Ex**: aller se promener en couple, jouer un match de foot.
+- Un *fait institutionnel*: Un fait social qui requiert une institution qui a des règles constitutives. **Ex**: l’argent.
+##### La construction sociale de quoi ? L'argent
+- Fait 1 : *Un billet de 1 dollar est un bout de papier imprimé X de dimensions Y1 x Y2 présentant les mentions Z1, Z2, Z3, etc.*.
+- Fait 2: *Un billet de 1 dollar permet d’acheter un trajet en bus à X* ou *Un billet de 1 dollar peut s’échanger contre 1 franc suisse*.
+- L’argent comme fait institutionnel = ce que le billet permet de faire au-delà de sa matérialité brute, conformément à l’intentionnalité des usagers et aux règles en usage.
+##### La réalité sociale
+*Il y a des portions du monde réel, des faits objectifs dans le monde, qui ne sont des faits que par l’accord des hommes. En un sens, il y a des choses qui n’existent que parce que parce que nous le croyons*.
+#### La ville comme construit social
+- Les théories de la ville objective (comme on les a déjà étudiées quelques mots auparavant). Seraient erronées.
+- La ville fonctionnerait à travers des conventions sociales, des relations entre individus. La ville n'est qu'une ville que parce que les gens font des choses ensembles (des rituels, actes pour préserver leur environment, etc).
+##### La ville comme foyer d'urbanité collectivement éprouvée
+F. Choay analyse *la mort de la ville et le triomphe de l’urbain* et observe *la disparition d’une certaine manière locale de vivre institutionnellement ensemble, qui fut le propre de ces entités dotées d’une identité et qu’on appelait les villes* (De la ville à l’urbain, Urbanisme, n°309, 1999).
+### Étudier les migrations (Exemple)
+- Comme des conséquences mécaniques des conditions dans certains pays.
+- Comme des conséquences de diagnostiques communs entre la population sur l'avenir de leur pays.
+- Comme autant des décisions individuelles sur la base de leurs connaissances (choix rationnel).
+### Étudier l'identité (Exemple)
+C'est quoi l'identité?
+- Identité objectivée (ADN).
+- Identité psychique.
+- Identité sociale (genre).
+- Identité collective: communautés, action collective, etc.
+#### Hannah Arendt
+- *Dès que nous voulons dire qui est quelqu’un, notre vocabulaire même nous entraîne à dire ce qu’il est* (Condition de l’Homme moderne, 1983 (1958) p.238)= objectivation.
+- *En agissant et en parlant, les hommes font voir qui ils sont, révèlent activement leurs identités personnelles uniques* (Les origines du totalitarisme, p.236) = subjectivation.
+### Terrorisme et politisation des enjeux de connaissance
+![[Pasted image 20250304155922.png]]
+![[Pasted image 20250304155955.png]]
+![[Pasted image 20250304160023.png]]
 
 #UNIGE #IntroDémarcheScientifique 
