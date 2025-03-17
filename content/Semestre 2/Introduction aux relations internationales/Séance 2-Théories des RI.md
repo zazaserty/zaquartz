@@ -92,12 +92,12 @@ Il avait une vision négative de l'humain (juif allemand qui a fuit le nazisme).
 Les 6 principes du réalisme politique:
 1. Les règles de la politique ressortent de la nature humaine *animus dominandi*.
 2. La politique fonctionne par le pouvoir *international politics, like all politics, is a struggle for power*.
-	1. L'État doit savoir se protéger à travers le *self-help*.
+	- L'État doit savoir se protéger à travers le *self-help*.
 3. Le devoir politique consiste à reconnaître l’intérêt national (*survival*).
-4. La raison politique prime sur la morale (*self-help*). Elle est dangereuse si on la met en priorité par rapport aux intérêts nationaux et les états ont toujours des intérêts cachés derrière sa *morale*. Il n'y a pas de morale universelle.
+4. La raison politique prime sur la morale (*self-help*). Elle est dangereuse si on la met en priorité par rapport aux intérêts nationaux et les états ont toujours des intérêts cachés derrière leur *morale*. Il n'y a pas de morale universelle.
 5. Refus d’une morale universelle.
 6. But de la théorie: Définition d’un *homo politicus* (prudence, modération, prévoyance et rationalité).
-	1. Aider aux états à survivre.
+	- Aider aux états à survivre.
 #### Néoréalisme (réalisme structurel)
 ##### Contexte historique
 - Années 1950/60: *Behavioral Revolution* en sciences sociales: recherche de théories *falsifiables* et méthodes *exactes*.

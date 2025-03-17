@@ -180,5 +180,7 @@ C'est quoi l'identité?
 ![[Pasted image 20250304155922.png]]
 ![[Pasted image 20250304155955.png]]
 ![[Pasted image 20250304160023.png]]
+![[Pasted image 20250311155329.png]]
+Le choix de l'ignorance doit être dénoncé.
 
 #UNIGE #IntroDémarcheScientifique 

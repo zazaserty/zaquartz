@@ -4,5 +4,7 @@
 - [[Séance 4-Autres théories]]
 - [[Séance 5,6-La guerre]]
 - [[Séance 6-Le terrorisme]]
+- [[Séance 7-Les alliances]]
+- [[Séance 8-Sécurité collective]]
 
 #UNIGE #Introduction-aux-ri #Plaque-tournante 
