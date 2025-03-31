@@ -26,7 +26,7 @@ Quand on fait une conférence et on invite des états, si ces états signent le 
 - Un certain événement/date.
 - Par exemple la CVdT, qui a rentrée en vigueur 30 jours après 35 participations (le 35ème instrument de participation).
 
-Dans les lois intérieures, le législateur dit à quelle date une chose rentre en vigueur grâce à son autorité. Mais pas dans le DIP. Par exemple pour la CVdT après le 35ème état ils est possible de continuer à y adhérer, il y a des dates d'entrée en vigueur mobiles. Tout le monde n'a pas la même. Normalement la CVDT entre en vigueur pour un état 30 jours après leur adhésion.
+Dans les lois intérieures, le législateur dit à quelle date une chose rentre en vigueur grâce à son autorité. Mais pas dans le DIP. Par exemple pour la CVdT après le 35ème état ils est possible de continuer à y adhérer, il y a des dates d'entrée en vigueur mobiles. Tout le monde n'a pas la même. Normalement la CVDT entre en vigueur pour un état 30 jours après leur adhésion. Et internationalement elle n'a pas été en vigueur avant le 27 janvier 1980.
 
 Lorsque le traité n'est pas encore en vigueur (selon article 25 CVdT) et il y a une nécessité de faire entrer quelques parties du texte en vigueur provisoirement (ou tout le texte), peuvent le faire à travers d'un accord collateral. Des fois si le traité n'entre finalement pas en vigueur il faut revoir ces accords provisoires.
 

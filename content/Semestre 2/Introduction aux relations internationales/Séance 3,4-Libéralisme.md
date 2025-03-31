@@ -96,9 +96,7 @@ Vision positive de l‘ être humain**
 - Vision rel. consensuelle parmi les pays occidentaux du rôle de l'État dans l'économie: Keynésianisme, New Deal, *embedded liberalism* (J.G. Ruggie) / pacte social.
 	- Cette ouverture n'est pas totalement libérale, certaines personnes souffrent des dommages et donc on essaie de->
 	- ->On fait l'état providence et on essaie (après consensus) d'aider les endommagés.
-- Interdépendance en matière de sécurité et économie des pays occidentaux des USA.
-*le multilatéralisme, le libéralisme et le progrès social semblaient aller de paire. Le
-multilatéralisme libéral avait un attrait idéologique, moral, même*.
+- Interdépendance en matière de sécurité et économie des pays occidentaux des USA. *le multilatéralisme, le libéralisme et le progrès social semblaient aller de paire. Le multilatéralisme libéral avait un attrait idéologique, moral, même*.
 ### Institutionnalisme (néo)libéral
 #### Contexte historique 
 Années 1970/80: affaiblissement de l'hégémonie américaine, mais résilience du *LIO* et multiplication des acteurs des r.i.:
@@ -144,7 +142,7 @@ Les institutions aident à surmonter les dilemmes d‘action collective et à st
 *The nation-state is the most important actor on the stage of global politics, but it is not the only important actor…. States devise international institutions to facilitate cooperation, which they seek to achieve their own purposes…Interests within states are affected by the actions of other states and actors, and therefore a “demand for international regimes” develops. That is, governments become willing to exchange some of their own legal freedom of action to have some influence on the actions of these other actors. Whether this involves “giving up sovereignty” is a legal issue that depends on the arrangement made.*
 #### Transitions du pouvoir
 - 2011: Crise de la géopolitique: Les États partagent l’intérêt de leur sociétés pour le maintien d’un ordre international ouvert et des règles communes. Les puissances émergentes partagent cet intérêt et cherchent à s'intégrer dans l'ordre libéral international, les OI doivent s’adapter.
-- 2020: Crise de la modernité: intensification de l'interdépendance économique, sécuritaire et environnementale  les enjeux de la coopération augmentent.
+- 2020: Crise de la modernité: intensification de l'interdépendance économique, sécuritaire et environnementale ->les enjeux de la coopération augmentent.
 - Crise de la démocratie libérale: inégalités économiques, mise en cause des compromis de classe, polarisation, montée de l'extrême droite, recul des valeurs des Lumières (fake news, populisme..).
 - Les causes pour la crise du *LIO* ne découlent pas des transitions de pouvoir en soi, mais des enjeux de politiques intérieures.
 #### Influence des institutions internationales

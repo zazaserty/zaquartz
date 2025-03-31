@@ -17,16 +17,15 @@ Selon la doctrine dominante et la jurisprudence il y a deux éléments dans la c
 Pourquoi n'est-il pas suffisant d'avoir la pratique? On veut que les états agissent en fonction d'obligations du droit mais aussi à cause de raisons morales. Cependant agir de manière politique ou morale ne constitue pas une pratique (la régularité ne devient pas une règle automatiquement->certaines pratiques comme utiliser des papiers blancs pour envoyer des notes diplomatiques rentrent dans les conditions d'une coutume mais ne sont pas faites avec une intention envers le droit donc elles ne sont pas des pratiques juridiques.
 
 On demande aux états d'agir quand ils considèrent que la règle coutumière existe déjà mais aussi quand ils pensent qu'une telle règle pourrait exister (des coutumes peuvent être en voie de formation, on considère que cette règle coutumière existe dans le droit à devenir).
-
 ### Pratique
 #### Pratique de qui? Quels sont les sujets
 On recherche la coutume de qui? Des états. Les législateurs coutumiers sont les états (et c'est la même chose pour les traités en grand proportion). Tous les organes des états peuvent contribuer à la coutume. Par exemple on recherche la pratique des exécutifs pour les expulsions. Certaines organes comme celle des affaires étrangères est plus normale dans la coutume que celles de autres organes.
 
 La CDI dans le rapport Michael Wood met l'accent sur le fait que la pratique des organes plus importants a plus de valeur par rapport à celle des organes subordonnés (**ex**: troika).
 
-Mais dans les dernières années on considère que les OIs entre autres acteurs peuvent aussi contribuer à la coutume. Par **exemple**: l'ONU avec les casques bleus/opérations de maintien de la paix dont ses règles ont devenu assez largement partie de la coutume. Cependant les groupes privés comme ceux armés ne font jamais de la coutume, on considère qu'ils ne doivent pas contribuer au DIP. Les individus sont concernés par le DPI mais cela s'arrête la.
+Mais dans les dernières années on considère que les OIs entre autres acteurs peuvent aussi contribuer à la coutume. Par **exemple**: l'ONU avec les casques bleus/opérations de maintien de la paix dont les règles ont devenu assez largement partie de la coutume. Cependant les groupes privés comme ceux armés ne font jamais de la coutume, on considère qu'ils ne doivent pas contribuer au DIP. Les individus sont concernés par le DPI mais cela s'arrête la.
 #### C'est quoi
-Les actes verbaux (parler) et factuels (faire) comptent comme **actes de pratique**. Parler, comme dans le cas de la UNGA, est en fait très important et une déclaration orale qui prend position peut influencer la coutume. Cela aide à faire du DIP un code pacifiste. Comme ça pour créer de la coutume et donner notre position sans agir (ce qui pourrait donner lieu à des conflits).
+Les actes verbaux (parler) et factuels (faire) comptent comme **actes de pratique**. Parler, comme dans le cas de la UNGA, est en fait très important et une déclaration orale qui prend position peut influencer la coutume. Cela aide à faire du DIP un code pacifiste. Cela pour créer de la coutume et donner notre position sans *agir* (ce qui pourrait donner lieu à des conflits).
 
 Mais on compte aussi le *pas faire*. Ne pas faire quelque chose compte aussi. **Exemple**: coutume dit que lorsqu'un navire et dans un port d'un état qui l'accueille le code pénal de l'état *host* s'applique en principe de territorialité. Cependant historiquement la police n'a pas été envoyée lorsque le crime reste limité au navire et n'affecte pas l'état portuaire.
 ##### Conditions
@@ -39,16 +38,16 @@ Très important, les actes doivent être des réactions suffisamment similaires 
 Certaines coutumes lient que certains états (dans ce cas cette condition ne s'applique pas de la même manière). Mais pour le reste de la coutume il faut considérer la pratique de tous, ou presque tous, les états si on veut lier ces derniers. On n'analyse quand même pas la pratique de chacun individuellement. Les états ne publient pas toujours leurs pratiques, et de toute façon cela saurait difficile à faire (tout analyser exhaustivement). Certains ne contribuent juste pas à certains domaines de la pratique. Des fois on se retrouve avec la pratique d'une trentaine d'états occidentaux. Les états concernés par ces pratiques doivent rester silencieux. Là la pratique est devenue générale puisque le reste l'accepte->pratique. Certains états publient plus ou pratiquent plus et donc ont plus de pouvoir décisionnel sur la coutume.
 ### Droit coutumier dans les traités
 #### Multilatéraux
-Comment savoir si un traité reflète la coutume. On peut pas utiliser la pratique des états faisant partie du traité puisqu'ils ne sont pas libres d'agir autrement. Mais si d'autres états qui ne font pas partie du traité le suivent, là oui ils là considèrent une règle coutumière. L'*opinio juris* peut aussi être très importante, plus que la pratique (ex: pratique de non-agression, la majorité d'états ne s'agressent pas mais est-ce que cela veut dire que c'est une coutume? Non).
+Comment savoir si un traité reflète la coutume. On peut pas utiliser la pratique des états faisant partie du traité puisqu'ils ne sont pas libres d'agir autrement. Mais si d'autres états qui ne font pas partie du traité le suivent, là oui on la considère comme une règle coutumière. L'*opinio juris* peut aussi être très importante, plus que la pratique (ex: pratique de non-agression, la majorité d'états ne s'agressent pas mais est-ce que cela veut dire que c'est une coutume? Non).
 ### Questions particulières
 #### Objecteur persistant
 Le *persistent objector* : Quand une règle coutumière est en voie de construction des états peuvent objecter à elle -> et elle ne pourra pas leur être imposée. Mais ils doivent ==être persistants==. On ne peut pas faire ça avec une règle déjà établie. Certains états la rejettent puisqu'elle est contraire à leur droit interne et ils ont besoin de temps pour s'y adapter, **par exemple**. Ceci est rare, cet argument est un peu de *loser* (y objecter c'est admettre qu'elle existe, qu'elle est en train de se former). Pas très apprécié à la CIdJ.
 #### États nouveaux
-Un état nouveau ne peut pas juste s'écarter de la coutume ou du DIP. Il ne peut pas être objecteur, ou dire qu'il n'a pas contribué à la pratique. Ils peuvent influer sur le droit coutumier mais pas le détruire. Le droit coutumier perd son droit général quand des nouveaux états naissent, c'est pour ça qu'ils ont une certaine voix.
+Un état nouveau ne peut pas juste s'écarter de la coutume ou du DIP. Il ne peut pas être objecteur, ou dire qu'il n'a pas contribué à la pratique. Ils peuvent influer sur le droit coutumier mais pas le détruire. Le droit coutumier perd un peu de son caractère de droit général quand des nouveaux états naissent, c'est pour ça qu'ils ont une certaine voix.
 #### Coutume particulière/spéciale/régionale
 Coutume régie par la pratique et les opinions de quelques états, et ==seulement== de quelques uns. La coutume générale lie tous les états, telle est la presomption du DIP, seulement les états qui montrent une pratique égarée peuvent déroger la coutume générale en créant une *lex specialis* à partir de leur coutume particulière.
 
-**Par exemple** : le droit de passage entre certains états comme la Bangladesh et l'Inde.
+**Par exemple** : le droit de passage entre certains états comme le Bangladesh et l'Inde.
 #### Relations entre les traités et la coutume
 ##### Comment peut un traité exprimer ou pas le droit coutumier?
 - Traité déclaratoire/déclaratif : traité de codification. Ceux qui l'ont rédigé voulaient fixer les règles non écrites coutumières dans leur texte. Ce traité vise à refléter le droit international général existant. La codification est utile et permet de rendre le droit accesible, fixe et plus certain.
@@ -75,7 +74,7 @@ Des textes de *droit mou* sont des textes principalement interétatiques (adopt�
 #### Normes *softs* 
 Contenu *mou* dans une source. **Ex** : *Les états X, Y et Z s'efforceront de faire K*. On est forcé de s'efforcer, oui. Mais on a ramolli les dispositions et, par conséquent, nos obligations.
 #### Instruments *softs*
-Sources non contraignantes. C'est pas comme si la mollesse de l'instrument le condamne à l’inefficacité. Les instruments *durs* sont parfois moins effectifs/respectés.
+Sources non contraignantes. C'est pas comme si la mollesse de l'instrument le condamne à l’inefficacité. Les instruments *durs* sont même parfois moins effectifs/respectés.
 ### Exemples
 C'est des actes rares et irréguliers, difficiles à identifier/classifier des fois.
 #### Résolutions des OI
@@ -87,11 +86,11 @@ La CDI (Commission du Droit International des Nations Unies) les produit aussi. 
 ### Réapparition du *soft law*
 Il y a maintenant un grand nombre d'états et c'est difficile de trouver un compromis juridique. Donc les états veulent trouver juste un accord politique. Mais en plus les traités sont très lents et longs à faire donc on est plus confortables avec cette *soft law*, ou il est plus facile de dire oui. Et pour couronner le tout on est pas responsables de nos violations envers ces accords, au moins pas dans la même manière qu'avec un traité. Il y a une peur à l'engagement.
 
-Et puisque les ONG et les acteurs privés ne peuvent pas faire partie, la *soft law* apporte une flexibilité pour ajouter la société civile dans les accords. Ici cette association est permise, sans complications. Réviser les traités pour y mettre des acteurs privés est impensable et serait très difficile. Les traités sont en plus trop transparents, ils doivent être publiés. Mais la *soft law*, elle ne présente aucune obligation à la divulgation-> c'est le cas des accords Suisse<->OTAN.
+Et puisque les ONG et les acteurs privés ne peuvent pas faire partie des traités, la *soft law* apporte une flexibilité pour ajouter la société civile dans les accords. Ici cette association est permise, sans complications. Réviser les traités pour y mettre des acteurs privés est impensable et serait très difficile. Les traités sont en plus trop transparents, ils doivent être publiés. Mais la *soft law*, elle ne présente aucune obligation à la divulgation-> c'est le cas des accords Suisse<->OTAN.
 #### Mais
 Il y a des contreparties:
 1. Dans les traités tu peux ne pas adhérer et tu restes tranquile et protégé. Dans la *soft law* il n'y a pas de règles et les états grands peuvent contrôler les petits.
-2. Les journalistes sont imprécis. Violer la *soft law* ne constitue pas une violation de DIP.
+2. Les journalistes sont imprécis. Violer la *soft law* ne constitue pas une violation du DIP.
 ### Pourquoi discuter la *soft law*
 Il a certains effets ==mineurs== sur le droit. Toute une série.
 

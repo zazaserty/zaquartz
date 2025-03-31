@@ -132,7 +132,33 @@ Infirmière fondatrice de la Croix-Rouge des États-Unis.
 - La Guerre d’Orient (1877): Croix-Rouge vs. Croissant-Rouge: religion.
 - La Guerre sino-japonaise (1894-95): application unilatérale par le Japon.
 - La (2e) Guerre des Boers (1899-1902): non-application.
-- Les Guerres du Balkan (1911-1913): problème des prisonniers de guerre.
+- Les Guerres du Balkan (1911-1913): problème des prisonniers de guerre. Le CICR ne traitait pas ce problème à l'origine.
 - Propositions Gustave Moynier (1873ss.): code de guerre (IDI); cour pénale (proposition personnelle).
+### Une occasion manquée? L'action humanitaire en temps de paix
+#### Action humanitaire en temps de paix de la CR
+- Proposée par la Reine Augusta de Prusse en 1869 lors de la conférence diplomatique du mouvement à Berlin.
+- Revendiqué par les organismes pacifistes, CR comme œuvre de la paix.
+- Rejeté à l’interne par président du CICR Gustave Moynier (1869ss.), pour ne pas perdre soutien des milieux militaires.
+- Accepté par CICR après l’obtention du prix Nobel de la paix par Henry Dunant (et Frédéric Passy) en 1901, qui a soutenu des activités de secours en temps de paix (CICR ne l’a pas reçu avant la PGM).
+- Activités de secours des CR nationales avant PGM.
+### Conclusion
+#### Similitudes de la CR avec pacifisme, abolitionnisme, libre-échangisme
+- Emane de la société civile et mobilise celle-ci.
+- Favorise la coopération internationale.
+- Formation d’un réseaux qui dépasse les frontières.
+- Comme pacifisme (et abolitionnisme), mouvement provoqué par la souffrance causée par une pratique culturelle archaïque (ici la guerre).
+#### Caractéristiques distinctes
+- Organise l’implication des femmes dans la société civile internationale.
+- Favorise la coopération internationale en faveur des victimes de la guerre en temps de guerre (contrairement au pacifisme et abolitionnisme qui favorisent la coopération en temps de paix).
+- CR présente la guerre comme élément *inévitable* de la vie humaine (émanant de la *nature humaine* elle-même), tandis que pacifistes présentent la guerre comme incompatible avec l’humanité.
+- Pacifisme veut réguler (ou supprimer) le *ius ad bellum*, la CR veut réguler le *ius in bello* > dans les deux cas, coopération des États nécessaire.
+- Pacifisme prend beaucoup de temps pour faire adopter une règle contre la guerre.
+- Mouvement de la CR commence toute suite avec la mise en place des normes juridiques, la Convention de Genève, première c. du droit humanitaire int’l.
+	- CR liée plus étroitement aux Etats que d’autres mouvements!
+	- Pour comprendre CR il ne faut pas l’inscrire droit dans une histoire de la philanthropie mais dans une histoire des RI.
+### Développement du droit de la guerre à partir de 1864
+![[Pasted image 20250318105444.png]]
+### Organisation du mouvement de la Croix-Rouge
+![[Pasted image 20250318105721.png]]
 
 #UNIGE #Intro-histoireinter2 

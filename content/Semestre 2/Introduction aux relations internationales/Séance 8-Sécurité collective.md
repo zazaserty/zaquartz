@@ -82,7 +82,7 @@ L'ONU n'en a pas, donc... qui compose les troupes?
 ![[Pasted image 20250313145142.png]]
 Le Rwanda est ironiquement devenu indispensable pour la paix (surtout en Afrique) ce qui difficulte la résolution du conflit dans la RDC.
 ![[Pasted image 20250313145319.png]]
-La Chine est le seul membre du P5 qui contribue financièrement et militairement aux missions de maintien de la paix. L'ONU rembourse les pays en fonction du nombre de soldats, ce qui incentive les pays pauvres à y participer. En plus comme ça leur militaire obtient de l'expérience.
+La Chine est le seul membre du P5 qui contribue financièrement et militairement aux missions de maintien de la paix. L'ONU rembourse les pays en fonction du nombre de soldats, ce qui incentive les pays pauvres à y participer. En plus comme ça leur militaires obtiennent de l'expérience.
 ![[Pasted image 20250313145647.png]]
 ### Evolution du maintien de la paix depuis 1945
 ![[Pasted image 20250313152628.png]]

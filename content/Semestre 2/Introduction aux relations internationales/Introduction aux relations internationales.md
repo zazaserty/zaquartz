@@ -6,5 +6,10 @@
 - [[Séance 6-Le terrorisme]]
 - [[Séance 7-Les alliances]]
 - [[Séance 8-Sécurité collective]]
+- [[Séance 9-Politique intérieure]]
+- [[Séance 10-Paix démocratique]]
+- [[Séance 11-Coopération Internationale]]
+- [[Séance 12-Institutions internationales]]
+- [[Séance 13-Commerce internationale]]
 
 #UNIGE #Introduction-aux-ri #Plaque-tournante 
