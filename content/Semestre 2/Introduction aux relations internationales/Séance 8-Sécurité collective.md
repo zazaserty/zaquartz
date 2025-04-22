@@ -6,7 +6,7 @@
 #### Crise du *peacekeeping*
 ![[Pasted image 20250313142411.png]]
 ##### Cependant
-C'est pas juste l'ONU qui fait des opérations de maintien de la paix, même si l'ONU est la principale:
+C'est pas juste l'ONU qui fait des opérations de maintien de la paix, même si l'ONU est la principale :
 	![[Pasted image 20250313142517.png]]
 ### Définition
 - Définition: *institutions globales qui promeuvent la paix et la sécurité entre leurs membres* (Frieden et al., p. 205).
@@ -63,7 +63,7 @@ C'est pas juste l'ONU qui fait des opérations de maintien de la paix, même si 
 #### Budget
 **Budget 2024-2025**: approx 5.6 milliards US$.
 ![[Pasted image 20250313144804.png]]
-Le budget pour les opérations de maintien de la paix a fortement augmenté.
+Le budget pour les opérations de maintien de la paix a fortement augmenté. Mais dans les dernières années il stagne vers une baisse...
 ##### Top 10 contributeurs (2024-2025)
 1. USA (26.95%).
 2. Chine (18.69%).
@@ -113,7 +113,7 @@ Les EU et la Russie représentent la majorité des vetos.
 - Des études qualitatives qui se concentrent sur un petit nombre de cas (d’échec) permettent de comprendre les mécanismes qui peuvent mener à un échec.
 ![[Pasted image 20250313153230.png]]
 #### Mechanismes
-- Coercition: *influence sur le comportement d'un acteur en limitant son choix*(p. 29): dissuasion, surveillance, arrestation etc.
+- Coercition: *influence sur le comportement d'un acteur en limitant son choix* (p. 29): dissuasion, surveillance, arrestation etc.
 - Incitation: *motivations matérielles mais non militaires pour changer le comportement* (p. 29): aide, restrictions au marché, renforcement des capacités, économie autour du maintien de la paix etc.
 	- Les militaires et civils apportent de l'activité économique, surtout dans les missions multidimensionnelles actuelles (très grandes).
 	- Et en plus, les troupes de l'état sont entraînées et la sécurité de l'état augmente.

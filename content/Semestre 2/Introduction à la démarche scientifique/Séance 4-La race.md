@@ -43,7 +43,7 @@ En revenant à Buffon: *Tout considéré, je conclus (…) que la diminution de 
 	- *La plupart des caractères que l’on peut reconnaître (chez les noirs), déjà dans la conformation extérieure, ainsi que dans les proportions des diverses parties du corps, rappellent irrésistiblement les singes*.
 	- *Le Noir adulte, en ce qui concerne ses capacités intellectuelles, ressemble à l’enfant, à la femme et au Blanc sénile*.
 ### Théories du racisme moderne
-- Une doctrine, une idéologie: la différence *raciale* comme facteur de supériorité et justification des inégalités et rapports de pouvoir. Arthur de Gobineau, 1853-55, *Essai sur l'inégalité des races humaines**.
+- Une doctrine, une idéologie: la différence *raciale* comme facteur de supériorité et justification des inégalités et rapports de pouvoir. Arthur de Gobineau, 1853-55, *Essai sur l'inégalité des races humaines*.
 - = Rhétorique coloniale
 ### La disqualification savante du racisme scientifique
 La remise en cause des connaissances scientifiques au XXe siècle:

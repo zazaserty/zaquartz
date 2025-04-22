@@ -11,7 +11,6 @@
 - [[Introduction aux relations internationales]]
 - [[Introduction à l'histoire internationale 2]]
 - [[Introduction à la démarche scientifique]]
-- [[Introduction à la démarche scientifique (Séminaire)]]
 - [[Introduction à la statistique]]
 - [[Droit international public]]
 

@@ -3,7 +3,7 @@
 Ils s'établissent entre départements étatiques, publiques et les ministères. Ils sont spécialisés dans des secteurs et fonctions spécifiques, en réunissant des experts des administrations publiques. Ils font de la coordination (*soft law* pas contraignante juridiquement). Celle-là peut être reprise par les états. Ils font aussi des normes internationales.
 
 Par exemple Frontex avec les frontières européennes, ou Finma avec l'argent des banques, ou l'International Competition Network pour la concurrence et la politique de marché mondiale. Des chercheurs de l'OCDE on retracé en 2008 la création de ces réseaux. Ont conclu qu'elle s'était exacerbée dès les années 90.
-### ONGs
+### ONG
 #### Nombre
 Elles se sont multiplié, on a presque 60 000. Elles sont parfois représentées aux IOs, et sont même plus nombreuses qu'elles.
 ### Partenariats Publics-Privés

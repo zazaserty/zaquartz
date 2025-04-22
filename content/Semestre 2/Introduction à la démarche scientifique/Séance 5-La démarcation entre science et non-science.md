@@ -38,9 +38,9 @@ Ces questions n'ont pas de réponse parfaite, mais cela ne veut pas dire qu'elle
 En gros, on doit observer et à partir de cela->raisonner et créer une loi. Néanmoins... que fait-on des phénomènes qu'on ne voit pas? Beaucoup des concepts de notre quotidien sont abstraits : l'amour, la justice, etc.
 #### Le rationalisme
 - La connaissance est fondée sur des vérités de base accessibles à la raison humaine.
-- Le rationalisme met l'accent sur la raison et la déduction comme sources de connaissance. Les rationalistes soutiennent que certaines vérités peuvent être connues a priori, c'est-à-dire indépendamment de l'expérience sensorielle.
-- Donc: certaines vérités sont universelles et nécessaires, et elles sont valables dans toutes les circonstances.
-- Par exemple: les principes logiques (ex: la loi de non-contradiction, à savoir qu'une proposition ne peut pas être à la fois vraie et fausse en même temps dans les mêmes circonstances) sont considérés comme des vérités a priori qui découlent de la raison.
+- Le rationalisme met l'accent sur la raison et la déduction comme sources de connaissance. Les rationalistes soutiennent que certaines vérités peuvent être connues *a priori*, c'est-à-dire indépendamment de l'expérience sensorielle.
+- Donc : certaines vérités sont universelles et nécessaires, et elles sont valables dans toutes les circonstances.
+- **Par exemple** : les principes logiques (**ex**: la loi de non-contradiction, à savoir qu'une proposition ne peut pas être à la fois vraie et fausse en même temps dans les mêmes circonstances) sont considérés comme des vérités *a priori* qui découlent de la raison.
 ### Deux niveaux de la réflexion épistémologique
 #### Méta-scientifique
 Porte sur les principes, les fondements et les critères de validité de la science.
@@ -53,12 +53,12 @@ Vise, dans le cadre d’une *discipline*, à établir les critères, les méthod
 - *Un système faisant partie de la science empirique doit pouvoir être réfuté par l’expérience*.
 #### Objectif
 Déterminer un critère de démarcation adéquat entre science et pseudo-science. Il s’agit donc :
-- D’établir ce que nous acceptons comme science.
-- D’énoncer des règles méthodologiques adéquates pour donner un contenu épistémologiquement valide à la production de connaissances scientifique.
+- D'établir ce que nous acceptons comme science.
+- D'énoncer des règles méthodologiques adéquates pour donner un contenu épistémologiquement valide à la production de connaissances scientifique.
 #### Démarche de Popper
 ##### Critique du critère de démarcation positiviste
-- Critique de l’inductivisme et du principe de vérification: la vérification par l’induction est logiquement impossible (ce qui a été n’implique pas logiquement ce qui sera).
-- Critique du rôle prépondérant de l’observation: la théorie précède l’observation empirique (la connaissance ne commence pas par l’observation mais par le constat d’un problème). Ce qu'on voit est déjà affecté par ce qu'on a dans la tête (théorie), qui en plus nous donne l'envie d'observer comment quelque chose fonctionne.
+- Critique de l'inductivisme et du principe de vérification : la vérification par l’induction est logiquement impossible (ce qui a été n’implique pas logiquement ce qui sera).
+- Critique du rôle prépondérant de l’observation : la théorie précède l’observation empirique (la connaissance ne commence pas par l’observation mais par le constat d’un problème). Ce qu'on voit est déjà affecté par ce qu'on a dans la tête (théorie), qui en plus nous donne l'envie d'observer comment quelque chose fonctionne.
 ##### La proposition : la méthode hypothético-déductive
 *Une hypothèse ne peut être que soumise à des tests empiriques et seulement après avoir été avancée*.
 
@@ -69,11 +69,11 @@ Déterminer un critère de démarcation adéquat entre science et pseudo-science
 ##### Le critère de démarcation de Popper : la falsification
 - La falsification ne vise pas à établir qu’une théorie est vraie, mais qu’elle n’est pas fausse.
 - La falsification est une convention, une règle méthodologique.
-- Le propre des "théories scientifiques n’est pas de dire la vérité, mais, au contraire, de pouvoir se tromper". Une bonne théorie scientifique doit être testable et risquer d'être prouvée fausse par l'expérience.
-- Il s’agit de mettre la théorie à l’épreuve des observations empiriques, ceci en sachant que « les théories ne sont jamais vérifiables empiriquement » (LDS, 37). La science progresse par une dynamique de conjectures et d’ « essais/erreurs ».
+- Le propre des *théories scientifiques n’est pas de dire la vérité, mais, au contraire, de pouvoir se tromper*. Une bonne théorie scientifique doit être testable et risquer d'être prouvée fausse par l'expérience.
+- Il s’agit de mettre la théorie à l’épreuve des observations empiriques, ceci en sachant que *les théories ne sont jamais vérifiables empiriquement* (LDS, 37). *La science progresse par une dynamique de conjectures et d’**essais/erreurs***.
 - C’est donc la réduction progressive des erreurs qui constitue le fondement de la découverte et de la vérité scientifique.
 ##### Le test des théories
-###### **Considérons la théorie : "si A, alors B"**
+###### **Considérons la théorie : si A, alors B**
 1. Si B se produit en présence de A, alors la théorie a provisoirement réussi son test ; la théorie est donc corroborée.
 2. Si B ne se produit pas en présence de A, alors la théorie dont B avait été logiquement déduite est aussi falsifiée, et donc rejetée.
 
@@ -93,7 +93,7 @@ En d’autres termes, si une observation contraire à la théorie est constatée
 - Il existe une asymétrie entre vérification et falsification. Il n’existe pas la moindre méthode logique permettant de prouver que les théories scientifiques sont vraies.
 ##### E. Quid de la vérité?
 - La vérité est la caractéristique d’une proposition qui n’a pas encore été falsifiée, tout en étant ouverte à falsification.
-- La vérité doit donc être entendue au sens de « correspondance avec les faits ».
+- La vérité doit donc être entendue au sens de *correspondance avec les faits*.
 - Il est donc impossible d’atteindre la vérité avec certitude ; la seule certitude réside dans la détermination de l’erreur (ou la réfutation).
 
 C'est pourquoi les théories scientifiques ne doivent pas être considérées comme des énoncés exprimant des vérités immuables, mais bien comme des conjectures provisoires qui peuvent à tout moment être falsifiées et remplacées par des théories plus performantes.
@@ -101,15 +101,15 @@ C'est pourquoi les théories scientifiques ne doivent pas être considérées co
 #### Objectifs
 - Comprendre comment la science fonctionne et progresse.
 - Critiquer le rationalisme logique de Popper
-	« Aucune théorie ne résout jamais toutes les énigmes auxquelles elle se trouve confrontée à un moment donné (…) Si chaque fois qu’on se heurtait à une impossibilité d’établir cette coïncidence il fallait rejeter la théorie, toutes les théories devraient toujours être rejetées » (SRS, 202-203).
+	*Aucune théorie ne résout jamais toutes les énigmes auxquelles elle se trouve confrontée à un moment donné (…) Si chaque fois qu’on se heurtait à une impossibilité d’établir cette coïncidence il fallait rejeter la théorie, toutes les théories devraient toujours être rejetées* (SRS, 202-203).
 - Montrer l’importance de la dimension sociologique du processus de découverte scientifique.
 #### Une notion centrale de l'approche de Kuhn : le paradigme
 - Dimension épistémologique : ensemble de techniques, croyances, théories partagées par les scientifiques d’une communauté donnée ; il s’agit d’une matrice disciplinaire (règles, méthodes, symboles, postulats, etc.).
-- Dimension sociale : cadre de pensée qui se construit et qui se transmet socialement et qui fait que les scientifiques ‘voient le monde’ à travers un paradigme donné (formation, pouvoir, enjeux personnels, etc.).
+- Dimension sociale : cadre de pensée qui se construit et qui se transmet socialement et qui fait que les scientifiques *voient le monde* à travers un paradigme donné (formation, pouvoir, enjeux personnels, etc.).
 #### La structure cyclique des révolution scientifiques
-1. Phase ‘pré-paradigmatique’ (pas de règles communes) ou pré-scientifique.
+1. Phase *pré-paradigmatique* (pas de règles communes) ou pré-scientifique.
 2. Phase de constitution d’un paradigme.
-3. Le paradigme devient une ‘science normale’ (SN1).
+3. Le paradigme devient une *science normale* (SN1).
 4. Apparition d’énigmes et d’anomalies que le paradigme n’arrive pas à expliquer (prédictions fausses, anomalies graves, concurrence d’un autre paradigme, etc.).
 5. Le paradigme entre dans une phase de crise.
 6. Abandon du paradigme (P1).
@@ -117,7 +117,7 @@ C'est pourquoi les théories scientifiques ne doivent pas être considérées co
 8. Le paradigme devient une ‘science normale’ (SN2).
 9. Phase 4, 5, etc.
 #### Les implications de l'analyse de Kuhn
-- La science ne progresse pas de manière cumulative (comme le voudraient les inductivistes empiricistes ou par réduction d'erreur comme le veut Popper), mais par révolutions (donc de manière cyclique). Les révolutions scientifiques: moyen de ‘rompre’ avec un paradigme afin d’en déterminer un meilleur.
+- La science ne progresse pas de manière cumulative (comme le voudraient les inductivistes empiricistes ou par réduction d'erreur comme le veut Popper), mais par révolutions (donc de manière cyclique). Les révolutions scientifiques: moyen de *rompre* avec un paradigme afin d’en déterminer un meilleur.
 - L’importance de la phase dogmatique (acceptation acritique du paradigme par la communauté scientifique). Contrairement à Popper, Kuhn estime qu'un paradigme n'est pas rejeté dès qu'il est réfuté, mais seulement quand il peut être remplacé.
 
 *Décider de rejeter un paradigme est toujours simultanément décider d'en accepter un autre, et le jugement qui aboutit à cette décision implique une comparaison des deux paradigmes par rapport à la nature et aussi de l'un par rapport à l'autre* (SRS, p. 115).

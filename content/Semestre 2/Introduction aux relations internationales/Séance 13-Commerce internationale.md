@@ -11,8 +11,8 @@ Manque d'exportations par suite de protectionnisme réciproque.
 CHF 12.59 Mrd par an.
 #### Pourquoi le libre-échange?
 - Comme vu dans la [[Séance 3,4,5-L'avantage comparatif]].
-- Avantage Absolu: capacité à produire plus d’un bien avec la même quantité de ressources et d’efforts que d’autres pays.
-- Avantage Comparatif: la capacité de produire un bien plus efficacement, comparé à d’autres biens qui pourraient aussi être produits.
+- Avantage Absolu : capacité à produire plus d’un bien avec la même quantité de ressources et d’efforts que d’autres pays.
+- Avantage Comparatif : la capacité de produire un bien plus efficacement, comparé à d’autres biens qui pourraient aussi être produits.
 #### Gains du libre-échange
 ![[Pasted image 20250331122535.png]]
 #### Protectionnisme
@@ -28,7 +28,6 @@ Barrières à l'importation autres que douanières (législations, par **ex**. s
 ![[Pasted image 20250331123853.png]]
 #### Faits : tarifs et commerce
 ![[Pasted image 20250331123949.png]]
-![[Pasted image 20250331124142.png]]
 Les faits ne sont pas toujours cohérents avec la théorie.
 ![[Pasted image 20250331124459.png]]
 #### Questions
@@ -38,7 +37,7 @@ Les faits ne sont pas toujours cohérents avec la théorie.
 ### Le problème
 #### Interactions stratégiques : USA vs. Chine
 ![[Pasted image 20250331124416.png]]
-- Cette guerre commerciale est un **exemple d’interaction stratégique**, où chaque pays réagit aux actions de l’autre — ce qu’on appelle souvent un jeu du **type "œil pour œil"**.
+- Cette guerre commerciale est un **exemple d’interaction stratégique**, où chaque pays réagit aux actions de l’autre — ce qu’on appelle souvent un jeu du *type œil pour œil*.
 - Le **graphique montre l’escalade** : les annonces et les mesures deviennent de plus en plus **importantes en valeur et en intensité**.
 - Elle illustre bien une situation où **l’économie et la politique s’entrelacent**, et où les décisions ne sont pas isolées mais **interdépendantes**.
 #### Sondage
@@ -59,7 +58,7 @@ Mais si le gouvernement répond aux contestations des producteurs portés sur le
 ##### Stolper-Samuelson
 Facteurs abondant profite du commerce.
 ##### Ricardo-Viner
-Industries qui utilisent le facteurs abondant profitent du commerce.
+Industries qui utilisent le facteur abondant profitent du commerce.
 ##### Théorie de l'entreprise
 Les plus grandes entreprises profitent le plus du commerce.
 #### Récapitulation : solutions
@@ -71,9 +70,9 @@ Il y a eu une augmentation des thèmes traités mais aussi des pays en participa
 #### L'OMC
 - Normes : libéralisme de marché, non-discrimination, transparence, réciprocité.
 - Standards : ‘nation la plus favorisée’ (Art. 1 GATT); ‘traitement national’ (Art. 3 GATT); ...
-- Forum : décision à l’unanimité (voir ci- dessous); un pays, un vote (Art. 9 GATT).
+- Forum : décision à l’unanimité (voir ci-dessous); un pays, un vote (Art. 9 GATT).
 - Surveillance: examen régulier des politiques commerciales (Annex 3).
-- Tribunal D’Arbitrage : interprétation; identification des violateurs (Annexe 2).
+- Tribunal d’Arbitrage : interprétation; identification des violateurs (Annexe 2).
 
 ==Les articles font référence à l'Accord du Cycle d'Uruguay==.
 ##### Organes principaux
@@ -96,6 +95,7 @@ Présentation du rapport, 2 discutants, déclarations des membres de l'OMC.
 Information sur tous les examens [ici](https://www.wto.org/english/tratop_e/tpr_e/tpr_e.htm).
 #### Règlement des différends
 ![[Pasted image 20250331134658.png]]
+![[Pasted image 20250331145135.png]]
 ##### Portail
 Information sur tous les cas de l'ORD, [ici](https://www.wto.org/english/tratop_e/dispu_e/dispu_e.htm).
 #### Efficacité du GATT
@@ -106,9 +106,11 @@ Information sur tous les cas de l'ORD, [ici](https://www.wto.org/english/tratop_
 - Méthode: régression linéaire.
 ##### Résultats
 ![[Pasted image 20250331135403.png]]
+Corrélation de 0.35 avec erreur de 0.3 donc corrélation positive significative (*t-stat* de ==plus== de 11!).
 ### Conclusion
 #### Une alternative : ACR et ACP
 ![[Pasted image 20250331135438.png]]
+![[Pasted image 20250331155015.png]]
 #### Effets politiques du commerce
 ##### Changement structurel
 Les perturbations économiques après de fortes hausses du libre-échange peuvent être considérables.

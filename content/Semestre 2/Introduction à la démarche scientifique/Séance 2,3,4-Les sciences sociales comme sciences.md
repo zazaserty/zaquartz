@@ -74,7 +74,7 @@ Pourquoi les sciences sociales veulent imiter les naturelles?
 - **Théorie de Christaller (1934)** → Les villes sont organisées en **hiérarchie fonctionnelle** avec une structure **hexagonale** optimisant les services et les flux économiques.
 - **Analyse positiviste et scientiste** → Modèle basé sur **la géométrie et l’économie**, rejetant les facteurs **historiques et culturels**.
 ##### La ville pensée à l'aide de la théorie de la gravitation
-*tout se passe **comme si** tout lieu dans l'espace géographique exerçait sur les autres une attraction en fonction directe de sa masse et en fonction inverse de la distance qui les sépare de lui.*
+*Tout se passe **comme si** tout lieu dans l'espace géographique exerçait sur les autres une attraction en fonction directe de sa masse et en fonction inverse de la distance qui les sépare de lui.*
 
 - **Théorie de la gravitation urbaine (Reilly, 1931)** → Les villes attirent les populations et les commerces **comme des masses en gravitation**, selon :
 	- **L’importance de la ville (taille, population, économie)**.
@@ -112,7 +112,6 @@ Pourquoi les sciences sociales veulent imiter les naturelles?
 
 **Wilhelm Dilthey - Max Weber - puis partout dans la 2e moitié du XXe siècle
 notamment en Amérique du nord**
-
 - Charles Taylor: l’être humain comme *animal qui s’interprète lui-même* (The Explanation of Behaviour, 1964).
 	- Cela signifie que **les individus donnent du sens à leurs actions**, et ce sens est essentiel pour comprendre leurs pratiques sociales.
 	- Selon Taylor, il est impossible de comprendre les actions sociales **sans prendre en compte le sens subjectif** que les individus y attribuent.

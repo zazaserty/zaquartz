@@ -11,5 +11,10 @@
 - [[Séance 11-Coopération Internationale]]
 - [[Séance 12-Institutions internationales]]
 - [[Séance 13-Commerce internationale]]
+- [[Séance 14-Relations financières]]
+- [[Séance 15-Relations monétaires internationales]]
+- [[Séance 16-Contrecoup à la mondialisation]]
+- [[Séance 17-Développement I]]
+- [[Séance 18-Développement II]]
 
 #UNIGE #Introduction-aux-ri #Plaque-tournante 

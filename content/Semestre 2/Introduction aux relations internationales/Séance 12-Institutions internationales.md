@@ -24,7 +24,7 @@ Cour Internationale de Justice de l'ONU (CIJ); Cour Pénale Internationale (CPI)
 ###### **Exemples**
 ![[Pasted image 20250327143237.png]]
 #### Questions
-- Pourquoi les États déléguent leur souveraineté aux institutions?
+- Pourquoi les États délèguent leur souveraineté aux institutions?
 - Comment les institutions affectent le comportement des États?
 - Pourquoi les institutions varient?
 ### Enjeux
