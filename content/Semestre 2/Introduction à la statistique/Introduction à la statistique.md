@@ -6,5 +6,7 @@
 - [[Séance 6-Statistiques descriptives]]
 - [[Séance 7-Inférence statistique]]
 - [[Séance 8-Intervalles de confiance et test d'hypothèse pour une proportion]]
+- [[Séance 9-Intervalles de confiance pour une moyenne, test-z et test-t]]
+- [[Séance 10-Test-Z, test-t et test-Z à deux échantillons]]
 
 #UNIGE #Plaque-tournante #Intro-stat

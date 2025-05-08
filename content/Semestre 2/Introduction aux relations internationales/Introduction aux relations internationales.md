@@ -16,5 +16,8 @@
 - [[Séance 16-Contrecoup à la mondialisation]]
 - [[Séance 17-Développement I]]
 - [[Séance 18-Développement II]]
+- [[Séance 19-Race et post-(et)décolonialisme]]
+- [[Séance 20-Nouvel ordre mondial]]
+- [[Séance 21-Droit et normes internationaux]]
 
 #UNIGE #Introduction-aux-ri #Plaque-tournante 

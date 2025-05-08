@@ -7,7 +7,7 @@
 	- Se poser des questions d'ontologie, c'est simplement ce demander quel est le type d'entités que l'on convoque lorsque l'on parle de quelque chose, que l'on décrit un phénomène et qu'on l'explique et quelles opérations sont possibles sur ces entités, quelles transformations permettent de passer de l'une à l'autre.
 	- Conception moderne: nature/culture, âme/corps (Descartes).
 	- Conceptions alternatives qui défient les autres comme l'animisme où tout ce qui existe dans l'univers est vivant et possède une âme ou une conscience. Pas de séparation nature/culture.
-#### Exemple: les entités de l'astronomie
+#### Exemple : les entités de l'astronomie
 Leur ontologie-> des entités comme la terre, le soleil, la lune et d'autres planètes complémentaires à la terre (etc). Le système de Copernique et de Ptolémée sont similaires mais l'un est terrestre et l'autre est solaire. Les éléments sont les mêmes mais leur ontologie (relations et fonctionnement) changent.
 ### Entités de la science moderne vs sens commun
 - Les objets, les êtres et les processus dont le monde est fait se sont pas nécessairement ceux qui apparaissent aux sens. **Ex**: *le soleil tourne autour de la Terre*. On voit pas la terre se lever et se coucher mais c'est plutôt le Soleil ce qu'on voit. Il y a des énoncés auxquels nous sommes invités par nos sens et qui bien qu'ils soient commodes ne sont pas corrects.
@@ -17,17 +17,17 @@ Dans la vie de tous les jours, nous adoptons toujours une attitude naturelle qui
 
 Dans l'étude scientifique on se méfie de tout, mais dans les sciences sociales on prend quand même en compte ces expériences bien qu'elles soient parfois incorrectes.
 ### Le réalisme
-- Depuis Platon et Aristote: Le monde tel qu'il est est en lui-même, indépendamment de l'esprit, est la mesure de la connaissance.
+- Depuis Platon et Aristote : Le monde tel qu'il est est en lui-même, indépendamment de l'esprit, est la mesure de la connaissance.
 - Doctrine qui admet que certaines choses existent indépendamment de la pensée.
 - La vérité est donc l'adéquation de l'esprit au monde.
-### Le point de vue du réalisme critique ou indirect
+#### Le point de vue du réalisme critique ou indirect
 Le réel est inaccessible en soi.
 - Il ne peut être pensé qu'à l'aide de descriptions textuelles, de mesures, de calculs, etc. Et aussi à l'aide de l'établissement de faits.
 	- Les genres, les ordres, les classes n'existent que dans notre imagination.
 	- L'objet n'est pas objectif en soi. Il est objectivé.
 	- L'objet nous désigne plus que nous le désignons (on voit notre façon d'objectiver et l'ontologie est donc aussi culturelle).
 ### Méthodologie
-Observations et expériences:
+Observations et expériences :
 - Les faits sont des énoncés qui s'appuient des observations.
 - Ces observations peuvent être réalisées dans le contexte d'expériences.
 - **Exemple**: Galilée-Torricelli-Pascal-> la pression atmosphérique.

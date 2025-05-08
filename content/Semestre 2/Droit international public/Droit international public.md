@@ -6,5 +6,6 @@
 - [[Séance 12-Autodétermination]]
 - [[Séance 12, 13-OI]]
 - [[Séance 14, 15, 16-Responsabilité Internationale]]
+- [[Séance 17, 18, 19-Règlement pacifique des différends]]
 
 #UNIGE #Plaque-tournante #DroitInternationalPublic

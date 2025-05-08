@@ -88,10 +88,10 @@ Il y a maintenant un grand nombre d'états et c'est difficile de trouver un comp
 
 Et puisque les ONG et les acteurs privés ne peuvent pas faire partie des traités, la *soft law* apporte une flexibilité pour ajouter la société civile dans les accords. Ici cette association est permise, sans complications. Réviser les traités pour y mettre des acteurs privés est impensable et serait très difficile. Les traités sont en plus trop transparents, ils doivent être publiés. Mais la *soft law*, elle ne présente aucune obligation à la divulgation-> c'est le cas des accords Suisse<->OTAN.
 #### Mais
-Il y a des contreparties:
+Il y a des contreparties :
 1. Dans les traités tu peux ne pas adhérer et tu restes tranquile et protégé. Dans la *soft law* il n'y a pas de règles et les états grands peuvent contrôler les petits.
 2. Les journalistes sont imprécis. Violer la *soft law* ne constitue pas une violation du DIP.
 ### Pourquoi discuter la *soft law*
-Il a certains effets ==mineurs== sur le droit. Toute une série.
+Il a certains effets ==mineurs== sur le droit. Toute une série (Voir sur Moodle).
 
 #UNIGE #DroitInternationalPublic 

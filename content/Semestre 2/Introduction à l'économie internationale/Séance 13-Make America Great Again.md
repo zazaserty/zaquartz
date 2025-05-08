@@ -36,7 +36,7 @@ En réalité 0.25X4=1 donc la formule se transforme en (xi-mi)/mi=>(xi/mi)-1. En
 ### Commentaires sur l'interprétation
 ![[Pasted image 20250411110336.png]]
 ### Commentaires sur l'applicabilité
-- Comment gèrer autant de tariffs à l’entrée sur le territoire ?
+- Comment gérer autant de tariffs à l’entrée sur le territoire ?
 - Quid des règles d’origine ?
 - Difficile imaginer des *tailored made tariffs* en 3 mois.
 ### Commentaire sur la stratégie

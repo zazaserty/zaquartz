@@ -2,7 +2,7 @@
 ### Introduction
 #### Exemple : Allemagne vs. France
 ##### 1870 – 1945
-Disputes territoriales continues (par ex. Alsace); guerres régulières (guerre franco-prussienne, 1870-71; guerres mondiales I et II, 1914-18 et 1939-1945).
+Disputes territoriales continues (**par ex**. Alsace); guerres régulières (guerre franco-prussienne, 1870-71; guerres mondiales I et II, 1914-18 et 1939-1945).
 ##### Depuis 1945
 Alliés proches; membres fondateurs de l’Union Européenne; coopération économique et militaire (EADS, Airbus), traité de l’Elysée (1963), ...
 #### Questions
@@ -23,7 +23,7 @@ On a déjà discuté sur plusieurs causes de la guerre (**Ex** : [[Séance 5,6-L
 - Participation : droit de vote dans des élections équitables pour la population adulte.
 - Il y a plusieurs définitions, comme on a vu vu dans la [[Séance 10-Démocratie et autocratie]].
 ##### Évaluation
-- Quantification : proportion de sièges pas occupés par le plus grand parti; participation électorales, ...
+- Quantification : proportion de sièges pas occupés par le plus grand parti; participation électorale, ...
 - Qualification : loi électorale; cas de fraude électoral; barrières de participation, ...
 - Données : [*Polity IV*](https://www.systemicpeace.org/polity/polity4.htm); [*V-Dem*](https://www.v-dem.net/free); [*Freedom House*](https://freedomhouse.org/).
 #### Démocratie dans le monde
@@ -65,7 +65,7 @@ Responsabilité->capacité de punir ou récompenser les politiciens pour leurs d
 Deux chefs autocratiques qui ont été destitués après la guerre. L'allemand a fui, et le russe a essayé de s'exiler au UK mais a été tué par les soviets.
 - **Théorie** : L'hypothèse monadique suppose que les démocraties sont généralement moins enclines à faire la guerre, car elles sont contraintes par des mécanismes internes (opinion publique, institutions démocratiques).
 - **Réalité** : Les faits ne confirment pas cette hypothèse de manière absolue. En effet, les démocraties entrent en guerre, mais **elles ne se battent pas entre elles**. Cela soutient plutôt l'**hypothèse dyadique**, selon laquelle la paix démocratique s'applique uniquement entre deux démocraties, et non de manière unilatérale.
-- **Solution** : Pour résoudre cette divergence, il est nécessaire de **réviser l'argumentation**. Cela conduit à la partie sur la "Logique Modifiée", qui prend en compte d'autres facteurs comme la nécessité de succès militaire, la transparence et la crédibilité des démocraties dans leurs engagements.
+- **Solution** : Pour résoudre cette divergence, il est nécessaire de **réviser l'argumentation**. Cela conduit à la partie sur la *Logique Modifiée*, qui prend en compte d'autres facteurs comme la nécessité de succès militaire, la transparence et la crédibilité des démocraties dans leurs engagements.
 #### Guerre et punition
 ![[Pasted image 20250320201112.png]]
 Victoire/Défaite et la situation du *leader* un an après.

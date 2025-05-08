@@ -82,7 +82,7 @@ L'ONU n'en a pas, donc... qui compose les troupes?
 ![[Pasted image 20250313145142.png]]
 Le Rwanda est ironiquement devenu indispensable pour la paix (surtout en Afrique) ce qui difficulte la résolution du conflit dans la RDC.
 ![[Pasted image 20250313145319.png]]
-La Chine est le seul membre du P5 qui contribue financièrement et militairement aux missions de maintien de la paix. L'ONU rembourse les pays en fonction du nombre de soldats, ce qui incentive les pays pauvres à y participer. En plus comme ça leur militaires obtiennent de l'expérience.
+La Chine est le seul membre du P5 qui contribue financièrement et militairement aux missions de maintien de la paix. L'ONU rembourse les pays en fonction du nombre de soldats, ce qui incentive les pays pauvres à y participer. En plus comme ça leur soldats obtiennent de l'expérience.
 ![[Pasted image 20250313145647.png]]
 ### Evolution du maintien de la paix depuis 1945
 ![[Pasted image 20250313152628.png]]
@@ -160,7 +160,7 @@ Les EU et la Russie représentent la majorité des vetos.
 	- Ad-hoc->coalitions temporaires qui disparaissent après avoir accompli leur but.
 - Il est possible que dans le futur l'ONU perd encore plus le monopole de la sécurité et la médiation. En plus les opérations pourraient revenir vers des pratiques traditionnelles de troupes observatrices pour surveiller la paix.
 ### Conclusion
-- Pour qu’une organisation de sécurité collective soit efficace, il faut qu’au moins deux conditions soient réunies: 1) les Etats les plus puissants qui sont au centre des organismes de décision doivent s’entendre et s’accorder et 2) un nombre minimum de membres doivent être prêt à payer des coûts pour assurer la paix et la sécurité.
+- Pour qu’une organisation de sécurité collective soit efficace, il faut qu’au moins deux conditions soient réunies: 1) les Etats les plus puissants qui sont au centre des organismes de décision doivent s’entendre et s’accorder et 2) un nombre minimum de membres doivent être prêts à payer des coûts pour assurer la paix et la sécurité.
 - Différence entre alliances militaires et organisations de sécurité collective:
 	- Les organisations de sécurité collective sont tournées vers l’intérieur et sont inclusives. Exemples: ONU, Union africaine, Concert d’Europe.
 	- Les alliances militaires sont tournées vers l’extérieur et sont exclusives. Exemples: OTAN, Pacte de Varsovie.

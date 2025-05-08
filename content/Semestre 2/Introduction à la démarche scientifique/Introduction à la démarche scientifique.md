@@ -5,5 +5,7 @@
 - [[Séance 6, 7-C'est quoi une démarche scientifique?]]
 - [[Séance 7, 8-Ontologie, épistémologie et méthodologie]]
 - [[Séance 8-Ontologie, épistémologie et méthodologie II]]
+- [[Séance 9, 10-Nouvelles images des sciences]]
+- [[Séance 10-Comment est-ce que nous étudions "la société"?]]
 
 #UNIGE #IntroDémarcheScientifique #Plaque-tournante 

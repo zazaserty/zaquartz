@@ -3,6 +3,31 @@
 - La CIJ maintient que la violation de tout engagement comporte le devoir de faire une réparation.
 - On considère depuis quelques années que le droit de responsabilité internationale n'est pas sur le même plan que les traités ou les autres règles. Les règles qui découlent de la violation sont secondaires. Elles se greffent sur les règles primaires quoi.
 - La branche de ce droit telle que nous l'avons aujourd'hui a vu le jour au 20ème siècle, elle est très moderne. Au 19ème il y avait un droit de la responsabilité, mais sous une autre forme. En cas de violations une négociation était effectué pour arriver à une transaction, et si l'accord était impossible on passait à la guerre. Donc le DIP a toujours eu des sanctions, les pires mêmes.
+- Si la nécessité a été exclue par le législateur. Si la nécessité est prévue dans la norme primaire l'invocation du droit secondaire (ici) n'est pas nécessaire. Il n'y aurait pas de fait illicite.
+- ==Nul ne peut profiter de son propre tort==, cela s'applique ici aussi.
+- Si le péril n'est pas imminent et grave (conséquences massives sur des intérêts essentiels de l'état).
+- Les moyens pour contrer le péril doivent être la dernière et seule option.
+- Le moyen doit être proportionnel au péril imminent.
+- Il est impossible de violer le *jus cogens*.
+​￼#### Effets de la responsabilité
+Si le fait illicite est constitué, quels sont les effets? Que doit-on exiger de l'état responsable? Quand un état est responsable sans possibilité d'y échapper par des conditions d'exclusion, il est confronté à deux voies :
+​￼##### Réparation
+On fait un dommage, on le répare. Classique. Il faut que les états se mettent d'accord, ou un juge peut le faire. C'est l'approche principale. Mais s'ils ne se mettent pas d'accord, et l'état ne veut pas saisir un juge on arrive à un cul-de-sac.
+
+Il faut liquider toutes les conséquences de la violation. Le FII est compensé, comme s'il n'avait jamais été commis. Ceci inclus tout dommage, qu'il soit matériel ou morale. Des fois c'est pas possible de retourner à la même position, mais il faut le faire autant que possible. Néanmoins il n'est pas possible d'utiliser ça pour en tirer un profit de l'état violateur et profiter d'un avantage. On veut revenir à l'équilibre.
+​￼###### **Cessation**
+Si la violation est continue il faut l'arrêter immédiatement et pour toujours. Elle ne doit pas être demandée, elle est automatiquement obligatoire.
+​￼###### **Non-répétition**
+Doit être demandé, le juge ne donne pas cette garantie normalement puisqu'on fait confiance aux états pour ne pas refaire de violations.
+​￼###### **Formes**
+​￼- Restitution (si on a volé).
+	- S'il est possible de restituer il est obligatoire de restituer. On ne peut pas garder l'objet dont on s'est approprié de manière illicite. S'il n'est pas possible de payer, on restitue. L'autre état peut consentir à un paiement néanmoins. Il est aussi possible d'ajouter un paiement à la restitution, ceci va de même pour une satisfaction s'il y a un dommage moral. On essaie, par la restitution, à revenir à l'état antérieur à la violation aussi que possible. Si la restitution ne peut plus être opérée, on fait une indemnisation et/ou une satisfaction. Des fois on pourrait restituer théoriquement, mais en pratique ça serait impossible (**ex** : conflits armés comme celui de l'Ukraine).
+​￼- Indemnisation (payer les dommages).
+	​￼- Proportionnelle, on peut pas indemniser ni payer si ceci met en péril l'existence du violateur. Ici on répare les dommages matériaux. Il y a certains problèmes :
+		- Prouver la causalité, pas naturelle mais juridique. Il faut que, quand le FII est commis, le dommage soit *expectable*. Ça doit être prévisible est proche à l'acte, pas juste une série d’evènements aléatoires. Il y a aussi des intérêts moratoires, si on prend trop de temps à payer. Si plusieurs états participent au FII ils partagent les coûts, ils peuvent soit s'entendre ou demander à un juge de gérer les % de $ en fonction de leur rôle dans le FII. L'état affecté peut choisir qui paie tout et après les violateurs s'entendent, ceci améliore sa situation. ==Nul ne peut profiter de son propre tort==, si on ne fait rien et le dommage s'empire l'état violateur ne paiera pas cet excédent. Quand il est difficile d'établir la somme à payer l'équité est mobilisée.
+		- L’indemnité peut aussi être punitive et pas (juste) justifiée par les pertes. Dans la responsabilité de type *civile* ceci n'a pas de place mais la jurisprudence montre qu'on va bien au delà de la restitution. C'est une controverse.
+​￼- Satisfaction (mesures qui réparent le tort moral).
+	- Ici on ne parle pas de dommages monétaires. De nos jours on va plus loin d'une simple cérémonie avec un drapeau. L'état violateur expresse son regret et, si un tribunal pénal est saisi, un tribunal souligne le caractère illicite de l'acte. La satisfaction doit être proportionnée, certains disent qu'une satisfaction sans conséquences montre à certains états qu'ils peuvent violer des règles comme ils le veulent (controversé). Une satisfaction peut aussi passer par une somme d'argent symbolique.
 	- Ces sanctions existent toujours, sans aller jusqu'à la guerre (contre-mesures). On a maintenant un corps de règles juridiques.
 - On discutera ceci vis-à-vis des états, puisqu'elle est centrée très largement sur l'état. Bien que d'autres sujets puissent encourir une responsabilité à cause de faits illicites, ceci n'est pas le cœur du sujet. Même les groupes armés sont concernés, bien que ce soit difficile de les *punir*.
 ### Histoire

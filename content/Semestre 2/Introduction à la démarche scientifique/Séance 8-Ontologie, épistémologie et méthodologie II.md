@@ -39,17 +39,17 @@ d) Les structures déterminent les dynamiques sociales.
 ##### Quelques points faibles du fonctionnalisme
 - Vision statique (et conservatrice);
 - Difficulté à expliquer le conflit et le changement;
-- La controverse ontologique: est-ce que la société est un tout ?
+- La controverse ontologique : est-ce que la société est un tout ?
 #### L’approche systémique
 Tout système politique comporte en soi sa propre finalité, notamment son maintient ou sa propre reproduction malgré les influences de son environnement.
 
-Pour que cette finalité soit atteinte (donc, qu’il fonctionne et soit en équilibre), le système comporte des éléments fonctionnels. Ces derniers œuvrent par rapport aux caractéristiques structurelles du système (à savoir comment le système est composé). Ainsi, analytiquement, l’approche systémique focalise son attention davantage sur les relations entre éléments fonctionnels sur les éléments eux-mêmes.
+Pour que cette finalité soit atteinte (donc, qu’il fonctionne et soit en équilibre), le système comporte des éléments fonctionnels. Ces derniers œuvrent par rapport aux caractéristiques structurelles du système (à savoir comment le système est composé). Ainsi, analytiquement, l’approche systémique focalise son attention davantage sur les relations entre éléments fonctionnels que sur les éléments eux-mêmes.
 ##### Postulats
 - Le système est un ensemble d’éléments en interaction, donc la totalité des éléments n’est pas réductible à leur somme ;
 - Le système implique l’interdépendance des parties qui le constituent : la modification d’une partie affecte l’ensemble du système ;
 - Le système implique une frontière avec son environnement, mais il est exposé aux influences de son environnement ;
 - Thèse sur le pouvoir : (L’approche systémiste de David Easton (System Analysis of Political Life, 1965).
-	- La politique est « l’allocation autoritaire de valeurs » et le système politique est « l’ensemble des interactions par lesquelles les objets de valeurs sont répartis par voie d'autorité dans une société ».
+	- La politique est *l’allocation autoritaire de valeurs* et le système politique est *l’ensemble des interactions par lesquelles les objets de valeurs sont répartis par voie d'autorité dans une société*.
 - Question de recherche : *Comment les systèmes réussissent-ils à persister dans un monde où règnent à la fois la stabilité et le changement ?*
 ![[Pasted image 20250408154410.png]]
 ##### Quelques points forts du systémisme
@@ -77,7 +77,7 @@ Pour que cette finalité soit atteinte (donc, qu’il fonctionne et soit en équ
 ### Conclusions générales de cette partie
 #### L'importance des niveaux ontologique, épistémologique et méthodologique
 i. Il existe des relations importantes entre comment nous concevons la réalité sociale (ontologie), comment nous pensons pouvoir la connaitre (épistémologie), et comment nous nous prenons pour la connaître de manière rigoureuse (méthodologie);
-ii. Notre manière d'interroger la réalité sociale, d'une part, participe d'un certain nombre de prémisses sur la réalité / nature des phénomènes considérés (conscientes ou inconscientes); d'autre part, elle participe à la construction (par des mots, des chiffres, etc.) de la réalité sociale elle- même;
+ii. Notre manière d'interroger la réalité sociale, d'une part, participe d'un certain nombre de prémisses sur la réalité / nature des phénomènes considérés (conscientes ou inconscientes); d'autre part, elle participe à la construction (par des mots, des chiffres, etc.) de la réalité sociale elle-même;
 iii. La mobilisation d'une une conception ontologique, épistémologique, ou le choix d'une méthode ne sont pas des opérations neutres. Elles nécessitent d'une justification et d'un effort de cohérence théorique.
 iv. Le but de mon propos dans cette partie du cours n'est pas d'affirmer qu'une posture ontologique, épistémologique ou méthodologique est valide / invalide, bonne / mauvaise, ou pertinente / inutile. Il s'agit surtout d'insister sur le fait qu'une démarche de recherche scientifique est cohérente et argumentée ou pas.
 v. Il s'agit donc principalement de vous rendre attentives et attentifs au fait que ces divergences existent et qu'elles sont constitutives du champ des sciences sociales. Il est nécessaire de les connaître pour pouvoir situer et développer votre propre démarche de connaissance scientifique.

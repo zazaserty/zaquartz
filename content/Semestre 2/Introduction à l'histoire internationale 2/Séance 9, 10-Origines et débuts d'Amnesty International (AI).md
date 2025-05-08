@@ -119,6 +119,84 @@
 - Gouvernance : *International Executive Committee*, *International bi-annual Council*.
 - 200 collaborateurs professionnels au siège (dans les années 2000).
 - Bureaux et collaborateurs à New York et à Genève ; AI est accrédité auprès de l’ECOSOC de l’ONU depuis 1964.
-- À cela s’ajoutent des collaborateurs locaux/nationaux et des volontaires qui forment des *groups d’adoption de prisonniers* (*Prisonner adoption groups *) dans une multitude de pays.
+- À cela s’ajoutent des collaborateurs locaux/nationaux et des volontaires qui forment des groupes d’adoption de prisonniers (*Prisoner adoption groups*) dans une multitude de pays.
+#### Principes et modes d'action d'AI
+- Objectif: défendre les droits des *prisonniers de conscience* (= prisonniers politiques ou religieux).
+- Déf. de *prisonnier de conscience* par Eric Baker, universitaire, quaker, secrétaire du National Peace Council en GB, co-fondateur d’AI et ami de Benenson: *prisonniers détenus par un gouvernement exclusivement à cause de leurs convictions politiques, religieux ou philosophiques et qui se sont déclarés contre la violence*.
+##### Principes :
+- AI est politiquement neutre, au-dessus de l’idéologie politique > principe de trois régions.
+- Indépendant des gouvernements (contrairement au CICR), financièrement et politiquement.
+- Condition que les prisonniers de conscience soient non-violents.
+- Loyauté aux principes.
+##### Modes d’opération et d’action
+- Un *Comité international exécutif* (bureau central) s’établit à Londres.
+- Il organise la collecte d’information sur les violations des droits de l’homme, d’abord moyennant des journaux, ensuite par des missions sur place.
+- Dès qu’AI est connu, il obtient des informations en directe par des parents/proches des prisonniers ou les prisonniers eux-mêmes.
+- Il établit des listes des prisonniers de conscience dont les droits de l’homme sont bafoués.
+- Il prend des décisions directives pour le traitement des cas.
+- Et établit un rapport annuel sur l’état des droits de l’homme dans le monde.
+##### *Prisoner Adoption Groups*
+- Grande partie de l’activité entamée par des *Prisoner adoption groups* locaux.
+- Chaque groupe adopte trois prisonniers émanant chacun d’une des trois régions politiques différents (pays capitalistes, communistes, Tiers Monde) et envoie des lettres aux gouvernements concernés et prisons où sont détenus les prisonniers politiques pour appeler l’attention des responsables au fait que le sort du prisonnier est observé internationalement.
+- Revendications : libération, *fair trial*, conditions de détention acceptables.
+##### Particularités par comparaison à d’autres ONG
+- AI s’adresse dès le début aux gouvernements ainsi qu’à l’opinion publique.
+- Il dénonce les Etats qui bafouent les DH.
+- Commence à se professionnaliser rapidement.
+- Pour renforcer l’effet des groupes d’adoption des prisonniers, comité exécutif organise des campagnes autour de certains prisonniers ou types de violation des droits de l’homme.
+- AI commence lutte pour l’adoption des normes au niveau international et participe au *monitoring*.
+##### Coopérations
+- CICR, la Commission internationale des juristes (fondée Genève 1952), plus tard aussi avec Human Rights Watch et d’autres ONG fondées après AI; lien avec l’ONU établi grâce au juriste et diplomate irlandais Sean MacBride, membre du Comité exécutif d’AI et secrétaire-général CIJ (1963-70).
+#### Vers l'autorité morale : l'accréditation à l'ONU
+- L’accréditation d’AI (en 1964) en tant que ONG à statut consultatif par l’ECOSOC témoigne de l’autorité morale qu’elle a acquise et renforce celle-ci.
+- Accréditation suit lorsque l’ONG a établi une réputation de fiabilité grâce à des recherches bien menées et des informations précises qu’elle peut fournir, l’établissement d’une unité de recherche compétente en était une condition de facto; dans le cas d’AI elle est aussi la conséquence du fait qu’il avait des partisans parmi les gouvernements (la Suède, l’Irlande).
+- L’ONU ne peut pas vraiment superviser les Etats, étant une organisation internationale; les Etats-membres ont tendance à ne critiquer que l’adversaire idéologique, mais pas leurs alliés ou des Etats avec un système politique similaire de leur, le reconnaissant l’ONU cherche à partir des années 1960 activement le contact avec des ONG.
+- AI présent et actif lors de la Conférence des droits de l’homme de l’ONU en 1968 (à Téhéran).
+- Sean MacBride, officier de liaison d’AI à la Commission des droits de l’homme de l’ONU, créé un sous-comité permanent des ONG des droits de l’homme dans le cadre de la Conférence des ONG ayant un statut consultatif à l’ONU (CONGO).
+- Représentation d’AI à l’ONU New York au départ assuré par des volontaires d’AI USA, à partir de 1974 professionnalisation avec un membre du comité exécutif (Andrew Blane) et une secrétaire (Margo Picken, formellement engagé par AI 1977), dans le contexte de la campagne d’AI contre la torture.
+#### Campagnes et leur résultats concrets
+- Campagnes principales (années 1960-80) :
+	- prisonniers de conscience,
+	- torture,
+	- *disparitions* et
+	- exécutions extrajudiciaires
+- Années 2000 :
+	- Pour les droits économiques, culturels et sociaux des peuples indigènes.
+	- Après la fin du conflit idéologique entre communisme et capitalisme, le principe des trois régions ne s’applique plus.
+	- AI devient plus tiers-mondiste.
+#### La construction des normes internationales
+Trois modèles d’explication : stato-centré, institutionnalisme, société civile (*advocacy*). En réalité plusieurs explications.
+- AI contribue à exercer de la pression, moyennant son expertise et statut consultatif ainsi que par ses campagnes, en faveur:
+	- d’une Convention sur l'élimination de toutes les formes de discrimination raciale (1965).
+	- Pacte pour les droits politiques et civils (1966) et création de mécanismes d'enquête sur les violations des droits de l'homme par la Commission des droits de l’homme de l'ONU.
+	- Son apport a été crucial pour la Convention contre la torture et autres peines ou traitements cruels, inhumains ou dégradants (1984).
+	- Deuxième protocole facultatif se rapportant au Pacte international relatif aux droits civils et politiques, visant à abolir la peine de mort (1989).
+	- AI crucial pour la Convention internationale pour la protection de toutes les personnes contre les disparitions forcées (1990).
+	- Protocole facultatif à la Convention contre la torture et autres peines ou traitements cruels, inhumains ou dégradants (2002).
+- 2006 : création du Conseil des droits de l’homme pour améliorer le système de *surveillance* de l’ONU.
+#### AI et l'ONU
+Ramesh Thakur souligne la complémentarité d’AI avec l’ONU.
+- Théâtre pour la négociation des normes (*forum for norm-setting*) : ONU.
+- Mais AI peut demander des standards plus rigoureux que les gouvernements les plus réticents ne sont prêts à accepter et exercer de la pression en mobilisant l’opinion publique.
+- Les campagnes d’AI contribuent largement à exercer des pressions sur les gouvernements.
+- *Monitoring* et vérification : AI
+	- ONU ne peut pas le faire aussi bien qu’AI, car en tant qu’organisation interétatique elle dépend des gouvernements.
+	- AI est libre et indépendant, elle peut récolter des informations sur place et moyennant des contacts directs avec les prisonniers de conscience ou les parents et amis concernés, tandis que l’ONU (ses comités des d.h.) n’opère officiellement qu’à la base des rapports des Etats sur la situation des droits humains.
+- Suivi et mise en vigueur (compliance and enforcement): coopération
+	- AI ne peut pas contraindre les gouvernements à appliquer les normes, mais elle peut faire intervenir l’opinion publique s’il n’y a pas application, elle peut mobiliser l’opinion.
+	- ONU peut condamner des violations au grand jour, mais n’a pas les moyens pour mobiliser la société internationale contre un Etat-membre ; le Conseil de sécurité ne peut intervenir que si une violation des droits de l’homme nuit la sécurité internationale.
+- AI a reçu le Prix Nobel de la paix en 1977, après l’entrée en vigueur des deux Pactes de 1966.
+### Conclusion
+- AI se caractérise par son impartialité dans la guerre froide et dans le conflit nord-sud.
+- Impartialité, professionnalisation et expertise comme base de l’autorité morale.
+- AI fixe le respect des droits de l’homme comme base de la *bonne gouvernance*.
+- Pression directe et moyennant l’opinion publique sur gouvernements, délégitimation des *mauvais* gouvernements.
+- Accréditation à l’ECOSOC et participation à l’ONU renforce influence.
+- Complémentarité avec l’ONU, car AI indépendant des gouvernements, dispose de capacités autonomes de recherche et de mobilisation.
+- Succès :
+	- Amélioration des conditions de détention, libération des détenus.
+	- Suscite l’attention pour déterminer l’agenda politique et orienter les négociations juridiques internationales,
+	- a contribué à maintes reprises à discréditer internationalement des dictatures (Grèce, Espagne, Portugal, Afrique du Sud, Amérique latine, Europe de l’Est) et a contribué à leur effondrement.
+- AI reçoit le prix Nobel de la paix en 1977, une année l’entrée en vigueur des deux Pactes pour les droits de l’homme.
 
 #UNIGE #Intro-histoireinter2 

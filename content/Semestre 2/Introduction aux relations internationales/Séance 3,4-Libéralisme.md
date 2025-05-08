@@ -132,7 +132,7 @@ Les institutions aident à surmonter les dilemmes d‘action collective et à st
 - L'information et la transparence (visibilité de fraudes).
 - La communication et les négociations.
 - Des mécanismes de surveillance et de sanction.
-- L'augmentation des coûts de la non-conformité (Shadow of the future, réciprocité).
+- L'augmentation des coûts de la non-conformité (*Shadow of the future*, réciprocité).
 - Réduisent l‘incertitude, favorisent la prévisibilité, créent un climat de confiance, baissent les coûts de transaction.
 - Terme *régime international* pour décrire les institutions: *set of implicit or explicit principles, norms, rules and decision-making procedures around which actors‘ expectations converge in a given area of international relations*.
 ### Récapitulation: notions essentielles du libéralisme

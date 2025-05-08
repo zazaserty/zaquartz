@@ -49,7 +49,7 @@ Désaccord sur la distribution des gains de la libre circulation des capitaux.
 #### Exemple : Apple
 ![[Pasted image 20250403144346.png]]
 ##### Sites de production
-- Chine (330), Japon (148), USA (75), Corée du Sud (38), Taı̈wan (35), Malaisie (26), Philippines (23), Thaı̈land (19), Sin- gapour (18), Allemagne (13), Vietnam (10), ...
+- Chine (330), Japon (148), USA (75), Corée du Sud (38), Taı̈wan (35), Malaisie (26), Philippines (23), Thaı̈land (19), Singapour (18), Allemagne (13), Vietnam (10), ...
 ##### Liste de fournisseurs
 - [Là](https://www.apple.com/supply-chain/).
 ##### Risque

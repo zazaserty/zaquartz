@@ -8,23 +8,23 @@
 #### Définition
 - *Institutions qui aident leurs membres à coopérer militairement dans l’éventualité d’une guerre* (Frieden et al., p. 189).
 - Comme toutes les institutions, les alliances spécifient des normes de comportement, ou des attentes quant à la manière dont les États doivent se comporter dans certaines conditions.
-	→ Types de provisions: défense, attaque, neutralité, non-aggression, consultation.
-- Alliances défensives VS alliances offensives:
-- Alliance offensive: accord entre Etats dans le but d’attaquer un autre Etat, ex: Pacte germano-soviétque (1939).
-- Alliance défensive: les Etats s’engagent à défendre si un membre est attaqué, ex: OTAN.
-- Les alliances codifient également les accords entre leurs membres qui règlent les questions de répartition: alliances symétriques VS asymétriques.
+	→ Types de provisions : défense, attaque, neutralité, non-aggression, consultation.
+- Alliances défensives VS alliances offensives :
+	- Alliance offensive : accord entre Etats dans le but d’attaquer un autre Etat, **ex**: Pacte germano-soviétique (1939).
+	- Alliance défensive : les Etats s’engagent à défendre si un membre est attaqué, **ex**: OTAN.
+- Les alliances codifient également les accords entre leurs membres qui règlent les questions de répartition : alliances symétriques VS asymétriques.
 ##### Exemples
-- Organisation du Traité de Sécurité Collective (2002): Arménie, Biélorussie, Kazakhstan, Kyrgyzstan, Russie et Tajikistan.
+- Organisation du Traité de Sécurité Collective (2002) : Arménie, Biélorussie, Kazakhstan, Kyrgyzstan, Russie et Tajikistan.
 - Pacte de non-agression et de défense commune de l’Union africaine (UA), première alliance militaire panafricaine, en janvier 2005.
 #### Les alliances militaires: Comment les expliquer?
-- Premier postulat: Partage d’intérêts communs.
-- Deux principales explications pour la formation d'alliances militaires:
+- Premier postulat : Partage d’intérêts communs.
+- Deux principales explications pour la formation d'alliances militaires :
 	1. *balancing*: des Etats se mettent ensemble pour augmenter leurs capacités militaires pour préserver l’équilibre de puissance (*balance of power*) et pour contrer une menace.
 	2. *bandwagoning* (*suivre le mouvement*): stratégie dans laquelle les Etats se mettent avec le côté le plus fort (Frieden et al., p. 193).
-- Possibilité de choisir plusieurs partenaires pour faire contrepoids à l’Etat/groupe le plus fort: rôle de la compatibilité idéologique/religieuse.
-- Les Etats forts ne provoquent pas tous les mêmes processus d’équilibrage: rôle de la proximité géographique et de la similarité culturelle/idéologique, ex: Etats-Unis depuis la fin de la Guerre Froide VS Russie d'aujourd'hui qui est perçue comme une menace par pays baltes/de l'Est par exemple.
+- Possibilité de choisir plusieurs partenaires pour faire contrepoids à l’Etat/groupe le plus fort : rôle de la compatibilité idéologique/religieuse.
+- Les Etats forts ne provoquent pas tous les mêmes processus d’équilibrage : rôle de la proximité géographique et de la similarité culturelle/idéologique, **ex**->Etats-Unis depuis la fin de la Guerre Froide VS Russie d'aujourd'hui qui est perçue comme une menace par pays baltes/de l'Est par exemple.
 ### Les alliances militaires et le modèle de négociation de Frieden et al.
-- La possibilité d’intervention par un allié influence la négociation entre deux Etats en changeant: 1) le résultat en cas de guerre (*war outcome*) et 2) les coûts de la guerre.
+- La possibilité d’intervention par un allié influence la négociation entre deux Etats en changeant : 1) le résultat en cas de guerre (*war outcome*) et 2) les coûts de la guerre.
 - La fourchette de négociations se déplace en faveur de A donc dissuasion de commencer une guerre.
 - Mais comment être sûr que l’allié va intervenir en cas de guerre? → les alliances jouent un rôle dans les négociations en influençant sur l’incertitude. Ce sont des signaux pour les autres Etats.
 ![[Pasted image 20250310122942.png]]
@@ -35,7 +35,7 @@
 ### Le dilemme de sécurité des alliances militaires
 ##### Quels sont les risques associés à une alliance?
 - Renforcement des alliés et donc risque de comportement opportuniste (*risk-return trade-off*).
-- *Entrapment* (être pris au piège): « *risque d’être traîné dans une guerre non voulue à cause d’actions opportunistes d’un allié* » (Frieden et al., p. 199).
+- *Entrapment* (être pris au piège): *risque d’être traîné dans une guerre non voulue à cause d’actions opportunistes d’un allié* (Frieden et al., p. 199).
 - Une garantie à 100% n’est pas désirable, parce que Etat C ne veut pas se lier à n’importe quelle action extrême d’Etat A →besoin d’ambiguité stratégique et de flexibilité.
 	→ *trade-off* entre le besoin de crédibilité des alliances et le besoin de contrôler les membres de l’alliance (i.e. dilemme de sécurité des alliances).
 ### L'OTAN: dates clés
@@ -70,15 +70,15 @@
 	- Règle des 20% des budgets de défense pour l'acquisition d'équipements majeurs depuis 2014.
 ### Activités
 Sécurité collective (article 5): invoquée la première et unique fois suite aux attentats du 11 septembre 2001:
-	*Les parties conviennent qu'une attaque armée contre l'une ou plusieurs d'entre elles survenant en Europe ou en Amérique du Nord sera considérée comme une attaque dirigée  contre toutes les parties, et en conséquence elles conviennent que, si une telle attaque se produit, chacune d'elles, dans l'exercice du droit de légitime défense, individuelle ou collective, reconnu par l'article 51 de la Charte des Nations Unies, assistera la partie ou les  parties ainsi attaquées en prenant aussitôt, individuellement et d'accord avec les autres parties, telle action qu'elle jugera nécessaire, y compris l'emploi de la force armée, pour rétablir et assurer la sécurité dans la région de l'Atlantique Nord. Toute attaque armée de cette nature et toute mesure prise en conséquence seront immédiatement portées à la connaissance du Conseil de sécurité. Ces mesures prendront fin quand le Conseil de sécurité aura pris les mesures nécessaires pour rétablir et maintenir la paix et la sécurité internationales.*.
+	*Les parties conviennent qu'une attaque armée contre l'une ou plusieurs d'entre elles survenant en Europe ou en Amérique du Nord sera considérée comme une attaque dirigée contre toutes les parties, et en conséquence elles conviennent que, si une telle attaque se produit, chacune d'elles, dans l'exercice du droit de légitime défense, individuelle ou collective, reconnu par l'article 51 de la Charte des Nations Unies, assistera la partie ou les  parties ainsi attaquées en prenant aussitôt, individuellement et d'accord avec les autres parties, telle action qu'elle jugera nécessaire, y compris l'emploi de la force armée, pour rétablir et assurer la sécurité dans la région de l'Atlantique Nord. Toute attaque armée de cette nature et toute mesure prise en conséquence seront immédiatement portées à la connaissance du Conseil de sécurité. Ces mesures prendront fin quand le Conseil de sécurité aura pris les mesures nécessaires pour rétablir et maintenir la paix et la sécurité internationales.*.
 #### Activités principales
-1. Dissuasion et défense: capacités militaires pour dissuasion crédible et posture de défense, test des capacités et entraînement, favoriser l’interopérabilité.
+1. Dissuasion et défense : capacités militaires pour dissuasion crédible et posture de défense, test des capacités et entraînement, favoriser l’interopérabilité.
 2. Prévention et gestion des crises : exercices, sécurité humaine.
 3. Sécurité coopérative.
 ### L'OTAN et le premier mandat de Donald Trump
 - Rhétorique agressive pendant la campagne et pendant le mandat mais continuité dans le soutien logistique et matériel à l’alliance
 - Comment expliquer cette différence entre les paroles et les actes?
-	1. importance des acteurs domestiques dans le soutien à l’OTAN (*foreign policy establishment*) (Porter 2018).
+	1. Importance des acteurs domestiques dans le soutien à l’OTAN (*foreign policy establishment*) (Porter 2018).
 	2. Comportement rationnel en lien avec les bénéfices pour les Etats-Unis, forte institutionnalisation de l’OTAN (Sperling and Webber 2019).
 	3. Personnalité/psychologie de Trump.
 	4. Rôle du Secrétaire-General de l’OTAN et de la bureaucratie (Schuette 2021).
@@ -104,7 +104,7 @@ Sécurité collective (article 5): invoquée la première et unique fois suite a
 - Sommet OTAN Washington 2024: confirmation que *l’avenir de l’Ukraine est dans l’OTAN*.
 #### Contribution
 - Les membres de l’OTAN fournissent 99% de l’aide à l’Ukraine.
-- 2 types d’aide:
+- 2 types d’aide :
 	1. Assistance militaire non léthale.
 	2. Projets de renforcement des capacités (environ 955 millions d’euros jusqu’en février 2025).
 #### Rôle dans le conflit

@@ -42,8 +42,7 @@ On parle de défaillances de marché lorsque l’équilibre de marché n’about
 - Une délocalisation de la pollution (*Havre de pollution*).
 - Effets nets ?
 #### Croissance, commerce et environnement
-- Commerce agit sur l’activité économique consommation, est souvent source de pollution qui, production comme.
-- Croissance économique, en multipliant les volumes produits et consommés, devrait donc toujours conduire a plus de dommages environnementaux.
+- Commerce agit sur l’activité économique consommation, est souvent source de pollution qui, production comme croissance économique, en multipliant les volumes produits et consommés, devrait donc toujours conduire a plus de dommages environnementaux.
 - Relation Croissance économique / émissions polluantes pas linéaire.
 - Courbe de Kuznets environnementale.
 ![[Pasted image 20250414095009.png]]
