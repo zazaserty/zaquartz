@@ -1,21 +1,21 @@
 ## Ontologie, épistémologie et méthodologie dans les sciences sociales II
 ### L'une des controverses dans les sciences sociales concernant la manière d'expliquer les phénomènes sociaux et la nature des entités sociales
-- Individualisme méthodologique vs Holisme: deux perspectives différentes sur la façon dont la société fonctionne et sur le niveau d'analyse le plus pertinent pour comprendre les phénomènes sociaux.
-#### Holisme (ex: Durkheim).
+- Individualisme méthodologique vs Holisme : deux perspectives différentes sur la façon dont la société fonctionne et sur le niveau d'analyse le plus pertinent pour comprendre les phénomènes sociaux.
+#### Holisme (**ex** : Durkheim).
 - Les phénomènes sociaux doivent être compris à un niveau plus élevé d'analyse, au-delà des actions et des motivations individuelles. Il soutient que la société est plus que la somme de ses parties et que les structures sociales, les institutions et les systèmes ont une réalité et une influence indépendantes des individus qui les composent.
 - Les entités sociales telles que les normes, les valeurs, les institutions, ou classes sociales ont une existence et une causalité propres qui déterminent les comportements et les interactions des individus.
-#### Individualisme (ex: Olson)
+#### Individualisme (**ex** : Olson)
 - Les actions et les motivations des individus sont les unités d'analyse fondamentales pour expliquer les phénomènes sociaux. Ces derniers doivent être expliqués en termes d'actions rationnelles et de choix des individus, en mettant l'accent sur l'agence individuelle et les motivations personnelles.
 - Selon cette perspective, les structures sociales et les institutions sont le résultat des actions et des interactions individuelles, et leur existence et leur fonctionnement sont déterminés par les choix et les comportements des individus.
 ### Individualisme méthodologique
 #### Thèse principales
 a) Individu comme base de l’explication ; un phénomène social est la conséquence d’actions individuelles;
-b) L’individu est informé (mais: rationalité limitée, Simon (1978)) connaît ses objectifs et peut les hiérarchiser selon ses préférences;
-c) Postulat ontologique : l'individu est rationnel; il choisit l'action la plus efficace pour satisfaire ses objectifs homo oeconomicus : *Confrontés à des alternatives, les individus choisissent généralement l’option qu’ils croient leur apporter le meilleur résultat final* (Elster). Donc, entre deux moyens pour satisfaire ses objectifs, il choisira le plus rationnel et donc le moins coûteux.
+b) L’individu est informé (mais : rationalité limitée, Simon (1978)) connaît ses objectifs et peut les hiérarchiser selon ses préférences;
+c) Postulat ontologique : l'individu est rationnel; il choisit l'action la plus efficace pour satisfaire ses objectifs homo œconomicus : *Confrontés à des alternatives, les individus choisissent généralement l’option qu’ils croient leur apporter le meilleur résultat final* (Elster). Donc, entre deux moyens pour satisfaire ses objectifs, il choisira le plus rationnel et donc le moins coûteux.
 #### Un exemple : La théorie des incitations sélectives (M. Olson, *La logique de l'action collective, 1978*)
 - La logique de l’action collective est différente de la logique de l’action individuelle;
 - Un individu ne s’engage dans une action collective qu’à condition d’y trouver un intérêt propre, même s’il a intérêt à ce que le bien collectif se réalise;
-- Les free riders (à savoir ceux qui bénéficient des avantages liés à l’action collective mais sans en assumer les coûts);
+- Les *free riders* (à savoir ceux qui bénéficient des avantages liés à l’action collective mais sans en assumer les coûts);
 - Les organisations doivent mettre en œuvre des incitations sélectives pour forcer les individus à se mobiliser (punitions ou avantages).
 ### Les approches dépassant les individus : fonctionnalisme, systémisme et structuralisme
 #### Thèse générales
@@ -72,8 +72,8 @@ Pour que cette finalité soit atteinte (donc, qu’il fonctionne et soit en équ
 - Elle vise à dépasser l’opposition classique entre structure (règles, institutions) et action (comportement des individus) et rechercher la dualité entre les deux concepts / théories.
 - Structure et action sont co-constitutives : la structure n’existe que par l’action des individus, et en même temps, elle conditionne cette action.
 - La structure fournit des règles et des ressources que les individus utilisent dans leurs actions; mais en agissant, les individus reproduisent, transforment ou donnent une finalité / sens à ces structures.
-- Exemple : parler une langue. Les règles grammaticales (structure) guident notre discours, mais c’est en parlant (action) qu’on maintient ou on modifie la langue.
-- Donc: les individus ne sont ni totalement libres, ni entièrement déterminés : ils sont des agents réflexifs, capables de comprendre et d’agir sur leur monde social.
+- **Exemple** : parler une langue. Les règles grammaticales (structure) guident notre discours, mais c’est en parlant (action) qu’on maintient ou on modifie la langue.
+- Donc : les individus ne sont ni totalement libres, ni entièrement déterminés->ils sont des agents réflexifs, capables de comprendre et d’agir sur leur monde social.
 ### Conclusions générales de cette partie
 #### L'importance des niveaux ontologique, épistémologique et méthodologique
 i. Il existe des relations importantes entre comment nous concevons la réalité sociale (ontologie), comment nous pensons pouvoir la connaitre (épistémologie), et comment nous nous prenons pour la connaître de manière rigoureuse (méthodologie);

@@ -8,6 +8,7 @@
 - [[Séance 13-Make America Great Again]]
 - [[Séance 14-Les politiques commerciales III]]
 - [[Séance 15,16-Macroéconomie Internationale]]
-- [[Séance 16, 17-L'architecture financière internationale]]
+- [[Séance 16, 17, 18, 19-L'architecture financière internationale]]
+- [[Séance 19-La BNS]]
 
 #UNIGE #Introduction-économie-internationale #Plaque-tournante 

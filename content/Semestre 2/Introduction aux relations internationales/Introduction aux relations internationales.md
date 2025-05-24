@@ -19,5 +19,8 @@
 - [[Séance 19-Race et post-(et)décolonialisme]]
 - [[Séance 20-Nouvel ordre mondial]]
 - [[Séance 21-Droit et normes internationaux]]
+- [[Séance 22-Droits humains]]
+- [[Séance 23-Enjeux Climatiques]]
+- [[Séance 24-La coopération international sur le climat]]
 
 #UNIGE #Introduction-aux-ri #Plaque-tournante 

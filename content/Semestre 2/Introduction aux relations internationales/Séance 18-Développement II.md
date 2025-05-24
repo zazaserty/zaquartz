@@ -2,10 +2,10 @@
 ### La Première Mondialisation
 #### Structure d'ensemble de l'économie mondiale
 1. Réseau en étoile (*Hub-and-spoke*) = pays avancés exportent bien manufacturés et capital + importent matières premières et biens agricoles. *Première mondialisation*.
-2. Stratégies des pays en développement (indépendants ou coloniaux) dominées par intérêts tournés vers exportation de matières premières et produits agricoles = *bourgeoisie comprador* dans terminologie marxiste.
+2. Stratégies des pays en développement (indépendants ou coloniaux) dominées par intérêts tournés vers exportation de matières premières et produits agricoles = *bourgeoisie comprador* qui se bénéfice, dans terminologie marxiste.
 #### Forces sociales
 - Forces sociales réactionnaires + favorables à l’ouverture économique et intégration dans économie mondiale = pas de protections tarifaires (favorables à importation produits manufacturés Nord Global), étalon-or (stabilité monétaire), garanties aux flux internationaux d’investissement.
-- **Exemples** contemporains: pétromonarchies du Golfe Persique.
+- **Exemples** contemporains : pétromonarchies du Golfe Persique.
 #### Problèmes
 - Modèle mis à mal par crises successives : 1e GM, Grande Dépression après 1929, désintégration économique années 1930s, 2e GM = Nord Global se tourne sur lui-même.
 - Termes de l’échange évoluent défavorablement pour pays en développement après 1929 = prix agricoles déclinent fortement.
@@ -19,7 +19,7 @@
 - Période = fin 1930s à début 1980s (grande crise de l’endettement).
 #### Groupes sociaux gagnants et perdants
 - Gagnants = classes urbaines: industriels locaux, ouvriers, bureaucrates étatiques, professions libérales (*bourgeoisie nationale* dans terminologie marxiste) Groupes sociaux représentant facteurs de production rares (*scarce*) = protectionnisme.
-- Perdants = secteur agricole et primaire (anciennes classes dominanes + ouvriers agricoles) + banques étrangères.
+- Perdants = secteur agricole et primaire (anciennes classes dominantes + ouvriers agricoles) + banques étrangères.
 #### ISI
 1. Expropriations multinationales Nord Global + propriété publique des grandes entreprises.
 2. Ne plus importer biens manufacturés mais les produire domestiquement = barrières aux importations + industries naissantes domestiques (Mexique et Brésil lancent industries automobiles).
@@ -55,10 +55,10 @@
 4. Protectionnisme / politique industrielle d’industries naissantes classique (Etats-Unis et Allemagne au 19e siècle).
 5. Salaires réels ouvriers comprimés dans secteurs exportateurs (rareté biens consommation, faibles salaires nominaux = hostilité aux organisations syndicales) / contraire ISI.
 6. Pas de propriété étatique du capital.
-7. Pas de grands monopoles industriels mais oligopoles incités à se livrer concurrence (p.e. industrie automobile japonaise).
+7. Pas de grands monopoles industriels mais oligopoles incités à se livrer concurrence (**p.e.** industrie automobile japonaise).
 8. Soutien américain multiforme = dépenses militaires prises en charge, accès privilégié au marché américain sans contreparties. Ils ferment aussi les yeux face au protectionnisme (lequel persiste est et toujours d'actualité) japonais entre autres.
 #### Conséquences
-- Grand succès de conversion de ISI vers ITE = Chine à partir de 1979 (et dans moindre mesure Inde).
+- Grand succès de conversion de ISI vers ITE = Chine à partir de 1979 (et dans une moindre mesure Inde).
 - Exportations chinoises passent de $9 en 1979 à $253 milliards en 2000 (adhésion à l’OMC en 2001).
 - PIB par tête passe de moins de $200 en 1980 à plus de $10 000 en 2020.
 - Chine devient grand défenseur économie mondiale ouverte – contre Etats-Unis désormais.

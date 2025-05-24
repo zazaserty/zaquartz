@@ -127,5 +127,167 @@
 #### Taux de change vis-à-vis du $ (Janvier 1967-Decembre 1977)
 Nombre de $ nécessaires pour acheter 1 unité de la monnaie de chaque pays, base 100 en janvier 1967 (donc une augmentation de ce taux de change représente une appréciation de la monnaies vis-à-vis du $).
 ![[Pasted image 20250505095918.png]]
+Après l’effondrement de Bretton Woods, Les Européens sont livrés à eux-
+mêmes et mettent successivement en place:
+- Le serpent Monétaire.
+- Le système monétaire européen.
+- L’union monétaire.
+#### Le Serpent Européen
+- Première réponse en 1971 a été de mettre en place le Serpent Européen, dont l’objectif est de limiter les fluctuations intra-européennes des taux de change.
+- 1971 = dernier effort pour sauver le système de Bretton Woods = marges de fluctuations de +/-2.25% vis-à-vis du $:
+- Les monnaies autres que le $ peuvent fluctuer jusqu’à 9% les unes par rapport aux autres.
+- Certains pays européens (les CE-6 membres+ Danemark, Irlande, Norvège, UK et Suède) trouvent ces marges trop importantes et décident de maintenir leur taux de change bilatéral dans un intervalle de +/-2.25% entre eux.
+- Connu sous le nom de *Serpent dans le Tunnel*.
+- Fin du système de Bretton Woods en 1973: Les pays européens décident de garder le serpent.
+- Problème: pas de mécanisme de “¡*punition* (*No enforcement mechanism*), trop fragile pour survivre; plusieurs pays doivent sortir de l’accord du *serpent*.
+- Conduit au Système Monétaire Européen SME.
+##### 4 formes du SME
+- 1979-85 : SME-1 avec des bandes de fluctuations étroites (±2.25%) et symétrique.
+- 1986-92 : SME-1 centré sur le DM, et en évitant les réalignements.
+- 1993-99 : SME-1 avec des bandes larges (±15%).
+- 1999- : SME-2, asymétrique, pour rentrer dans la zone euro.
+#### Le SME / Les Accords du SME
+- Le SME (1979) contient 2 principales composantes :
+	- Le *Mécanisme de Change Européen* MCE.
+	- L’ECU.
+- SME =tous les pays de la CE étaient membres *de facto*.
+- MCE= accord optionnel.
+	- = Belgique, Danemark, France, Allemagne, Irlande, Italie et Pays-Bas (1973) + Espagne (1989) + UK (1990) + Portugal (1992).
+	- = Comme Bretton Woods, le MCE était un système *fixe mais ajustable*.
+##### Le Mécanisme de Change Européen
+###### **Une grille de Parité**
+- Les pays participants au MCE déterminent un taux de change officiel (taux central) pour leur monnaie et une bande de fluctuation autour de ce taux central à l’intérieur de laquelle les taux peuvent fluctuer librement.
+- Cette bande est fixée à :
+	- ±2.25% pour la plupart des pays (Belgique, Danemark, France, Allemagne, Irlande et Pays-Bas).
+	- ±6% pour l’Italie jusqu’en 1990 (± 2.25% après 1990).
+	- ± 6% pour les nouveaux arrivants.
+###### **Gestion conjointe des réalignements de taux de change**
+- Tout changement dans le taux de change bilatéral (taux central) est décidé conjointement avec l’ensemble des membres.
+- Objectif : éviter les pratiques de guerres commerciales via des dévaluations compétitives.
+- Ces réalignements ont été très fréquents durant la première moitié des 1980s (plus de 10). Moins fréquent par la suite :
+	- 1987-92 : aucun réalignement.
+	- 1992-93 : plusieurs réalignements nécessaires.
+###### **L'entraide mutuelle**
+Les monnaies peuvent être *attaquées* et perdre de la valeur. Quand cela arrive la Banque Centrale doit racheter sa propre monnaie avec ses réserver en devises étrangères. Mais quand les réserves se finissent... et ben le marché a gagné et il faut dévaluer la monnaie.
+
+Mais dans ce système on s'entraide et les banques voisines des autres nations dépensent leur réserves automatiquement pour ne pas permettre que les autres monnaies se dévaluent. Les spéculateurs doivent donc faire face à un système plus crédible et on plus de mal à calculer les réserves de toutes ces banques.
+#### Le SME / Le SME et le Triangle d'incompatibilité
+- L’évolution du SME peut être expliquée via le *Triangle d’incompatibilité* de Mundell (*impossible trinity principle*).
+	- = impossibilité d’avoir simultanément les 3 caractéristiques suivantes :
+		![[Pasted image 20250512084558.png]]
+- Problème car les pays dans le MCE devaient aussi libéraliser les mouvements de capitaux, tout en voulant maintenir une politique monétaire indépendante.
+- Explique les crises du SME.
+#### Le SME / 1ère version du SME (1979-1985) : accord pour diverger
+- SME conçu pour éviter d’importantes fluctuations de change intra-européennes = *fixe mais ajustable*.
+- Après le premier choc pétrolier de 1973, les taux d’inflation ont commencé à diverger, renforcé par le second choc.
+- Sachant qu’en parallèle les pays devaient libéraliser les mouvements de capitaux, les pays membres du MCE font face à 2 choix :
+	- Plan A: consacrer leur politique monétaire à l’impératif du taux de change fixe => nécessite des taux d’inflation similaires.
+	- Plan B : accepter les divergences dans les taux d’inflation et ajuster les taux de change aussi souvent que nécessaire pour éviter les problèmes de compétitivité et de déficit commercial.
+- Plan B est choisi par défaut dans la première période du SME.
+	![[Pasted image 20250512085514.png]]
+	![[Pasted image 20250512085539.png]]
+##### Principales difficultés du plan B
+- Entre 2 réalignements, les pays à forte inflation subissent une détérioration de leur balance commerciale.
+- Les réalignements étaient facilement prévisibles => les spéculateurs accumulent des devises des pays à faible inflation contre les devises des pays à forte inflation => stabilité monétaire difficile.
+##### Et toujours problème à admettre le plan A (cible d’inflation)
+- En 1983: France a connu 3 dévaluations en 1 année, chacune au terme d’attaques spéculatives très couteuses.
+	- Stratégie de désinflation compétitive.
+	- Toutes les BC suivent la Bundesbank, utilisant dans les faits le DM comme un ancrage.
+	- 1987-1992: plus de réalignement pour la France.
+##### Taux de change : nombre de francs nécessaire pour acheter 1 mark (parenthèse)
+- (donc une augmentation de ce taux de change représente une appréciation du mark ou une dépréciation du franc).
+![[Pasted image 20250512093347.png]]
+##### Suite
+- Entre 1987-93 (même après la crise spéculative) la parité est dans une phase - stable. Durant cette période, pour respecter l’objectif de 1992 de l’Acte Unique Européen (signé en 1986, opérationnel en 1987), les contrôles de capitaux ont été démantelés au sein de l’Europe (formellement éliminés en 1990).
+	- Conformément au triangle d’incompatibilité, toutes les banques centrales ont, dans les faits, abandonné leur capacité à mener une politique monétaire indépendante.
+	- La seule BC libre d’agir = la Bundesbank.
+	- Volonté grandissante chez les autres pays de mettre en place une union monétaire – et ainsi la possibilité de retrouver un peu d’influence sur leur politique monétaire.
+##### La crise de 1992-1993
+- Durant la longue période de stabilité des taux de change (avec le DM comme ancrage) les problèmes s’accumulent :
+	- Les taux d’inflation ne convergent pas complétement (Italie, Espagne ou Portugal => perte dangereuse de compétitivité.
+	- Chute du mur de Berlin => explosion des dépenses publiques allemandes + salaires des travailleurs est-allemands réévalués => poussée d’inflation => la Bundesbank augmente brusquement ses taux d’intérêt.
+		- Trop haut pour les autres pays membres du MCE qui ne voulaient pas laisser le DM s’apprécier.
+		- Début des 1990s marquée par une faible croissance.
+		- Le MCE devient suspect.
+	- Le traité de Maastricht, signé en 1991, devait être ratifié par chaque pays membre durant l’année 1992.
+- *Non* au Danemark.
+- Attaques spéculatives commencent immédiatement, initialement contre l’Italie et le RU (cf, article : Blog *Coulisses de Bruxelles*.
+- Les marchés attaquent: la crise monétaire de 92-93).
+- La Bundesbank intervient au départ (intervention illimitée) mais arrête son soutien à la fin de 1992.
+- La Lire (Italie) et la Livre (RU) sortent du MCE.
+- Spéculations se dirigent alors vers les devises Irlandaise, Portugaise et Espagnole qui doivent être dévaluées à 2 reprises.
+- Contagion touche ensuite la Belgique, Danemark et la France alors même que leurs monnaies n’étaient pas surévaluées.
+- Les autorités monétaires adoptent en 1993 de larges bandes de fluctuations (±15%).
+- Intégration monétaire semble en échec.
+#### Un SME plus souple 1993-1998
+- Le SME post-crise : diffère peu d’un régime de change flottant.
+- Les parités bilatérales peuvent varier de 30%.
+	- Une des 5 pré-conditions pour renter dans l’UME est de rester au moins 2 ans comme membres du MCE (voir section suivante).
+- L’Italie retourne dans le MCE en 1997.
+- 2 nouveaux membres rentrent en 1997 : l’Autriche et la Finlande.
+- Le RU et la Suède décident de rester en dehors.
+L’adoption de l’Euro en janvier 1999 a été accompagnée par le lancement du
+nouveau SME .
+##### MCE-2 (défini dans le Traité d’Amsterdam 1997)
+- Parités définies par rapport à l’Euro (abandon de la symétrie dans le système).
+- Les bandes standard ±15%.
+- Interventions sont toujours automatiques et illimitées mais il est clair que la BCE peut décider de suspendre cette obligation.
+##### Pays ayant rejoint le MCE-2 puis l’UME
+- La Grèce (1999, jusqu’à ce qu’elle adopte l’€ en 2001).
+- De même pour la Slovénie (2007), Chypre (2008), Malte (2008), Slovaquie (2009), Estonie (2011), Lettonie (2014), Lituanie (2015), Croatie (2023).
+##### Pays actuellement dans le MCE-2
+- Le Danemark (1999) qui adopte alors ±2.25%.
+- La Bulgarie depuis le 13 juillet 2020.
+- Autres pays rentreront au fur et à mesures (République tchèque, Hongrie, Pologne, Roumanie).
+![[Pasted image 20250512095246.png]]
+#### La crise financière globale (2008-2009)
+- Dérégulation financière depuis les années 1980s.
+- Les banques deviennent des investisseurs avec 2 décalages: maturité et devises.
+- Fragilité des banques augmente, gouvernements devront sauver si faillite.
+- Développement financier, outils de plus en plus sophistiqués difficile à tracer.
+##### Racines de la crise financière
+- Mesures pour accéder à la propriété privée aux US, développement de prêts hypothécaires à risque (subprime mortgage loans).
+- Chute du prix de l’immobilier aux US.
+- propagation de la crise du fait des liens entre institutions financières (UK, France, Pays-Bas, Belgique et Allemagne).
+- Avril 2007 the New Century Financial Corporation se déclare en faillite, d’autres commencent à ne plus honorer leurs engagements, les BC alimentent en liquidité…
+##### Objectif : éviter la grande dépression
+- Les BC se coordonnent vite, rachètent les prêts toxiques, alimentent en liquidité, politiques monétaires expansionnistes via des mesures innovantes.
+- Les gouvernements, qui depuis des années portaient une attention particulière à la discipline budgétaire utilisent la politique budgétaire pour *limiter* la récession.
+- Crise suivante…
+![[Pasted image 20250519093249.png]]
+##### Crise *grecque*
+- Cercle vicieux gouvernements-banques à travers les obligations, les dettes des banques deviennent celles des gouvernements, interdépendance *doom loop*, avec le risque suprême est qu’un gouvernement fasse défaut.
+- En 2009 dette de la Grèce =127% du PIB, augmentation du taux d’intérêt auquel la Grèce peut emprunter.
+- Début 2010 situation critique (échange avec le FMI) : création du Fonds européen de stabilité financière qui a pour but de préserver la stabilité financière en Europe en fournissant une assistance financière aux États de la zone euro en difficulté économique.
+- Aide à la Grèce en échange d’une politique budgétaire restrictive, crise grave.
+![[Pasted image 20250519094130.png]]
+- Mais pourquoi une telle contagion au sein de la zone euro ?
+	- Endettement ?
+	- Pas de préteur en dernier ressort ? (gouvernements et banques). Dans le cas des USA plus de confiance puisqu'ils empruntent en leur propre monnaie.
+	- Compétitivité dans les pays à plus forte inflation ? Discipline budgétaires ?
+	- Erreurs politiques, messages confus ?
+![[Pasted image 20250519095240.png]]
+##### Rôle de la monnaie suisse pendant cette période ? Le statut de « monnaie refuge » Encadré KOM page 571-573-
+- Crise financière de 2008 : les investisseurs, dont beaucoup de Suisses, possédant des avoirs importants a l’étrangers, se sont précipités pour acheter des actifs suisses.
+	- Appréciation du franc suisse.
+	- BNS intervient sur le marché des changes en achetant de l’€ et en vendant des CHF afin de contenir l’appréciation de la monnaie.
+	- Augmentation des reserves officielle en €.
+	- En plus BNS réduit son taux d’interet qui tombe à zero.
+	- Taux de chabge se stabilise en 2029.
+- Crise de la ZE en 2010 :
+	- Appréciation spectaculaire du CHF qui impacte négativement l’economie suisse.
+	- En septembre 2011 mesure radicale de la BNS : Taux plancher de 1,2.
+	- Réserves augmentent alors encore plus rapidement du fait de spéculations, les réserves en devises de la BNS atteignent un niveau égal au ¾ du PIB suisse.
+![[Pasted image 20250519095542.png]]
+##### Crise Covid
+- Nombreuses reformes en place - prévention de la fragilité bancaires Union bancaire, supervision), amélioration de la discipline budgétaire, nouvelles dispositions pour rendre la BCE plus agile, création du mécanisme européen de stabilité (MES) qui permet à la zone euro de disposer d'un fonds commun de créances, utilisable en cas de défaillance d'un État membre pour endiguer la crise et éviter sa propagation à toute la zone…
+- Retour de la croissance, définit budgétaire sous contrôles, faible inflation.
+- Et puis 2020 :
+	![[Pasted image 20250519095828.png]]
+- Réaction commune et efficace
+	- Fermeture des activités « non-essentielles».
+	- Politiques budgétaires expansionnistes (avec suspension par la Commission européenne du pacte de stabilité et de croissance), transferts aux ménages et entreprises.
+	- BCE baisse les taux d’intérêt et relance les mesures non conventionnelles telles que le « quantitative easing», ciblant en partie ses interventions sur les pays membres lourdement endettés.
+	- Création d’un budget européen pour aider à la reprise (the NextGeneration EU).
 
 #UNIGE #Introduction-économie-internationale 

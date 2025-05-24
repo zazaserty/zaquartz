@@ -28,7 +28,7 @@ Les théories peuvent être rendues fausses dès le moment ou une observation pr
 Mais, peut-on faire cela dans les sciences sociales?
 ### Les sciences sociales sont-elles des sciences?
 - La *science moderne*, comme forme de connaissance spécifique de la *nature* (ontologies, épistémologie, méthodes), résulte d’un tournant dans les idées et les pratiques initié au XVIIe siècle.
-- Les sciences sociales émergent à partir du milieu du XIXe siècle: que doivent-elles à cet héritage ? Peuvent-elles et doivent-elles se conformer aux règles et aux pratiques des sciences de la nature ?
+- Les sciences sociales émergent à partir du milieu du XIXe siècle : que doivent-elles à cet héritage ? Peuvent-elles et doivent-elles se conformer aux règles et aux pratiques des sciences de la nature ?
 #### Penser les sciences sociales à l'image des sciences de la nature
 ##### Un projet de connaissance **positive**
 - Auguste Comte (Cours de philosophie positive 1830-42) : Conception évolutionniste des sociétés humaines (religion – métaphysique – science).
@@ -52,21 +52,21 @@ Pourquoi les sciences sociales veulent imiter les naturelles?
 	- Certains pensent que **les sociétés évoluent comme les espèces**, avec des mécanismes de sélection.
 	- Cette idée influence des penseurs comme **Herbert Spencer**, qui compare l’évolution sociale à l’évolution biologique.
 	- Cela encourage à chercher des **lois générales du changement social**, comme en biologie.
-- Enjeux de fondation disciplinaire: Différencier la sociologie de la psychologie.
+- Enjeux de fondation disciplinaire : Différencier la sociologie de la psychologie.
 	- On sépare.
 	- La sociologie cherche à expliquer **les faits sociaux par des causes sociales** (ex : Durkheim).
 	- La psychologie s’intéresse plutôt aux **mécanismes individuels et cognitifs**.
 ##### La méthode positive
 - Objectivation et mise à distance.
-- Observations répétées et identification de lois: méthode inductive.
-- Enoncé théorique et mise à l’épreuve: méthode hypothético-déductive.
-- Ex: E. Durkheim, Le Suicide. Étude de sociologie (1897).
+- Observations répétées et identification de lois : méthode inductive.
+- Enoncé théorique et mise à l’épreuve : méthode hypothético-déductive.
+- **Ex** : E. Durkheim, Le Suicide. Étude de sociologie (1897).
 	- La séparation psychologie-sociologie est observable. Ici on ne s'intéresse pas à ce qui se produit dans la tête du sujet mais au régularités sociales.
-- Ex: le matérialisme historique de K. Marx. Appropriation des moyens de production et domination sociale, de la Rome antique au capitalisme industriel.
+- **Ex **: le matérialisme historique de K. Marx. Appropriation des moyens de production et domination sociale, de la Rome antique au capitalisme industriel.
 	- Même chose, positivisme. Seulement les faits et pas les processus de la psychologie humaine.
 - Expérimentation? Une question d'éthique.
 	- Expérimenter avec des humains (tant qu'on ne les attaque pas) est éthique.
-#### Éthique: L'expérience de Frédéric II, Empereur germanique en 1211
+#### Éthique : L'expérience de Frédéric II, Empereur germanique en 1211
 ##### Fra Salimbene de Adam, XIIIème siècle
 *Il voulait savoir si (de très jeunes enfants) parleraient (spontanément) l'hébreu, le plus ancien des langages ou le grec, ou le latin, ou l'arabe, ou peut-être encore le langage des parents dont ils étaient issus. Aussi demanda-t-il à des nourrices d'élever les enfants, de les baigner, de les laver, mais en aucune façon de babiller avec eux ou de leur parler… Mais il œuvra pour rien, car tous les enfants moururent… En effet, ils ne pouvaient pas survivre sans les visages souriants, les caresses et les paroles pleines d'amour de leurs nourrices* (reproduit dans Monumentu Germanicae Historiae, t. XXXII, p. 350.).
 #### La notion de ville dans une analyse (positive et scientiste) des formes et des flux
@@ -92,10 +92,10 @@ Pourquoi les sciences sociales veulent imiter les naturelles?
 #### Objection 2
 **Les faits humains/sociaux ne peuvent pas être ramenés à des choses**:
 - *La cause déterminante d’un fait social doit être cherchée parmi les faits sociaux antécédents et non parmi les états de conscience individuels* (Durkheim, 1895, Les règles…).
-- La religion telle qu’étudiée par Durkheim et Mauss: les rites et leur fonctionnement.
+- La religion telle qu’étudiée par Durkheim et Mauss : les rites et leur fonctionnement.
 - Le sens ou les significations que les individus et les collectifs attachent à leurs pratiques doivent-ils rester hors-champ de la science ? Ou sont-ils sans objet?
 	- Sans objet pour les biologistes/neuroscientifiques qui étudient par **ex**. l’attirance sexuelle.
-- Wilhelm Dilthey (Introduction aux sciences de l'esprit, 1883) oppose deux types de sciences:
+- Wilhelm Dilthey (Introduction aux sciences de l'esprit, 1883) oppose deux types de sciences :
 	- Celles (*positives*) qui cherchent à identifier des lois et les expliquer par des théories générales.
 	- Celles (*de l’esprit*) qui cherchent à comprendre des pratiques ou des événements en étudiant le sens qu’on leur associe.
 	- Ouvre la *querelle des méthodes* qui agite science et philosophie au début du XXe, notamment en Allemagne.
@@ -104,7 +104,7 @@ Pourquoi les sciences sociales veulent imiter les naturelles?
 - **Explication** : Chercher à comprendre les **lois et régularités** sociales (comme en sciences naturelles).
 - **Compréhension** : **Saisir le sens** des actions humaines et des pratiques sociales, comprendre **le pourquoi** derrière les actions des individus et des groupes.
 
-- Grande postérité, surtout en Allemagne au début du siècle (Simmel, Weber) u Max Weber (ex: L'Éthique protestante et l'Esprit du capitalisme 1904-05): étude du capitalisme de l’intérieur (éthique, mentalités) versus de l’extérieur (Marx).
+- Grande postérité, surtout en Allemagne au début du siècle (Simmel, Weber) u Max Weber (**ex** : L'Éthique protestante et l'Esprit du capitalisme 1904-05): étude du capitalisme de l’intérieur (éthique, mentalités) versus de l’extérieur (Marx).
 	- Weber explore comment **les mentalités et l’éthique religieuse** (en particulier le protestantisme) ont influencé **le développement du capitalisme**.
 	- Il insiste sur le fait que **la sociologie doit comprendre** le sens que les individus donnent à leurs actions (et non seulement observer des régularités sociales).
  - *Nous appelons sociologie une science qui se propose de comprendre par interprétation l'activité sociale et par là expliquer causalement son déroulement et ses effets* (Weber, Économie et société, 1921).
@@ -112,24 +112,24 @@ Pourquoi les sciences sociales veulent imiter les naturelles?
 
 **Wilhelm Dilthey - Max Weber - puis partout dans la 2e moitié du XXe siècle
 notamment en Amérique du nord**
-- Charles Taylor: l’être humain comme *animal qui s’interprète lui-même* (The Explanation of Behaviour, 1964).
+- Charles Taylor : l’être humain comme *animal qui s’interprète lui-même* (The Explanation of Behaviour, 1964).
 	- Cela signifie que **les individus donnent du sens à leurs actions**, et ce sens est essentiel pour comprendre leurs pratiques sociales.
 	- Selon Taylor, il est impossible de comprendre les actions sociales **sans prendre en compte le sens subjectif** que les individus y attribuent.
-- Méthode subjectiviste:
+- Méthode subjectiviste :
 	- Les pratiques sociales ne peuvent être comprises que du point de vue du sens qu’elles ont pour les individus.
-- Méthode objectiviste:
+- Méthode objectiviste :
 	- Les pratiques sociales peuvent être expliquées indépendamment du sens qu’elles ont pour les individus.
 - **Ex**: Explosion de l'urbanisation à Chicago. La ségrégation pour Halbwachs n'a pas de cause objectivable parce qu'elle est, dans beaucoup de cas, volontaire. On doit comprendre les motivations des individus (méthode subjectiviste).
 	![[Pasted image 20250304142337.png]]
 #### Objection 3
-Les sociétés humaines sont guidées par la réflexivité des individus et des groupes sociaux:
-- **Anthony Giddens**: modernité = organisation et réorganisation réflexives des relations sociales à la lumière des apports permanents de connaissance affectant les actions des individus et des groupes.
+Les sociétés humaines sont guidées par la réflexivité des individus et des groupes sociaux :
+- **Anthony Giddens** : modernité = organisation et réorganisation réflexives des relations sociales à la lumière des apports permanents de connaissance affectant les actions des individus et des groupes.
 - *La production d'un savoir systématique sur la vie sociale devient une partie intégrante de la reproduction du système, détachant la vie sociale des fixités de la tradition*.
 ##### La réflexivité des individus et des sociétés sur les apports des sciences humaines/sociales
 - Anthony Giddens
 - *C’est peut-être la malédiction des sciences de l’homme que d’avoir affaire à un objet qui parle*. **Pierre Bourdieu**.
-- Enjeu de prédictivité: les comportements humains peuvent changer en fonction de l’analyse qui en est donnée. Ex: prophéties auto- réalisatrices.
-- Pas absent chez des auteurs qui par ailleurs adoptent des réflexions des théoriciens positivistes: *conscience de classe* chez Marx, comme condition de la révolution.
+- Enjeu de prédictivité : les comportements humains peuvent changer en fonction de l’analyse qui en est donnée. **Ex** : prophéties auto-réalisatrices.
+- Pas absent chez des auteurs qui par ailleurs adoptent des réflexions des théoriciens positivistes : *conscience de classe* chez Marx, comme condition de la révolution.
 	- Groupes ayant des conditions et un style de vie similaires dans un monde social organisé par des formes de différenciation et de domination qui sont réglés par l’inégale distribution des moyens de production = *classe en soi*. **Exemple**: *la classe ouvrière*.
 	- Le travailleur est aliéné: exaltation du travail, de la satisfaction personnelle dans le travail, en toute ignorance de ce que signifie vraiment son travail dans le système capitaliste.
 	- Collectif d’individus qui ont conscience d'une appartenance commune, susceptibles de mener des luttes pour la défense de leurs intérêts communs, une *conscience de classe* = *classe pour soi*.
@@ -171,7 +171,7 @@ C'est quoi l'identité?
 - Identité objectivée (ADN).
 - Identité psychique.
 - Identité sociale (genre).
-- Identité collective: communautés, action collective, etc.
+- Identité collective : communautés, action collective, etc.
 #### Hannah Arendt
 - *Dès que nous voulons dire qui est quelqu’un, notre vocabulaire même nous entraîne à dire ce qu’il est* (Condition de l’Homme moderne, 1983 (1958) p.238)= objectivation.
 - *En agissant et en parlant, les hommes font voir qui ils sont, révèlent activement leurs identités personnelles uniques* (Les origines du totalitarisme, p.236) = subjectivation.

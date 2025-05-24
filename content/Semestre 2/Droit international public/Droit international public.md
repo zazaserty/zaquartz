@@ -7,5 +7,8 @@
 - [[Séance 12, 13-OI]]
 - [[Séance 14, 15, 16-Responsabilité Internationale]]
 - [[Séance 17, 18, 19-Règlement pacifique des différends]]
+- [[Séance 20, 21, 22-L'individu dans le DIP]]
+- [[Séance 21, 22, 23-La torture, le génocide, crime contre l'humanité et de guerre]]
+- [[Séance 24-Le recours à la force]]
 
 #UNIGE #Plaque-tournante #DroitInternationalPublic

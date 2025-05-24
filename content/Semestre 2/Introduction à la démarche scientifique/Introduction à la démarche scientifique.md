@@ -7,5 +7,6 @@
 - [[Séance 8-Ontologie, épistémologie et méthodologie II]]
 - [[Séance 9, 10-Nouvelles images des sciences]]
 - [[Séance 10-Comment est-ce que nous étudions "la société"?]]
+- [[Séance 11-Les sciences de la société et sociétés en mutation]]
 
 #UNIGE #IntroDémarcheScientifique #Plaque-tournante 

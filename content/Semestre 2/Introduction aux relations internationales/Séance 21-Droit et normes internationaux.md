@@ -70,7 +70,7 @@
 	- **Exemples** :
 		- Constitutives = attributs d’Etats souverains (drapeau, hymne, structure bureaucratique, systèmes d’armement).
 		- Procédurales = égalité souveraine implique une voix par Etat dans enceinte multilatérales (AG ONU) ; réalité puissance implique contraire (CS ONU).
-		- Régulatives = R2P ; election monitoring ; taboo nucléaire.
+		- Régulatives = R2P ; **election monitoring** ; taboo nucléaire.
 #### Fabrique des normes
 - Qui / comment sont fabriquées normes internationales?
 - *Norms entrepreneurs* = *individuals or groups that seek to advance principled standards of behavior for states and other actors*.

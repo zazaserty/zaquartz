@@ -3,20 +3,20 @@
 - La science est recherche de vérité, volonté de dire les choses telles qu’elles sont, désir d’objectivité.
 - La science est logique et cohérente, au-dessus des opinions.
 - La science est discours sur elle-même, incarnation d’un Bien. La science est mise en scène, représentation.
- - La science est invention, créativité, et technique; production d’instruments et de nouveaux êtres, intégration dans des systèmes industriels.
+- La science est invention, créativité, et technique; production d’instruments et de nouveaux êtres, intégration dans des systèmes industriels.
 - Elle est quête de contrôle sur le monde (homme occidental qui veut contrôler à l'époque), mode de classifier le monde naturel et humain.
 - La science est source de progrès, mais aussi de leurs dégâts et de solutions à ces dégâts.
 -  La science est une institution historiquement liée aux pouvoirs politiques et économiques divers.
 - Elle est le système de savoir des sociétés modernes, source de légitimité, fondement pour l’action.
 - Elle est arbitre dans les controverses publiques de la main d’experts et de contre-experts.
 ### Oublier la *science* : penser la variété des pratiques scientifiques en société et dans l'histoire
- - La science n’a pas d’identité intrinsèque. Elle n’est pas une chose dont on pourrait dire l’essence, tout autant comme la société n’est pas non plus une chose dont nous pourrions dire ce qui la constitue et qui la fonde.
+- La science n’a pas d’identité intrinsèque. Elle n’est pas une chose dont on pourrait dire l’essence, tout autant comme la société n’est pas non plus une chose dont nous pourrions dire ce qui la constitue et qui la fonde.
 - Science et société sont des composites qui prolifèrent sous différentes figures et alliances. Sciences et sociétés sont historiques, situées et se co-constituent.
 	- On ne peut pas les considérer comme deux objets, la science d’une part, la société de l’autre, pour ensuite étudier leur rencontre, leur interaction.
 		- Il convient au contraire de prendre les choses comme toujours déjà mélangées, d’emblée interpénétrées, toujours au pluriel.
 #### Exemples
 - Les Grecs consultaient l’oracle pour savoir si aller à la guerre, parce que leur manière de chercher la *vérité* passait par la religion, les rites, la magie.
-- Aujourd’hui, avant de balancer un missile, on fait des calculs balistiques, on utilise des superordinateurs... mais **c’est encore une façon humaine** d’interroger la réalité et d'agir sur elle. Juste **un autre "arrangement" technico-social**.
+- Aujourd’hui, avant de balancer un missile, on fait des calculs balistiques, on utilise des superordinateurs... mais **c’est encore une façon humaine** d’interroger la réalité et d'agir sur elle. Juste **un autre *arrangement* technico-social**.
 - Un autre **exemple** c'est la différence entre positivistes et constructivistes.
 ### Les sciences sont donc abordées sous plusieurs angles
 - Comme un corpus de savoirs méthodiquement obtenus et validés, elles sont l’objet d’une analyse philosophique.
@@ -35,7 +35,7 @@
 - Nouveaux programmes de recherche renouvellent le panorama dominé par l’épistémologie :
 	- Au Royaume Uni, à Edimbourg: Programme fort de la Sociologie de la connaissance scientifique (SSK), et à Bath: Programme Empirique du Relativisme. Etude des controverses.
 	- En France: Anthropologie des sciences, sociologie de l’innovation, Sociologie de l’acteur-réseau.
-### L'école d'Edimbourg et le programme fort
+#### L'école d'Edimbourg et le programme fort
 - École de Edimbourg : *Programme Fort* de la sociologie de la connaissance scientifique fondé sur la philosophie de Wittgenstein->travaux pionniers de Bloor (1976).
 - Méthode : des principes heuristiques contre l’histoire jugée et le sens commun dans l’étude de la pratique scientifique dans l’histoire et dans le présent.
 - Il s’agit d’expliquer les conditions, les causes, qui expliquent les étants de connaissance, les croyances vraies et les croyances fausses, de manière agnostique à l’égard des vérités, pour faire la lumière sur la variété de mécanismes en jeu.
@@ -58,7 +58,7 @@
 #### Principes de méthode pour une analyse
 - Causale : S’intéresser aux conditions qui engendrent la croyance ou les états de connaissance.
 - Impartiale : en ce qui concerne la vérité et la fausseté, la rationalité ou l'irrationalité, le succès ou l'échec. Les deux côtés de ces dichotomies devront être expliqués.
-- Symétrique, dans style d'explication. Les mêmes types de causes expliqueraient, par exemple, les croyances vraies et fausses. Idéologie vs raison.
+- Symétrique, dans style d'explication. Les mêmes types de causes expliqueraient, **par exemple**, les croyances vraies et fausses. Idéologie vs raison.
 ### De nouveaux regards sur la démarche scientifique
 - Deux exemples en sciences de la nature :
 	- Les ondes gravitationnelles : construire un détecteur de quelque chose dont on suppose l’existence ?

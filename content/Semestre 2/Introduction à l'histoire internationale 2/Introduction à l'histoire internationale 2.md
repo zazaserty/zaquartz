@@ -7,6 +7,8 @@
 - [[Séance 8, 9-Les limites de l'action humanitaire]]
 - [[Séance 9, 10-Origines et débuts d'Amnesty International (AI)]]
 - [[Séance 10, 11-L'action humanitaire dans l'après-guerre]]
-- [[Séance 11-ONG et droits de l'homme pedant l'ère de détente]]
+- [[Séance 11,12-ONG et droits de l'homme pedant l'ère de détente]]
+- [[Séance 12, 13-Les ONG écologiques d'après-guerre]]
+- [[Séance 13-Conclusion]]
 
 #UNIGE #Intro-histoireinter2 #Plaque-tournante 

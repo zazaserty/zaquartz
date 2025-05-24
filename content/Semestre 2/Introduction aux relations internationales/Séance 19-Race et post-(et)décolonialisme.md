@@ -26,14 +26,14 @@
 1. Résistance des peuples indigènes (guerres amérindiennes).
 2. Révoltes des esclaves (Révolution haïtienne 1791-1804).
 	- La *double dette*, *rançon de l’indépendance* haïtienne et la Revendication haïtienne de réparations.
-	- Après son indépendance (1804), Haïti a dû **payer une énorme indemnité** à la France pour "compenser" la perte des esclavagistes français.
+	- Après son indépendance (1804), Haïti a dû **payer une énorme indemnité** à la France pour *compenser* la perte des esclavagistes français.
 	- Pour payer, Haïti a contracté des **emprunts** auprès de banques françaises → **double dette**.
 	- Cette extorsion a **ruiné l'économie haïtienne** pendant plus d'un siècle.
 	- Ils n'ont fini de payer qu'en 1947 (après 122 ans).
 	- Aujourd'hui, Haïti réclame **des réparations** pour cette injustice historique, qui selon eux leur a coûté un potentiel de développement maintenant perdu.
 	- Macron a promis en 2025 de *faire la lumière* sur cette affaire, sûrement avec une lampe torche pas trop puissante.
 ##### Deux types de calculs raciaux
-1. Culturel = catholiques/chrétiens et non- catholiques/non-chrétiens (cf. la Controversia de Valladolid 1550-51).
+1. Culturel = catholiques/chrétiens et non-catholiques/non-chrétiens (cf. la Controversia de Valladolid 1550-51).
 2. Biologique. Seuls les africains ont été faits esclaves = *race noire* créée englobant diverses populations africaines et *race blanche* diverses populations européennes.
 ##### Débat sur les sources du racisme : conséquence du commerce triangulaire/causes économiques ou issu de conflits religieux?
 ###### **Eric Williams Capitalism and Slavery (1944)**

@@ -1,11 +1,11 @@
 ## Règlement pacifique des différends
 ### Introduction
-Il est naturel de voire apparaître des différends dans une société, même entre états. Les points de vue peuvent être très différents. Ceci dérange l'application du droit, chaque partie veut le faire d'une certaine manière. Donc on ne peut pas appliquer tant que le différend n'est pas résolu, chacun fera ce qui lui paraît plus juste.
+Il est naturel de voire apparaître des différends dans une société, même entre états. Les points de vue peuvent être très différents. Ceci dérange l'application du droit, chaque partie veut le faire d'une certaine manière. Donc on ne peut pas appliquer tant que le différend n'est pas résolu, chacun ferait ce qui lui paraît plus juste.
 #### DIP
 Dans le droit international l'ordre juridique se préoccupe mais les obstacles sont plus grands que ceux dans le droit interne. Régler les différends est essentiel, c'est un garant de la paix. Il faut mettre en oeuvre et pouvoir punir pour que le droit tienne debout, c'est pas seulement une question de justice.
 ##### Obstacles
 1. Souveraineté, les états veulent garder le pouvoir de la dernière décision et pas le déléguer à quelqu’un d'autre (nécessaire pour régler le différend). À cause de ça le règlement des différends a ses limites, il faut se maintenir réalistes.
-2.  Nature complexe, ils plongent leurs racines dans une histoire compliquée (souvent 2 ou plusieurs siècles) et mélangent les positions juridiques avec les politiques. Le prestige des états, thème sensible, est mis en cause.
+2. Nature complexe, ils plongent leurs racines dans une histoire compliquée (souvent 2 ou plusieurs siècles) et mélangent les positions juridiques avec les politiques. Le prestige des états, thème sensible, est mis en cause.
 3. Il est impossible d'imposer une solution, sinon c'est pas un vrai moyen de résoudre le problème. Il faut toujours le consentement des parties impliquées, avec un accord qui règle le différend même si juste partiellement. Sinon il est possible de désigner un tiers, des fois juste pour conseiller et pas pour trancher. On peut aussi aller vers la CIJ, en sachant que la solution est contraignante et donc on l'accepte. Mais ceci ne veut pas dire que la médiation soit un échec. Solutionner un vrai différend d'un coup est rarement possible, mais ça aide à voir les lignes rouges et points de vue de chacun.
 ### Moyens
 Les états doivent choisir une solution.
@@ -18,7 +18,7 @@ Pourparlers typiques, par la troïka ou d'autres délégués. Cela dépend du di
 ##### Bonnes offices
 Un tiers utilise son influence pour que les parties négocient, en offrant toutes les facilités pour négocier. Négociation soutenue par un tiers quoi.
 ##### Médiation
-Ici une personnalité qui vient d'un état tiers participe à la négociation et propose des solutions pour rapprocher les parties. On commence par les bonnes offices souvent et on passe à la médiation. S'il n'y a pas de possibilité de se rencontrer le médiateur fait de la *shuttle diplomacy* (allers-retours entre les deux parties). Même si un solution n'est pas trouvée il est possible de réduire le différend. Les médiateurs proviennent normalement d'états neutres (ou des états avec des leviers sur une partie) et sont des diplomates.
+Ici une personnalité qui vient d'un état tiers participe à la négociation et propose des solutions pour rapprocher les parties. On commence par les bonnes offices souvent et on passe à la médiation. S'il n'y a pas de possibilité de se rencontrer le médiateur fait de la *shuttle diplomacy* (allers-retours entre les deux parties). Même si une solution n'est pas trouvée il est possible de réduire le différend. Les médiateurs proviennent normalement d'états neutres (ou des états avec des leviers sur une partie) et sont des diplomates.
 
 L'ONU peut faire de la médiation par le moyen de la délégation à une commission.
 ##### Conciliation
@@ -26,39 +26,46 @@ Proceduralisée formellement. Les états remettent des mémoires au conciliateur
 
 Ceci est plutôt rare. Elle n'ajoute pas trop aux autres procédures.
 ##### Enquête (*inquiry*)
-Avec un autre procédure des fois. Lorsque les parties sont en différent sur une question de faits (ce qui c'est passé). Rare dans le règlement des différends mais pas tellement dans d'autres contextes ou c'est plus fréquent.
+Couplée avec une autre procédure quelques fois. Lorsque les parties sont en différent sur une question de faits (ce qui c'est passé). Rare dans le règlement des différends mais pas tellement dans d'autres contextes où c'est plus fréquent.
 #### Juridiques
 On ne discute pas sur tout le différend, le tribunal veut juste appliquer le droit. Régler l'ensemble est souvent impossible, on peut discuter **par exemple** la violation d'un traité. Néanmoins ici la solution de la cour est contraignante.
 
 Les états préfèrent rester dans le souple.
 ### Différends
 #### Politiques
-Différend sur activités discrétionnaires pas liées par le droit (normes juridiques). En principe on priorise ici les moyens politiques mais il n'y a aucune obligation de les choisir. Aucun différend n'est totalement politique, même si quelques uns n'ont pas beaucoup de sens quand ils sont portés devant un certain organe. Tout différend juridique comprend aussi une partie politique. Ça dépend de ce que les états veulent.
+Différend sur activités discrétionnaires pas liées par le droit (normes juridiques). En principe on priorise ici les moyens politiques mais il n'y a aucune obligation de les choisir. Aucun différend n'est totalement politique, même si quelques uns n'ont pas beaucoup de sens quand ils sont portés devant un certain organe (on peut pas leur donner une solution quoi). Tout différend juridique comprend aussi une partie politique. Ça dépend de ce que les états veulent.
 #### Juridiques
 Différends sur l'interprétation ou l'application du droit.
 ### Droit
 #### International particulier
-Solutions bien plus *musclées*. Ils peuvent s'accorder pour se soumettre à certains moyens de règlement des différends à l'avance. **Par exemple** il est possible de choisir le juge, l'état l'ont choisi donc leur souveraineté est toujours là.
+Solutions bien plus *musclées*. Ils peuvent s'accorder pour se soumettre à certains moyens de règlement des différends à l'avance. **Par exemple** il est possible de choisir le juge, les état l'ont choisi donc leur souveraineté est toujours là.
 #### International général
 Pas beaucoup de règles, il faut consentir. Le moyen est libre mais il doit y avoir un accord entre parties.
 ### CIJ
-Le recours à la CIJ est naturel, c'est l'organe le plus important et l'organe principale de l'ONU (partie du système onusien, mais pas totalement comme ça->c'est plutôt l'organe des parties ayant adhéré au statut de la cour bien qu'elles soient toutes pour le moment à l'ONU). Elle ne fait pas de la médiation dans des différends politiques larges. Elle ne fait pas de l'arbitrage, une cour de justice en petite lettre quoi. Des juges choisis par les parties suivent une procédure choisie par les parties concernées pour trancher une question.
+#### Partie de l'ONU
+Penser à recourir à la CIJ est naturel, c'est l'organe le plus important et l'organe principale de l'ONU (partie du système onusien, mais pas totalement comme ça->c'est plutôt l'organe des parties ayant adhéré au statut de la cour bien qu'elles soient toutes pour le moment à l'ONU).
+#### Elle fait quoi?
+Elle ne fait pas de la médiation dans des différends politiques larges. Elle ne fait pas de l'arbitrage (->une cour de justice en petite lettre quoi). Des juges choisis par les parties suivent une procédure choisie par les parties concernées pour trancher une question.
+#### Modèle
+La CIJ et ses règles ont été prises pour modèle dans beaucoup de systèmes différents. Mais la CPI n'est pas la CIJ. La CPI juge des individus physiques avec des peines. La CIJ a une juridiction permanente, peut toujours être saisie.
+#### Pourquoi pas l'arbitrage?
+Dans l'arbitrage il faut toujours faire tout *from scratch* (faut faire un accord et etc...). Et la CIJ a une jurisprudence et un avenir et tout quoi, elle se soucie du futur. Les jugements de la CIJ sont en plus contraignants.
 
-La CIJ et ses règles ont été prises pour modèle dans beaucoup de systèmes différents. La CPI n'est pas la CIJ. La CPI juge des individus physiques avec des peines. La CIJ a une juridiction permanente, peut toujours être saisie. Dans l'arbitrage il faut toujours faire tout *from scratch* (faut faire un accord et etc...). Et la CIJ a une jurisprudence et un avenir et tout quoi, elle se soucie du futur. Les jugements de la CIJ sont en plus contraignants.
-
-La cour est gratuite (les arbitres ça coûte), c'est déjà payé par le budget de l'ONU. Sont prédécesseur était la Cour Permanente de Justice Internationale (CPJI) (époque de la SDN bien que pas partie de cette dernière). Elle avait un statut quasi-identique et sa jurisprudence s'applique à la CIJ, même si elle n'est pas vraiment son successeur idéal.
+La cour est gratuite (les arbitres ça coûte), c'est déjà payé par le budget de l'ONU.
+#### Histoire
+Son prédécesseur était la Cour Permanente de Justice Internationale (CPJI) (époque de la SDN bien que pas partie de cette dernière). Elle avait un statut quasi-identique et sa jurisprudence s'applique à la CIJ, même si cette dernière n'est pas vraiment son successeur idéal.
 
 Elle a des titres de compétence dans le droit particulier (cf. ci-dessus).
 #### Caractéristiques
 - Purement interétatique.
 - Elle juge des affaires civiles et pas pénales. Elle juge les actions par rapport à une convention, un traité, etc; pas juger l'état pour un crime supposé. Elle peut appliquer les sources du DI pénal mais pas en faire. Un état ne peut pas commettre un génocide, dans la CPI il y a que des individus.
 - Elle a une compétence totale sur le DIP, peut s'occuper de n'importe qu'elle affaire apportée devant elle. Il n'y a aucun autre tribunal comme ça.
-- Il n'est pas possible de porter une affaire unilatéralement, il faut le consentement des toutes les parties contrairement au droit interne.
+- Il n'est pas possible de porter une affaire unilatéralement, il faut le consentement de toutes les parties contrairement au droit interne.
 - La CIJ est là pour servir aux états, ils sont contents avec elle contrairement à la CPI. La CIJ est très occupée.
-- La CIJ en plus de trancher des litiges elle règle aussi des litiges seulement en existant. Quand un différend ne bouge pas et la CIJ à un titre de compétence les états négocient plus sérieusement, puisqu'elle peut être contraignante.
+- La CIJ en plus de trancher des litiges elle règle aussi des litiges seulement en existant. Quand un différend ne bouge pas et la CIJ à un titre de compétence les états négocient plus sérieusement, puisqu'elle peut être contraignante (==peur==).
 #### Composition
 - 15 juges ordinaires, renouvelés au tiers tous les 3 ans (mandat de 9 ans). Possibilité de se re-presenter. Élus par l'AG et l'SC. On peut en avoir moins (décédés, etc), mais minimum 9.
-- Juge *ad hoc*, qui sont élus que pour un cas. Si l'un a un juge on donne un autre pour l'autre partie et si aucun en a on leur permet de nommer. On peut arriver à un maximum de 17, même si théoriquement il pourrait en avoir plus. Pourquoi? Pour aider dans des questions de culture/société ou les juges normaux pourraient avoir du mal, puisqu'ils ne connaissent pas trop le pays.
+- Juge *ad hoc*, qui sont élus que pour un cas. Si l'un a un juge on donne un autre pour l'autre partie et si aucun en a on leur permet de nommer. On peut arriver à un maximum de 17, même si théoriquement il pourrait en avoir plus. Pourquoi? Pour aider dans des questions de culture/société ou les juges normaux pourraient avoir du mal, puisqu'ils ne connaissent pas trop les pays.
 - Les juges doivent voter, ne peuvent pas s'abstenir, il est possible d'avoir un partage égal des voix (==très rare==). Si cela arrive le statut explique que : la voix prépondérante (du président) a un *casting vote*, son vote ne pèse pas double mais il revote (donc il vote une deuxième fois). Ceci de manière libre, peut voter en contre de son vote.
 - Ventilation : on essaie d'avoir de la diversité (différentes nationalités, cultures, systèmes, etc). La clé de distribution c'est (en ce moment) 3 américains, 3 asiatiques, 3 africains, 4 européens/occidentaux, 3 européens/orientaux (est, anciens communistes). Il y a des diplomates ou politiciens (de haut niveau, toujours des juristes->requis), des juges de cour suprême nationale, profs. de DI et conseillers juridiques nationaux.
 #### Compétence (toutes les juridictions mais ici CIJ) : *Peut-elle parler sur le fond de X affaire*?
