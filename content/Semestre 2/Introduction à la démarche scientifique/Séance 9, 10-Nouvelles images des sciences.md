@@ -40,7 +40,7 @@
 - Méthode : des principes heuristiques contre l’histoire jugée et le sens commun dans l’étude de la pratique scientifique dans l’histoire et dans le présent.
 - Il s’agit d’expliquer les conditions, les causes, qui expliquent les étants de connaissance, les croyances vraies et les croyances fausses, de manière agnostique à l’égard des vérités, pour faire la lumière sur la variété de mécanismes en jeu.
 ### À quelle aune penser la scientificité des sciences sociales?
-- Pour certaines personnes en sciences sociales, les sciences de la nature constituent le modèle de ce qu’ils cherchent à réaliser. C’est généralement la physique qui est prise comme modèle
+- Pour certaines personnes en sciences sociales, les sciences de la nature constituent le modèle de ce qu’ils cherchent à réaliser. C’est généralement la physique qui est prise comme modèle.
 - Si l’on veut se rapprocher des sciences de la nature, il faut observer de près ce qu’elles font. Il faut renoncer à tout fantasme et s’informer des activités quotidiennes des scientifiques, telles que les sociologues des sciences les observent à la loupe.
 - Deux descriptions détaillées de pratiques scientifiques nous donnent une image plus réaliste de ce que les scientifiques font effectivement, pour nous montrer ce que nous essayons d’approcher.
 ### Les objets des sciences de la nature et ceux des sciences de la société
@@ -120,22 +120,23 @@ La nature ne s'exprime pas toute seule.
 ### Exemple 2 : la frontière entre la savane et la forêt
 ![[Pasted image 20250506144257.png]]
 ![[Pasted image 20250506144403.png]]
-Le sablier de Latour.ou
+Le sablier de Latour. La *traduction* dans la science consiste en una réduction pour condenser quelque chose de très particulier et local dans un résultat laboratorisé et lisible, pour après l'amplifier et construire un réseau autour d'un énonce (la conclusion).
+![[Pasted image 20250530142217.png]]
 ![[Pasted image 20250506144741.png]]
-Les sciences sont autonomes mais s'appuient l'une sur l'autre, ici les scientifiques étudient une carte pour mener leur recherche dans la foret amazonienne.
+Les sciences sont autonomes mais s'appuient l'une sur l'autre, ici les scientifiques étudient une carte pour mener leur recherche dans la foret amazonienne (géographie).
 ![[Pasted image 20250506144834.png]]
-Ils peuvent aussi extraire des échantillons et les classifier (chose essentielle pour toute science : mettre ensemble ce que l'on considère similaire->partage suffisamment de caractéristiques).
+Ils peuvent aussi extraire des échantillons et les classifier (chose essentielle pour toute science : mettre ensemble ce que l'on considère similaire->partage suffisamment de caractéristiques). La classification nous prépare avant d'appliquer un code.
 ![[Pasted image 20250506144959.png]]
 L'objectif c'est laboratoriser le terrain, le faire lisible et contrôler certaines variables -> progresser vers la traduction. Ici on cartographie le type de sol par endroit dans une espèce de *charte*. Comme ça on sait : *La savane dévore la forêt ou vice versa*?
 ![[Pasted image 20250506145131.png]]
 ![[Pasted image 20250506145146.png]]
-Cela jusqu'à qu'on arrive à ce diagramme, qu'on aie traduit.
+Cela jusqu'à qu'on arrive à ce diagramme, qu'on aie **traduit**.
 ![[Pasted image 20250506145238.png]]
-Pour être objectifs, des techniques d'objectivation comme l'utilisation de mesures acceptées et utilisés auparavant sont utilisées. Ici on voit le code Munsell.
+Pour être objectifs, des techniques d'objectivation comme l'utilisation de mesures acceptées et utilisés auparavant sont utilisées. Ici on voit le ==code== Munsell.
 ![[Pasted image 20250506145401.png]]
 Pour publier, on purifie->élimination des hésitations. Ceci peut créer une image fausse de la science. En sciences sociales on ne fait pas que collecter des données, on raconte et on décrit. Bien sûr il y a des méthodes quantitatives, mais pas seulement.
 #### Donc?
 ![[Pasted image 20250506145634.png]]
-Une fois publié tout devient une boite noire. Ça devient un fait. Ce qu'on l'on fait dans un papier c'est tracer un réseau entre énoncés et travaux pour nous y appuyer dessus. Cette médiation (coupure), que l'on fait entre résultat (graphe) et objet d'étude (forêt et savane), nécessite d'une mobilisation de ces réseaux et d'un contrôle de qualité qu'on doit faire nous mêmes et pas l'IA générative.
+Une fois publié tout devient une boite noire. On oublie toutes ces re-représentations et hésitations, ça devient un fait qui n'est plus questionné. Ce qu'on l'on fait dans un papier c'est tracer un réseau entre énoncés et travaux pour nous y appuyer dessus. Cette médiation (coupure), que l'on fait entre résultat (graphe) et objet d'étude (forêt et savane), nécessite d'une mobilisation de ces réseaux et d'un contrôle de qualité qu'on doit faire nous mêmes et pas l'IA générative.
 
 #UNIGE #IntroDémarcheScientifique 

@@ -2,7 +2,7 @@
 ### Introduction
 #### Renouveau de la coopération
 ##### Détente
-Partial test ban treaty (1963); Outer Space Treaty (1967); Nuclear non- proliferation treaty (1968); SALT I / ABM Treaty (1972); Conférence sur la Sécurité et la Coopération en Europe (1975); SALT II (1979), ...
+Partial test ban treaty (1963); Outer Space Treaty (1967); Nuclear non-proliferation treaty (1968); SALT I / ABM Treaty (1972); Conférence sur la Sécurité et la Coopération en Europe (1975); SALT II (1979), ...
 ##### Intégration économique
 Bretton Woods (dès 1944); GATT (dès 1947); Communautés Européennes (dès 1958); G7 (dès 1975), ...
 #### Questions centrales
@@ -105,13 +105,13 @@ Course à l'armement.
 	- problèmes de distribution,
 	- problèmes de parasitisme.
 #### Solutions
-- Comportement réciproque encourage la coopération.
-- Prérequis: interactions réitérées horizon temporel long (‘l’ombre de l’avenir’).
+- Comportement réciproque encourage la coopération. *Tit-for-tat* meilleure stratégie.
+- Prérequis : interactions réitérées horizon temporel long (*l’ombre de l’avenir*).
 #### Anticipation
 ##### Exigences
 - standards de comportement,
 - information sur le comportement des autres,
 - procédure pour la résolution de différends.
-	→ institutions aident à addresser ces exigences.
+	→ institutions aident à adresser ces exigences.
 
 #UNIGE #Introduction-aux-ri 

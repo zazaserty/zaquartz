@@ -13,5 +13,8 @@
 - [[Introduction à la démarche scientifique]]
 - [[Introduction à la statistique]]
 - [[Droit international public]]
+### Deuxième année
+#### Troisième semestre
+- [[Comparative politics]]
 
 #UNIGE #Plaque-tournante

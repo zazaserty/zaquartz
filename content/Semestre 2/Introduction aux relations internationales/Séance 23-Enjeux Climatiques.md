@@ -9,7 +9,7 @@
 2. 1997 – Protocole de Kyoto (obligations pour 24 pays les plus développés à réduire leurs émissions).
 3. 2015 – Accord de Paris impliquant tous Etats signataires / objectif de + 1,5 oC de réchauffement Mais jusqu’ici = objectifs non remplis.
 ![[Pasted image 20250515142919.png]]
-Peut-être que dans le futur la situation changera et quelque chose passera ce qui déclenchera un changement dans la vitesse d'implémentation de mesures visant à arrêter le changement climatique. L'amélioration technologique des industries vertes pourrait aussi jouer un rôle clé dans le prochaines années.
+Peut-être que dans le futur la situation changera et quelque chose passera ce qui déclenchera un changement dans la vitesse d'implémentation de mesures visant à arrêter le changement climatique. L'amélioration technologique des industries vertes pourrait aussi jouer un rôle clé dans les prochaines années.
 #### Tragédie des communs climatiques
 - Pourtant, tout individu a intérêt à ralentir changement climatique.
 - Or, action individuelle a peu d’effet car sans coordination chacun.e a intérêt à agir contre le climat = *tragedy of the commons* (Garrett Hardin).
