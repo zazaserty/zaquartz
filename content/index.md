@@ -16,5 +16,7 @@
 ### Deuxième année
 #### Troisième semestre
 - [[Comparative politics]]
+- [[Université de Genève/Semestre 3/Art & science of I.N/Séance 1-Intro]]
+- [[DIH]]
 
 #UNIGE #Plaque-tournante
