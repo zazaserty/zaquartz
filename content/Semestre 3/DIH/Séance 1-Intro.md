@@ -6,25 +6,26 @@
 - Les situations applicables se situent toujours dans le contexte d'un conflit armé ou d'une guerre armée.
 - 0.2-0.3% de ces règles s'appliquent aussi lors des temps de paix.
 #### Paix
-Elles s'appliquent en prévision d'un possible conflit armé. **P.e**:
+Elles s'appliquent en prévision d'un possible conflit armé. **P.e** :
 - Les états sont obligés (Conventions G.) de former leur forces armées aux DIH.
-- Il faut prévoir dans les codes pénaux les possibles infractions.
-##### Exemples
-- Ne pas placer des possibles cibles militaires dans des contextes civils.
-- Protection de l'emblème contre des utilisations comerciales et etc.
+- Il faut prévoir dans les codes pénaux les possibles infractions (et les peines correspondantes).
+	- Ne pas placer des possibles cibles militaires dans des contextes civils.
+	- Protection de l'emblème contre des utilisations comerciales et etc.
 #### C'est quoi un conflit armé?
 Compliqué, ceci sera expliqué plus tard. Mais (==important==) depuis 1949 (en 1945 on commence à réguler->création ONU et etc) avec les C.G.s on distingue CAI/IAC (conflits interétatiques) et CANI/NIAC (tout le reste-> conflits où un ou plusieurs états et groupes armés sont présents).
 
-Les mêmes règles ne sont pas applicables. **P.ex** : il n'y a pas un régime pour les prisonniers de guerre dans les CANI. Il y a 500 articles pour les CAI et 8 pour les CANI, c'est moins régulé. Les états ne veulent pas donner des droits ou statuts au criminels qui attaquent leur systèmes constitutionnels.
+Les mêmes règles ne sont pas applicables. **P.ex** : il n'y a pas un régime pour les prisonniers de guerre dans les CANI. Il y a ~500 articles pour les CAI et 8 pour les CANI, c'est moins régulé. Les états ne veulent pas donner des droits ou statuts au criminels qui attaquent leur systèmes constitutionnels.
 ##### Hybrides
 Des fois des CANIs s'internationalisent et développent des éléments propres aux CAIs. On verra ça plus tard.
 ##### CANI
 Le terme guerre civile est plutôt politique, ça ne s'utilise pas dans le langage juridique. Ça ne dit pas trop sur le type de conflit. Elle sera normalement CANI mais elle peut devenir CAI.
 ### Terminologie
 En gros ces terminologies désignent le *ius in bello* (la conduite lors des conflits), qui ==n'est pas la même chose que *ius ad bellum*== (droit à la guerre)!.
+
+C'est des synonymes mais droit des conflits armés est le plus général, il faut essayer  d'éviter une perte de nuance. Cela puisque les règles de la Haye sur le neutralité (entre autres textes) ne sont du DIH que par une grande extension du concept mais bon de nos jours c'est comme ça, le terme s'élargit.
 #### Droit de la guerre
 Le terme le plus ancient pour désigner le DIH. On rattachait l'application de ces règles que dans l'état de guerre, pour les CAI. On reconnaissait le droit à la belligérance. Ceci était avant 1945.
-#### Droit des conflits armés
+#### Droit des conflits armés (C.G.s 1949)
 On introduit les CANIs, maintenant on ne règlement pas que la guerre dans le sens des CAIs. Et donc on change le terme *guerre* par *conflit*.
 
 En plus c'est plus sûr en termes d'application. Si on ne déclare pas la guerre on n'est donc pas dont cet état mais on peut bombarder et être dans un conflit. Le droit de la guerre s'appliquait ==qu'à== la guerre. Cette lacune devait être comblée.
@@ -33,7 +34,7 @@ Dans ce cas hostilités=automatiquement conflit armé. On ne peut plus dire *je 
 #### Droit international humanitaire
 Petit à petit le CICR a donné naissance au terme DIH, puisque l'objectif c'est protéger les personnes. C'est devenu le synonyme de droit des conflits armés, même si pas tout ce domaine du droit ne protège pas les personnes (**p.ex**: neutralité).
 
-En partie ceci émane d'un désir d'attractivité, *humanitaire* colle plus que *guerre*.
+En partie ceci émane d'un désir d'attractivité, *humanitaire* colle plus que *guerre*. Le terme est devenu populaire autour des années 1980. Grâce à Pictet qui l'invente en 1950!
 ### 3 domaines du DIH
 #### Conduite des hostilités
 Concerne les moyens (tangibles->**ex.** : armes) et méthodes (tactiques, intangibles->**ex**. : utiliser des enfants comme soldats).
@@ -65,7 +66,7 @@ C'est aussi utile de ne pas attaquer les civils. Ça donne pas vraiment un avant
 ##### Balance nécessaire
 Sans cela, en disposant seulement du avec le point de vue humanitaire, il serait difficile de se limiter vis-à-vis de l'ennemi.
 
-On essaie toujours d'équilibrer les besoins militaires avec le désir d'être humanitaire. Les dommages collatéraux sont permis, **p.ex**. Ça ne servirai à rien de limiter un pays qui se défend, s'il a besoin de se défendre il ne suivra pas les règles qui lui en empêcheront. Ceci arrive aussi avec la progression des chars, si un immeuble bloque la route on le détruit. ==Trop d'humanitaire=règles pas respectées et ça ne sert à rien!==
+On essaie toujours d'équilibrer les besoins militaires avec le désir d'être humanitaire. Les dommages collatéraux sont permis, **p.ex**. Ça ne servirai à rien de limiter un pays qui se défend, s'il a besoin de se défendre il ne suivra pas les règles qui lui en empêcheront. Ceci arrive aussi avec la progression des chars, si un immeuble bloque la route on le détruit. ==Trop d'humanitaire=règles pas respectées et ça ne sert à rien!== C'est à cause de cela qu'on négocie souvent avec des commandants avant d'écrire ces règles.
 ### Pessimisme
 #### Le DIH est-il respecté? Sert-il à quelque chose?
 Certains journalistes et personnes manifestent que le DIH ne sert à rien puisqu'il n'est jamais présent dans les champs de bataille et personne ne les respecte. Il y a un petit chemin pour le DIH, il ne doit pas limiter trop les armées s'il veut être respecté.

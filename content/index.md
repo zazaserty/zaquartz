@@ -16,7 +16,8 @@
 ### Deuxième année
 #### Troisième semestre
 - [[Comparative politics]]
-- [[Université de Genève/Semestre 3/Art & science of I.N/Séance 1-Intro]]
+- [[Art & science of I.N]]
 - [[DIH]]
+- [[Environmental Economics]]
 
 #UNIGE #Plaque-tournante

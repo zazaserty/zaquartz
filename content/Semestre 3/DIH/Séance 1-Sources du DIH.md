@@ -1,9 +1,7 @@
 ## Traités
 3 types, c'est pas du droit pénal international comme le serait le Traité de Rome de 1998.
 ### Haye
-Plusieurs révisions, celle de 1914 n'ayant pas pu être complétée dû à la PGM. Il y a 6 conventions qui nous intéressent en DIH :
-- 2 en 1899.
-- 4 en 1907.
+Plusieurs révisions, celle de 1914 n'ayant pas pu être complétée dû à la PGM. Il y a 3 conventions (1907) qui nous intéressent en DIH (*ius in bello*) :
 #### Convention de la Haye de 1899
 Appelée la conférence de la paix, elle avait comme but principal le désarmement et l'arbitrage. C'est ce qu'on appelle le droit de la paix. Ça n'a pas marché.
 #### Convention de la Haye de 1907
@@ -17,7 +15,7 @@ C. IV 1907 :
 ###### **Articles**
 - Art. 22 : limitation des moyens pour nuire à l'ennemi.
 - Art. 23: interdictions complètes et spécifiques (continuation du 22) comme la destruction de la propriété ou les armes empoisonnées sauf nécessité absolue.
-- Arts. 46 à 56 : règles pour la gestion d'un territoire occupé (pas de pillages, respecter culture, etc...).
+- Arts. 46 à 56 : règles pour la gestion d'un territoire occupé (pas de pillages, liberté religieuse, etc...).
 	- Ces articles (ceux mentionnés jusqu'à maintenant) n'ont pas été repris par d'autres textes et donc on utilise cette convention pour nous référer à ces règles.
 	- La jurisprudence dit que ces règles de la Haye constituent de la coutume (règles de fond de la convention 4).
 ##### Convention V 1907
