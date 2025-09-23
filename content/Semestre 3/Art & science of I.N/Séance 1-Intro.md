@@ -1,6 +1,6 @@
 ## Introduction
 ### International Geneva
-Geneva hosts an immense number of IOs, NGOs, conferences, etc. Despite lack of funding and cheaper countries that could host them, they keep coming to Geneva because of the already existing ecosystem that reduces transactional costs and keeps showing its efficiency.
+Geneva hosts an immense number of IOs, NGOs, conferences, etc. Despite lack of funding and the existence cheaper countries that could host them, they keep coming to Geneva because of the already existing ecosystem that reduces transactional costs and keeps showing its efficiency.
 
 *To the UN, NYC is the restaurant and Geneva is the kitchen*.
 
@@ -10,7 +10,7 @@ This tradition was first brought to Geneva by the Geneva Conventions and the ICR
 ![[Pasted image 20250917103617.png]]
 ### What is negotiation
 - *Negotiation is the process of combining divergent/conflicting viewpoints to produce a common agreement*.
-	- *A theory never happens in a vacuum*->there is always a debate, in this case a negotiation, to reach a conclusion. They have to talk to each other underlining how they are wrong.
+	- *A theory never happens in a vacuum*->there is always a debate, in this case a negotiation, to reach a conclusion. They have to talk to each other, underlining how they are wrong.
 - *Negotiation means giving something to get something. It is the process of determining the price and the currency in a barter, where both the purchase and the price are indeterminate and must be brought into concordance with each other* (Zartmann 2008, Ch.1).
 	- We talk about a process here because negotiation is one whose objective is to make a decision. This always happens in an interdependent way. Others impact the process, which impacts the outcome (decision). Such is the base of **social decision-making**.
 - *An interdependent, dynamic decision-making process in which parties discuss and change/adapt their strategies in response to each other* (Fisher & Ury 1999).

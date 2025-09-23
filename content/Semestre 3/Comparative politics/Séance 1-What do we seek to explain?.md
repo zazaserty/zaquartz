@@ -22,7 +22,7 @@ Basically what happens in a nation is determined (even though not entirely) by a
 As for the age based argument->less old people=less people at risk: less support/need for harsher measures.
 ##### Classifying answers
 ![[Pasted image 20250916153617.png]]
-- Functionalism: *what is the challenge that the policy aims to solve*? Because it affects the policy.
+- Functionalism: *what is the challenge that the policy aims to solve*? It affects the policy.
 - Institutionalism: the rules of the political system also shape the policy.
 - Structuralism: the strength or unequal presence of diverse social groups with different preferences affects the policy.
 - Culturalism: the preferences specific to the inhabitants of a country affect its policies.
@@ -30,11 +30,11 @@ As for the age based argument->less old people=less people at risk: less support
 - Explaining an outcome with the purpose it fulfils:
 	- Strict rules are necessary when caseload is high or the health care system is not resilient.
 	- Evidence: Measures are strict in winter and lax in summer.
-- Other examples:
+- Other **examples**:
 	- The welfare state developed in response to the new challenges created by the industrial revolution -> in an agricultural society, no need for unemployment insurance.
-		- Federalism developed in countries with relevant ethnic minorities.
-	- Theory of change:
-		- Political outcomes change when the underlying problems change.
+	- Federalism developed in countries with relevant ethnic minorities.
+- Theory of change:
+	- Political outcomes change when the underlying problems change.
 - The poster child of functionalist explanations is evolutionary biology:
 	- *Why has the Giraffe such a long neck*? *Why has the Eagle such good eyes*?
 - Problem: *What is the equivalent of mutation and selection in politics*?
@@ -46,7 +46,7 @@ As for the age based argument->less old people=less people at risk: less support
 ###### **Culturalism**
 - Explaining an outcome with the norms and values of the citizens:
 	- *The higher the population values individual freedom, the less strict the rules will be*.
-- Other examples:
+- Other **examples**:
 	- The more individualist a country, the smaller the welfare state (contrast Sweden and US).
 	- Protestantism led to the emergence of capitalism by generating *Calvinist* values among its followers (according to Max Weber, The Protestant Ethic and the Spirit of Capitalism).
 - Theory of change:
@@ -103,10 +103,10 @@ This also depends on the cultural characteristics of the specific nation, as the
 
 Last, but not less important, is the structural aspect. The presence of large military lobbies in governments (**f.e**: weapons manufacturers such as Lockheed Martin in the USA) as well a large part of the population that has gone through military service, will give a bigger voice to the cause of increasing military budget and vice-versa.
 ##### How to make it better
-- Institutionalist argument: Make it sharper, focus more on the rules than on the regime type. Not *totalitarisms need to repress citizens* but *powerful executives pass budgets easily*. It would have been great to also mention alliances such as NATO, which can put constraints on military budget (**f.e**: USA imposing a minimum of 5% of GDP to be spent in the military for all NATO countries).
+- Institutionalist argument: Make it sharper, focus more on the rules than on the regime type. Not *totalitarisms need to repress citizens* but *powerful executives pass budgets easily* (and also need that military force). It would have been great to also mention alliances such as NATO, which can put constraints on military budget (**f.e**: USA imposing a minimum of 5% of GDP to be spent in the military for all NATO countries).
 - Functionalism: Natural disasters are okay as an argument but they are not as relevant, could have been skipped.
-- Culturalism: Very good but threat perception should not have been mentioned (it is more of a functionalist argument). Values and norms should be underlined more (**f.e**: the USA support our troops movement and long military tradition).
-- Structuralism: Military complex is okay but class coalitions have to be mentioned. More workers-> welfare state-> less money for the military. If the workers have less power or landed elites are more numerous then there is more money available.
+- Culturalism: Very good but threat perception should not have been mentioned (it is more of a functionalist argument). Values and norms should be underlined more (**f.e**: the USA support our troops movement and long military tradition). It is also interesting to get to the roots of this, christian and protestant ethics (Jean Calvin).
+- Structuralism: Military complex (strong=employ lots of people) is okay but class coalitions have to be mentioned. More workers-> welfare state-> less money for the military. If the workers have less power or landed elites are more numerous then there is more money available. ==Attention==: NATO is an organisation, the spending requirement is the institution!
 ### What you should have learned today
 - How to identify and how to develop four different types of explanations.
 

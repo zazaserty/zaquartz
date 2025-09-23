@@ -26,7 +26,7 @@ C'est des synonymes mais droit des conflits armés est le plus général, il fau
 #### Droit de la guerre
 Le terme le plus ancient pour désigner le DIH. On rattachait l'application de ces règles que dans l'état de guerre, pour les CAI. On reconnaissait le droit à la belligérance. Ceci était avant 1945.
 #### Droit des conflits armés (C.G.s 1949)
-On introduit les CANIs, maintenant on ne règlement pas que la guerre dans le sens des CAIs. Et donc on change le terme *guerre* par *conflit*.
+On introduit les CANIs, maintenant on ne réglemente pas que la guerre dans le sens des CAIs. Et donc on change le terme *guerre* par *conflit*.
 
 En plus c'est plus sûr en termes d'application. Si on ne déclare pas la guerre on n'est donc pas dont cet état mais on peut bombarder et être dans un conflit. Le droit de la guerre s'appliquait ==qu'à== la guerre. Cette lacune devait être comblée.
 
