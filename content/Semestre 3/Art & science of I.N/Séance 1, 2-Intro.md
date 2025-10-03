@@ -37,5 +37,34 @@ Multiple concepts are often associated to negotiation, but are not the same thin
 Most decisions in history were not taken purely using force. However this is not incorporated enough in our current vision of history.
 
 Negotiation is necessary, it reduces war by humanising our enemies. Recently it has been seen as the *weapon of the weak*, but it has shown it can result in win-win situations and save many lives in the process.
+### The shadow of Realism
+The (still) dominant international relations paradigm of realism can only explain conflict, not its resolution or cooperation, and has no place for negotiation:
+- Traditional study of International Relations focuses on power, authority, war and security.
+- Less on Peace and conflict management (Liberalism and constructivism).
+- And even less on the processes leading to a negotiation…
+#### Structuralist's paradox
+*How and why do the weak and strong negotiate in order to come to a mutually acceptable agreement, and why do they do so anyhow, if the strong is strong and the weak is weak?* (Zartmann 2008, Chap. 6)
+- **Ex**: Swiss-EU Bilateral agreements
+	- Switzerland is outside of the EU but got a good deal. Even if the EU can seem stronger, both strong and weak actors seem to have incentives to negotiate.
+	- ![[Pasted image 20250924103204.png]]
+
+This idea has been challenged by the return of power politics such as those of the new USA administration.
+### How to study negotiation?
+There are many different approaches, and it might be difficult to navigate the debate so as to situate yourself and the other theorists.
+- Strong diplomatic belief that skill only comes by doing (Negotiation as a craft).
+	- Negotiation as skills? empathy, inter-cultural skills,knowledge of the political context, pragmatism->practice.
+- Or as something predictable?
+	- Studying many wars could allow you to understand individual ones better, classify and predict them->science.
+	- How can we predict negotiation?
+	- A more systematic study of negotiation processes emerged in the field of economy with the emergence of Game theory.
+		- Emerged during the Cold War, when negotiation was very important and the cost of war surpassed that of negotiation.
+			- Big interest for prediction, high stakes.
+		- Since diplomacy taught it as skills and experience, the field of economics went for a more mathematical approach.
+		- But it is often disconnected from any consideration of process as practised in negotiation.
+			- Less centred in the human aspect.
+#### What about theory?
+A divide between theory and practice. Theoretical theory is on the rise. People in the field think they know what they do because of their experience opposed to people that study negotiation and don't get why the same mistakes are made (from their point of view, a consequence of lack of studying):
+- How to reconcile the study of negotiation from simple characteristics of a good negotiator and idealised theory distant from the real process?
+- *The Strategy of Conflict* of Thomas G. Schelling (1960) constitutes one of the first attempts to combine study of power and process in negotiations.
 
 #UNIGE #ACofIN

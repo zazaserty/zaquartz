@@ -107,7 +107,5 @@ Last, but not less important, is the structural aspect. The presence of large mi
 - Functionalism: Natural disasters are okay as an argument but they are not as relevant, could have been skipped.
 - Culturalism: Very good but threat perception should not have been mentioned (it is more of a functionalist argument). Values and norms should be underlined more (**f.e**: the USA support our troops movement and long military tradition). It is also interesting to get to the roots of this, christian and protestant ethics (Jean Calvin).
 - Structuralism: Military complex (strong=employ lots of people) is okay but class coalitions have to be mentioned. More workers-> welfare state-> less money for the military. If the workers have less power or landed elites are more numerous then there is more money available. ==Attention==: NATO is an organisation, the spending requirement is the institution!
-### What you should have learned today
-- How to identify and how to develop four different types of explanations.
 
 #UNIGE #Comparativepolitics 

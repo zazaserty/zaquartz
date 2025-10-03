@@ -1,3 +1,5 @@
-- [[Université de Genève/Semestre 3/Art & science of I.N/Séance 1-Intro|Séance 1-Intro]]
+- [[Séance 1, 2-Intro|Séance 1, 2-Intro]]
+- [[Séance 2-Theories]]
+- [[Séance 3-Mutlilateral diplomacy]]
 
 #Plaque-tournante #UNIGE #ACofIN 

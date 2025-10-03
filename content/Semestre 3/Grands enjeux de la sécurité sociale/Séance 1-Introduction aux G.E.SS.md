@@ -1,6 +1,6 @@
 ## Intro
 ### Raison d'être
-Une des raisons d'être de l'OIT et de cette discipline est d'éviter l'*outsourcing* et la course vers le bas qui arrive de nous jours en termes de droits des travailleurs.
+Une des raisons d'être de l'OIT et de cette discipline est d'éviter l'*outsourcing* et la course vers le bas qui arrive de nous jours en termes de droits des travailleurs. Mais aussi de protéger les gens contre les périls de cette nouvelle société capitaliste : inefficiencies de marché, vieillese, etc..
 ### Définition
 Elle fait référence surtout au concept de protection sociale. Mais c'est quoi? La notion de protection sociale a évoluée à partir de la notion de sécurité sociale pour désigner les prestations sociales qui ne rentrent pas dans les 9 régimes connus. **P.ex.** en Inde ou on donne un salaire (en échange d'une activité pour la collectivité) en remplacement au lieu d'une indemnité de chômage.
 ### Bien-être

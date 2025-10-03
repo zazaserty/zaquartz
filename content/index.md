@@ -20,5 +20,6 @@
 - [[DIH]]
 - [[Environmental Economics]]
 - [[Grands enjeux de la ss]]
+- [[Séminaire RI]]
 
 #UNIGE #Plaque-tournante

@@ -10,10 +10,9 @@
 - Pareto efficiency does not however imply equality or fairness.
 	- A relevant quote by Amartya Sen suggest that a society or an economy can be Pareto optimal and still be perfectly disgusting from an ethical perspective.
 		- **Example**: A small village where a rich dude has 90% of all the wealth in the society. Redistribution would not be pareto efficient, even though it could be considered fairer.
-##### Applied to markets...
+##### Inefficiency applied to markets...
 - A market is inefficient when trading could make one person better off without making the other worse off.
 - When markets fail to set prices that incorporate all social costs and benefits, the resulting allocation is not Pareto efficient.
-- It is inefficient when trading could make one person better off without making the other worse off.
 #### If these do not hold... MARKET FAILURE
 - Markets exist for all good and services produced and consumed.
 	- No market for clean air **f.ex**.
