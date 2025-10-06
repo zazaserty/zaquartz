@@ -26,7 +26,7 @@ For now, he has been wrong (25 years). And Limongi *et al.* would have helped pr
 - Has the way in which democracies collapse changed?
 - More on this in sessions 4 and 5.
 ### Defining autocracy
-- In practice, autocracy and authoritarianism are often used interchangeably. In this lecture, I will try to stick to the following operationalisation:
+- In practice, autocracy and authoritarianism are often used interchangeably. In this lecture, we will try to stick to the following operationalisation:
 	![[Pasted image 20250930143728.png]]
 #### So?
 - Often defined negatively:
@@ -44,23 +44,23 @@ For now, he has been wrong (25 years). And Limongi *et al.* would have helped pr
 - Democracy can be seen as a solution to this problem: Because power is always temporary (until the next election), you can afford to hand it over to your opponent (and fight for winning it back).
 - An aspect particularly emphasised by minimal definitions of democracy (Schumpeter/Przeworski).
 	- *Democracy is when parties lose elections*.
-### Succession in democracies
+#### Succession in democracies
 - In democracies, there are mechanisms for replacing party leaders that have become a burden on the party (Liz Truss had to resign as UK prime minister after 7 weeks).
 - Presidential systems typically impose term limits.
 - Even democracies run into the problem of how to get rid of leaders:
 	- Sometimes very strong incumbency advantages: in the US senate, the longest serving senator was elected in 1980, 6/100 senators are older than 80->gerontrification.
-### Succession in autocracies
+#### Succession in autocracies
 - Particular challenge for autocracies: how to organise the turnover of power without competitive elections.
 	- Last week Przeworski/Limongi: ==a crucial moment which may lead to the advent of democracy==.
 	- Autocracies dont have elections (main instrument).
 - The incumbent powerholder may die/become old or ill/may become unpopular (with elites).
 	- And there is no organised opposition or way to force replacement inside the regime.
 - This can threaten the stability of the regime.
-- Autocracies seek *organised certainty*, they want to avoid *ruled open- endedness* (Gerschewski 2023, p. 4).
+- Autocracies seek *organised certainty*, they want to avoid *ruled open-endedness* (Gerschewski 2023, p. 4).
 - Therefore, there is no regular turnover of power and no routine in dealing with uncertainty.
 - Thus, the moment of uncertainty after a leader dies is particularly challenging.
 	- One solution is picking the oldest son, if he's competent enough (recent innovation).
-	- This happens with any non-democratic organisation.
+	- This happens with any non-democratic organisation and isn't limited to regimes.
 #### The catch-22 of autocratic succession
 *The core problem of medieval succession politics finds echoes in the contemporary world. In today’s authoritarian regimes, the challenge is the same as in Europe’s past: to groom a successor who can placate the elites without risking that this successor will hasten the power transfer via a coup. Faced with this choice between a rock and a hard place, most contemporary authoritarian rulers choose not to groom a successor for fear of the Crown Prince Problem. One of the consequences is that many dictatorships do not outlive the death of their first leader.*
 ### Types of Non-democracies
@@ -92,7 +92,7 @@ For now, he has been wrong (25 years). And Limongi *et al.* would have helped pr
 ![[Pasted image 20250930151759.png]]
 ##### Personalist dictatorships
 - *We define personalist regimes as autocracies in which discretion over policy and personnel are concentrated in the hands of one man, military or civilian*. (Geddes et al. 2014, p. 319).
-	- Not necessarily the leader of a dinasty.
+	- Not necessarily the leader of a dynasty.
 - An individual leader is at the center of the regime.
 - Other institutions (e.g. parliaments, the military) may exist, but are clearly subordinate to the leader.
 - Often, the leader is an officer, but is unconstrained by other officers.
@@ -107,10 +107,10 @@ For now, he has been wrong (25 years). And Limongi *et al.* would have helped pr
 ##### Single-party regimes
 - A deeply institutionalised system.
 - Relatively clear lines of accountability.
-- Can have term limits (e.g. China pre-Xi).
+- Can have term limits (**e.g.** China pre-Xi).
 - The most important position in these regimes is the leadership of the party, not the formal leadership of the country.
 	- **E.g.**: Khrushchev was General Secretary of the Communist Party but never Head of State of the Soviet Union. Gorbachev only became head of state in 1988.
-- Relatively immune to the problem of succession, party can force unpopular leaders out (e.g. in Soviet Union).
+- Relatively immune to the problem of succession, party can force unpopular leaders out (**e.g.** in Soviet Union).
 ###### **Examples**
 - Communist regimes in Eastern Europe pre-1990.
 - China post-Mao (and pre-Xi?).
@@ -136,10 +136,10 @@ For now, he has been wrong (25 years). And Limongi *et al.* would have helped pr
 - The other members of the family retain influence and constrain the monarch.
 - Usually long-lived, the problem of succession is largely solved.
 - **Examples**:
-- Saudi-Arabia
-	- Qatar.
-	- United Arab Emirates.
-	- Jordan.
+- Saudi-Arabia.
+- Qatar.
+- United Arab Emirates.
+- Jordan.
 ### Autocratic survival
 ![[Pasted image 20250930153329.png]]
 Some regimes just didn't colapse because of intervention such as the URSS with some of its satellites. Most regimes eventually go trough changes such as monarchy->constitutional monarchy.
@@ -193,4 +193,5 @@ We can't really give it a number scale all the 5/10s wouldn't have the same stor
 	![[Pasted image 20250930155735.png]]
 	![[Pasted image 20250930155800.png]]
 	- It wouldn't be easy to understand why they (opposition) believe in elections without the concept of competitive authoritarianism.
+
 #UNIGE #Comparativepolitics 

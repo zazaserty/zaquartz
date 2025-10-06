@@ -1,5 +1,6 @@
 - [[Séance 1-IntrotoE.I]]
 - [[Séance 2-Markets and the environment]]
 - [[Séance 3-Pollution as market failure]]
+- [[Séance 4-Instruments for pollution control]]
 
 #UNIGE #Plaque-tournante #EnvironmentalEconomics 
