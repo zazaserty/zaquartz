@@ -1,4 +1,4 @@
 - [[Séance 1-Introduction aux G.E.SS]]
 - [[Séance 2-Définition de la S.S]]
 
-#UNIGE #SS #SS 
+#UNIGE #SS #Plaque-tournante  

@@ -1,5 +1,7 @@
 - [[Séance 1-What do we seek to explain?]]
 - [[Séance 2-Regimes I]]
 - [[Séance 3-Regime II]]
+- [[Séance 4-Regimes III]]
+- [[Tutorial I-Democratic Backsliding, Institutional Change...]]
 
 #UNIGE #Comparativepolitics

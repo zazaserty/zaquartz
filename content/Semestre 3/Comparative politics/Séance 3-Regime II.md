@@ -73,7 +73,7 @@ For now, he has been wrong (25 years). And Limongi *et al.* would have helped pr
 3) Competitive authoritarianism (Levitsky/Way).
 #### Totalitarianism
 - Distinguished from an *ordinary tyranny*.
-	- In these cases there is no ideological ambition, just to lead and represent the country while living a chill life. As long as the population doesn't touch the regime they aren't bothered. But this isn't the case in totalitarianism, there's great political mobilisation.
+	- In these cases there is no ideological ambition, just to lead and represent the country while living a chill life. As long as the population doesn't touch the regime they aren't bothered (*depolitisation of society*). But this isn't the case in totalitarianism, there's great political mobilisation.
 - A regime that seeks to fundamentally transform the structure of society, including by means of violence and terror to create a new human.
 	- Replacing religion and other collective organisations with their own (Hitlerian youth).
 	- **E.g.** 1920s.

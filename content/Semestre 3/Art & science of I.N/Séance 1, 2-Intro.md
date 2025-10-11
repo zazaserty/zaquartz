@@ -46,7 +46,7 @@ The (still) dominant international relations paradigm of realism can only explai
 *How and why do the weak and strong negotiate in order to come to a mutually acceptable agreement, and why do they do so anyhow, if the strong is strong and the weak is weak?* (Zartmann 2008, Chap. 6)
 - **Ex**: Swiss-EU Bilateral agreements
 	- Switzerland is outside of the EU but got a good deal. Even if the EU can seem stronger, both strong and weak actors seem to have incentives to negotiate.
-	- ![[Pasted image 20250924103204.png]]
+	![[Pasted image 20250924103204.png]]
 
 This idea has been challenged by the return of power politics such as those of the new USA administration.
 ### How to study negotiation?

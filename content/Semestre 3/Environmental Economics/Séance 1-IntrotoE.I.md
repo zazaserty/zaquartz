@@ -68,7 +68,7 @@ The way we use stock resources will impact us in the future, specially for those
 4. Includes ambient pollution (total pollution by all producers).
 5. Here M (pollution) is linked to how much R is used (resources).
 
-This proves that in economics it is not that difficult to handle environmental factors, adding them into our production functions. The problem is measuring it, it is not like capital.
+This proves that in economics it is not that difficult to handle environmental factors, adding them into our production functions. The problem is measuring them, they are not like capital.
 #### Does Economic growth harm the environment?
 - The World Bank’s World Development Report 1992 (IBRD 1992) was subtitled *Development and the Environment*.
 - Affluence and the environment.
@@ -103,7 +103,7 @@ Richer->cleaner.
 - Economic growth is not a panacea for environmental quality.
 - Policies that promote gross national product growth are not substitutes for environmental policy.
 ##### Forces that may explain an EKC path
-- Structural changes: pollution declines as incomes grow because of the change in the product mix or technology.
+- Structural changes: pollution declines as incomes grow because of the changes in the product mix or technology.
 - Trade: when incomes increase, countries increase their imports of pollution-intensive goods, in essence exporting pollution.
 - Luxury good: as incomes grow, households choose more environmental quality and the various production and consumption processes comply through public action: Income elasticity to environmental quality.
 - Regulation: Race to the bottom. Polluting activities do move around (Henderson, 1996; Greenstone, 1998; Becker and Henderson, 2000, List et al 2003).

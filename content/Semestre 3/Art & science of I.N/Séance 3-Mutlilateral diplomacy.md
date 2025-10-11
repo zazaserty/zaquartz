@@ -36,7 +36,7 @@ WHO, WTO, ITU, ITO, etc... In Geneva negotiations go on everywhere. Each organis
 #### Pre-negotiation
 Happens before the negotiation starts. It is also a moment to build confidence, know each other as diplomats or carry out a study with specialised bodies to know all the details. It also allows to manage the media and be able to track what you are going to tell them, as it is possible to put pressure on counterparts trough media statements. Often, counterparts discuss how to handle the media.
 
-If things go wrong in this phase, the whole negotiation might not be able to catch up with this and just be done for.
+If things go wrong in this phase, the whole negotiation might not be able to catch up with this and just be done for. Negotiations don't happen in the void, rules and confidence-building are important. Framework is almost everything, proving that the international system isn't completely anarchical, it is still a society.
 ##### Agenda
 First it is necessary to set the agenda, even in bilateral ones. The topic has to be set and prepared. The order and content is negotiated in this phase, in some negotiations (such as disarmament ones) the chairman may have the power to close and reopen points despite of order.
 ##### Typical agenda for multilateral negotiations
