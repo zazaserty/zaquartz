@@ -24,7 +24,7 @@ C. IV 1907 :
 	- La convention sur la neutralité maritime est un peu obsolète. Toujours appliquée mais selon l'expertise de San Remo (manuel).
 #### C.G
 ##### Raison d'être
-On a voulu se recentrer d'avantage sur les civils après la 2GM, laisser de côté la Haye pour le moment. Et donc c'est la filière des C.G qui était centrée sur cela. Il y a avait une volonté de règlement parmi les belligérants de bonne foi, qui nécessitaient des outils pour protéger les civils et savoir ce qu'ils peuvent faire.
+On a voulu se recentrer d'avantage sur les civils après la 2GM, laisser de côté la Haye pour le moment. Et donc c'est la filière des C.G qui était centrée sur cela. Il y avait une volonté de règlement parmi les belligérants de bonne foi, qui nécessitaient des outils pour protéger les civils et savoir ce qu'ils peuvent faire.
 
 En plus la Haye ne régissait pas les conflits armés non-internationaux.
 ##### Taille
@@ -61,10 +61,10 @@ Pour la 1ère fois on fusionne le droit de la Haye (conduite des hostilités) et
 #### Droit des traités
 Ces règles sont applicables aux DIH, sans altérations. Il n'y a pas de spécificités (contrairement aux traités des D.d.H->droits de l'homme). Mais il y a deux exceptions (*si omnes* ne s'applique plus comme 3ème) où le DIH est *lex specialis* et déroge le droit des traités.
 ##### Groupes armés
-Dans les CANI normalement c'est un gouvernement avec ses troupes contre un groupe armé. Pour appliquer les règles il faut que les parties y adhèrent, hélas comment faire adhérer un acteur non-étatique? Ici la règle s'altère, ça s'applique au groupe armé même s'ils n'adhèrent pas. Il y a plusieurs explications:
+Dans les CANI normalement c'est un gouvernement avec ses troupes contre un groupe armé. Pour appliquer les règles il faut que les parties y adhèrent, hélas comment faire adhérer un acteur non-étatique? Ici la règle s'altère, ça s'applique au groupe armé même s'ils n'adhèrent pas. Il y a plusieurs explications **e.g** :
 - Un ressortissant est lié par les traités de DIH qu'un état ratifie, au moins dans le territoire de cet état, donc le groupe armé aussi. Mais bon ici le groupe est lié par des règles décidés par son ennemi... pas trop solide.
 ##### États tiers
-Pour les C.G l'art. 2 dit que si un état applique les C.G l'autre état doit aussi les appliquer réciproquement. Donc une non-partie peut obliger un état à respecter les C.G. Mais dans le DIH puisqu'on veut appliquer les C.G le plus possible ben on évite cet obstacle. Même si normalement pour appliquer un traité les deux parties devraient en faire partie.
+L’article 2 commun aux Conventions de Genève prévoit qu’elles s’appliquent automatiquement aux conflits entre États parties, même sans déclaration de guerre.   Toutefois, si un État partie est en conflit avec un État **non partie**, il **reste juridiquement tenu de respecter les Conventions**.   Cela signifie qu’**un État partie ne peut pas se soustraire à ses obligations humanitaires** en invoquant la non-adhésion de son adversaire.   Bien que l’État non partie ne soit pas juridiquement lié par le traité, **de nombreuses dispositions des Conventions sont désormais considérées comme du droit coutumier**, donc **applicables à tous les acteurs**, parties ou non.   Cette logique vise à **maximiser l’universalité et l’efficacité du droit international humanitaire**, indépendamment du statut formel des parties. En plus, si un état respecte les C.G l'autre est attendu de le faire aussi par récriprocité.
 #### Deux pôles de traités
 Pour les CA il y a les traités multilatéraux (plus visibles, on travaillera plus avec) et les bilatéraux entre belligérants (accords spéciaux) avec trois finalités alternatives.
 ##### Accords spéciaux d'exécution

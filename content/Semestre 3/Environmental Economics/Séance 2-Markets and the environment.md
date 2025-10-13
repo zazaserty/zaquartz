@@ -9,7 +9,7 @@
 - A gain by one or more persons without anyone else suffering is known as a Pareto improvement.
 - Pareto efficiency does not however imply equality or fairness.
 	- A relevant quote by Amartya Sen suggest that a society or an economy can be Pareto optimal and still be perfectly disgusting from an ethical perspective.
-		- **Example**: A small village where a rich dude has 90% of all the wealth in the society. Redistribution would not be pareto efficient, even though it could be considered fairer.
+		- **Example**: A small village where a rich dude has 90% of all the wealth in the society. Redistribution would not be Pareto efficient, even though it could be considered fairer.
 ##### Inefficiency applied to markets...
 - A market is inefficient when trading could make one person better off without making the other worse off.
 - When markets fail to set prices that incorporate all social costs and benefits, the resulting allocation is not Pareto efficient.
@@ -52,7 +52,7 @@ A number of factors give rise to externalities:
 	- Other reasons mentioned below.
 - Lack or weak property rights: without firm property rights, the affected party is unable to demand that the externality be reduced or ask for compensation.
 - High transaction costs: the costs of negotiating, implementing and enforcing an agreement between the parties may be high.
-If the affected agent is compensated for their loss of welfare, the externality is ‘ internalised’, and society is better.
+If the affected agent is compensated for their loss of welfare, the externality is *internalised*, and society is better.
 #### Type of market structure
 Under monopolistic market competition structures:
 - The monopolist will sell goods at a higher price than would firms under perfect competition.
@@ -102,7 +102,7 @@ Private goods are comprehensive, exclusive, transferable and secure:
 ##### Open access/common property goods
 - The goods are rival in consumption, non-exclusive, non-transferable, and often non-enforceable.
 - Typical example of open access goods is ocean fisheries, or forests.
-- Common property goods (e.g., common grazing land) are rival in consumption and are exclusive for a group of people (e.g., a group of farmers).
+- Common property goods (**e.g.**, common grazing land) are rival in consumption and are exclusive for a group of people (**e.g.**, a group of farmers).
 	- This can lead to a tragedy of the commons.
 ###### **Tragedy of the commons**
 Hardin (1968), *The tragedy of the commons*, Science. Imagine, two herdsmen have access to common land:
@@ -115,8 +115,8 @@ Hardin (1968), *The tragedy of the commons*, Science. Imagine, two herdsmen have
 		![[Pasted image 20250922154008.png]]
 	- A nash equilibrium would be created in cell 60/60, but wouldn't be pareto efficient.
 	- Clearly, the positive component is greater than the negative one so each herdsman will add one animal to his herd.
-	- The outcome will be overgrazing and soil erosion of communal pastures ⇒unsustainable use of the resource In the words of Hardin, ”each man is locked into a system that compels him to increase his herd without limit-in a world that is limited”
-	- However, the best outcome would be ”Small herd” but needs cooperation.
+	- The outcome will be overgrazing and soil erosion of communal pastures ⇒unsustainable use of the resource In the words of Hardin, *each man is locked into a system that compels him to increase his herd without limit-in a world that is limited*.
+	- However, the best outcome would be *Small herd* but needs cooperation.
 	- Overgrazing can be also seen as an example of congestion externality leading to an unsustainable use of the resource component:
 		- Congestion externalities: my use of a resource imposes an additional cost to other’s or reduce the benefits of others that also use this resource.
 		- Threshold effects: Grazing by one herder increases the cost of grazing by other herders only if there are too many herders for the carrying capacity of the land.
@@ -130,11 +130,11 @@ Hardin (1968), *The tragedy of the commons*, Science. Imagine, two herdsmen have
 ![[Pasted image 20250922154949.png]]
 ### Government intervention
 Assignment of well defined property rights:
-- Setting price of social damage through taxation Pigovian or green taxation) such that the price set is equal to the external cost or marginal damage suffered by the environment.
-- Setting the quantity of social damages tradable pollution permit systems or cap and trade.
+- Setting price of social damage through taxation (Pigovian or green taxation) such that the price set is equal to the external cost or marginal damage suffered by the environment.
+- Setting the quantity of social damages through tradable pollution permit systems (cap and trade).
 #### Market failure
 - Much of governmental activity is allegedly justified on the grounds of economic (Pareto) efficiency.
-- Pigou in his Economics of Welfare first popularized the idea that the existence of (externalities) is grounds for government intervention , which would take the form of a subsidy to the activity generating positive externalities and taxes to the activity generating negative externalities.
+- Pigou in his Economics of Welfare first popularised the idea that the existence of (externalities) is grounds for government intervention , which would take the form of a subsidy to the activity generating positive externalities and taxes to the activity generating negative externalities.
 - Government intervention may seek to correct for the distortions created by market failure and to improve the efficiency in the way that markets operate:
 	- Pollution taxes to correct for externalities.
 	- Taxation of monopoly profits.
