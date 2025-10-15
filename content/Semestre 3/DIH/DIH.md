@@ -1,5 +1,5 @@
 - [[Séance 1-Intro]]
 - [[Séance 1, 2, 3-Sources du DIH]]
-- [[Séance 3, 4-Applicabilité]]
+- [[Séance 3, 4, 5-Applicabilité]]
 
 #UNIGE #DIH #Plaque-tournante 

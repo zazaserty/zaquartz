@@ -1,7 +1,7 @@
 ## Managing complexity in negotiation
 ### What is diplomatic engineering?
 1. Science in diplomacy refers to evidence based foreign policy.
-	- Bases diplomacy on scientific criteria and scientific literature about obstacles and favorable conditions of negociation (**ex.** game theory or Harvard method).
+	- Bases diplomacy on scientific criteria and scientific literature about obstacles and favorable conditions of negociation (**ex.** strategic game theory or Harvard method).
 2. Diplomacy for science refers to foreign policy that promote STI (Science, Technology, Innovation) to solve common problems.
 3. Science for diplomacy refers to the rôle of science in coalition building and conflict resolution (apply hard-science tools to a negotiation process).
 - The diplomatic engineering is a process-based approach. It tries to apply scientific methods to negotiation processes. It is rooted in real word negotiation experiences.

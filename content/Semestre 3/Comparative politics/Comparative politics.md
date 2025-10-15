@@ -3,5 +3,6 @@
 - [[Séance 3-Regime II]]
 - [[Séance 4-Regimes III]]
 - [[Tutorial I-Democratic Backsliding, Institutional Change...]]
+- [[Séance 5-Democratic backsliding]]
 
 #UNIGE #Comparativepolitics
