@@ -141,6 +141,8 @@ Il y a 3 blocs différenciés quant à la fin de l'occupation :
 	- Était le territoire Gazaoui occupé entre 2006-7oct? La CIJ dit dans un avis consultatif->un territoire comme Gaza (à l'époque) où les forces étrangères ne sont pas dans le territoire (incursions de temps en temps quand même) n'est pas occupé au sens juridique puisqu'ils contrôlent les frontières et même la mer mais depuis l'extérieur (c'est Israël qui contrôlait hein).
 		- Mais il est occupé dans le sens du droit de Genève, de manière fonctionnelle. Et donc des choses comme la déportation sont interdites-> ils ont été occupants et ont fait un retirement partiel donc des résidus du droit sont toujours applicables. Par rapport aux activités où il y a du contrôle israélien (**e.g.** frontières et donc entrée de l'aide humanitaire) le droit d'occupation s'applique.
 	- La **règle conventionnelle** de 1949 (CG->DIH finit un an après occup), qui **déroge au droit coutumier issu de 1907** (Haye->fin effective occup), est elle-même **supplantée** par la logique du PA I de 1977 (tant que nécessaire), bien que ce dernier n'aie jamais été appliqué en pratique.
+		![[Pasted image 20251016122121.png]]
+	![[Pasted image 20251016122138.png]]
 	- Une qualification de C.d.S déroge le droit s'il disent plus d'occup?? On sait pas.
 #### Applicabilité spatiale
 Où s'applique t-il? À quels espaces? Le critère principal est l'effectivité.

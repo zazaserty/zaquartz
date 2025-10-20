@@ -28,7 +28,7 @@ Le terme le plus ancient pour désigner le DIH. On rattachait l'application de c
 #### Droit des conflits armés (C.G.s 1949)
 On introduit les CANIs, maintenant on ne réglemente pas que la guerre dans le sens des CAIs. Et donc on change le terme *guerre* par *conflit*.
 
-En plus c'est plus sûr en termes d'application. Si on ne déclare pas la guerre on n'est donc pas dont cet état mais on peut bombarder et être dans un conflit. Le droit de la guerre s'appliquait ==qu'à== la guerre. Cette lacune devait être comblée.
+En plus c'est plus sûr en termes d'application. Si on ne déclare pas la guerre on n'est donc pas dans cet état mais on peut bombarder et être dans un conflit. Le droit de la guerre s'appliquait ==qu'à== la guerre. Cette lacune devait être comblée.
 
 Dans ce cas hostilités=automatiquement conflit armé. On ne peut plus dire *je ne suis pas en guerre*. En substance, le droit des conflits armés est la même chose que le droit de la guerre mais le déclencheur (*ad bello*) est différent.
 #### Droit international humanitaire
@@ -60,18 +60,18 @@ Certaines armes causent des souffrances excessives. On essaie de traiter les gen
 On limite les effets de la guerre pour préserver les civils.
 #### Intérêt militaire de ces règles
 ##### Utilité
-Il y a un avantage pour les belligérants à limiter certaines armes. **Ex.** : les armes chimiques. Limiter la guerre ici ça aide puisque en utilisant les armes chimiques on tue plus mais on peut recevoir le même traitement. Là c'est de l'utilité militaire.
+Il y a un avantage pour les belligérants à limiter certaines armes. **Ex.** : les armes chimiques. Limiter la guerre ici ça aide puisqu'en utilisant les armes chimiques on tue plus mais on peut recevoir le même traitement. Là c'est de l'utilité militaire.
 
-C'est aussi utile de ne pas attaquer les civils. Ça donne pas vraiment un avantage, comme ça on concentre les ressources dans des choses plus utiles. **Exceptions** : guerres de terreur comme la russe contre l'Ukraine. C'est donc pourquoi ces règles ont été négociées avec des commandants militaires.
+C'est aussi utile de ne pas attaquer les civils. Ça donne pas vraiment un avantage, comme ça on concentre les ressources dans des choses plus utiles. **Exceptions** : guerres de terreur comme la Russie contre l'Ukraine. C'est donc pourquoi ces règles ont été négociées avec des commandants militaires.
 ##### Balance nécessaire
-Sans cela, en disposant seulement du avec le point de vue humanitaire, il serait difficile de se limiter vis-à-vis de l'ennemi.
+Sans cela, en disposant seulement du point de vue humanitaire, il serait difficile de se limiter vis-à-vis de l'ennemi.
 
 On essaie toujours d'équilibrer les besoins militaires avec le désir d'être humanitaire. Les dommages collatéraux sont permis, **p.ex**. Ça ne servirai à rien de limiter un pays qui se défend, s'il a besoin de se défendre il ne suivra pas les règles qui lui en empêcheront. Ceci arrive aussi avec la progression des chars, si un immeuble bloque la route on le détruit. ==Trop d'humanitaire=règles pas respectées et ça ne sert à rien!== C'est à cause de cela qu'on négocie souvent avec des commandants avant d'écrire ces règles.
 ### Pessimisme
 #### Le DIH est-il respecté? Sert-il à quelque chose?
 Certains journalistes et personnes manifestent que le DIH ne sert à rien puisqu'il n'est jamais présent dans les champs de bataille et personne ne les respecte. Il y a un petit chemin pour le DIH, il ne doit pas limiter trop les armées s'il veut être respecté.
 #### En réalité
-Mais il y a plein d'**exemples** ou il marche. L'Ukraine est très préoccupée pour le respect pour le respect de DIH, consulte régulièrement des spécialistes en plusieurs langues. Du coup juste parce qu'il y a des violations ça veut pas dire qu'on doive l’éliminer. Sans DIH pas de consultations, de violations, de conséquences...
+Mais il y a plein d'**exemples** où il marche. L'Ukraine est très préoccupée pour le respect du DIH, elle consulte régulièrement des spécialistes en plusieurs langues. Du coup juste parce qu'il y a des violations ça veut pas dire qu'on doive l’éliminer. Sans DIH pas de consultations, de violations, de conséquences...
 ### Égalité des belligérants
 Normalement les règles s'appliquent réciproquement. Ce n'est qu'à ce prix là qu'on peut les appliquer, les belligérants sont tous liés. On ne fait pas de distinction entre agresseur et agressé. Dans le droit de la paix (sanctions et etc) les états peuvent faire la différence, mais pas dans le DIH. Le DIH c'est un minimum d'humanité pour ne pas sombrer dans la barbarie.
 

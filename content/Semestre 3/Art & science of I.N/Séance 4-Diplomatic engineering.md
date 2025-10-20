@@ -1,7 +1,7 @@
 ## Managing complexity in negotiation
 ### What is diplomatic engineering?
 1. Science in diplomacy refers to evidence based foreign policy.
-	- Bases diplomacy on scientific criteria and scientific literature about obstacles and favorable conditions of negociation (**ex.** strategic game theory or Harvard method).
+	- Bases diplomacy on scientific criteria and scientific literature about obstacles and favorable conditions of negotiation (**ex.** strategic game theory or the Harvard method).
 2. Diplomacy for science refers to foreign policy that promote STI (Science, Technology, Innovation) to solve common problems.
 3. Science for diplomacy refers to the rôle of science in coalition building and conflict resolution (apply hard-science tools to a negotiation process).
 - The diplomatic engineering is a process-based approach. It tries to apply scientific methods to negotiation processes. It is rooted in real word negotiation experiences.
@@ -15,7 +15,8 @@ First, you analyse the position and interests of the different parties. **E.g.**
 - Investment in the reconstruction of Gaza.
 Secondly, you decompose the problem (decomposition): split problems into less complex subproblems. As such they are reduced to a technical levels, at the lowest level possible, so that solutions will be reduced to a technical state as well.
 - Subproblems are categorised trough objective language, broken down to its smallest parts, using statistic criteria among others to find solutions. Using mathematical representation isn't a must, but facilitates things.
-- These tools are applied heuristically (solution-oriented). The DFAE invented this method thinking of watchmaking, which isn't surprising given we are a country of engineers.
+- Then tools are applied heuristically (solution-oriented).
+- The DFAE invented this method thinking of watchmaking, which isn't surprising given we are a country of engineers.
 ### The spirit of diplomatic engineering
 - Diplomatic Engineering applies pragmatic solutions by using specific instruments and tools as it is done in engineering.
 - Not strategic, puzzling out a solution to a specific problem is not about the search of the answer to a general question (**E.g.** Bilatérales where this method was born).

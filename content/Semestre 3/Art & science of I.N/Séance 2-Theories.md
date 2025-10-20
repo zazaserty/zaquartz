@@ -85,7 +85,7 @@ Developed by Fisher and Ury (1981). Four key principles:
 ##### Limits of principled negotiation
 - Describes the world as it should be, and not as it is.
 - Oversimplification: does not take into consideration complexity of parties (States are not unitary actors).
-	- Interests can then change, unless you assume that cultural norms exclusively shape it (they also change either way).
+	- Interests can then change, unless you assume that cultural norms exclusively shape them (they also change either way).
 - Relies on anecdotal evidence. Not much science behind it.
 #### Structural approaches
 - Negotiation reflects underlying power relations. Emphasises the role of economic, military, and political resources in shaping outcomes.

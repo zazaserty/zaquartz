@@ -58,7 +58,7 @@ What is the right balance between environmental protection and use?
 	- Based on the 1st Law of Thermodynamics (**i.e.**, matter cannot be created or destroyed).
 - 1st Law of Thermodynamics: Matter cannot be created or destroyed.
 ![[Pasted image 20250929144133.png]]
-The idea is not to use the waste sink as much as possible, but this depends on current technology. Right now, we can't recycle everything:
+The idea is to not use the waste sink as much as possible, but this depends on current technology. Right now, we can't recycle everything:
 - Natural environments are the ultimate repositories of waste products.
 - Waste is produced within natural environments and economic systems.
 - But not all waste can be recycled: too expensive or difficult (i.e., 2nd Law of Thermodynamics).
@@ -180,7 +180,6 @@ Difficult to assign rights and prices here tho.
 - Transaction costs:
 	- Broadly speaking, equal all the costs associated with negotiations (e.g., cost of identifying the relevant parties; bargaining process itself; establishing, executing, and monitoring the outcome of negotiations etc.).
 	- If transaction costs exceed the possible negotiation gains, the Coase solution will not work.
-==Check page 49 and 50 of pdf==
 ![[Pasted image 20250929160003.png]]
 ![[Pasted image 20250929160013.png]]
 

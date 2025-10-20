@@ -60,7 +60,7 @@ As for the age based argument->less old people=less people at risk: less support
 	- The more power these rules give to the opponents of strict rules, the less strict the rules will be.
 - Other **examples**:
 	- *Duverger‘s law*: A majoritarian electoral system leads to two-party-systems (US, UK).
-	- Because of unanimity rules, the EU is such a weak actors in international politics.
+	- Because of unanimity rules, the EU is such a weak actor in international politics.
 - Theory of change.
 	- *Punctuated equilibrium*: Institutions induce a lot of stability (Great Britain has had a dualism of Conservatives and Labour since the 1930s), interrupted by periods of rapid change (before WWI, it had a dualism of Conservatives and Liberals).
 - The traditional approach to comparative politics:

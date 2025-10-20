@@ -23,7 +23,7 @@ Carrier/Carothers:
 	- Decreased the political independence of the civil service.
 		- More political jobs (even in lower ranks) in the USA than in other countries, but Trump takes it even further. As such people aren't selected by merit but political alignment.
 	- Purged perceived opponents from the branch.
-*Unitary executive theory*->control of the president over all the parts of the executive. This theory defends it.
+*Unitary executive theory* is a theory that advocates for the control of the president over all the parts of the executive.
 ##### Congress
 Carrier/Carothers:
 - Congress is allowing the Trump administration to sideline its authority.
@@ -39,7 +39,7 @@ He loses many cases but the Supreme Court has granted him immunity and limited u
 ##### The Supreme Court's *shadow docket*
 - The Supreme Court’s shadow docket consists of applications seeking immediate action from the court. Unlike the merits docket, these cases are handled on an expedited basis with limited briefing and typically no oral argument, and the court often resolves them in unsigned orders with little or no explanation.
 - There was a notable growth in matters decided by the court on its shadow docket. In the 2023-24 term, there were 44 matters on the shadow docket. In the 2024-25 term, through June 27, there were 113 matters.
-- Sometimes the court doesn't solve a case immediately and gives Trump a decision that benefits him in the meantime ==???==.
+- Sometimes the court doesn't solve a case immediately and gives Trump a decision that benefits him in the meantime basically.
 #### Control of the media
 ![[Pasted image 20251014144453.png]]
 ![[Pasted image 20251014144536.png]]
@@ -57,7 +57,7 @@ He can exempt those that he wants to protect and attack those that he wants to d
 ![[Pasted image 20251014145126.png]]
 Budget cuts let him influence the hiring process, admission conditions, etc... of the universities.
 #### Strategic election manipulation
-He can't do as much here because states administrate elections, even if he told the commissionner of Georgia to *find the necessary votes for him*.==???==
+He can't do as much here because states administrate elections, even if he told the commissionner of Georgia to *find the necessary votes for him* during the election that he lost.
 
 Carrier/Carothers:
 *The administration is asserting authority over state-run elections and weakening voting rights and election protections*.
@@ -70,10 +70,6 @@ Carrier/Carothers:
 - This invites abuse:
 	- Create few districts with as many voters of your opponent as possible ("Packing").
 	- Create many districts in which you have a small but solid advantage ("Cracking").
-- In the example on the right, 9 blue and 6 red voters can be distributed so that:
-	- Blue wins all 3 districts (a) ("cracking" of red).
-	- Blue wins 2, red win 1 (b).
-	- Blue wins 1, red wins 2 (c) ("packing" of blue).
 - The original gerrymander is from Massachussets:
 	![[Pasted image 20251014145823.png]]
 ### Going beyond backsliding?

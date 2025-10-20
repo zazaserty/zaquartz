@@ -19,7 +19,7 @@
 	- What instruments that could be used.
 	- Depends on what criteria.
 - Multitude of instruments in fact.
-- Main question : which is the best instrument ?
+- Main question: which is the best instrument ?
 - There are many instruments available to an EPA charged with attaining some pollution target.
 - The best instrument would be the one which meets the target with greatest reliability.
 - But the EPA is unlikely to have only this objective.

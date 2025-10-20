@@ -76,13 +76,13 @@ Les parties peuvent entre en désaccord sur l'application de certaines règles. 
 ## Coutume
 ### Fonctions dans le DIH
 #### Manque de ratification
-Si un traité est applicable pour les états qui ne le ratifient pas. **E.g.** : quelques dizaines d'états ne sont pas partie des P.A des C.G->alors, s'appliquent-elles? 
+Un traité n'est pas applicable pour les états qui ne le ratifient pas. **E.g.** : quelques dizaines d'états ne sont pas partie des P.A des C.G->alors, s'appliquent-ils? 
 - Il y a des traités qui ne s'appliquent pas lors de certains conflits comme les CANI (**e.g.** : Israël vs Hamas).
 - Hélas ces règles sont très importantes (**e.g.** : bombardement des civils). C'est pour cela que la coutume est importante, le droit coutumier garantit que certaines règles seront respectées malgré le manque d'adhésion à un traité.
-- Bon les C.G ne sont pas le meilleur exemple puisqu'elles sont universellement ratifiées mais ceci n'est pas totalement vrai. Les états nouveaux devront se conformer à la coutume minimum. Ces états naissent souvent dans les C.A donc c'est quand même important (**e.g.** : Érythrée vs Ethiopie où la partie majeure du conflit était régie par le D.C). Aussi des fois on conteste la souveraineté d'un état (**e.g.** : Serbie avec Kosovo) mais la coutume s'appliquerait quand même.
+- Bon les C.G ne sont pas le meilleur exemple puisqu'elles sont universellement ratifiées, sauf que ceci n'est pas totalement vrai. Les états nouveaux devront se conformer à la coutume, au minimum. Ces états naissent souvent dans les C.A donc c'est quand même important (**e.g.** : Érythrée vs Ethiopie où la partie majeure du conflit était régie par le D.C). Aussi des fois on conteste la souveraineté d'un état (**e.g.** : Serbie avec Kosovo) mais la coutume s'appliquerait quand même.
 #### Lacunes
 Elle permet de combler les lacunes comme dans le droit des CANI:
-- Le droit coutume comble **p.ex.** : est la perfidie permise dans les CANI?
+- Le droit coutumier comble **p.ex.** : est la perfidie permise dans les CANI?
 #### Interprétation
 Aide à interpréter le droit conventionnel ancien (1907, 1949, 1977...):
 - Les armements autonomes, cyber-guerre etc... Leur dommages collatéraux sur les civiles sont régis par le droit de la Haye de 1907 mais puisqu'on a élargit le sens. À travers de la pratique, cette interpretation plus inclusive devient coutumière.
@@ -128,7 +128,7 @@ Grande vivacité depuis les années 90 à travers des textes d'experts en DIH (c
 ### Clause de Martens
 Principe d'humanité qui a été codifié dans le droit des CA, de base morale. C'est rare d'avoir un principe si abstrait codifié dans le droit. Au debut lié au territoire occupé dans le préambule de la CdH 2 1899 et 4 1907. Entretemps droit positif.
 
-C'est un principe humanitaire qui dit que si quelque chose n'est pas interdit par le droit des CA (surtout Haye) cela ne veut pas dire que c'est automatiquement permise : règle du Lotus qui dit que si c'est pas interdit c'est permis. Il faut considérer si c'est compatible avec des principes basiques d'humanité.
+C'est un principe humanitaire qui dit que si quelque chose n'est pas interdit par le droit des CA (surtout Haye) cela ne veut pas dire que c'est automatiquement permis : règle du Lotus qui dit que si c'est pas interdit c'est permis. Il faut considérer si c'est compatible avec des principes basiques d'humanité.
 
 Pour opérationnaliser on l'utilise comme outil interprétatif ou législatif pour instiller des idées humanitaires. Elle n'est pas limitée aux personnes protégées mais s'applique aussi à la conduite des hostilités.
 
