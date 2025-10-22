@@ -96,5 +96,7 @@ Despite USA efforts formal negotiations have not resumed. Two types of negotiati
 - Minority protection.
 
 Accountability would have to be postponed, wouldn't be possible right now. There is hope for negotiation however, thanks to Trump after Gaza.
+### Take-aways
+![[Pasted image 20251022102452.png]]
 
 #UNIGE #ACofIN 

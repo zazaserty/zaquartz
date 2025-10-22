@@ -142,7 +142,7 @@ Il y a 3 blocs différenciés quant à la fin de l'occupation :
 		- Mais il est occupé dans le sens du droit de Genève, de manière fonctionnelle. Et donc des choses comme la déportation sont interdites-> ils ont été occupants et ont fait un retirement partiel donc des résidus du droit sont toujours applicables. Par rapport aux activités où il y a du contrôle israélien (**e.g.** frontières et donc entrée de l'aide humanitaire) le droit d'occupation s'applique.
 	- La **règle conventionnelle** de 1949 (CG->DIH finit un an après occup), qui **déroge au droit coutumier issu de 1907** (Haye->fin effective occup), est elle-même **supplantée** par la logique du PA I de 1977 (tant que nécessaire), bien que ce dernier n'aie jamais été appliqué en pratique.
 		![[Pasted image 20251016122121.png]]
-	![[Pasted image 20251016122138.png]]
+		![[Pasted image 20251016122138.png]]
 	- Une qualification de C.d.S déroge le droit s'il disent plus d'occup?? On sait pas.
 #### Applicabilité spatiale
 Où s'applique t-il? À quels espaces? Le critère principal est l'effectivité.
@@ -165,5 +165,11 @@ Protéger les personnes les personnes de la barbarie comme avec la Haye et Genè
 
 Souvent il y a une solution juridique mais c'est plus compliqué :
 - **E.g.** Serbie vs Kosovo si la Serbie ne reconnaît pas le Kosovo comme état même si d'un côte juridique l'effectivité du Kosovo comme état lui donnerait le droit d'appliquer le droit des CA avec la Serbie cela serait fâcheux pour cette dernière. C'est mieux pour elle de se mettre d'accord avec le CICR **p.ex.**, en évitant de reconnaître implicitement le Kosovo (accord spécial de déblocage appliqué au lieu des grandes conventions).
+### Terminaison de l'applicabilité temporelle subjective->dénonciation d'un traité
+Ça ne s'est jamais produit, aucun état ne s'est retiré des C.G. ni de la Haye, etc... Bien sûr, on pourrait le faire->le *jus cogens* dit que le DIH est important mais les traités de DIH contiennent des clauses de dénonciation expresses. Il y a usuellement 4 points dans ces clauses :
+- C de Martens reste applicable. Pas nécessaire de le dire, c'est clair, mais on le fait par précaution->les états savent donc qu'ils restent liés par le DIH donc pas tellement utile de dénoncer.
+- La dénonciation prend effet 1 ans après. Des fois 6 mois.
+- La dénonciation n'aura jamais effet pendant un conflit armé en cours. L'effet est différé à la fin de celui-ci.
+- 
 
 #UNIGE #DIH 

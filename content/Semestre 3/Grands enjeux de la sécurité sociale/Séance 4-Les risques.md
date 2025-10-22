@@ -9,7 +9,7 @@ Petit-à-petit ces protections ont été développées dans plusieurs pays au mo
 #### Définitions des autres risques et besoins (dépendance)
 ![[Pasted image 20251020162822.png]]
 ##### Ça s'applique à qui?
-**E.g.**->vieux, handicapés physiques, etc... Les enfants ne rentrent ==pas== doctrinalement dans cette catégorie. Le système change beaucoup d'un pays à l'autre dans le domaine de la dépendance.
+**E.g.**->vieux, handicapés physiques (pas tellement les mentaux), etc... Les enfants ne rentrent ==pas== doctrinalement dans cette catégorie. Le système change beaucoup d'un pays à l'autre dans le domaine de la dépendance.
 ##### On associe cela à quoi?
 On associe la dépendance à plein de besoin supplémentaires, qui différent beaucoup d'une personne à d'autre. C'est ici que la difficulté radique. C'est pas des besoins de santé, mais des besoins relatifs à une tiers-personne **p.ex**.
 ##### Qui assure cette couverture?
