@@ -140,5 +140,8 @@ UNSG’s High-Level Advisory Board on Effective Multilateralism (2023)
 Consensus is a laudable aspiration, but let’s not sacrifice the future of the planet on the altar of unanimity.
 
 A solution could be using scientific diplomacy->swiss way.
+### Conclusion
+![[Pasted image 20251029102123.png]]
+![[Pasted image 20251029102321.png]]
 
 #UNIGE #ACofIN 

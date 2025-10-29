@@ -21,5 +21,6 @@
 - [[Environmental Economics]]
 - [[Grands enjeux de la ss]]
 - [[Séminaire RI]]
+- [[Gestion de projets]]
 
 #UNIGE #Plaque-tournante

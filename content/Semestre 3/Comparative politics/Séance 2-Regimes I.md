@@ -73,7 +73,7 @@ No matter what definition, it is necessary to obtain information about the respe
 Problem: can hardly be used to measure change within single countries (except for 3->media freedom). Backsliding does not immediately start with rules changing in many countries.
 #### The *in-between cases*
 It is easy to classify Norway or Belarus. The reading for next week aims to deal with the less clear-cut cases. How should we think about Hungary, India, or the current status of the United States?
-=> These questions of measurement and operationalisation are also subject of Tutorial I.
+=> These questions of measurement and operationalisation are also subject of [[Tutorial I-Democratic Backsliding, Institutional Change...]].
 #### Waves of democratisation
 How has democracy developed across the world?
 ##### Three waves

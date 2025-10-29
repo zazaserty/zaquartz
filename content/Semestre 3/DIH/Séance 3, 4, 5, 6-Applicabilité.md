@@ -71,17 +71,17 @@ Mais quel est le seuil? L'art 3 commun fixe un seuil et l'art 1 du P.A II en fix
 		- On ne traite donc que les quasi-états.
 	- Seulement CANI s'il y a une confrontation entre forces gouvernementales et rebelles (militaires, terroristes, etc... peu importe).
 		- Deux G.R. qui se battent c'est pas un CANI où le PA2 s'applique. Donc tous les CANI de l'art 3 ne sont pas des CANIPA2.
-- Pour la CPI qui juge les crimes ces critères sont pas pertinents ==???==.
+- Pour la CPI qui juge les crimes ces critères sont pas pertinents.
 ###### **CANI internationalisés**
-Au début guerre civil et après d'autres acteurs internationaux y rentrent dedans. Le conflit devient mixte. **E.g**: *proxy-wars*. Pas de droit des CANI s'il n'y a que des troubles et tensions intérieures (TTI) et pas un C.A.
+Au début guerre civile et après d'autres acteurs internationaux y rentrent dedans. Le conflit devient mixte. **E.g**: *proxy-wars*. Pas de droit des CANI s'il n'y a que des troubles et tensions intérieures (TTI) et pas un C.A.
 - Les TTI ne sont pas définit, on ne dit que *des actes comme* dans les C.G. Pas besoin puisque pas de CANI pas de DIH. En tout cas tout ce qui n'est pas un C.A. et donc un CANI c'est qu'un TTI. Mais des fois on n'est pas sûrs d'être dans l'un ni l'autre, c'est un problème évité à la base puisqu'il n'y a pas de définition d'avantage.
 - Un CANI est internationalisé si des forces étrangères interviennent. Se battre =cobelligérant.
 	- D'un point de vue juridique on fait cela d'un point de vue bilatéraux (état vs état=CAI et groupe armé vs état=CANI). Repris par beaucoup de tribunaux après la CIJ.
 	- Dans chaque fois on applique une règle ou l'autre et il faut aussi tenir en compte le droit des traités, puisque tous les pays ne sont pas parties aux mêmes textes.
 ###### **Questions importantes et cas particuliers**
-- Il peut y avoir des arguments contradictoires, c'est pour cela qu'on a des accords spéciaux ==???==.
+- Il peut y avoir des arguments contradictoires, c'est pour cela qu'on a des accords spéciaux.
 - Il y a d'autres conventions, relatives à d'autres d'armes **p.ex**. Des fois il ne précisent pas quel seuil ils appliquent pour les CANI (généralement utilisent l'art 3 commun des C.G., est considéré comme le droit commun).
-- La clause territoriale des conventions est difficile d'interpréter (conflit sur le territoire d'une des *hautes parties contractantes*). Donc (et même le CICR le concède) dans les cas transfrontaliers pas d'application dans le PA2, que la coutume d'applique. Mais dans la C.G. c'est plus flou et c'es traité comme du droit des traités.
+- La clause territoriale des conventions est difficile d'interpréter (conflit sur le territoire d'une des *hautes parties contractantes*). Donc (et même le CICR le concède) dans les cas transfrontaliers pas d'application dans le PA2, que la coutume s'applique. Mais dans la C.G. c'est plus flou et c'es traité comme du droit des traités.
 - Un CANI peut devenir CAI et viceversa.
 	- Et si une entité fait sécession que se passe-t-il? La doctrine est divisée entre effectivité et reconnaissance.
 - S'il y a plusieurs G.A qui se battent le PA2 n'est pas applicable, que le droit coutumier.
@@ -168,8 +168,7 @@ Souvent il y a une solution juridique mais c'est plus compliqué :
 ### Terminaison de l'applicabilité temporelle subjective->dénonciation d'un traité
 Ça ne s'est jamais produit, aucun état ne s'est retiré des C.G. ni de la Haye, etc... Bien sûr, on pourrait le faire->le *jus cogens* dit que le DIH est important mais les traités de DIH contiennent des clauses de dénonciation expresses. Il y a usuellement 4 points dans ces clauses :
 - C de Martens reste applicable. Pas nécessaire de le dire, c'est clair, mais on le fait par précaution->les états savent donc qu'ils restent liés par le DIH donc pas tellement utile de dénoncer.
-- La dénonciation prend effet 1 ans après. Des fois 6 mois.
+- La dénonciation prend effet 1 an après. Des fois 6 mois.
 - La dénonciation n'aura jamais effet pendant un conflit armé en cours. L'effet est différé à la fin de celui-ci.
-- 
 
 #UNIGE #DIH 

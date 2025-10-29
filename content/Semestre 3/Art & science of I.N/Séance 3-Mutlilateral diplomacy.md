@@ -1,6 +1,6 @@
 ## Dr. Martin Dahinden
 ### Geneva
-Most important place, has the highest number of OIs, ONGs and IAs.
+Most important place, has the highest number of IOs, ONGs and IA(gencie)s.
 ### What is diplomacy?
 Process and practice of communication and negotiation between actors in the international system, with the aim of achieving agreements.
 #### Skills of a diplomat

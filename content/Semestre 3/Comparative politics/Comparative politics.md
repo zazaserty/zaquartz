@@ -5,5 +5,7 @@
 - [[Tutorial I-Democratic Backsliding, Institutional Change...]]
 - [[Séance 5-Democratic backsliding]]
 - [[Séance 6-Institutions of Comparative Democracies I]]
+- [[Séance 7-Institutions of Comparative Democracies II]]
+- [[Tutorial II-Challenges of Testing Theories Empirically]]
 
 #UNIGE #Comparativepolitics
