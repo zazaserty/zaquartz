@@ -78,7 +78,7 @@ It's autonomous in all domains:
 - Oppression, war crimes.
 - Arms race.
 ##### Ethical and human rights
-- ?
+![[Pasted image 20251030180658.png]]
 ### Evolution of discussions
 #### Human rights council
 Christof Heyns raises concerns through his reports:

@@ -19,8 +19,7 @@
 - [[Art & science of I.N]]
 - [[DIH]]
 - [[Environmental Economics]]
-- [[Grands enjeux de la ss]]
-- [[Séminaire RI]]
+- [[Grands enjeux de la SS]]
 - [[Gestion de projets]]
 
 #UNIGE #Plaque-tournante

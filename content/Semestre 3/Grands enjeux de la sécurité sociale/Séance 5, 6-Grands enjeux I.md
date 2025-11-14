@@ -138,9 +138,84 @@ Mesure la **pauvreté non monétaire** : la part de la population qui cumule des
 ![[Pasted image 20251028193310.png]]
 ![[Pasted image 20251028193352.png]]
 - Réduction de la pauvreté mondiale entre 2015 et 2025
-	- Largement critiqué (seulement montéraire)
+	- Largement critiqué (seulement monétaire)
 		- Pas de réflexion correcte de la vraie situation dans des différentes parties du monde
 		- Aggravation de la situation mondiale après la pandémie.
 		- Trop optimiste, oriente les cibles vers le bas donc.
+![[Pasted image 20251110163423.png]]
+On se concentre sur les pays en développement dans cette 2ème décennie :
+- Santé des enfants.
+- VIH.
+- Réduire la pauvreté.
+- Environnement.
+- Éducation.
+- Coopération internationale.
+- Egalité homme/femme.
+
+L'objectif du millénaire atteint mais inégalement (en termes de pauvreté absolue). Mais bon il y a toujours 22% de misère.
+![[Pasted image 20251110163918.png]]
+L'influence provient surtout de la Chine (Asie du Sud).
+### Défis pour éliminer la pauvreté et possibles solutions
+![[Pasted image 20251110164054.png]]
+Pour l'emploi->il y a plus de chômages parmi les jeunes, un grand secteur informel... ça dépend du pays.
+![[Pasted image 20251110164236.png]]
+Le rôle de la SS c'est pas seulement celui de stabilisateur mais de prévenir et sortir la population de la pauvrété.
+### Analyse contrefactuelle
+![[Pasted image 20251110164335.png]]
+### PS dans les pays en développement
+#### La protection sociale comme politique de développement : un nouveau programme d’action international
+##### Texte de François-Xavier Merrien : quelles connaissances et quelle structure?
+L'utilisation de la protection sociale dans les stratégies internationales comme politique de développement (**e.g.** Agenda 2030). Il dit que non en utilisant->
+- Différentes époques (**e.g.** 80s).
+- Différents acteurs et approches (BM avec une approche *light* **p.ex.**).
+	- Concept important : filets sociaux. Politique restrictive ou on attribue des aides financières aux plus plus pauvres, minimum de survie. Idée de la BM, souvent noté quand on parle d'elle. L'opposé d'une approche a court et long terme avec plusieurs outils (ce que le texte présente).
+- Analyse critique. Avant de critiquer et dire pourquoi ils ne marchent pas, il présente les techniques utilisées dans ces programmes.
+- Analyse les différents programmes de la communauté internationale et les évalue.
+
+Il dit aussi que jusqu'au début du 21ème siècle on pense pas à utiliser la protection sociale pour développer les pays moins développés.
+- D'abord on voulait développer économiquement, on pensait qu'ils n'avaient pas les moyens en termes de finances étatiques.
+- La majorité des emplois sont toujours informels. Très important. L'instrument principal de la SS pour l'OIT c'est l'assurance sociale, comment la mettre en place dans des pays à économie informelle.
+- On veut aussi un désengagement de l'état et l'ouverture des marchés non-développés au monde. Cette politique structurelle, aussi austère, leur pousse (les états) à se retirer.
+	- La BM dit en gros que tout ce qu'on peut offrir à la population c'est des filets sociaux pour un soulagement ponctuel de la pauvreté mais pas un système sur le long terme pour de la sécurité.
+
+Il parle aussi des mécanismes de transferts d'espèces conditionnels:
+- Perspective historique->né dans le Mexique, Brésil, etc...
+- On cible les individus pauvres, mais particulièrement des familles avec des enfants (pas au delà de 18 ans mais l'âge varie).
+	- Ils touchent des prestations s'ils scolarisent les enfants et ils assurent qu'ils vont être suivis en terme de santé (**e.g.** vaccination).
+	- Dans la plupart des pays c'est les femmes qui reçoivent les prestations, ce qui crée des vraies difficultés dans les cultures machistes.
+- On ne se contente pas de donner du fric, on pense dans le long terme pour éliminer la pauvreté générationnelle et créer une sécurité.
+- Mais il faut l'existence de services publiques de qualité, doit aussi s'inscrire dans une politique de développement des services publics (**e.g.** services de santé, ça sert à rien si ça ne marche pas bien en faite la condition deviendrait visiter le système de santé). Et en plus il faut un bon ciblage, pouvoir identifier des familles avec enfants qui vivent dans la pauvreté... mais c'est pas la seule partie d'une bonne politique de lutte contre la pauvreté. On vise qu'une catégorie et on laisse de côté les vieux, jeunes, etc... De toute façon, tout les besoins ne seraient pas couverts.
+	- Ces programmes ont été exportés en Afrique, Europe de l'est, etc... Mais ça marche pas dans toutes les cultures. Mettre les femmes tellement au centre pose des problèmes dans certaines structures familiales.
+
+Il parle d'autres choses mais le but c'était de parler un peu de ce changement dans la reconnaissance de la protection sociale.
+### Différence entre protection sociale et filets sociaux
+![[Pasted image 20251110173338.png]]
+![[Pasted image 20251110173447.png]]
+### Rôle de la protection sociale dans les pays développés
+#### Chiffres
+![[Pasted image 20251110173737.png]]
+30% de pauvreté sans transferts, Genève particulièrement touchée (entre 30 et 40% de la population qui reçoit une aide sociale). *Au sens strict* veut dire sans prestations vieillesse (très répandues, même si ça veux pas dire qu'on peut vivre dignement à partir de celles-ci).
+##### Par catégorie
+![[Pasted image 20251110174037.png]]
+Les personnes de 65 ans ou plus et les jeunes... les personnes avec moins de diplômes (+diplômes=-risque).... ménages mono-parentaux...
+##### Par pays
+![[Pasted image 20251110174337.png]]
+#### La résilience face aux catastrophes et aux crises économiques et sociales
+##### Crise financière asiatique et reconnaissance de l’importance de la protection sociale
+- Comme on l'a vu dans [[Séance 4-Les risques]].
+![[Pasted image 20251110174623.png]]
+![[Pasted image 20251110174631.png]]
+![[Pasted image 20251110174649.png]]
+![[Pasted image 20251110174730.png]]
+La Grèce a ratifié le PIDESC et donc doit rendre des rapports sur ce qu'elle a fait pour garantir ces droits, le CDESC après fait ses observations.
+![[Pasted image 20251110174847.png]]
+En gros les autorités publiques doivent prévoir l'impact sur les droits des individus de leur politiques, des fois cela arrive mais il faut respecter des conditions : faire des études (**e.g.** s'assurer que la politique va vraiment atteindre l'objectif poursuivi), essayer de réfléchir à la proportionnalité. On peut juste faire de la politique sans se préoccuper de rien, il y a des cas qui ont fini dans des juridictions.
+![[Pasted image 20251110175214.png]]
+Donc la PS joue un rôle envers la pauvreté, tout comme l'instauration une austérité contre les mesures mises en place aussi (juste négativement).
+![[Pasted image 20251110175452.png]]
+La santé fait partie de la PS et donc le fait qu'elle ne soit pas assurée justifie les recommandations données. On peut imaginer que tout cela peut s'appliquer à d'autres pays qui ont aussi mis en place des mesures d’austérité.
+##### Covid 19
+![[Pasted image 20251110175654.png]]
+Lien important ici aussi pour lutter contre des crises sanitaires comme celle-ci.
 
 #UNIGE #SS 
