@@ -4,5 +4,6 @@
 - [[Séance 4, 5-Instruments for pollution control]]
 - [[Séance 6, 7-Trade]]
 - [[Séance 8-Managing Natural Resources]]
+- [[Séance 9-Managing Natural Resources I]]
 
 #UNIGE #Plaque-tournante #EnvironmentalEconomics 
