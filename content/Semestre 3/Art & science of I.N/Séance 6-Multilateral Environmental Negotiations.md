@@ -21,7 +21,7 @@ However, 7 of the 9 planetary boundaries have been crossed-> except ozone becaus
 The CH had a significant role in these conventions.
 ##### Present time
 ![[Pasted image 20251022105014.png]]
-The GPT should have  been passed at the Palais des Nations this year after the failure of 2024 in Kores but it didn't work. News outlets called it a *failure*.
+The GPT should have  been passed at the Palais des Nations this year after the failure of 2024 in Korea but it didn't work. News outlets called it a *failure*.
 ### What went wrong with the GPT?
 - “States’ redlines are incompatible. They leave no pathway for agreement.”- Australia.
 - “Without agreement on the scope of the treaty, this process is not on the right track.” - Kuwait, for GCC.

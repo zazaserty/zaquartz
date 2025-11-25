@@ -8,5 +8,7 @@
 - [[Séance 7-Institutions of Comparative Democracies II]]
 - [[Tutorial II-Challenges of Testing Theories Empirically]]
 - [[Séance 8-Institutions of Comparative Democracies III]]
+- [[Séance 9-Institutions of Comparative Democracies IV]]
+- [[Séance 10-Actors of Comparative Democracies V]]
 
 #UNIGE #Comparativepolitics

@@ -6,5 +6,6 @@
 - [[Séance 6-Multilateral Environmental Negotiations]]
 - [[Séance 7-Negotiation on AWS]]
 - [[Séance 8-CCHN]]
+- [[Séance 9-Trade negotiations in a Fragmented Global Economy]]
 
 #Plaque-tournante #UNIGE #ACofIN 

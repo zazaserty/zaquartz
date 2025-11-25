@@ -9,7 +9,7 @@ Most of these are in the frontline (conflict zones such as Palestine).
 ### Discussion
 #### Humanitarian Negotiation vs. Traditional Negotiation
 ##### What is humanitarian negotiation?
-We don't negotiate on the law or compromise it, instead we focus on implementation and how to respect it. It's a set of interactions between a humanitarian organisation and – state or non-state – actors, both civilian and military, to an armed conflict aimed at:
+Negotiation isn't only for diplomats. It is necessary to manage advocacy and humanitarian principles. We don't negotiate on the law or compromise it, instead we focus on implementation and how to respect it. It's a set of interactions between a humanitarian organisation and – state or non-state – actors, both civilian and military, to an armed conflict aimed at:
 - Establishing organisations in conflict setting (maybe not only armed but also natural at the same time).
 	- Make actors understand what your organisation is, your purpose, etc... **E.g.** the ICRC isn't christian despite wearing a cross and doesn't provide humanitarian aid purely to server Swiss interests despite wearing their flag.
 - Ensuring access to vulnerable groups.
@@ -46,7 +46,7 @@ VS
 - Tailored support for real-life operational dilemmas.
 - Cross-sectoral collaboration leading to the professionalisation of the sector.
 	- Masters, bachelors, more competitiveness, etc...
-### Our methodology
+### Our methodology (Naivasha grid)
 ![[Pasted image 20251112112741.png]]
 First we analyse the context and find shared objectives as well as a leverage of influence to get to our goals. If there are big disagreements such as not wanting to help communities problems can arise. A tactical plan has to be designed to help on the ground and then engage in a transaction->positive communication (breaking the ice using what your *seller* is fond of and offering a gain). Also be sure if you are a liability or an asset in a negotiation, **e.g** if you know the *seller personally* and he knows your family and etc... you might be more of a liability.
 
@@ -87,7 +87,7 @@ The goal.
 - Design a tactical plan.
 #### Steps
 ![[Pasted image 20251112115237.png]]
-Maybe if we try to favour their *why* (**e.g.** trying to be recognised as an authority) we can influence them. It's not about manipulating or having a hidden agenda, that can destroy negotiation.
+Maybe if we try to favour their *why* (**e.g.** trying to be recognised as an authority) we can influence them. It's not about manipulating or having a hidden agenda, that can destroy negotiation. Going below the surface is important to uncover assumptions and values driving decisions.
 ![[Pasted image 20251112115408.png]]
 #### Common shared space
 ![[Pasted image 20251112115423.png]]

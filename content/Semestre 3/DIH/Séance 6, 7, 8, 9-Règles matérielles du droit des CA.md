@@ -200,20 +200,47 @@ On donne des instructions aux commandements militaires et leur conseillers, comm
 1. Déterminer la zone de danger (aussi effets indirects), d'impact quoi. Mais aussi la dessiner en fonction de la topographie.
 2. Procéder à une identification des objets et personnes protégés (civils comme des hôpitaux) et évaluer le nombre de personnes en danger et leur distance de la place de déflagration.
 3. On croise et on arrive à des conclusions.
-#### Précautions dans l'attaque (PAI)
+### Précautions dans l'attaque (PAI)
 Il faut prendre des précautions pour minimiser les effets collatéraux sur les civils, constamment. Puisque attaquer un objectif militaire entraînera normalement un dommage collatéral. Cela va de même pour l'exécution comme pour la planification, jusqu'à l'impact puisque le contexte peut changer.
 
 Cela concerne tous mais surtout le commandant, et les opérations sur terre où il y a plus de civils.
-##### Dispositions non-absolues
+#### Dispositions non-absolues
 On ne demande pas d'arriver toujours à un standard mais de faire tous les efforts possibles (il faut contextualiser en fonction des capacités) : *maximum possible effort*.
-###### **Étudier l'objectif**
+##### Étudier l'objectif
 Faire tout ce qui est pratiquement possible pour s'assurer que l'objectif n'est pas un objet civil et qu'il n'est pas protégé spécialement. Plus il y a (selon la doctrine) une possibilité de dommages collatéraux plus la vérification doit être stricte. Depuis quelques années on fait une reconnaissance aérienne des objets puisque on peut observer certaines formes typiques dans certaines parties du monde (**e.g.** réservoirs d'eau Syriens). On entraîne les pilotes à ces formes avec des ressources comme Google Earth.
-###### **X**
+##### Planification
 Lorsqu'on planifie une attaque on commence par essayer de faire le moindre dommage (en principe 0). Si on peut pas minimiser d'avantage on réfléchit si c'est excessif. Plusieurs techniques, **e.g.** :
 - Armes de précision au lieu d'armes moins précises, surtout s'il y a beaucoup de civils autour.
 - Maîtriser le temps de l'attaque (quand les civils sont moins actifs). Si on n'a pas de maîtrise aérienne et on peut se faire attaquer ça c'est plus difficile.
 - Faire attention à l'angle de tirs, essayer de tirer en regardant vers une zone moins ou non-peuplée.
 - Parfois c'est une question physique, on essaye de détruire à une certaine hauteur pour minimiser le dommage collatéral à cause de la direction de l'énergie kinétique.
 - On peut aussi utiliser le cyber pour ne pas détruire physiquement.
+#### En fonction des vérifications
+On annule l'attaque si les dommages sont excessifs ou l'objectif n'est pas militaire. Ceci peut aussi se faire (et doit se faire!) pendant l'exécution. **E.g.** si un pilote se rend compte quand il va bombarder qui il y a des paramètres imprévus il suspend/annule l'attaque.
+### Avertissement (PA1)
+Il faut avertir, lorsqu'il y a un risque de dommages (personnes pas biens). S'il y a pas ce risques (**e.g.** désert) on est pas obligés, l'objectif est d'évacuer.
+
+Il est possible d'avertir plutôt tard, juste avant l'attaque.
+
+La formule n'est pas absolue néanmoins, si les circonstances ne le permettent pas on est pas obligés. 2 possibilités : défense antiaérienne et cibles mobiles.
+#### Défense antiaérienne active
+On va pas mettre en risque l'opération en signalant à l'ennemi où on va être et quand.
+#### Cible mobile
+Si on signale, celui qui défend va la bouger.
+#### Effectivité
+On évalue l'avertissement par rapport à l'objectif->évacuer les civils. Ça dépend du type de civils->plus rapides=moins d'avance d'avertissement.
+##### Mais
+Tous n'ont pas la même finalité (**e.g.** un hôpital, ou l'idée est d'éviter l'attaque en disant qu'on va attaquer si l'hôpital continue à être un objectif militaire).
+#### Formes
+Avertissement peut être donné dans la méthode préférée, pas important. Néanmoins il y a les spéciaux (juste avant l'attaque comme téléphoner) et les avertissements général (on peut juste dire qu'il y aura une attaque à un moment donné au lieu de dire que ça va être prochainement).
+### Similarité dans l'avantage
+Si plusieurs objectifs donneraient le même avantage en étant détruits on choisit celui qui fait le moins de dommages collatéraux civils.
+#### Exemple
+Si on détruit un pont on coupe l'approvisionnement:
+- Un pont dans la campagne.
+- Un autre dans un hameau.
+- Un dernier au seul hôpital de la région.
+
+Si l'avantage est le même on détruit le 1. Mais si en attaquant les 3 on a un avantage plus grands on est autorisés, en prenant les précautions nécessaires. Ça dépend si on veut couper 48h ou plus à long terme (ici tous serait plus avantageux).
 
 #UNIGE #DIH 
