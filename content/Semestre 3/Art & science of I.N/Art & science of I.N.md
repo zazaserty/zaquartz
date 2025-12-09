@@ -7,5 +7,7 @@
 - [[Séance 7-Negotiation on AWS]]
 - [[Séance 8-CCHN]]
 - [[Séance 9-Trade negotiations in a Fragmented Global Economy]]
+- [[Séance 10-Technology and negotiation]]
+- [[Séance 11-A Humanitarian Perspective]]
 
 #Plaque-tournante #UNIGE #ACofIN 

@@ -1,20 +1,20 @@
 ## Dr. Martin Dahinden
 ### Geneva
-Most important place, has the highest number of IOs, ONGs and IA(gencie)s.
+Most important place, has the highest number of IOs, NGOs and IA(gencie)s.
 ### What is diplomacy?
 Process and practice of communication and negotiation between actors in the international system, with the aim of achieving agreements.
 #### Skills of a diplomat
 - Observe and report:
 	- Since ancient times. Some famous diplomatic reports are important sources of history. These are not mere reports but they are designed taking into account the objective of the bilateral negotiations (and also in multilateral ones). The goal is to build a network, gain access to the right people...
 - Communication:
-	- Explain the position of the government beyond what can be accessed publicly. **E.g.** explaining to the USA why the CH did a certain thing. This is a key part of the process. This also goes for explaining on TV, the words and their effects have to be understood.
+	- Explain the position of the government beyond what can be accessed publicly. **E.g.** explaining to the USA why the HC did a certain thing. This is a key part of the process. This also goes for explaining on TV, the words and their effects have to be understood.
 - Negotiation:
 	- Observe, analyse and understand to get the words in the correct way to achieve a certain effect.
 		- Finding an agreement against a background of our interest that is gotten from the HQ, with a certain legal marge of self-agency.
 #### Multilateral Diplomacy
 Process and practice of involving three or more countries in resolving international issues. It involves negotiations, dialogue, and cooperation among multiple nations to achieve common goals. It is often conducted within international organisations like the United Nations.
 
-This isn't like the traditional envoys between one country and another but a bunch of countries negotiating together to reach a common agreement. This is much more complicated. This is the main focus today and there is an enormous number of multilateral Organisations, fora etc. They differ regarding thematic focus, composition, rules of procedures, legal status…
+This isn't like the traditional envoys between one country and another but a bunch of countries negotiating together to reach a common agreement. This is much more complicated. This is the main focus today and there is an enormous number of multilateral organisations, fora etc. They differ regarding thematic focus, composition, rules of procedures, legal status…
 ##### Examples
 WHO, WTO, ITU, ITO, etc... In Geneva negotiations go on everywhere. Each organisation with their own negotiation culture. **E.g.** in NATO you disagree directly and to the point but in the UNO everything is planned and you have to plan where to insert your statement and how to do it correctly (there are timings, ROPs, etc...).
 #### History
@@ -24,7 +24,7 @@ WHO, WTO, ITU, ITO, etc... In Geneva negotiations go on everywhere. Each organis
 - The decision that states are sovereign and should come together to negotiate. This can't be found in other histories such as Chinese one.
 - This idea of equal status to negotiate was part of the enlightenment period, even though it took time to cristallise.
 ##### Congress of Vienna
-- First time in history that some voices met regularly to fix things with such equality and legal formalisation (concert of Europe that this congress gave birth to).
+- First time in history that some voices met regularly to fix things with such equality and legal formalisation (Concert of Europe that this congress gave birth to).
 - Gave birth to The Central Commission for the Navigation of the Rhine, established in 1815, was one of the first permanent multilateral institutions. Although interrupted at times by conflict, it evolved through the 19th century and survives to this day.
 ##### League of Nations
 - The LoN, predecessor of the UNO, an idea of Woodrow Wilson. He wanted talks to be in neutral territory, criticised the talks of Versailles. It had flaws and failed to prevent WW2 but it was an important instance of multilateralism.
@@ -47,7 +47,7 @@ First it is necessary to set the agenda, even in bilateral ones. The topic has t
 	- Adoption of the agenda:
 		- Changes can be made but this is avoided as it could be chaotic.
 - Opening Statements by delegations
-	- Set the tone: start vague and then get precise afterwards? It is the moment to put HQ instructions on the table. This statement will be very visible even to parties not present to diplomats, so we have to analyse the effects of our words.
+	- Set the tone: start vague and then get precise afterwards? It is the moment to put HQ instructions on the table. This statement will be very visible even to parties not present as diplomats, so we have to analyse the effects of our words.
 ##### Format
 Do we want to limit the negotiation to technicalities and experts? To political figures? Put it under the umbrella of an IO? Sometimes doing it outside gives more freedom. Which committees (or subcommittees) do we want to have?
 ###### **Discussion of agenda items**

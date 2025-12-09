@@ -157,9 +157,9 @@ L'objectif du millénaire atteint mais inégalement (en termes de pauvreté abso
 L'influence provient surtout de la Chine (Asie du Sud).
 ### Défis pour éliminer la pauvreté et possibles solutions
 ![[Pasted image 20251110164054.png]]
-Pour l'emploi->il y a plus de chômages parmi les jeunes, un grand secteur informel... ça dépend du pays.
+Pour l'emploi->il y a plus de chômage parmi les jeunes, un grand secteur informel... ça dépend du pays.
 ![[Pasted image 20251110164236.png]]
-Le rôle de la SS c'est pas seulement celui de stabilisateur mais de prévenir et sortir la population de la pauvrété.
+Le rôle de la PS c'est pas seulement celui de stabilisateur mais de prévenir et sortir la population de la pauvreté.
 ### Analyse contrefactuelle
 ![[Pasted image 20251110164335.png]]
 ### PS dans les pays en développement
@@ -174,7 +174,7 @@ L'utilisation de la protection sociale dans les stratégies internationales comm
 
 Il dit aussi que jusqu'au début du 21ème siècle on pense pas à utiliser la protection sociale pour développer les pays moins développés.
 - D'abord on voulait développer économiquement, on pensait qu'ils n'avaient pas les moyens en termes de finances étatiques.
-- La majorité des emplois sont toujours informels. Très important. L'instrument principal de la SS pour l'OIT c'est l'assurance sociale, comment la mettre en place dans des pays à économie informelle.
+- La majorité des emplois sont toujours informels. Très important. L'instrument principal de la PS pour l'OIT c'est l'assurance sociale, comment la mettre en place dans des pays à économie informelle.
 - On veut aussi un désengagement de l'état et l'ouverture des marchés non-développés au monde. Cette politique structurelle, aussi austère, leur pousse (les états) à se retirer.
 	- La BM dit en gros que tout ce qu'on peut offrir à la population c'est des filets sociaux pour un soulagement ponctuel de la pauvreté mais pas un système sur le long terme pour de la sécurité.
 

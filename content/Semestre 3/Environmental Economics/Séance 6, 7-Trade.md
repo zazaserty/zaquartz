@@ -183,7 +183,7 @@ Openness to trade tends to increase real income, and any liberalization that doe
 - Message: growing consensus → denser rules → need for credible cooperation tools.
 #### From awareness to commitment: why the environment matters
 - From side issue to core pillar: since Stockholm 1972 (UNEP), via IPCC 1988 and UNFCCC 1992, environmental protection has moved to the center of global governance.
-- From awareness to action: Kyoto (1997/2005) set targets; Canc´un (2010) built finance/technology frameworks; Paris (2015/2016) achieved universal, iterative commitments (NDCs).
+- From awareness to action: Kyoto (1997/2005) set targets; Cancún (2010) built finance/technology frameworks; Paris (2015/2016) achieved universal, iterative commitments (NDCs).
 - Institutionalized commitment: annual COPs and the global stocktake embed continuous collective responsibility.
 - Acknowledgment in practice: protecting the environment is now integral to health, prosperity, and international stability.
 - The timeline charts a clear trajectory: growing recognition → deeper institutions → sustained, collective action to protect the environment.

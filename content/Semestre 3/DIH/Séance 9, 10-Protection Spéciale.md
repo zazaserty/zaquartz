@@ -30,8 +30,8 @@ Dans la CH **p.ex.** on a une carte et une liste ainsi que des descriptions brè
 ##### Quel est la protection?
 Régime triparti (une branche jamais appliquée) :
 - Protection ordinaire : le minimum, la base pour la majorité des objets. On peut pas attaquer sauf si c'est un objet militaire avec un avantage qui ne peut pas être obtenu en attaquant un autre objet.
-	- On peut pas utiliser ses biens (militairement) sauf s'il donne un avantage militaire qui ne peut être trouvé dans un autre bien.
-	- Ses objets ne peuvent pas faire l'objet de répresailles.
+	- On peut pas utiliser ces biens (militairement) sauf s'il donnent un avantage militaire qui ne peut être trouvé dans un autre bien.
+	- Ses objets ne peuvent pas faire l'objet de représailles.
 - Protection renforcée : Ils sont immunisés contre l'attaque sauf s'ils sont un objectif militaire ou l'attaque est le seul moyen pour cesser l'utilisation militaire et en plus c'est que la tête de l'armée ou les autorités politique derrière celui-ci qui peuvent autoriser l'attaque. Celle-ci doit être faite avec toutes les précautions faisables et une sommation avec un délai raisonnable pour essayer que l'attaque ne soit plus nécessaire.
 	- Importants pour l'humanité. Ici un Comité sur la protection culturelle vérifie ce que l'état liste et l'organise sur une liste internationale. 
 	- On voit ici un autre exemple qu'aucun objet n'est protégé contre les attaques, sauf peut être l'environnement naturel et ce dernier n'en est pas vraiment un.
@@ -46,9 +46,45 @@ Plusieurs règles :
 		- Si on peut l'identifier, on peut attaquer la fraction qui est pour les militaires.
 		- L'idée c'est de permettre à la population de pouvoir avoir un apport calorique pour survivre (adéquat), c'est pas une interdiction absolue on peut juste détruire une fraction.
 		- L'attaque est interdite si elle est dans le but de créer le résultat de manque de biens indispensables (pas les dommages collatéraux).
-		-  Il est possible d'utiliser la terre brûlée (==?==) dans sont propre territoire.
+		-  Il est possible d'utiliser la terre brûlée dans son propre territoire?.
 - On est pas sûrs si le siège et le blocus peuvent donc toujours être utilisés qui ont comme objectif d’accélérer la reddition.
 - Les représailles sont interdites.
 #### Environnement naturel
+Normalement la protection est nulle mais les PA changent ça, en plus il y a une convention dediée (En-mod). Il y a des différences.
+##### Défoliants
+PA et En-mod sont d'accord. Cette règle a été crée avec l'utilisation de l'agent orange par les USA dans le Vietnam. Cet agent défoliait les arbres et a fait des très sérieux dégâts dans la santé vietnamienne, surtout reproductive.
+##### Objet de la protection
+Les dommages environnementaux étendus, durables et graves. Il y a une conjonction, c'est des termes cumulatifs :
+- Grave->mis en lien avec des dangers pour la santé et la survie de la population civile (pas les individus). Ça doit être une gravité qui s'approche du létal. C'est bien ancré dans la tradition occidentale->l'environnement est protégé comme un bien nécessaire à notre survie, pas pour sa valeur propre.
+- Durable->les dommages doivent couvrir des décennies.
+- Étendu-> les État disent que ça doit concerner plusieurs centaines de km².
+
+Pour causer un dommage condamnable il faut viser très mais très haut. Majorité des dommages le sont pas. Pendant la guerre Iraq-Kuwait l'Iraq a brûlé le désert avec du pétrole, est-ce condamnable->sais pas. L'OTAN a utilisé de l'uranium appauvri pour durcir ses missiles certaines fois, après il reste dans le sol->pas condamnable à cause de la faible quantité.
+###### **Intention**
+Les dommages collatéraux ne doivent pas être voulus néanmoins. Une fois que le seuil a été franchi, pas une seule exception. Le seul *objet* (il n'en est même pas un mais bon) protégé de cette manière.
+###### **Représailles**
+Interdites.
+###### **Paix**
+Certaines des conventions appliquées en temps de paix pour l'environnement peuvent aussi l'être dans la guerre, un travail pour dégager ses règles est en train d'être mené. En tout cas, pas 100% pour le moment.
+### Ouvrages et installations contenant des forces dangereuses
+C'est dans les deux PA. La protection spéciale s'applique des fois, mas généralement en passant par la générale. 
+#### Quels ouvrages/installations
+Barrages, centrales nucléaires et diques. Il y a d'autres protégés par la protection générale, même si les états voulaient limiter la donne à ces 3.
+#### Protection
+Pas protégés contre les attaques, mais représailles interdites. Même moins que d'autres éléments, puisque :
+- Lorsque des attaques peuvent se mener sans libérer des forces elles sont permises.
+- Si cette liberation n'est pas susceptible de causer des pertes ==sévères== c'est permis aussi.
+- Si ces objets sont utilisés militairement (contribution/avantage) avec un appui régulier, important et direct on peut l'attaquer.
+	- Seulement si l'attaque est la seule manière de faire cesser cette situation d'exception.
+
+La barre est haute.
+##### Néanmoins
+Renforcé par le fait (évident, mais bon on rappelle) que la protection générale s'applique toujours, même lorsque l'on peut attaquer.
+
+On invite aussi les parties contractantes à conclure d'autres accords sur ce thème là (spéciaux). Que l'on sache, jamais fait.
+##### CANI
+La deuxième exception est éliminée, bizarre puisque la protection est normalement plus forte dans le CAI. Cas rare et même unique. La raison est simple, dans un CAI on s'attend a détruire l'autre mais dans un CANI le problème est à nous.
+##### Emblème
+3 cercles orangés comme emblème protecteur. Ceci facilite l'identification, mais normalement pas nécessaire, reconnaître une digue est facile **f.ex**. La protection ne dépend pas de l'emblème mais du fond.
 
 #UNIGE #DIH 

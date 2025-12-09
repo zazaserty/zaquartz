@@ -129,7 +129,7 @@ The consensus is that International Law (specially humanitarian) applies:
 	- IHL assumes human decision-making — where do autonomous systems fit?
 #### Switzerland's view
 - Two tier approach, prohibit and regulate.
-- Tip of the iceberg prohibited and the rest regulated. Only those that can't comply with IHL should be regulated.
+- Tip of the iceberg prohibited and the rest regulated. Only those that can't comply with IHL should be prohibited.
 - It is prohibited in all circumstances to develop or use LAWS
 	- which are inherently indiscriminate, or which are otherwise incapable of being used in compliance with IHL.
 	- if their effects in attack cannot be anticipated and controlled, as required by IHL in the circumstances of their use.
@@ -141,7 +141,7 @@ The consensus is that International Law (specially humanitarian) applies:
 	- Ensure types of targets, duration, geographical scope, and scale of the operation is controlled/limited.
 ##### Specific technical measures
 - Assure that you have specific technical systems that comply with regulations.
-- This measures are useful to:
+- These measures are useful to:
 	- To reduce specific risks
 	- To conduct tests, and legal weapons reviews.
 	- To exchange information: Transparency and confidence-building mechanisms.
@@ -207,7 +207,7 @@ Alternatives to GGE, in Geneva or New York? What if big AWS powers are not inclu
 ![[Pasted image 20251029132944.png]]
 #### So?
 - Bring AIMD into UNGA to get the broadest possible support.
-- UNGA resolution 2024->launch and UNSG report (September 2025).
+- UNGA resolution 2024->launch an UNSG report (September 2025).
 	- To know what we need, to sensibilise.
 - UNGA resolution 2025->launch informal discussions in Geneva in 2026.
 ### Other issues
@@ -221,7 +221,7 @@ We could get to a war in the future where we are more accurate and there are les
 - Massive AWS/AI development in the next 10-20 years.
 - Agreeing on such a technical issue is a challenge.
 	- Case by case approaches.
-- Everybody wants to but don't wants to fall behind.
+- Everybody wants to but doesn't want to fall behind.
 	- Start from soft (politically binding) and go to hard (legally binding) norms.
 - No specific rules, but no vacuum either->IL/IHL apply.
 - Work towards a regulation dealing with specific challenges it poses

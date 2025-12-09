@@ -11,7 +11,7 @@
 ### Presidentialism
 ![[Pasted image 20251028142948.png]]
 ![[Pasted image 20251028143003.png]]
-- Direct election of the president, who is head of government and head of state (-> a Republic)
+- Direct election of the president, who is head of government and head of state (-> a Republic).
 - President is independent from the parliamentary majority, which is elected separately -> *dual legitimacy*.
 - Length of terms of president and parliament are fixed. (Some presidential systems allow *recall elections*, but no recall election has ever succeeded in removing a national executive from office).
 - Ministers are nominated by the president and responsible to him.

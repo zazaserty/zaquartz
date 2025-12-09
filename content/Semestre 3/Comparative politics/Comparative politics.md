@@ -10,5 +10,8 @@
 - [[Séance 8-Institutions of Comparative Democracies III]]
 - [[Séance 9-Institutions of Comparative Democracies IV]]
 - [[Séance 10-Actors of Comparative Democracies V]]
+- [[Séance 11-Actors of Comparative Democracies VI]]
+- [[Tutorial III-Climate Change]]
+- [[Séance 12-Actors of Comparative Democracies VII]]
 
 #UNIGE #Comparativepolitics

@@ -1,8 +1,8 @@
 ## From Forest to Air Pollutant
 ### Incentives
 - The use of incentives may be the best way of capturing forest externalities.
-- Forest certification schemes, e.g. Forest Stewardship Council (FSC).
-- Payments for Environmental Services (PES), e.g. Pagos por Servicios Ambientales, in Costa Rica.
+- Forest certification schemes, **e.g.** Forest Stewardship Council (FSC).
+- Payments for Environmental Services (PES), **e.g.** Pagos por Servicios Ambientales, in Costa Rica.
 ### Bargaining solutions
 - Norway gives Liberia up to a hundred and fifty million dollars in aid, in exchange for which Liberia will work to stop the rapid destruction of its trees.
 - Similar approach with Brazil.
@@ -32,14 +32,14 @@ Total and marginal damage and benefit functions, and the efficient level of flow
 ### Conditional cash transfers to landowners who maintain forest clover
 - These PES programs are designed to increase the private returns to forest and thus reduce the difference between private and social values of forest.
 - PES programs can provide a steady stream of income in poor areas.
-- An attractive “win-win” policy solution.
+- An attractive *win-win* policy solution.
 - Mexico, Costa Rica, Ecuador, and Brazil have already established payments for avoided deforestation programs while other countries are experimenting with them (Jindal, Swallow, and Kerr 2008, Wunder and Wertz-Kanounnikoff 2009, United Nations REDD Programme 2011).
 ![[Pasted image 20251124144332.png]]
 ### Issues with PES
 - Additionality, leakage.
-- Pattanayak et al. 2010: “Results are highly divergent”.
-- Besides, well-defined land- or resource-tenure regimes for providers.
-- PES do require a payment culture and good organization from service users.
+- Pattanayak et al. 2010: *Results are highly divergent*.
+- Besides, well-defined land or resource-tenure regimes for providers.
+- PES do require a payment culture and good organisation from service users.
 - A trustful negotiation climate (Wunder, 2013).
 - See Borner et al. 2017 for a survey.
 #### Jayachandran et al. 2017: Uganda program for forest-owning households

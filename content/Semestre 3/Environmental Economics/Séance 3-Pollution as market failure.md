@@ -29,7 +29,7 @@ Think for a moment:
 
 We don't want pollution, but it is the necessary cost for many things. Not having pollution means not producing energy. The real dilemma isn't whether, but how much to produce.
 ### How do we make social choice?
-Not everyone has the same opinions, so how to choose what is an acceptable level to pollution (**f.ex.**)?
+Not everyone has the same opinions, so how to choose what is an acceptable level of pollution (**f.ex.**)?
 - Concept of efficiency in allocation.
 - Derive the conditions for the realisation of efficiency.
 - Identify the circumstances in which a competitive economy will achieve efficiency.
@@ -38,7 +38,7 @@ Not everyone has the same opinions, so how to choose what is an acceptable level
 #### Preferences
 What is the right balance between environmental protection and use?
 - Social and Political questions: No unanimity.
-- Very different views. . . some will be pleased, others disappointed.
+- Very different views... some will be pleased, others disappointed.
 #### **Example**: italian new regasification vessel
 - Italy will fast track the permitting process to set up a new regasification vessel aimed at expanding the country’s capacity to import liquefied natural gas (LNG) in an effort to cut its dependence on Russia.
 	- The vessel has a capacity of 5 billion cubic metres of gas a year and will remain in the harbour of a small Italian city (Piombino) for three years before being placed offshore.
@@ -61,7 +61,7 @@ What is the right balance between environmental protection and use?
 The idea is to not use the waste sink as much as possible, but this depends on current technology. Right now, we can't recycle everything:
 - Natural environments are the ultimate repositories of waste products.
 - Waste is produced within natural environments and economic systems.
-- But not all waste can be recycled: too expensive or difficult (i.e., 2nd Law of Thermodynamics).
+- But not all waste can be recycled: too expensive or difficult (**i.e.**, 2nd Law of Thermodynamics).
 #### Disposing nuclear scores of the Fukushima power plant
 - Japan has begun releasing treated radioactive water from its damaged Fukushima power plant into the Pacific Ocean 12 years after a nuclear meltdown.
 - The International Atomic Energy Agency says the water will have *negligible* radiological impact on people and the environment.
@@ -69,7 +69,7 @@ The idea is to not use the waste sink as much as possible, but this depends on c
 ##### So
 - With small quantities of waste (natural or economic) the environment can typically absorb the waste.
 - But with large (localised) quantities of waste the environment may not be able to absorb the waste.
-- When they exceed the absorptive capacity of nature, wastes reduce the services that the asset provides (e.g. air pollution can cause respiratory problems; polluted drinking water can cause cancer).
+- When they exceed the absorptive capacity of nature, wastes reduce the services that the asset provides (**e.g.** air pollution can cause respiratory problems; polluted drinking water can cause cancer).
 - Therefore, the assimilative capacity of the environment is important.
 - If assimilative capacity is exceeded, renewable resources become exhaustible resources.
 #### The function of the environment

@@ -6,5 +6,7 @@
 - [[Séance 8-Managing Natural Resources]]
 - [[Séance 9-Managing Natural Resources II]]
 - [[Séance 10-Coase in action]]
+- [[Séance 11-Valuing Nature]]
+- [[Séance 12-Climate change economics]]
 
 #UNIGE #Plaque-tournante #EnvironmentalEconomics 

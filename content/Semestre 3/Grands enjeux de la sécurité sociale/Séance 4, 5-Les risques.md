@@ -13,7 +13,7 @@ Petit-à-petit ces protections ont été développées dans plusieurs pays au mo
 ##### On associe cela à quoi?
 On associe la dépendance à plein de besoin supplémentaires, qui différent beaucoup d'une personne à d'autre. C'est ici que la difficulté radique. C'est pas des besoins de santé, mais des besoins relatifs à une tiers-personne **p.ex**.
 ##### Qui assure cette couverture?
-En tout cas la couverture est traditionnellement assurée par la famille, mais le changement des structures familiales ont changé considérablement. Maintenant ce réseaux devient de moins en moins fiable. Cela explique pourquoi, au début, on n'a pas considéré la dépendance comme un domaine méritant une branche autonome de la sécurité sociale.
+En tout cas la couverture est traditionnellement assurée par la famille, mais le changement des structures familiales ont changé la donne considérablement. Maintenant ce réseaux devient de moins en moins fiable. Cela explique pourquoi, au début, on n'a pas considéré la dépendance comme un domaine méritant une branche autonome de la sécurité sociale.
 
 Maintenant on a aussi des offres privées, mais cela est rare et coûteux. Les assureurs privés aiment avoir le contrôle sur leur profits et de prévoir ce qu'ils doivent couvrir. Non seulement sont ces personnes très coûteuses et à risque mais les nécessités peuvent beaucoup différer.
 - Pas très effectif non plus, c'est pas tout le monde qui pense à une retraite où ils pourraient être dépendants. Donc il faudrait une obligation où une caisse étatique, **p.ex**.
@@ -26,10 +26,10 @@ Maintenant on a aussi des offres privées, mais cela est rare et coûteux. Les a
 On connaît ce besoin depuis longtemps quand même hein, dès 1944 c'est mentionné dans la Recommandation 67 de l'OIT.
 
 Aussi mentionné postérieurement dans la CSE de 1996 (leur donner l'autonomie aussi tôt que les personnes le souhaitent) et la CDFUE de 2000/07 (faut donner des prestations dans des cas de dépendance). On a toujours su, et c'est de plus en plus actuel puisque notre population vieillit.
-#### L'assistance (ou aidçe sociale) : le principe
+#### L'assistance (ou aide sociale) : le principe
 ##### Actualité
 ![[Pasted image 20251020164840.png]]
-De nos jours l'aide aux familles est insuffisant et dans certains cas n'arrive même pas aux familles qui en ont besoin.
+De nos jours l'aide aux familles est insuffisante et dans certains cas n'arrive même pas aux familles qui en ont besoin.
 
 Les protections de sécurité sociale tournent souvent autour du travail et donc ils ne touchent pas certaines prestations->vont avoir besoin de l'aide sociale.
 ##### Droit
@@ -66,7 +66,7 @@ On s'est rendu compte avec la crise climatique ou sanitaire que les risques chan
 - À Genève même on a vu qu'il y avait pas mal de sans-papiers qui travaillaient en noir et n'étaient pas protégés (pas de diagnostique, ni de soins, ni de vaccins... contre productifs->des pays comme l'Espagne essaient de couvrir tous), même si on est plutôt organisés et dans la CH le chômage et ces phénomènes sont rares. Des fois ceux qui ne pouvaient pas s'isoler ben travaillaient parce qu'ils avaient pas d'autre choix et cela a difficulté le contrôle de la crise.
 ##### Changement climatique
 ![[Pasted image 20251020174931.png]]
-On a cherche a prévenir la crise climatique, en réduisant les émissions dans les secteurs les plus polluants et adapter les systèmes comme les immeubles (panneaux solaires **p.ex.**). Aux 19ème siècle on commence à protéger les travailleurs pauvres, les familles... et aujourd'hui les plus vulnérables au changement climatique c'est pas forcément celles qu'on avait identifié avant. Il va créer des besoins (impacts directs et indirects) :
+On a cherche a prévenir la crise climatique, en réduisant les émissions dans les secteurs les plus polluants et adaptant les systèmes comme les immeubles (panneaux solaires **p.ex.**). Aux 19ème siècle on commence à protéger les travailleurs pauvres, les familles... et aujourd'hui les plus vulnérables au changement climatique c'est pas forcément celles qu'on avait identifié avant. Il va créer des besoins (impacts directs et indirects) :
 ![[Pasted image 20251020175318.png]]
 On a du mal à les associer aux risques qu'on connaît dans nos systèmes actuels. Là il y a tout le monde qui sera affecté. Il va falloir adapter notre compréhension des risques.
 ### Obligations

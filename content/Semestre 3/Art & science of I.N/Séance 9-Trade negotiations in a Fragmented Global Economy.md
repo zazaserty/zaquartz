@@ -17,7 +17,7 @@ WTO does hard law, EFTA is a free-trade agreement to complement WTO rules and WI
 
 Standards are the plumbing of trade, WCO defines standards for tariffs. **E.g.** ISO, ECE...
 
-Analytics such as those of IMF and OECD gives evidence and guardrails that avoid friction and serve as analytical macro tools.
+Analytics such as those of IMF and OECD give evidence and guardrails that avoid friction and serve as analytical macro tools.
 #### What the WTO actually does
 ##### Coverage (until recently…)
 → 166 Members accounting for 98% of world trade (Doubled since creation, to join you need some time to prove you are a market economy, etc...).
@@ -44,7 +44,7 @@ Analytics such as those of IMF and OECD gives evidence and guardrails that avoid
 - Small businesses.
 - Switzerland is a brand, adds value. It offsets the high priced economy that augments our prices relative to foreign goods.
 ![[Pasted image 20251119105456.png]]
-Main market is Europe, we always have a trade surplus we are an exporting economy. Trading worldwide isn't as easy as with Europe, specially right now.
+Main market is Europe, we always have a trade surplus we are an exporting economy (~70% of GDP). Trading worldwide isn't as easy as with Europe, specially right now.
 #### Swiss Foreign Economic Policy
 ![[Pasted image 20251119105705.png]]
 Our policy rests on the EU (food for example, these programmes are updatable a system exists), WTO (cornerstone of economic basis and of norms) and FTA (recently Mercosur and India) mainly.
@@ -94,7 +94,7 @@ Switzerland reacts and mitigates. An example of negotiation outside of the WTO.
 	- Come up with best practices and maybe apply them in the WTO in the wider community likes them.
 	- Present papers **f.ex**.
 #### What does the FIT Partnership do
-- Give greater weight to the trade policy concerns of small and medium- sized countries with an international focus;
+- Give greater weight to the trade policy concerns of small and medium-sized countries with an international focus;
 - Launch thematic initiatives to find joint solutions to challenges in international trade;
 - Create a platform for exchange between open economies to discuss trade and investment issues informally, in a solution-oriented manner and outside existing structures;
 - Build new alliances to jointly address trade policy uncertainty;

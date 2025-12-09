@@ -33,7 +33,7 @@ From [[Séance 7-Institutions of Comparative Democracies II]].
 #### Mass parties
 - Example: Socialist, Communist, Fascist Parties.
 - Originates outside of parliament.
-- Strong organization, programmatic appeals.
+- Strong organisation, programmatic appeals.
 - Mass membership, strong influence of members.
 #### Catch-all parties
 - Example: Christian Democrats, Social Democrats and Conservatives after World War II.
@@ -63,16 +63,16 @@ Mostly funded by the state in many countries (50%+ from taxpayers). Thus:
 - Leadership increasingly independent, competence appeals, professionalization.
 - Small membership, little influence of members.
 - Increasing symbiosis of parties and state.
-- Not an objective text but wants to put forward a controversial argument and hear counterarguments, tries to state this has happened before.
-- No alternatives, parties say they understand and are professional. It's not that much about idea but about being knowledgeable.
+- Not an objective text but wants to put forward a controversial argument and hear counterarguments, tries to state this has already happened.
+- No alternatives, parties say they understand and are professional. It's not that much about ideas but about being knowledgeable.
 #### Summary
 ![[Pasted image 20251125152629.png]]
 ### Internal organisation of parties
-- Robert Michels, 1911: The "iron law of oligarchy": "It is organization which gives dominion of the elected over the electors. [...] Who says organization, says oligarchy."
-- As movements become bigger, they need to organize and develop bureaucracy. Otherwise, they will dissolve (e.g. Occupy Wall Street).
+- Robert Michels, 1911: The "iron law of oligarchy": "It is organisation which gives dominion of the elected over the electors. [...] Who says organisation, says oligarchy."
+- As movements become bigger, they need to organise and develop bureaucracy. Otherwise, they will dissolve (e.g. Occupy Wall Street).
 - The interests of professional party organizers are necessarily different from those of members.
 	- Like longevity (if the organisation dissolves so does your job)->cartel structure guarantees it.
-	- Gaining office and not being able to pursue everything also.
+	- Gaining office and not being able to pursue everything is also an example here.
 - There is necessarily an asymmetry in information between party professionals and members.
 #### Challenging the iron law: Movement parties
 Often, new parties explicitly seek to challenge the iron law of oligarchy. Two strategies: Weakening the professionals and/or strengthening the members.
@@ -86,7 +86,7 @@ sections and party congresses. Alternative: primaries. Established in the US, in
 - Open (everyone) vs closed (members only).
 - Combination of party pre-selection and membership votes (UK).
 - French Republicans used open primaries in 2017, more than 4 million people participated, no primaries in 2022.
-##### Primarias and the median voter theorem
+##### Primaries and the median voter theorem
 - The median voter theorem: To win a majority, a party (or coalition) needs to win the vote of the voter who has in the middle of the ideological distribution. This will induce a moderation of right and left parties (Downs 1957, see below).
 - Problem: To win a primary, a candidate needs to win a majority of primary voters (often party purists).
 - This makes it very difficult for moderate candidates and favours the selection of purists.
