@@ -4,12 +4,12 @@
 Les mécanismes de sécurité sociale pour la protection sociale étaient très basiques:
 - Logique familiale.
 - Logique religieuse mais aussi intervention des laïques pour les populations les plus pauvres (==certains pauvres!==).
-	- Les personnes riches et charitables. C'est le cas des hospices (pour les orphelins, invalides, etc).
+	- Les personnes riches et charitables payaient. C'est le cas des hospices (pour les orphelins, invalides, etc).
 - Les communes vont aussi prendre en charge leurs pauvres (pas les étrangers) au fin du Moyen-âge pour contrôler la mendicité.
 - Il y a donc des pauvres méritants et non-méritants.
 - Solidarité socio-professionnelle (société de secours mutuel).
 	- Les personnes d'une même profession créent des corporations, notamment pour les pensions (orphelins **p.ex.**) ou ils pouvaient payer aussi les frais des funérailles entre autres.
-- Solidarité nationale.
+- Solidarité nationale (début).
 	- On passe finalement à une solidarité au niveau national ou on reconnaît que le pays/société doit aux individus (membres) une protection contre les risques de la vie.
 - *Les secours publics sont une dette sacrée. La société doit la subsistance aux citoyens malheureux, soit en leur procurant du travail, soit en assurant les moyens d’existence à ceux qui sont hors d’état de travailler* (Constitution française du 24 juin 1793. art. 21).
 	- Grâce à la R.F. on a le début d'un système centralisé.
@@ -26,7 +26,7 @@ On attribue la création de la conception moderne de la sécurité sociale à Bi
 	- Protection contre les accidents du travail et autres risques.
 		- Ils veulent la responsabilité des employeurs: être indemnisés s'ils peuvent démontrer une faute de la part de l'employeur quoi. Cela est implementé mais ça ne marchait pas (les ouvriers n'avaient pas les moyens de prouver ces fautes).
 ###### **Discours du chancelier Bismarck devant le Reichstag (éléments)**
-- Mouvements sociaux qui ne doivent pas être combattus par la force et la répression.
+- Existence de mouvements sociaux qui ne doivent pas être combattus par la force ni la répression.
 - Bien-être des travailleurs recherché.
 - La paix intérieure est dépendante de l’appui qui va être proposé aux personnes dans le besoin.
 - Protection contre les accidents du travail et la maladie.
@@ -47,7 +47,7 @@ On attribue la création de la conception moderne de la sécurité sociale à Bi
 		- Expansion de la couverture, prestations, etc.
 	- Mode de financement (solidarité, tiers payant, implication de l’employeur).
 		- Travailleurs 2/3, reste employeur. Obligation d'être assuré et cotiser.
-		- C'est solidaire, si on est malade on profite de la solidarité du groupe mais sinon on aura jamais besoin. C'est quand même limité, que de la solidarité entre les membres d'un groupe déjà pauvre. De nos jours cette solidarité va plus loin (riches-pauvres, jeunes-vieux, etc.).
+		- C'est solidaire, si on est malade on profite de la solidarité du groupe mais sinon on en aura jamais besoin. C'est quand même limité, que de la solidarité entre les membres d'un groupe déjà pauvre. De nos jours cette solidarité va plus loin (riches-pauvres, jeunes-vieux, etc.).
 			- On Suisse on est solidaires mais on exclue certains (volontairement bien sûr): ceux qui choisissent une franchise haute.
 		- Le tiers payant veux dire que l'individu n'a pas a payer pour être remboursé à *posteriori* mais qu'une caisse externe paie et gère tout l'aspect économique.
 - ==Loi sur l’assurance-accidents (1884)==.
@@ -95,7 +95,7 @@ C'est la Conférence de l'OIT qui s'en charge (2/3 des voix requis pour passer u
 ![[Pasted image 20251013164957.png]]
 L'OIT à réussi à adopter beaucoup de conventions quand même, on peut comparer avec l'OMS qui en a adopté que 2 depuis sa conception.
 
-Pour encourager les ratifications on met la pression sur les états pour qu'ils soumettent le texte à leurs parlements et faire un rapport sur l'application. Comme ça ils le mettent en oeuvre (un comité contrôle les rapports). On fait ça, même avec les recommandations. Comme ça, même si c'est du *soft law*, on met un peu la pression dans une forme plus *moue*. Souvent on peut pas ou on ne sanctionne pas, c'est surtout le cas du droit *mou*. Mais il y a quand même des recommandations d'implementation (==on parle pas ici du type de texte hein==) et une dégradation de l'image+pression internationale qui fait pression sur les états.
+Pour encourager les ratifications on met la pression sur les états pour qu'ils soumettent le texte à leurs parlements et fassent un rapport sur l'application. Comme ça ils le mettent en oeuvre (un comité contrôle les rapports). On fait ça, même avec les recommandations. Comme ça, même si c'est du *soft law*, on met un peu la pression dans une forme plus *moue*. Souvent on peut pas ou on ne sanctionne pas, c'est surtout le cas du droit *mou*. Mais il y a quand même des recommandations d'implementation (==on parle pas ici du type de texte hein==) et une dégradation de l'image+pression internationale qui fait pression sur les états.
 #### Développement du soutien technique au-delà de la région européenne
 Après la crise du 29 des pays en dehors de l'Europe même se rendent compte que il y a plus et plus de travailleurs à risque:
 ![[Pasted image 20250929173244.png]]
@@ -121,7 +121,7 @@ Cela montre qu'ils savaient, après constater que les déséquilibrées post-PGM
 	- Prestations familiales quoi.
 - Une politique de plein emploi (service public de l’emploi).
 ##### Principe fondamental
-- La solidarité, base de notre société (même aujourd'hui->**e.g** crise Covid-19). Elle s'améliore toujours après les crises comme la PGM, cette dernière la rend acceptable pour ceux qui ne veulent pas trop payer (solidarité plus large dans Beveridge que Bismark).
+- La solidarité, base de notre société (même aujourd'hui->**e.g** crise Covid-19). Elle s'améliore toujours après les crises comme la PGM, cette dernière la rend acceptable pour ceux qui ne veulent pas trop payer (solidarité plus large dans Beveridge que Bismarck).
 - Intégration des techniques (assurance sociale, privée (si un individu veut s'élever au delà du minimum qui lui doit la société et ben parfait selon B.), assistance, service public) pour fournir des prestations multiples:
 	- Soins médicaux, pensions vieillesse/survivants/familiales (toute la population même s'ils n'ont pas cotisé).
 	- Indemnités maladie, maternité, invalidité, protection en cas de chômage et accidents (uniquement travailleurs).
@@ -129,7 +129,7 @@ Cela montre qu'ils savaient, après constater que les déséquilibrées post-PGM
 Champ d’application personnel (pour tous).
 ##### Financement
 Système contributif et non-contributif.
-- En gros il y a des prestations qui s'appuient sur les cotisation et d'autres qui le font sur les impôts.
+- En gros il y a des prestations qui s'appuient sur les cotisations et d'autres qui le font sur les impôts.
 ##### Uniformalité
 Gestion simplifiée.
 ### Notions de risques et besoins (tous les deux sociaux)
@@ -166,7 +166,7 @@ La convention explique :
 ##### Prestations de santé
 ![[Pasted image 20251013173014.png]]
 ![[Pasted image 20251013173131.png]]
-==On parle pas de système de couverture universel==. Et on parle de salariés et pas de population active, c'est une question de financement. On a besoin d'une activité rémunérée à relation contractuelle claire, il y a des systèmes de travail informels. On donne différentes options pour tenir en compte les situations nationales diverses. On essaie pas nécessairement de protéger les plus vulnérables en premiers mais ceux qu'on peux tracer facilement. La convention s'oriente vers un système de travail formel mais ça ne marche pas toujours comme encouragement. Ceux qui offrent des prestations à 50% des résidents savent qui est résidant bien sûr mais comment savoir combien ils cotisent? On peut lier certaines cotisations à l'âge mais pas la protection contre le chômage ou l’indemnité maladie. Bref c'est juste pas simple pour tous même avec la flexibilité de la convention.
+==On parle pas de système de couverture universel==. Et on parle de salariés et pas de population active, c'est une question de financement. On a besoin d'une activité rémunérée à relation contractuelle claire, il y a des systèmes de travail informels. On donne différentes options pour tenir en compte les situations nationales diverses. On essaie pas nécessairement de protéger les plus vulnérables en premier mais ceux qu'on peut tracer facilement. La convention s'oriente vers un système de travail formel mais ça ne marche pas toujours comme encouragement. Ceux qui offrent des prestations à 50% des résidents savent qui est résident bien sûr mais comment savoir combien ils cotisent? On peut lier certaines cotisations à l'âge mais pas la protection contre le chômage ou l’indemnité maladie. Bref c'est juste pas simple pour tous même avec la flexibilité de la convention.
 ![[Pasted image 20251013173549.png]]
 L'idée c'est de redonner l'indépendance.
 ##### Régime d'accidents du travail et maladies professionnelles

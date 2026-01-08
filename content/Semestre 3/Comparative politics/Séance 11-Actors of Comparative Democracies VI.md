@@ -60,7 +60,7 @@ Without institutionalisation of communications this is not possible, **e.g.** US
 	- Higher turnout of union members.
 	- Stronger welfare state support of union members.
 	- Union members vote left more often.
-	- Problem of endogeneity though, left-leaning people join unions, but research tries to get through this and proves it. Some does.
+	- Problem of endogeneity though, left-leaning people join unions, but research tries to get through this and proves it. Some do.
 #### Two forms of business power : Instrumental power
 - Not related to the specific activities of the firm: Every firm has in principle the same tools available.
 - *Lobbying*.

@@ -147,7 +147,7 @@ The least-cost solution is obtained by finding levels of ZA and ZB which add up 
 - If we cannot observe MAC and MD
 - Best bet is to set up a standard?
 - Dominant method in most countries in the world.
-- The amount of emissions depends on the goods that is produced.
+- The amount of emissions depends on the goods that are produced.
 - Also the technology that is used in the production process.
 - Amount or mix of inputs used.
 #### Non-transferable emissions licences
@@ -159,7 +159,7 @@ The least-cost solution is obtained by finding levels of ZA and ZB which add up 
 	- Licence schemes will have to be supported, therefore, by monitoring systems and by sufficiently harsh penalties for non-compliance.
 	- This might not be cost-effective.
 		- Under special conditions, the use of such emissions licences will achieve an overall target at least cost (that is, be cost-efficient).
-		- But it is highly unlikely that these conditions would be satisfied.Cost-efficiency requires the marginal cost of emissions abatement to be equal over all abaters
+		- But it is highly unlikely that these conditions would be satisfied. Cost-efficiency requires the marginal cost of emissions abatement to be equal over all abaters
 			- If the EPA knew each polluter’s abatement cost function, it could calculate which level of emissions of each firm (and so which number of licences for each firm) would generate this equality and meet the overall target.
 			- It is very unlikely that the EPA would possess, or could acquire, sufficient information to set standards for each polluter in this way.
 			- The costs of collecting that information could be prohibitive, and may outweigh the potential efficiency gains arising from intervention.
@@ -183,10 +183,10 @@ The least-cost solution is obtained by finding levels of ZA and ZB which add up 
 #### Location
 - Pollution control objectives , in so far as they are concerned only with reducing human exposure to pollutants, could be met by separating the locations of people and pollution sources.
 - This is only relevant where the pollutant is not uniformly mixing, so that its effects are spatially differentiated.
-- Separation can be done ex ante or ex post.
+- Separation can be done *ex ante* or *ex post*.
 - Separation ex ante, by zoning or planning control, is relatively common.
 - Planning controls and other forms of direct regulation directed at location have a large role to play in the control of pollution with localised impacts and for mobile source pollution. They are also used to prevent harmful spatial clustering of emission sources.
-- Ex post relocation decisions are rarer because of their draconian nature; examples include people being removed from heavily contaminated areas, such as Chernobyl.
+- *Ex post* relocation decisions are rarer because of their draconian nature; examples include people being removed from heavily contaminated areas, such as Chernobyl.
 - Location decisions of this kind will not be appropriate where we are concerned about wider ecosystem impacts or where pollution is uniformly mixing.
 #### CAC: assessment
 ##### Attractive Properties
@@ -200,7 +200,7 @@ The least-cost solution is obtained by finding levels of ZA and ZB which add up 
 ### Tradable emissions permits (inbetween CAC and market incentive instruments)
 - Based on the principle that any increase in emissions must be offset by an equivalent decrease elsewhere.
 - There is a limit set on the total quantity of emissions allowed, but the regulator does not attempt to determine how that total allowed quantity is allocated among individual sources.
-- It can be defined as a transferable right to a common pool resource (e.g., individual transferable quotas for fishing rights).
+- It can be defined as a transferable right to a common pool resource (**e.g.**, individual transferable quotas for fishing rights).
 - Our focus: tradable emission permits (TEPs) – first proposed by T. Crocker (1966) and J. Dales (1968).
 - TEPs = a market-based instrument which combines elements of the three main approaches to pollution control:
 	- Regulator sets the total quantity of emissions → as for CAC;
@@ -209,7 +209,7 @@ The least-cost solution is obtained by finding levels of ZA and ZB which add up 
 - 2 types: Cap and Trade and Emission Reduction Credits (ERCs).
 #### Cap and trade permit systems
 - A cap-and-trade emission permits scheme for a uniformly mixing pollutant involves:
-	- A total quantity of emissions of some particular type (the ‘cap’) that is to be allowed by a specified class of actual and potential emitters over some period of time.
+	- A total quantity of emissions of some particular type (the *cap*) that is to be allowed by a specified class of actual and potential emitters over some period of time.
 	- The creation of a quantity of emissions permits that in sum equal, in units of permitted emissions, to the emissions cap (the target level of emissions).
 - A mechanism by which the total quantity of emission permits is initially allocated between potential polluters.
 - A rule which states that no firm is allowed to emit pollution (of the designated type) beyond the quantity of emission permits it possesses.
@@ -235,6 +235,6 @@ The least-cost solution is obtained by finding levels of ZA and ZB which add up 
 	- Case 2: the EPA allocates all permits at no charge (which in turn requires that a distribution rule be chosen).
 ### Conclusion
 #### Which instrument to use?
-Teacher didn't answer, I guess it's difficult to choose and depends on many factors.
+Teacher didn't answer, I guess it's difficult to choose and depends on many factors. You can always argue though, but TEPs sound greatest for now.
 
 #UNIGE #EnvironmentalEconomics 

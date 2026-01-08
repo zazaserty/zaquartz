@@ -24,7 +24,7 @@ Analytics such as those of IMF and OECD give evidence and guardrails that avoid 
 → Over 70% of merchandise trade still under MFN!
 ##### Basic principles
 - Law as a basis for regulating commercial relations.
-- Most favored nation clause (MFN).
+- Most favoured nation clause (MFN).
 - Proportionality, National Treatment (NT).
 - Transparency.
 	- In-depth analysis of members trade policies by other countries, which creates trust (they ask questions **f.ex.**).
@@ -61,10 +61,10 @@ The foreign economic policy pursues Switzerland’s interests, prioritises multi
 - Opening up and regulating foreign trade.
 #### Free trade partners of Switzerland
 ![[Pasted image 20251119112522.png]]
-New agreements as with India, an immense investment in India and a FTA which even the EU hasn't concluded. If numbers on investment aren't reached, retaliation against CH->challenge.
+New agreements as with India, an immense investment in India and an FTA which even the EU hasn't concluded. If numbers on investment aren't reached, retaliation against CH->challenge.
 
 Also agreements with Mercosur.
-### The WTO at a crossroad
+### The WTO at a crossroads
 A fragmented global economy.
 #### Current Challenges in the Multilateral Trading System
 - Dispute settlement: Appellate Body still inactive → legal uncertainty; Plan B: MPIA (Multi-Party Interim Appeal Arbitration Arrangement).

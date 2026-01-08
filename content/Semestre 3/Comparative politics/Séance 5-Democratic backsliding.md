@@ -21,7 +21,7 @@ Carrier/Carothers:
 	- Weakened accountability institutions and regulations.
 	- Tightened presidential control over independent agencies and the executive bureaucracy.
 	- Decreased the political independence of the civil service.
-		- More political jobs (even in lower ranks) in the USA than in other countries, but Trump takes it even further. As such people aren't selected by merit but political alignment.
+		- More political jobs (even in lower ranks) in the USA than in other countries, but Trump takes it even further. As such, people aren't selected by merit but political alignment.
 	- Purged perceived opponents from the branch.
 *Unitary executive theory* is a theory that advocates for the control of the president over all the parts of the executive.
 ##### Congress
@@ -43,7 +43,7 @@ He loses many cases but the Supreme Court has granted him immunity and limited u
 #### Control of the media
 ![[Pasted image 20251014144453.png]]
 ![[Pasted image 20251014144536.png]]
-He is back on air, but the chilling effect of this measure is already done. The media will know think twice before criticising Trump.
+He is back on air, but the chilling effect of this measure is already done. The media will now think twice before criticising Trump.
 #### Weaponising the state
 Carrier/Carothers:
 *He has undermined the independence of executive branch prosecutors, weakening institutional protections for them, launching a Justice Department "Weaponisation Working Group” to probe their activities, and taking retributive actions against some prosecutors who criticised or had participated in investigations into Trump*.
@@ -68,8 +68,8 @@ Carrier/Carothers:
 ![[Pasted image 20251014145554.png]]
 - Congressional districts are drawn by the states.
 - This invites abuse:
-	- Create few districts with as many voters of your opponent as possible ("Packing").
-	- Create many districts in which you have a small but solid advantage ("Cracking").
+	- Create few districts with as many voters of your opponent as possible (*Packing*).
+	- Create many districts in which you have a small but solid advantage (*Cracking*).
 - The original gerrymander is from Massachussets:
 	![[Pasted image 20251014145823.png]]
 ### Going beyond backsliding?
@@ -101,7 +101,7 @@ This system is very favorable to affective polarisation.
 ![[Pasted image 20251014152907.png]]
 - While partisanship has become very important, the parties themselves remain very weak:
 	- Primary system, allows rise of outsiders that strong parties would block
-	- Basically no national organisation, "presidentialisation of parties".
+	- Basically no national organisation, *presidentialisation of parties*.
 	- Huge independence of directly elected Representatives and Senators
 	- Used to be a basis for compromise, when there were many Democrats from conservative districts/Republicans from liberal districts.
 	- Now the basis for a transformation of the Republican party.

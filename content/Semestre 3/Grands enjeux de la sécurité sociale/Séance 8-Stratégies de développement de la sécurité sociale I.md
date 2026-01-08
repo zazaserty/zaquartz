@@ -25,7 +25,7 @@ La protection sociale est laissée un peu de côté. On se centre sur le travail
 ![[Pasted image 20251124164142.png]]
 Les états doivent respecter les règles du travail même dans leur course pour développer l'économie. On essaie de les convaincre pour :
 ![[Pasted image 20251124164244.png]]
-On cherche que toutes les populations soient soumises aux mêmes règles et éviter la course vers le bas, laquelle nuit aux objectifs de l'OIT. Ça n'a pas trop marché. Le travail forcé réduit les coûts, et par conséquences les entreprises s'y délocalisent là où ils peuvent le mener à bout. Néanmoins, l'OIT énonce ces principes fondamentaux et énumère quelles conventions les protègent, en affirmant que c'est égal que les états les aient ratifiés ou pas->tous liés.
+On cherche que toutes les populations soient soumises aux mêmes règles et éviter la course vers le bas, laquelle nuit aux objectifs de l'OIT. Ça n'a pas trop marché. Le travail forcé réduit les coûts, et par conséquence les entreprises s'y délocalisent là où ils peuvent le mener à bout. Néanmoins, l'OIT énonce ces principes fondamentaux et énumère quelles conventions les protègent, en affirmant que c'est égal que les états les aient ratifiés ou pas->tous liés.
 ###### **La SST : un droit fondamental au travail**
 Spécifiquement, c'est :
 ![[Pasted image 20251124165056.png]]
@@ -48,7 +48,7 @@ En 1999 Programme du travail décent (programme prioritaire): A chacun un travai
 - le dialogue social.
 	- On cherche ça dans tout le monde, on le fait en CH **p.ex**.
 ![[Pasted image 20251124170314.png]]
-On retrouve cette protection sociale dans la définition de justice sociale laquelle est axée sur le renforcement des mesures de PS pour arriver à un environnement durable qui préservent la santé et sécurité des travailleurs.
+On retrouve cette protection sociale dans la définition de justice sociale laquelle est axée sur le renforcement des mesures de PS pour arriver à un environnement durable qui préserve la santé et sécurité des travailleurs.
 ### Les socles de protection sociale
 ![[Pasted image 20251124172053.png]]
 On s’intéresse pas trop à la protection sociale dans le cadre du millénaire et la réduction de la pauvreté. Les objectifs du millénaire avaient été critiquées et en 2009 on souligne que la pauvreté est une crise mondiale qu'on doit solutionner. Donc on prévoit un accès universel->socle commun pour la protection sociale.
@@ -74,11 +74,11 @@ Difficile de donner des chiffres précis, c'est pas parce qu'on met en place une
 Les états doivent faire des rapports sur la ratification et l'implementation après signer, on essaie de les faire aller jusqu'au bout.
 #### Procédure des rapports (contrôles réguliers)
 ![[Pasted image 20251124175450.png]]
-Ils doivent expliquer où ils en sont par rapport à l'implementation et ceci met un peu de pression sur les états. Ils devront répondre des questions, etc... l'idée c'est pas le *naming and shaming* mais de soutenir et dialoguer avec les états pour leur expliquer comment améliorer le système. Ils savent que tout est publique, plus de pression donc. Il y a eu plus de 200 textes adoptés et les états à la fin ont trouvé des raisons pour les suivre, même si partiellement. Des crises du droit en on a eu déjà, ça veut pas dire qu'on doit tout jeter à la poubelle.
+Ils doivent expliquer où ils en sont par rapport à l'implementation et ceci met un peu de pression sur les états. Ils devront répondre des questions, etc... l'idée c'est pas le *naming and shaming* mais de soutenir et dialoguer avec les états pour leur expliquer comment améliorer le système. Ils savent que tout est publique, plus de pression donc. Il y a eu plus de 200 textes adoptés et les états à la fin ont trouvé des raisons pour les suivre, même si partiellement. Des crises du droit on en a eu déjà, ça veut pas dire qu'on doit tout jeter à la poubelle.
 #### Procédure des réclamations et plaintes
 ![[Pasted image 20251124175951.png]]
 Il est possible de se plaindre si on est dans un état qui ne respecte pas ses obligations, cela à eu des effets dans certains cas comme en Pologne quand les syndicats ont été interdits et Lech Walesa emprisonné. L'OIT peut sanctionner l'État. Les États peuvent appeler la CIJ, rare peut être même jamais utilisé (au moins récemment).
 ![[Pasted image 20251124180329.png]]
-Les sanctions peuvent être une mention constante du problème, coupage du soutien, encourage les états à sanctionner aussi... saisir l'ECOSOC...
+Les sanctions peuvent être une mention/examen constante (annuel **p.ex.**) du problème, coupage du soutien, encourage les états à sanctionner aussi... saisir l'ECOSOC...
 
 #UNIGE #SS 

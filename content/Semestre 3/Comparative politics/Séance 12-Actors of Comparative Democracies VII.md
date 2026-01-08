@@ -62,7 +62,7 @@ Massimo d'Azeglio: „We have made Italy, now lets make Italians“.
 - In countries with strong ethnic, linguistic or confessional minorities.
 - In countries in which the national state emerged late (Germany, Italy, Austria-Hungary).
 - Homogenous countries not really concerned.
-#### Parties representing the center-periphery cleavage
+##### Parties representing the center-periphery cleavage
 - Historically: Regionalist or separatist parties.
 	- Polish and Bavarian parties in Germany.
 	- Irish parties in the UK.
@@ -73,7 +73,7 @@ Massimo d'Azeglio: „We have made Italy, now lets make Italians“.
 	- (The Lega Nord).
 	- The Lega dei Ticinesi.
 	- Bloc Québécois.
-### 1.2 The industrial revolution
+### The industrial revolution
 - First period of sustained economic growth.
 - Massive urbanisation.
 - Dominance of wage labor.
@@ -103,7 +103,7 @@ Massimo d'Azeglio: „We have made Italy, now lets make Italians“.
 		- The west like California.
 	- Electoral system prevents emergence of new party.
 	- Racism?
-		- White don't want alliance with black workers.
+		- Whites don't want an alliance with black workers.
 - But: The *New Deal Coalition*.
 	- Party competition after 1932 has a distinct capital-labor structure.
 		- Democrats as functional USA version of European social-democrat parties.
@@ -161,7 +161,7 @@ On the height of the class cleavage, workers voted for working class parties (st
 ### New cleavages
 - Why are we interested in all of this?
 - What does this still have to tell us?
-- Can we use cleavage analysis as a theoretical lense to analyse contemporary party formation and voting behaviour?
+- Can we use cleavage analysis as a theoretical lens to analyse contemporary party formation and voting behaviour?
 - On globalisation:
 	- Structurally the more educated you are the more of a winner you are (languages, college, etc...).
 		- Also some old cleavages repeat themselves here, **e.g.** if you old shares of a company they are winners.

@@ -52,7 +52,7 @@ A mediator's interest is important, such as when Qatar was attacked by Israël w
 - The Swiss mediated accession of the Russian Federation to the WTO illustrates how the problem-solving mindset of engineering science can be applied to complex real-world negotiations.
 - I check the method with my students: At the end of May, I conducted a simulation negotiation with a focus on the military use of AI. The seminar gathered students of the University of Geneva, of ETH, Zürich, University of Zürich and University of Singapour.
 #### Strengths and limitations
-- The reduction of the problem to its most formal structurel provides an understanding of underlying mechanisms.
+- The reduction of the problem to its most formal structure provides an understanding of underlying mechanisms.
 - Does not pre-impose the outcome of the negotiated agreement. A solution can be reached more easily due to more precise knowledge of the issue based on objective criteria.
 - The technical approach can lead to a de-emotionalisation of the problem.
 ##### But

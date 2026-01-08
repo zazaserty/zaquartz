@@ -9,5 +9,7 @@
 - [[Séance 9-Trade negotiations in a Fragmented Global Economy]]
 - [[Séance 10-Technology and negotiation]]
 - [[Séance 11-A Humanitarian Perspective]]
+- [[Séance 12-Military diplomacy]]
+- [[Séance 13-End]]
 
 #Plaque-tournante #UNIGE #ACofIN 

@@ -10,7 +10,7 @@ Most of these are in the frontline (conflict zones such as Palestine).
 #### Humanitarian Negotiation vs. Traditional Negotiation
 ##### What is humanitarian negotiation?
 Negotiation isn't only for diplomats. It is necessary to manage advocacy and humanitarian principles. We don't negotiate on the law or compromise it, instead we focus on implementation and how to respect it. It's a set of interactions between a humanitarian organisation and – state or non-state – actors, both civilian and military, to an armed conflict aimed at:
-- Establishing organisations in conflict setting (maybe not only armed but also natural at the same time).
+- Establishing organisations in conflict setting (maybe not only armed conflicts but also natural disasters at the same time).
 	- Make actors understand what your organisation is, your purpose, etc... **E.g.** the ICRC isn't christian despite wearing a cross and doesn't provide humanitarian aid purely to server Swiss interests despite wearing their flag.
 - Ensuring access to vulnerable groups.
 	- Everything the organisation does influences the degree of access. Make sure it's secure.
@@ -54,7 +54,7 @@ It is also important to talk to other stakeholders in the background that can po
 
 But we cannot forget about analysing ourselves, our interests and goals. And design different scenarios with alternative plans so as to not find ourselves in unexpected situations.
 
-Finally, there are blocks to prevent us from making mistakes and being too *crazy*->the mission and strategic objectives. For our counterpart, its the institutional policies and red lines. However this red line of our counterpart is more of an *orange* one as they have a tendency of underreprensenting it, making themselves look more limited than in reality. We will do the same as well, ask for more than we need. Because we wanna feel trust and make them feel like they won, so we will concede a bit.
+Finally, there are blocks to prevent us from making mistakes and being too *crazy*->the mission and strategic objectives. For our counterpart, its the institutional policies and red lines. However this red line of our counterpart is more of an *orange* one as they have a tendency of underreprensenting it, making themselves look more limited than in reality. We will do the same as well, ask for more than we need. Because we wanna make them feel trust and make them feel like they won, so we will concede a bit.
 
 On the relational stage we break the ice and in the transactional stage we build a tactical plan.
 ### Negotiation **examples**

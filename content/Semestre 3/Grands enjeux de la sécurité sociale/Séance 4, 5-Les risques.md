@@ -20,7 +20,7 @@ Maintenant on a aussi des offres privées, mais cela est rare et coûteux. Les a
 - En plus c'est une question d'efficience. Une personne vieille qui s'opère et doit se reposer n'aura pas de possibilité de vivre seule et donc devra rester plus longtemps à l'hôpital->+ de coûts pour la société.
 - Il y a aussi la question des soins de longue durée, comment les financer?
 	- Faire payer plus à ceux qui peuvent? Pas de solution claire en ce moment.
-	- Le système de santé actuel, en Suisse, supporte ces coût même s'il ne devrait pas ce qui augmente le coût du système actuel.
+	- Le système de santé actuel, en Suisse, supporte ces coûts même s'il ne devrait pas ce qui augmente le coût du système actuel.
 ##### Perspective historique
 ![[Pasted image 20251020163123.png]]
 On connaît ce besoin depuis longtemps quand même hein, dès 1944 c'est mentionné dans la Recommandation 67 de l'OIT.
@@ -46,7 +46,7 @@ On lutte contre ces 3 phénomènes mais on essaie de les prévenir aussi pour la
 
 **Lors de la crise asiatique de 1997**, les systèmes de protection sociale se sont révélés insuffisants face à l’effondrement économique. De nombreuses familles ont perdu leurs revenus du jour au lendemain. Cela a conduit à des conséquences sociales dramatiques, notamment **le retrait des enfants de l’école** faute de moyens pour payer les frais ou assurer leur alimentation. Cette situation a aggravé la pauvreté intergénérationnelle et montré l’importance d’avoir **des filets sociaux en place avant la crise**->des bourses ont été mis en place dans certains pays **p.ex.** mais cela il faut le faire avant!
 #### Leçons tirées?
-Pour Stiglitz c'est contradictoire que lors des dernières décennies on a affaiblit les stabilisateurs automatiques au lieu d'essayer de prévenir une nouvelle crise. Spécialement aux USA, où la sécurité sociale ne comprends pas du tout les 9 domaines de la C102 de l'OIT-> comme vu dans [[Séance 2, 3-Définition de la S.S]]. Trump veut même empirer cela et réduire encore plus la couverture maladie pour la partie la plus vulnérable de la population.
+Pour Stiglitz c'est contradictoire que lors des dernières décennies on a affaiblit les stabilisateurs automatiques au lieu d'essayer de prévenir une nouvelle crise. Spécialement aux USA, où la sécurité sociale ne comprend pas du tout les 9 domaines de la C102 de l'OIT-> comme vu dans [[Séance 2, 3-Définition de la S.S]]. Trump veut même empirer cela et réduire encore plus la couverture maladie pour la partie la plus vulnérable de la population.
 
 On observe aussi que le CE (responsable de l'emploi entre autres choses), même si l'UE n'a pas de coordination centrale pour la protection sociale, a demandé aux états d'étendre leurs programmes de protection sociale pour mieux faire face à ces *shocks*.
 ##### Cas : l'Islande
@@ -66,7 +66,7 @@ On s'est rendu compte avec la crise climatique ou sanitaire que les risques chan
 - À Genève même on a vu qu'il y avait pas mal de sans-papiers qui travaillaient en noir et n'étaient pas protégés (pas de diagnostique, ni de soins, ni de vaccins... contre productifs->des pays comme l'Espagne essaient de couvrir tous), même si on est plutôt organisés et dans la CH le chômage et ces phénomènes sont rares. Des fois ceux qui ne pouvaient pas s'isoler ben travaillaient parce qu'ils avaient pas d'autre choix et cela a difficulté le contrôle de la crise.
 ##### Changement climatique
 ![[Pasted image 20251020174931.png]]
-On a cherche a prévenir la crise climatique, en réduisant les émissions dans les secteurs les plus polluants et adaptant les systèmes comme les immeubles (panneaux solaires **p.ex.**). Aux 19ème siècle on commence à protéger les travailleurs pauvres, les familles... et aujourd'hui les plus vulnérables au changement climatique c'est pas forcément celles qu'on avait identifié avant. Il va créer des besoins (impacts directs et indirects) :
+On a cherche a prévenir la crise climatique, en réduisant les émissions dans les secteurs les plus polluants et en adaptant les systèmes comme les immeubles (panneaux solaires **p.ex.**). Aux 19ème siècle on commence à protéger les travailleurs pauvres, les familles... et aujourd'hui les plus vulnérables au changement climatique c'est pas forcément ceux qu'on avait identifiés avant. Il va créer des besoins (impacts directs et indirects) :
 ![[Pasted image 20251020175318.png]]
 On a du mal à les associer aux risques qu'on connaît dans nos systèmes actuels. Là il y a tout le monde qui sera affecté. Il va falloir adapter notre compréhension des risques.
 ### Obligations
@@ -75,7 +75,7 @@ Les états ont l'obligation de lutter contre ces risques, juridique et politique
 ![[Pasted image 20251020175648.png]]
 C'est un droit individuel, contracté dans des conventions et traités contraignants. Ces règles doivent être respectées. Beaucoup d'états respectent toujours les conventions mais si quelques uns qui étaient importants ne le font plus.
 ![[Pasted image 20251020175721.png]]
-En ce qui concerne la croissance durable parallèlement à la justice sociale l'OIT devait soumettre un rapport sur ce thème, mais en ce moment on en parle pas tellement en le rapport a été plutôt petit et avec peu d'impact. La question sociale est attaqué, on est plus en 2020-22. Bientôt le Sommet sur la Protection Sociale (OIT novembre 2025) en parlera.
+En ce qui concerne la croissance durable parallèlement à la justice sociale l'OIT devait soumettre un rapport sur ce thème, mais en ce moment on en parle pas tellement en le rapport a été plutôt petit et avec peu d'impact. La question sociale est attaquée, on n'est plus en 2020-22. Bientôt le Sommet sur la Protection Sociale (OIT novembre 2025) en parlera.
 #### Normative (contraignant et pas contraignant)-> énonce des normes
 ![[Pasted image 20251020181106.png]]
 On établit le droit à la sécurité sociale et à un niveau de vie suffisant, une protection est donc nécessaire.
@@ -84,7 +84,6 @@ On établit le droit à la sécurité sociale et à un niveau de vie suffisant, 
 ![[Pasted image 20251020181314.png]]
 #### Politique
 ![[Pasted image 20251020181351.png]]
-
 Aussi les ODD!
 
 #UNIGE #SS 

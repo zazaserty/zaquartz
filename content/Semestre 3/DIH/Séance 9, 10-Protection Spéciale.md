@@ -19,7 +19,7 @@ Près du front ou il y a beaucoup de blessés avec des affrontements particuliè
 ##### Zones sanitaires
 Hôpitaux de campagnes plus loin du front ou des installations sanitaires de l'armée pour y amener les blessés.
 ##### Détail : actes nuisibles
-Si la zone interfère avec les opérations militaires de l'ennemi la zone contribue à la guerre et devient un objectif militaire. Si les actes n'interfèrent pas mais participent à l'effort de guerre du belligérant comme la collecte d'argent s'est pas un objectif mais l'ennemi peut prendre la zone après une sommation pour faire cesser cela.
+Si la zone interfère avec les opérations militaires de l'ennemi la zone contribue à la guerre et devient un objectif militaire. Si les actes n'interfèrent pas mais participent à l'effort de guerre du belligérant comme la collecte d'argent c'est pas un objectif mais l'ennemi peut prendre la zone après une sommation pour faire cesser cela.
 
 Évidemment si la zone est armée ou attaque l'ennemi (ou contribution... etc) on peut l'attaquer.
 #### Biens culturels
@@ -32,7 +32,7 @@ Régime triparti (une branche jamais appliquée) :
 - Protection ordinaire : le minimum, la base pour la majorité des objets. On peut pas attaquer sauf si c'est un objet militaire avec un avantage qui ne peut pas être obtenu en attaquant un autre objet.
 	- On peut pas utiliser ces biens (militairement) sauf s'il donnent un avantage militaire qui ne peut être trouvé dans un autre bien.
 	- Ses objets ne peuvent pas faire l'objet de représailles.
-- Protection renforcée : Ils sont immunisés contre l'attaque sauf s'ils sont un objectif militaire ou l'attaque est le seul moyen pour cesser l'utilisation militaire et en plus c'est que la tête de l'armée ou les autorités politique derrière celui-ci qui peuvent autoriser l'attaque. Celle-ci doit être faite avec toutes les précautions faisables et une sommation avec un délai raisonnable pour essayer que l'attaque ne soit plus nécessaire.
+- Protection renforcée : Ils sont immunisés contre l'attaque sauf s'ils sont un objectif militaire ou l'attaque est le seul moyen pour cesser l'utilisation militaire et en plus c'est que la tête de l'armée ou les autorités politiques derrière celle-ci qui peuvent autoriser l'attaque. Celle-ci doit être faite avec toutes les précautions faisables et une sommation avec un délai raisonnable pour essayer que l'attaque ne soit plus nécessaire.
 	- Importants pour l'humanité. Ici un Comité sur la protection culturelle vérifie ce que l'état liste et l'organise sur une liste internationale. 
 	- On voit ici un autre exemple qu'aucun objet n'est protégé contre les attaques, sauf peut être l'environnement naturel et ce dernier n'en est pas vraiment un.
 - Spéciale (jamais appliquée sauf Vatican).
@@ -45,7 +45,7 @@ Plusieurs règles :
 	- On peut pas faire ça de manière indirecte non plus : en attaquant les zones agricoles, le bétail, les réserves d'eau potable, etc...
 		- Si on peut l'identifier, on peut attaquer la fraction qui est pour les militaires.
 		- L'idée c'est de permettre à la population de pouvoir avoir un apport calorique pour survivre (adéquat), c'est pas une interdiction absolue on peut juste détruire une fraction.
-		- L'attaque est interdite si elle est dans le but de créer le résultat de manque de biens indispensables (pas les dommages collatéraux).
+		- L'attaque est interdite si elle est dans le but de créer le résultat de manque de biens indispensables (pas des dommages collatéraux).
 		-  Il est possible d'utiliser la terre brûlée dans son propre territoire?.
 - On est pas sûrs si le siège et le blocus peuvent donc toujours être utilisés qui ont comme objectif d’accélérer la reddition.
 - Les représailles sont interdites.
@@ -65,7 +65,7 @@ Les dommages collatéraux ne doivent pas être voulus néanmoins. Une fois que l
 ###### **Représailles**
 Interdites.
 ###### **Paix**
-Certaines des conventions appliquées en temps de paix pour l'environnement peuvent aussi l'être dans la guerre, un travail pour dégager ses règles est en train d'être mené. En tout cas, pas 100% pour le moment.
+Certaines des conventions appliquées en temps de paix pour l'environnement peuvent aussi l'être dans la guerre, un travail pour dégager ces règles est en train d'être mené. En tout cas, pas 100% pour le moment.
 ### Ouvrages et installations contenant des forces dangereuses
 C'est dans les deux PA. La protection spéciale s'applique des fois, mas généralement en passant par la générale. 
 #### Quels ouvrages/installations

@@ -7,13 +7,13 @@ Il souligne que ces soins médicaux devraient être disponibles de manière univ
 ![[Pasted image 20251117162355.png]]
 Un lien similaire est observable dans ces textes (R.67, R.69 et C.102). Dans la R.69 on détaille même les soins qui devraient être disponibles au minimum. Dans la C.102 on mentionne premièrement les compensations et accès au soins.
 ![[Pasted image 20251117162530.png]]
-En 1948 on avait déjà établit que pour protèger certains droits on a besoin de ces mesures.
+En 1948 on avait déjà établit que pour protéger certains droits on a besoin de ces mesures.
 #### XXème siècle
 ##### COVID-19
 ![[Pasted image 20251117162646.png]]
 Une partie de la population, comme on l'avait prévu, n'avait pas accès au soins de santé : pas de diagnostiques, vaccins, etc... Dans l'Europe de l'ouest, premièrement dans le cas du Portugal et l'Espagne, on a crée des mesures d'accès universels aux soins de santé.
 
-On nous a dit aussi de rester chez nous, mais il y a peu pays dans le monde où les travailleurs ont une protection financière quand ils ne travaillent pas et une partie ne peut pas travailler à distance. Un risque de pauvreté présent, dans les états ont dû développer tout d'un coup des instruments pour aider les entreprises et les individus. La santé de chacun affecte celle des autres, on le note et on a agit en conséquence!
+On nous a dit aussi de rester chez nous, mais il y a peu de pays dans le monde où les travailleurs ont une protection financière quand ils ne travaillent pas et une partie ne peut pas travailler à distance. Un risque de pauvreté était présent, donc les états ont dû développer tout d'un coup des instruments pour aider les entreprises et les individus. La santé de chacun affecte celle des autres, on le note et on a agit en conséquence!
 
 L'OIT conclut donc qu'il faut en tirer des leçons et pérenniser les instruments développés pendant la crise->protection durable, complète et universelle. Ça n'a pas été le cas après la pandémie. La mise en place de ces prestations pendant une crise dans des pays sans des moyens pour cibler les prestations (identifier et faire parvenir l'aide) c'est difficile. Peut-être que les systèmes de santé entre autres ne peuvent pas fournir l'aide.
 ##### Évolution
@@ -33,7 +33,7 @@ La cible 3.8 (couverture universelle) était présentée comme la principale pou
 		- Certains états emprisonnent les gens dans les hôpitaux pour leur forcer à se traiter. Pas efficient->s'échappent->certains ne veulent pas se diagnostiquer.
 			- Ceux qui doivent travailler et n'ont pas d'aide ne prennent pas le traitement.
 			- Pas de droit à croiser la frontière avec l'infection alors les gens qui travaillent en Russie ne veulent pas se diagnostiquer.
-		- Les états qui ont rejoint l'UE avait plus de $ pour la protection sociale et ont résolu le problème.
+		- Les états qui ont rejoint l'UE avaient plus de $ pour la protection sociale et ont résolu le problème (**e.g.** : Estonie).
 - Droits humains, normes et règles contraignantes.
 - Les études montrent que avoir un domicile, travail, etc... facilite l'accès aux traitement et soins médicaux comme ceux contre le VIH.
 	- Le traitement est moins efficace et la longévité est moindre donc.
@@ -77,7 +77,7 @@ Il y a des assureurs privés qui gèrent l'assurance obligatoire et offrent des 
 ![[Pasted image 20251117175617.png]]
 Ils utilisent le *health technology assessment* pour vérifier l'efficacité des technologies médicales pour décider s'ils rentrent dans le cadre de l'article 32. Certains médicaments deviennent trop chers pour être payés.
 ![[Pasted image 20251117175822.png]]
-L'assureur peut préciser le médecin et en échange réduire le coût aux assurés, pas toujours égal. Ils essaient d'attirer des jeunes, font tout en ligne. Les listes noires sont permises, pour exclure (sauf pour les soins d'urgence) les individus qui ne paient pas jusqu'à qu'ils paient où qu'un service sociale intervient (certains cantons ne l'ont pas fait où ont arrêté après la publications d'avis d'experts négatifs->pas trop économique de payer des soins d'urgence qui sont plus chers que les soins qui auraient été proportionnés dans un premier temps).
+L'assureur peut préciser le médecin et en échange réduire le coût aux assurés, pas toujours égal. Ils essaient d'attirer des jeunes, font tout en ligne. Les listes noires sont permises, pour exclure (sauf pour les soins d'urgence) les individus qui ne paient pas jusqu'à qu'ils paient où qu'un service social intervienne (certains cantons ne l'ont pas fait où ont arrêté après la publication d'avis d'experts négatifs->pas trop économique de payer des soins d'urgence qui sont plus chers que les soins qui auraient été proportionnés dans un premier temps).
 ### État de réalisation de la protection sociale de la santé dans le monde
 ![[Pasted image 20251117180405.png]]
 Pas tout le monde est couvert et des déficiences pas liées aux coûts pour les assurés existent toujours. C'est bien d'avoir de la nourriture saine, un logement, une bonne qualité d'air... dans la CH on n'intervient que par l'assurance maladie et l'accès aux soins->important mais il y a plus de dimensions.

@@ -5,41 +5,41 @@ L'OIT est un peu dans une crise mais elle reste optimiste.
 - Objectif : « le travail n’est pas une marchandise » - établir un régime de travail humain qui protège le travailleur et contribue au bien commun.
 - Moyen : la coopération tripartite (gouvernements, employeurs et travailleurs) à l’échelle locale, régionale et internationale.
 - Elle a une capacité de résistance et adaptation.
-- Influence géopolitique est important pour réussir.
+- Influence géopolitique est importante pour réussir.
 - Albert Thomas, Franceà 1er directeur de l’OIT.
 - Bureau d’OIT.
 	- Secrétariat permanent quoi.
 - Conférence annuelle.
 	- Questions sociales majeures, budget...
 - Commission d’administration.
-	- Organe triparti, élu le directeur général du bureau et fixe les politiques.
-### Activités de l'OIT : une grande continuité
+	- Organe triparti, élit le directeur général du bureau et fixe les politiques.
+#### Activités de l'OIT : une grande continuité
 - 3 activités qui n’ont pas changé.
 - Normes internationales du travail et autres instruments (191 conventions en 1015), adoptées par la Conférence internationale du Travail.
 	- Ratification est importante pour première étape.
 	- Mais si pays n’a pas ratifie c’est une idée pour les pays.
-- Coopération technique (ou pour le développement) – aider les pays membres à mettre en œuvres les normes.
+- Coopération technique (ou pour le développement) – aider les pays membres à mettre en œuvre les normes.
 - Recherche et statistiques : collecter, analyser et comparer les données relatives au monde du travail. But : informer le débat académique et politique (Revue internationale du Travail depuis 1921).
 	- Problèmes au début : chômage etc.
 	- Grand Problème maintenant pour le département de recherche : intelligence artificielle.
 ### Les racines de l'OIT : industrialisation et question sociale
 - Conditions de travail inhumaines : travail des enfants, absence de protection en cas de perte de revenu (maladie, accident, vieillesse, grossesse), travailleurs sans droits, travail dangereux pour la santé, salaires insuffisants.
-### Un capitalisme au visage humain? La réforme sociale
+#### Un capitalisme au visage humain? La réforme sociale
 - Acteurs : politiciens, chercheurs, médecins, hommes d’église, entrepreneurs philanthropes (Daniel le Grand), sources chrétiennes...
 - Motifs :
 	- Améliorer la situation des travailleurs.
 	- Prévenir des révoltes sociales et de grèves.
 	- Convictions humanitaires (travail des enfants).
-- Première loi du travaille-> les heures de travail par jour/travail des enfants- réduire les heures.
+- Première loi du travail-> les heures de travail par jour/travail des enfants- réduire les heures.
 - Moyen : législation du travail.
-- Les employeurs sont les premiers à revendiquer une législation internationale du travail pour décourager la concurrence déloyale.
-	- Parce que les employeurs veulent la même condition pour tous les autres pays (employeurs).
-	- Ils veulent que tous les pays aient les mêmes règles.
-### Solidarité et droits pour un monde plus juste : le mouvement ouvrier
+	- Les employeurs sont les premiers à revendiquer une législation internationale du travail pour décourager la concurrence déloyale.
+		- Parce que les employeurs veulent les mêmes conditions pour tous les autres pays (employeurs).
+		- Ils veulent que tous les pays aient les mêmes règles.
+#### Solidarité et droits pour un monde plus juste : le mouvement ouvrier
 - 19e siècle : création de partis travaillistes et les syndicats
 - Mot d’ordre : solidarité et égalité de droits.
 - Mouvement ouvrier international : internationalisme syndical, première internationale (1864-1976) et la seconde internationale socialiste (1889-1914).
-- Revendications: journée de huit heures, salaires justes, meilleures conditions de travail, liberté syndicale , droits politiques.
+- Revendications: journée de huit heures, salaires justes, meilleures conditions de travail, liberté syndicale, droits politiques.
 - Est-ce que on doit changer le système capitaliste (finir avec le capitalisme) ou est-ce que on doit reformer le système (OIT).
 ### L'OIT : enfant de la guerre du 14-18 et de la révolution bolchévique
 - Syndicats incontournables pour l’économie de la guerre.
@@ -92,11 +92,11 @@ L'OIT est un peu dans une crise mais elle reste optimiste.
 - La décolonisation démarre avec l’inde 1947.
 - Décentralisation de l’OIT : bureaux et conférences régionaux.
 - 15 pays africains deviennent membres en 1960.
-	- Ils ont des claires vision de leurs revendications.
-- Revendiquent :
-	- Aide au développement.
-	- Plus de représentation.
-	- Système de commerce équitable.
+	- Ils ont des claires visions de leurs revendications.
+		- Revendiquent :
+			- Aide au développement.
+			- Plus de représentation.
+			- Système de commerce équitable.
 - Pays africains n’ont pas des sièges permanentes (seulement des pays puissants).
 ### Un nouveau défi : l’OIT devient une organisation pour le développement
 - Développement = industrialisation, emploi standard, sécurité sociale, syndicalisme.
@@ -110,7 +110,7 @@ L'OIT est un peu dans une crise mais elle reste optimiste.
 - Accélération de globalisation néolibérale – « victoire du capitalisme » et du ‘marché total’ ?
 - Montée en puissance d’autres acteurs : OMC ; OEDC ; banque mondiale, FMI, les entreprises multinationales.
 - Financiarisation de l’économie.
-- Nouvelles puissances politiques et économiques : la chine, inde, Brésil.
+- Nouvelles puissances politiques et économiques : la Chine, l'Inde, le Brésil.
 - Mise en question de valeurs de l’OIT : solidarité, régulation de l’économie, syndicalisme et action collective.
 	- Critique était violente.
 - Pays membres doivent trouver leurs solutions.
@@ -125,15 +125,15 @@ L'OIT est un peu dans une crise mais elle reste optimiste.
 - Protection sociale n’est pas couverte complètement.
 ### L'OIT face aux crises et défis
 Un bilan mixte de la globalisation néolibérale :
-- Diminution globale de la pauvreté absolue, innovation, investissements, mais->
+- Diminution globale de la pauvreté absolue, plus d'innovation et d'investissements; mais->
 	- Explosion des inégalités, des emplois précaires ; désindustrialisation.
 	- Destruction de l’environnement et surexploitation des ressources.
-	- Essor de régime non-démocratiques.
+	- Essor de régimes non-démocratiques.
 #### Les grands défis pour le monde du travail
-1. Fracture géopolitique et protectionnisme (augmenter le prix et OIT est pour flux de travail libre).
+1. Fracture géopolitique et protectionnisme (augmente les prix et l'OIT est pour flux de travail libre).
 2. Nouvelles technologies.
-3. Protection de climat, environnement et biodiversité (essayer de promouvoir des « green jobs » mais pas claire de quelle mesure c’est possible).
-4. Développement démographique (population vieillisse est un changement).
+3. Protection du climat, l'environnement et la biodiversité (essayer de promouvoir des « green jobs » mais pas clair en quelle mesure c’est possible).
+4. Développement démographique (population plus vieille c'est un changement).
 ### Le travail décent et la justice sociale : des objectifs à défendre
 - Promouvoir l’emploi productif et librement choisi.
 - Promouvoir les droits fondamentaux au travail.
@@ -141,6 +141,6 @@ Un bilan mixte de la globalisation néolibérale :
 - Promouvoir le dialogue social et le tripartisme, trouver de nouveaux partenaires.
 #### Un succès récent
 - En 2024, le conseil d’administration adopte une procédure qui permet aux pays membres de calculer et de promouvoir un « salaire vital », supérieur au salaire minimum.
-- Développer un mécanisme de faire un « salaire vital » pour les situations différentes.
+- Développer un mécanisme de « salaire vital » pour les différentes situations.
 
 #UNIGE #SS 

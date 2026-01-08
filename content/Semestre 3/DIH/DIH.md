@@ -5,5 +5,6 @@
 - [[Séance 9, 10-Protection Spéciale]]
 - [[Séance 10, 11-Armes interdites]]
 - [[Séance 11-Méthodes interdites]]
+- [[Séance 12, 13-Le droit de Genève]]
 
 #UNIGE #DIH #Plaque-tournante 

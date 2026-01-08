@@ -19,7 +19,7 @@
 ![[Pasted image 20250918143642.png]]
 #### Classification of natural resources
 ![[Pasted image 20250918143937.png]]
-The way we use stock resources will impact us in the future, specially for those that are non-renewable (finite). Renewable ones grow until reaching caring-capacity (how much individuals of a population the environment can sustain).
+The way we use stock resources will impact us in the future, specially for those that are non-renewable (finite). Renewable ones grow until reaching carrying-capacity (how much individuals of a population the environment can sustain).
 - Natural resources used in production are of several types.
 - One characteristic: the resource exists as a stock or a flow?
 - Difference: does the level of current use affect future availability?
@@ -75,7 +75,7 @@ This proves that in economics it is not that difficult to handle environmental f
 - The view that greater economic activity inevitably hurts the environment is based on static assumptions about technology, tastes and environmental investments.
 	- Assuming that consuming more->happier. And if that this entails using resources K and R (producing M), then people will want growth which comes at the expense of the environment.
 ##### But is this really true?
-Maybe this assumptions could change, technology or mentality among others.
+Maybe these assumptions could change, technology or mentality among others.
 ##### Empirical analysis
 ![[Pasted image 20250918145624.png]]
 1. Relation between growth and environmental degradation. Linear positive correlation.
@@ -85,7 +85,7 @@ Maybe this assumptions could change, technology or mentality among others.
 The *t* shows that these analysis are not cross-sectional, not snapshots. What they are is a look at the same factor on a country across a given period of time.
 ### Grossman and Krueger
 ![[Pasted image 20250918150239.png]]
-They did and study and found that->
+They did a study and found that->
 #### Environmental Kuznets Curve
 Richer->cleaner.
 ![[Pasted image 20250918150216.png]]

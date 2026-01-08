@@ -44,7 +44,7 @@ Forces étrangères stationnées sur du territoire étranger de manière permane
 
 S'il y a un consentement de l'état c'est pas de l'occupation ni une hostilité.
 ###### **Libération nationale (guerre de décolonisation)**
-Historiquement révolues. Les puissances coloniales ont refusé le protocole à cause de ce déclencheur. Ça requiert un droit d'autodétermination externe, qui donne au peuple le droit de résister par les armes au colonisateurs-> CANI (en partie, cela pourrait sembler CANI mais non!) mais en tout cas les règles du DIH pour les CAI s'appliqueraient.
+Historiquement révolues. Les puissances coloniales ont refusé le protocole à cause de ce déclencheur. Ça requiert un droit d'autodétermination externe, qui donne au peuple le droit de résister par les armes au colonisateurs-> CAI (en partie, cela pourrait sembler CANI mais non!) mais en tout cas les règles du DIH pour les CAI s'appliqueraient.
 ##### CANI
 Plus simple, il ne reste que la C.A. comme déclencheur. Mais en réalité plutôt complexe :
 ###### **Qualité des belligérants**
@@ -74,14 +74,14 @@ Mais quel est le seuil? L'art 3 commun fixe un seuil et l'art 1 du P.A II en fix
 - Pour la CPI qui juge les crimes ces critères sont pas pertinents.
 ###### **CANI internationalisés**
 Au début guerre civile et après d'autres acteurs internationaux y rentrent dedans. Le conflit devient mixte. **E.g**: *proxy-wars*. Pas de droit des CANI s'il n'y a que des troubles et tensions intérieures (TTI) et pas un C.A.
-- Les TTI ne sont pas définit, on ne dit que *des actes comme* dans les C.G. Pas besoin puisque pas de CANI pas de DIH. En tout cas tout ce qui n'est pas un C.A. et donc un CANI c'est qu'un TTI. Mais des fois on n'est pas sûrs d'être dans l'un ni l'autre, c'est un problème évité à la base puisqu'il n'y a pas de définition d'avantage.
+- Les TTI ne sont pas définis, on ne dit que *des actes comme* dans les C.G. Pas besoin puisque pas de CANI pas de DIH. En tout cas tout ce qui n'est pas un C.A. et donc un CANI c'est qu'un TTI. Mais des fois on n'est pas sûrs d'être dans l'un ni l'autre, c'est un problème évité à la base puisqu'il n'y a pas de définition d'avantage.
 - Un CANI est internationalisé si des forces étrangères interviennent. Se battre =cobelligérant.
 	- D'un point de vue juridique on fait cela d'un point de vue bilatéraux (état vs état=CAI et groupe armé vs état=CANI). Repris par beaucoup de tribunaux après la CIJ.
 	- Dans chaque fois on applique une règle ou l'autre et il faut aussi tenir en compte le droit des traités, puisque tous les pays ne sont pas parties aux mêmes textes.
 ###### **Questions importantes et cas particuliers**
 - Il peut y avoir des arguments contradictoires, c'est pour cela qu'on a des accords spéciaux.
 - Il y a d'autres conventions, relatives à d'autres d'armes **p.ex**. Des fois il ne précisent pas quel seuil ils appliquent pour les CANI (généralement utilisent l'art 3 commun des C.G., est considéré comme le droit commun).
-- La clause territoriale des conventions est difficile d'interpréter (conflit sur le territoire d'une des *hautes parties contractantes*). Donc (et même le CICR le concède) dans les cas transfrontaliers pas d'application dans le PA2, que la coutume s'applique. Mais dans la C.G. c'est plus flou et c'es traité comme du droit des traités.
+- La clause territoriale des conventions est difficile d'interpréter (conflit sur le territoire d'une des *hautes parties contractantes*). Donc (et même le CICR le concède) dans les cas transfrontaliers pas d'application dans le PA2, que la coutume s'applique. Mais dans la C.G. c'est plus flou et c'est traité comme du droit des traités, en gros ça s'appliquerait quoi.
 - Un CANI peut devenir CAI et viceversa.
 	- Et si une entité fait sécession que se passe-t-il? La doctrine est divisée entre effectivité et reconnaissance.
 - S'il y a plusieurs G.A qui se battent le PA2 n'est pas applicable, que le droit coutumier.
@@ -161,7 +161,7 @@ Ou est la zone de combat dans un CANI? **E.g.** Al-Qaeda qui attaque tout le mon
 - Dans un même territoire les mêmes règles ne s'appliquent pas, les zones minés **p.ex** : il faut signaler où elles sont.
 	- Cela va de même pour les zones sanitaires et la haute mer, où ils doivent délimiter mais pas bloquer la zone de bataille (peuvent pas cibler bateaux civils/commerciaux mais ils doivent signaler le risque d'accident un peu comme avec les zones minées).
 ### Objet
-Protéger les personnes les personnes de la barbarie comme avec la Haye et Genève. On évite les souffrances excessives des combattants et civils. Donc c'est à cause de ce but que les questions d'applicabilité devraient être simples pour assurer l'applications des règles humanitaire. Mais c'est pas du tout le cas, ce droit est souvent un casse-tête. Il y a plusieurs raisons, **e.g.** ne pas protéger ce que les états considèrent comme des *terroristes*.
+Protéger les personnes de la barbarie comme avec la Haye et Genève. On évite les souffrances excessives des combattants et civils. Donc c'est à cause de ce but que les questions d'applicabilité devraient être simples pour assurer l'applications des règles humanitaire. Mais c'est pas du tout le cas, ce droit est souvent un casse-tête. Il y a plusieurs raisons, **e.g.** ne pas protéger ce que les états considèrent comme des *terroristes*.
 
 Souvent il y a une solution juridique mais c'est plus compliqué :
 - **E.g.** Serbie vs Kosovo si la Serbie ne reconnaît pas le Kosovo comme état même si d'un côte juridique l'effectivité du Kosovo comme état lui donnerait le droit d'appliquer le droit des CA avec la Serbie cela serait fâcheux pour cette dernière. C'est mieux pour elle de se mettre d'accord avec le CICR **p.ex.**, en évitant de reconnaître implicitement le Kosovo (accord spécial de déblocage appliqué au lieu des grandes conventions).

@@ -84,18 +84,18 @@ Total and marginal damage and benefit functions, and the efficient level of flow
 ### Carbon Markets: Globalising the PES logic
 - Carbon Markets: Globalizing the PES Logic
 - Carbon Markets: Apply the same PES principle globally—buyers pay for verified emission reductions.
-- Both internalize externalities by creating a price for carbon storage oremission avoidance.
+- Both internalise externalities by creating a price for carbon storage or emission avoidance.
 #### Cap-and-Trade Systems:
 - National or regional caps (EU ETS, RGGI, California ETS).
-- Firms trade allowances → equalize marginal abatement costs.
+- Firms trade allowances → equalise marginal abatement costs.
 - Offset Mechanisms (Baseline-and-Credit):
 - PES-type projects that generate tradable carbon credits (REDD+, afforestation, soil carbon).
 - Credits sold to entities that exceed their caps or pursue voluntary neutrality.
 ##### Still Coase
 - Define rights, measure outcomes, allow trade.
-- Carbon markets institutionalize Coase’s logic at planetary scale — replacing bilateral bargaining with a global marketplace for verified carbon outcomes.
+- Carbon markets institutionalise Coase’s logic at planetary scale — replacing bilateral bargaining with a global marketplace for verified carbon outcomes.
 #### Design & Integrity challenges
-- Additionality: Are reductions beyond business-as- usual?
+- Additionality: Are reductions beyond business-as-usual?
 - Leakage: Does activity shift emissions elsewhere?
 - Permanence: Are forests and soils stable carbon stocks?
 - Measurement (MRV): Monitoring, reporting, verification.
@@ -111,7 +111,7 @@ Total and marginal damage and benefit functions, and the efficient level of flow
 ![[Pasted image 20251124153406.png]]
 #### The Issue with Voluntary Carbon Market
 ![[Pasted image 20251124153558.png]]
-##### What happened? Did VCM failed then?
+##### What happened? Did VCM fail then?
 ![[Pasted image 20251124153624.png]]
 #### The Inflated Baseline Problem
 ![[Pasted image 20251124153643.png]]

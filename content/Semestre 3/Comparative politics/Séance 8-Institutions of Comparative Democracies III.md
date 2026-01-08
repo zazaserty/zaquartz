@@ -3,7 +3,7 @@
 - Formally, every actor whose agreement is required for moving forward with a political decision is a veto player.
 - Politically, veto players only matter to the outcome of a political process if they are not *absorbed* by other veto players.
 	- If there are more than two veto players, those with the most extreme positions will be most relevant the outcome of political bargaining.
-- Conceptually, the role of veto players is asymmetric: They can bloc political decisions, but they cannot make such decisions.
+- Conceptually, the role of veto players is asymmetric: They can block political decisions, but they cannot make such decisions.
 	- In practice, second chambers or constitutional courts do also create laws or new constitutional rights. Even then, however, constitutional courts do not have a right of initiative.
 		- **E.g.**: US supreme court rules that banning abortion in the whole country is illegal and thereby legalises it.
 ### Main institutional sources of veto points
@@ -35,17 +35,17 @@ Related to, but not identical with federalism:
 - In others the second chamber represents state governments (Germany), state parliaments (Austria), or is appointed, not elected (Canada).
 ##### Definition
 - *The term 'bicameralism' refers to legislative institutions with two chambers sharing legislative powers. In bicameral assemblies, both first and second (or lower and upper) chambers play a role in consenting to proposed laws, although not necessarily equally*.
-- It results in federalism if those rooms are different, not if **f.e** they are elected by the people the same day.
+- It results in veto players if those rooms are different, not if **f.e** they are elected by the people the same day.
 ##### Disproportionality of second chambers
 - Second chambers often overrepresent small, rural states
 	- USA: 2 senators per state.
 	- Switzerland: 2 councilors per canton (1 for half cantons).
 	- Germany: biggest states have 6 votes, smallest states have 3 votes.
-- This may happen when second chambers are directly elected (USA, Switzerland) or when their members are appointed by/represent, e.g., state governments (Germany).
+- This may happen when second chambers are directly elected (USA, Switzerland) or when their members are appointed by/represent, **e.g.**, state governments (Germany).
 ##### Consequences of bicameralism
 Depends on two factors:
 - (roughly) symmetric political powers: the second chamber needs to have real competencies.
-- Incongruent principle of representation: If elected very similarly to the first chamber, second chamber tends to be "absorbed" (see above).
+- Incongruent principle of representation: If elected very similarly to the first chamber, second chamber tends to be *absorbed* (see above).
 
 If symmetric but incongruent, it often gives veto power to specific, geographically clustered (rural/ethnic/religious) interests.
 #### Referenda
@@ -107,7 +107,7 @@ Scheppele's text is an expert report for a Presidential commission. Doerfler and
 ##### Comparing the texts
 Both arrive at similar conclusions about the need to weaken the position of the Supreme Court. However, the texts reveal a different democratic ideal:
 - Scheppele wants to preserve strong checks and balances but sees the strong position of the Supreme Court as counterproductive because it politicises the court.
-- Doerfler and Moyn see strong checks and balances fundamentally more critical and emphasise the majoritarian element of democracy.
+- Doerfler and Moyn see strong checks and balances fundamentally more critically and emphasise the majoritarian element of democracy.
 ### Consequences of veto players
 - Why are we lumping all these different types of actors together?
 - They all have one fundamentally similar effect: making policy change more difficult.
@@ -117,11 +117,11 @@ Both arrive at similar conclusions about the need to weaken the position of the 
 ![[Pasted image 20251111155132.png]]
 #### Prototypical case of unrestrained executives
 ##### United Kingdom:
-- No Federalism
-- Weak, unelected second chamber
-- No/weak judicial review
-- Not a member of the European Union anymore
-- "Elected dictatorship", potential for strong policy reversals (e.g. Thatcher).
+- No Federalism.
+- Weak, unelected second chamber.
+- No/weak judicial review.
+- Not a member of the European Union anymore.
+- "Elected dictatorship", potential for strong policy reversals (**e.g.** Thatcher).
 #### Prototypical cases of a restrained executive
 ![[Pasted image 20251111155511.png]]
 #### Policy reversals: example

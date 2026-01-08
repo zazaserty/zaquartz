@@ -115,7 +115,7 @@ Normalement visée, utilisé beaucoup dans le passé. On écarte une règle par 
 - Interdit de détruire ou saisir propriété ennemie sauf si absolument nécessaire.
 - Règles plus expansives comme détruire des maisons pour pouvoir passer avec des chars en l'absence de routes ou autre chemins.
 
-Mais **p.ex.** la proportionnalité ne permet pas cela.
+Mais **p.ex.** la proportionnalité ne permet pas toujours cela.
 #### Restrictive
 Dans la guerre il est permis de faire ce qui est nécessaire pour briser la resistance ennemie et gagner. Tout ce qui n'est pas interdit et ==nécessaire== est permis.
 ## *Soft law*

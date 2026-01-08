@@ -1,6 +1,6 @@
 ## The Case of the Global Plastics Treaty
 ### Earth Summit, Rio de Janeiro 1992
-- UN Framework Convention on Climate Change. ==Legally binding==. It sets the skeleton for the objectives (broad principles, general format, etc...). COP is ruled by this framework.
+- UN Framework Convention on Climate Change. ==Legally binding==. It sets the skeleton for the objectives (broad principles, general format, etc...) of the COP, which is ruled by this framework.
 	- The parties are responsible for the creation of substantive rules (**e.g.** reducing emissions).
 	- 2016 Paris Agreement. Legally binding as well. Agreement on a commitment to determine national regulations (*bottom-up*).
 		- The states define aims and principles and limit global warming to 2 degrees but leave to eachs discretion how to do it.
@@ -21,7 +21,7 @@ However, 7 of the 9 planetary boundaries have been crossed-> except ozone becaus
 The CH had a significant role in these conventions.
 ##### Present time
 ![[Pasted image 20251022105014.png]]
-The GPT should have  been passed at the Palais des Nations this year after the failure of 2024 in Korea but it didn't work. News outlets called it a *failure*.
+The GPT should have been passed at the Palais des Nations this year after the failure of 2024 in Korea but it didn't work. News outlets called it a *failure*.
 ### What went wrong with the GPT?
 - “States’ redlines are incompatible. They leave no pathway for agreement.”- Australia.
 - “Without agreement on the scope of the treaty, this process is not on the right track.” - Kuwait, for GCC.
@@ -41,7 +41,7 @@ A lowest denominator text was even tried (voluntary measures with *no teeth*). B
 		- They want global rules so that they are not put at a disadvantage.
 		- There is an important link between environmental law and trade law (WTO).
 			- This is very important for emerging markets/economies (**e.g.** China and India->invested lots into plastic).
-- What is plastic? Fossil fuels + chemicals (petrochemicals->depending on the chemical the plastic is hard, soft... etc=petrochemical industry is very interested in these negotiation).
+- What is plastic? Fossil fuels + chemicals (petrochemicals->depending on the chemical the plastic is hard, soft... etc=petrochemical industry is very interested in these negotiations).
 	- They send lobbyists (**e.g.** Dell chemicals or Vinyl Institute).
 		- 234 registered at the GPT negotiations in Geneva, some actually embedded in state delegations. This isn't that weird, the other side does the same (**e.g.** NGOs).
 	- Versatile, durable, low-cost.
@@ -51,7 +51,7 @@ A lowest denominator text was even tried (voluntary measures with *no teeth*). B
 #### A drama?
 Economic benefit, but at a great price:
 - 436 million tons of plastics are produced each year - number will triple over the next 40 years.
-- Up to 80% of all plastic = waste – i.e. neither recycled, nor disposed of in a controlled manner - Single use plastic major source.
+- Up to 80% of all plastic = waste – **i.e.** neither recycled, nor disposed of in a controlled manner - Single use plastic major source.
 - Of the 10 billion tons of plastic produced since the 1950s, only about 9% recycled.
 - Ocean plastic: 75 to 199 million tonnes -8 to 10 million metric tons new plastic per year.
 - Toxicity of plastics: >13,000 different chemicals used in plastics, of which 3,000 have been identified as toxic, 6,000 unknown effects.
@@ -73,7 +73,7 @@ Consensus problem on rules, there were disagreements on the scope of the treaty 
 		- This was the reason accounting for failure, plastic is too complex of an issue to be solved in so little time.
 			- Deadlines and pressure can help but this was too much.
 - INC-1 November 2022 (Punta-del-Este) failure to adopt Rules of Procedure; INC-2 May 2023 (Paris); INC-3 November 2023 (Nairobi); INC-4 April 2024 (Ottawa); INC-5 November 2024 (Busan); INC-5.2 August 2025 (Geneva) no consensus on draft treaty text.
-	- Many bracketed words, therefore a lack on consensus in ROPs (**e.g.** voting rights of EU). Some states took advantage and came back on the decision-taking rules on a matter on substance (voting when lack of consensus **f.ex.**). 
+	- Many bracketed words, therefore a lack of consensus in ROPs (**e.g.** voting rights of EU). Some states took advantage and came back on the decision-taking rules on a matter of substance (voting when lack of consensus **f.ex.**). 
 	- They wanted the best efforts to reach consensus and the possibility of doing a 2/3 vote to get trough deadlocks but some states asked for guarantees to not use this even though ROPs weren't agreed on. No one dared to come back on this so they proceeded as if consensus was mandatory.
 #### Resolution UNEA 5/14 - End plastic pollution: Towards an international legally binding instrument
 *Develop an international legally binding instrument on plastic pollution, including in the marine environment… which could include both binding and voluntary approaches, based on a comprehensive approach that addresses the full life cycle of plastic, taking into account… the principles of the Rio Declaration on Environment and Development, as well as national circumstances and capabilities.*
@@ -127,7 +127,7 @@ Civil society such as WWF can influence negotiations. WWF is more conservative a
 - Extend negotiations under current UNEA mandate into INC-5.3 or INC-6?
 - Move negotiations into existing MEA – Basel Convention - and make it a Protocol?
 	- It already has ROPs, voting, commissariat, etc... Suggested by the Swiss Ambassador.
-- Begin a new process outside of UNEA – e.g. via UN General Assembly?
+- Begin a new process outside of UNEA – **e.g.** via UN General Assembly?
 	- The definition of insanity is doing more of the same and expecting a different result.
 - How the negotiation body will take its decisions will be critical => adopt standard Rules of Procedure allowing for voting as a last resort.
 ![[Pasted image 20251022115232.png]]

@@ -134,7 +134,7 @@ Openness to trade tends to increase real income, and any liberalization that doe
 ### What is the WTO?
 - Global trade institution (since 1995) with 160+ members.
 - Two core functions: rule-making (agreements to reduce obstacles to trade such as tariffs) and dispute settlement.
-- Agreement “family”: GATT (goods), GATS (services), TRIPS (IP), plus plurilaterals and disciplines (e.g., TBT/SPS).
+- Agreement *family*: GATT (goods), GATS (services), TRIPS (IP), plus plurilaterals and disciplines (**e.g.**, TBT/SPS).
 - Goal: a predictable, non-discriminatory trading system to facilitate exchange and growth.
 #### Core WTO principles
 - Most-Favoured Nation (MFN, GATT Art. I): treat all trading partners alike.
@@ -215,7 +215,7 @@ Openness to trade tends to increase real income, and any liberalization that doe
 - Suppose that countries were to cooperate by negotiating a voluntary agreement (e.g. Paris Agreement, Kyoto Protocol).
 - Would this alter the outcome of the game?
 	- Intuition would probably lead us to answer yes. If both countries agreed to abate – and did what they agreed to do – pay-offs to each would be 3 rather than 0.
-	- In a Prisoner’s Dilemma, cooperation offers the prospect of greater rewards for both countries, e.g. better environmental quality.
+	- In a Prisoner’s Dilemma, cooperation offers the prospect of greater rewards for both countries, **e.g.** better environmental quality.
 	- But this tentative conclusion is not robust as the cooperative solution does not emerge spontaneously from parties’ negotiations and are typically unstable because the risk of free riding.
 	- Overall, Abate, Abate outcome is not a Nash equilibrium even in repeated games - social dilemma.
  - Sustaining the *cooperative* solution:
@@ -231,7 +231,7 @@ Openness to trade tends to increase real income, and any liberalization that doe
 	![[Pasted image 20251028131604.png]]
 	- Either way there is no stable solution that leads both of them to abate.
 ###### **Leadership in the Chicken Game**
-- A strategy in which both countries abate pollution could be described as the “collectively best solution” to the Chicken game as specified in Figure 9.4; it maximises the sum of the two countries’ pay-offs.
+- A strategy in which both countries abate pollution could be described as the *collectively best solution* to the Chicken game as specified in Figure 9.4; it maximises the sum of the two countries’ pay-offs.
 - But that solution is not stable, because it is not a Nash equilibrium.
 - Given the position in which both countries abate, each has an incentive to defect (provided the other does not).
 - However, where the structure of pay-offs has the form of a Chicken game, we expect that some protective action will take place. Who will do it, and who will free-ride, depends on particular circumstances.
@@ -240,20 +240,19 @@ Openness to trade tends to increase real income, and any liberalization that doe
 - The first major attempt to implement the treaty came with the Kyoto Protocol, signed in 1997:
 	- High-income countries agreed to reduce their emissions by an average of 20% by 2012 compared with 1990.
 - However, the treaty did not work:
-	- The US never signed it, fearing to lose competitiveness with respect to China, which instead was considered a developing countries, and thus free of any constraint in terms of emissions.
+	- The US never signed it, fearing to lose competitiveness with respect to China, which instead was considered a developing country, and thus free of any constraint in terms of emissions.
 	- Australia and Canada did not implement the treaty despite having signed it.
 #### The politics of carbon dioxide mitigation
 - The UNFCCC actually assigns the initial mitigation responsibilities to the high-income countries. However, since 1992 much has changed.
 	- China has now become the world’s second-largest economy and has actually become the world’s largest GHG emitter.
 - China is now being called upon by countries around the world to take up more global leadership on climate mitigation.
-	- China notes in its own ”defense” that in per capita terms it still emits much less CO2 than does the US.
+	- China notes in its own *defense* that in per capita terms it still emits much less CO2 than does the US.
 - There are internal pressures as well, as China itself is highly vulnerable to climate change.
 	- A significant part is very dry and it is likely to get drier in the future.
 	- China is highly vulnerable to extreme storms, extreme events and massive flooding.
 	- Heavy smog pollution is becoming more frequent in major Chinese cities,
 		- Some Chinese regions are estimated of losing around 5.5 years of life expectancy due to the heavy air pollution.
-- This shows that global climate change fits well with the Prisoner’s
-- Dilemma and public good game in which abatement inactivity is a dominant strategy.
+- This shows that global climate change fits well with the Prisoner’s Dilemma and public good game in which abatement inactivity is a dominant strategy.
 	- MAIN Negotiations concern public good benefits and no enforcement mechanism with sanctions for those who break the rules;
 	- Large number of affected countries (but emissions highly concentrated);
 	- Asymmetric costs and benefits by countries: for some countries (especially those specialized in carbon-intensive productions) nation-specific benefits are significantly smaller than transnational benefits.
@@ -261,7 +260,7 @@ Openness to trade tends to increase real income, and any liberalization that doe
 		- Fairness: who created the problem?
 #### Optimists: Kyoto as a process
 - Kyoto is a first step on the road to a more comprehensive and efficient IEA on climate change.
-- It has generated a number of valuable institutional mechanisms and learning, and create political capital in support of cooperative actions.
+- It has generated a number of valuable institutional mechanisms and learning, and created political capital in support of cooperative actions.
 ### Cumulative C02 emissions by country
 ![[Pasted image 20251028134403.png]]
 ### Share of C02 emissions by country
@@ -279,7 +278,7 @@ Openness to trade tends to increase real income, and any liberalization that doe
 - Again problem of voluntary agreement and thus lack of enforcement mechanisms and sanctions (next section of this lecture).
 - Asymmetric incentives between developing and developed countries.
 - Perceived risk of free riding high, especially in terms of competitiveness disadvantage.
-- Officially, Trump leaves the Paris Agreement “for” coal miners.
+- Officially, Trump leaves the Paris Agreement *for* coal miners.
 ##### Investments in coal power capacity in China expanded after Paris
 ![[Pasted image 20251028135017.png]]
 ##### Implemented vs. Limit warming policies
@@ -299,9 +298,9 @@ Collaboration is a comprehensive concept to describe international actions to ac
 #### Table logic: prospects under four conditions
 - High gains + not self-enforcing ⇒ big upside but fragile.
 	- Climate mitigation with large joint gains but high defection risk sits here.
-	- Much of the success with international trade follows this logic, thanks also the the support of the WTO.
 - High gains + self-enforcing ⇒ likely coordination, but leaves gains on the table.
 	- From GATT’s easy, self-enforcing coordination (low defection incentives) to the WTO’s binding rules: diplomacy leveraged tariff-cut gains to move up the left quadrant.
+	- Much of the success with international trade follows this logic, thanks also to the support of the WTO.
 - Low gains + self-enforcing ⇒ easy coordination (small, limited wins).
 - Low gains + not self-enforcing ⇒ little motivation to engage.
 - Policy implication:
@@ -309,18 +308,18 @@ Collaboration is a comprehensive concept to describe international actions to ac
 	- The WTO’s success illustrates how reciprocity can stabilise cooperation when unilateral defection is tempting.
 #### From hard cooperation to easier coordination
 - Distinction between shallow coordination and hard cooperation helps explain why there has been massive talks on climate change but little progress.
-	- If the toughest problems are tackled first, deadlock is likely to result (ex. difficult to move forward after Kyoto failure).
-	- Diplomats often reframe problems to self-enforcing domains first (e.g., early trade rounds; Montreal’s start).
-	- Risk: if you stop at “easy” coordination, you capture only part of potential gains.
+	- If the toughest problems are tackled first, deadlock is likely to result (**f.ex.** difficult to move forward after Kyoto failure).
+	- Diplomats often reframe problems to self-enforcing domains first (**e.g.**, early trade rounds; Montreal’s start).
+	- Risk: if you stop at *easy* coordination, you capture only part of potential gains.
 - Potential strategy:
 	- Start where agreement is feasible, then ratchet up using reciprocity-based mechanisms.
 #### Domestic politics: interests that sustain collaboration
-- Successful institutions create domestic constituencies that favor deeper integration (e.g., exporters in trade).
-- Climate analog: design institutions that mobilize supportive interests (clean-tech industries, cities, civil society).
+- Successful institutions create domestic constituencies that favor deeper integration (**e.g.**, exporters in trade).
+- Climate analog: design institutions that mobilise supportive interests (clean-tech industries, cities, civil society).
 - Potential strategy:
 	- International bargains reverberate at home; aligning domestic winners is key to deeper cooperation.
 #### What countries want: reading preferences via INDCs/NDCs
-- Different factors affect countries willingness to pay to address climate change (e.g., population, technology, vulnerability to climate change, etc.).
+- Different factors affect countries willingness to pay to address climate change (**e.g.**, population, technology, vulnerability to climate change, etc.).
 	- Paris process (INDCs → NDCs) reveals heterogeneous motives: global public good, local co-benefits, competitiveness, side-payments, reputation.
 	- Aggregate ambition is insufficient for 2°C path; current pledges reflect shallow coordination.
 - Mapping motives helps target strategies that fit national interests and raise ambition over time.
@@ -328,7 +327,7 @@ Collaboration is a comprehensive concept to describe international actions to ac
 Strategies that have been tried, from most comprehensive with highest impact (but difficult to implement):
 - Universal binding targets/timetables (Kyoto-style): high ambition, high defection risk ⇒ deadlock/low participation.
 - Climate clubs: smaller groups with excludable benefits/penalties; challenge: who pays for sanctions?
-- Coordinated innovation: make clean energy cheaper than fossil to shift preferences (e.g., Montreal Protocol).
+- Coordinated innovation: make clean energy cheaper than fossil to shift preferences (**e.g.**, Montreal Protocol).
 - Pledge & review (Paris): comprehensive but shallow unless review & linkage raise ambition.
 - Coordinated national actions with local benefits (e.g., air quality, soot): good politics, limited spillover to deeper cooperation (e.g., China-USA 2014 agreement).
 - Minimal universal deals (lowest common denominator): feasible yet modest effects.
@@ -356,14 +355,14 @@ Strategies that have been tried, from most comprehensive with highest impact (bu
 #### Border carbon adjustments
 - The issue for climate agreement can be set in terms of the so-called border carbon adjustments (BCA).
 	- That is: if two trade partners decide to have different carbon pricing policies, the country with the higher price can impose to the partner an additional tariff to level the playing field.
-	- This will prevent carbon leakage, i.e. the relocation of polluting industries in countries with laxer regulations leading to an unintended increase in CO2 emissions.
+	- This will prevent carbon leakage, **i.e.** the relocation of polluting industries in countries with laxer regulations leading to an unintended increase in CO2 emissions.
 - Practically, BCA can include three types of measures: (i) border taxes proportional to the difference in the carbon taxes; (ii) mandatory emissions allowance purchase by importers; and (iii) embedded carbon product standards.
 ##### Main problem
 - A lot of information is needed to estimate the carbon content of a product, especially given the fact that the value chains are global and highly fragmented.
 - Risk of retaliation if WTO rules are not changed.
 #### Climate clubs
 - William Nordhaus (2015): start with a coalition or club of countries implementing an ambitious carbon tax and use external sanctions to induce the uncooperative parties/non-members to join.
-	- External sanctions are penalty tariffs uniform on all products of nonparticipants, not only on polluting ones (i.e. solve the problem of measuring the carbon content of products).
+	- External sanctions are penalty tariffs uniform on all products of nonparticipants, not only on polluting ones (**i.e.** solve the problem of measuring the carbon content of products).
 	- Key assumption: non-participants cannot retaliate because the WTO embodies this principle in his rule.
 ##### This solution is very appealing for four reasons
 - Easy to implement, as long as there is an initial coalition large enough that joins (EU+China?).
@@ -371,9 +370,8 @@ Strategies that have been tried, from most comprehensive with highest impact (bu
 	- Nordhaus carries out simulations to show that a 2% tariffs is enough to induce largest countries to join the clubs.
 - It prevents carbon leakage without using too much information as for the border carbon adjustments.
 - Game-theoretic robust: the equilibrium is stable in every period like a Nash-equilibrium in the PD game.
-- Climate clubs
-- Both carbon border adjustment and uniform penalty tariffs in the climate club proposal “require climate amendments to international-trade law, both internationally and domestically. The climate amendments would explicitly allow uniform tariffs on nonparticipants within the confines of a climate treaty; it would also prohibit retaliation against countries who invoke the mechanism. Requiring such amendments would emphasize that climate change is an especially grave threat, and that this approach should not be used for every worthy initiative.” (Nordhaus 2015).
-- Current international trade laws, i.e. the WTO, are very far from recognizing this special status to climate change.
+- Both carbon border adjustment and uniform penalty tariffs in the climate club proposal *require climate amendments to international-trade law, both internationally and domestically. The climate amendments would explicitly allow uniform tariffs on nonparticipants within the confines of a climate treaty; it would also prohibit retaliation against countries who invoke the mechanism. Requiring such amendments would emphasise that climate change is an especially grave threat, and that this approach should not be used for every worthy initiative.* (Nordhaus 2015).
+- Current international trade laws, **i.e.** the WTO, are very far from recognising this special status to climate change.
 - So the possibility that the WTO will accept that only the members can impose a sanction without retaliation of the others is remote.
 - Key priority: gain political support to reform the WTO in this direction.
 #### Other practical solutions
