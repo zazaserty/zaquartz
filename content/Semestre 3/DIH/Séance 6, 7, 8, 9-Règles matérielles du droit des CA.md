@@ -1,10 +1,10 @@
-## Neutralité (rien à voir ici mais bon)
+## Neutralité
 #### Définition
 Position des états qui ne participent pas à un CA. Certains états sont belligérants ou co-belligérants, mais il y en a d'autres qui ne participent pas et donc sont neutres. Ils doivent donc respecter le droit de la neutralité qui leur est applicable.
 ##### Droit vs. politique
 Le DI de neutralité n'est pas la même chose que la politique de neutralité.
 - Le droit c'est des droits et obligations imposés aux états tiers.
-- Mais la politique de neutralité c'est les mesures qu'un état prends envers le droit de la neutralité comme la Suisse que ne veut pas rejoindre l'OTAN pour rester neutre.
+- Mais la politique de neutralité c'est les mesures qu'un état prend envers le droit de la neutralité comme la Suisse que ne veut pas rejoindre l'OTAN pour rester neutre.
 	- Elle signifie peu pour le juriste, c'est que de la politique.
 ##### Neutre
 Après une déclaration unilatérale ou pratique de neutralité.
@@ -21,7 +21,7 @@ Il y a 2 vieux textes en dehors du DC, pas adaptés :
 - C. XIII du 07->même chose mais maritime. Plus importante à l'époque donc majorité de règles dessinées ici et copiées vers la V comme vu dans [[Séance 1, 2, 3-Sources du DIH]].
 #### Périmètre
 La neutralité est pleine de lacunes et comporte peu de règles :
-- Beaucoup de liberté c'est normal, au 19ème (reflété par les C de la H) on veut pas imposer plus d'obligations à un état qui est affecté par un conflit qui n'est pas le sien.
+- Beaucoup de liberté et c'est normal, au 19ème (reflété par les C de la H) on veut pas imposer plus d'obligations à un état qui est affecté par un conflit qui n'est pas le sien.
 #### Maritime vs. terrestre
 Il y a des différences importantes.
 ##### Maritime
@@ -43,11 +43,11 @@ Au début on n'avait que ça, c'est celle selon le droit coutumier en opposition
 C'est relatif comme la reconnaissance. On peut l'être dans un conflit et pas dans un autre.
 #### Obligations de l'état neutre
 ##### Abstention
-Obligation négatives absolues->pas *soit pour tous ou pour personne* (traitement égal) mais *ne jamais faire X*. C'est le cas de l'interdiction du soutien militaire, vis-à-vis de tous (laissez-passer aérien, troupes, acheminement d'armes ou troupes, crédits, etc...).
+Obligation négatives absolues->pas *soit pour tous ou pour personne* (traitement égal) mais *ne jamais faire X*. C'est le cas de l'interdiction du soutien militaire, vis-à-vis de tous (laissez-passer aérien, troupes, acheminement d'armes ou de troupes, crédits, etc...).
 
 Les états peuvent pas livrer des armes livrées par un pays neutre à un belligérant. Ça ne change pas notre neutralité. Mais le droit interne (cas suisse) nous oblige d’interdire cela dans les conditions de vente sauf autorisation (license pour reexporter).
 
-Les entreprise privées peuvent livrer des armes néanmoins, elles ne sont pas tenues par le droit de la neutralité. L'état peut choisir de ne pas donner des licenses pour le faire bien sûr. Il ne devrait pas les donner si sa législation le requiert->faute de neutralité.
+Les entreprises privées peuvent livrer des armes néanmoins, elles ne sont pas tenues par le droit de la neutralité. L'état peut choisir de ne pas donner des licenses pour le faire bien sûr. Il ne devrait pas les donner si sa législation le requiert->faute de neutralité.
 
 Les citoyens privés sont pas soumis à ces choses bien sûr. Le commerce n'est pas affecté non plus, on peut commercer avec les belligérants.
 ##### Tolérer
@@ -59,11 +59,11 @@ Principes qui surplombent le droit matériel.
 ### Limitation
 Les restrictions. Les moyens et méthodes ne sont pas infinies. C'est le grand principe du droit de la Haye, qui empêche la guerre totale (*je fais tout ce que je veux à mon ennemi*).
 
-Le droit de LH est essentiellement limitatif. On ne dit ce que l'état peut faire mais ce qu'ils ne doivent pas (**les états sont souverains**), quels moyens sont interdits en tant qu'excessifs. ==Il y a quand même la clause de martens hein==. Apart ça le reste c'est permis, à la carte.s
+Le droit de LH est essentiellement limitatif. On ne dit ce que l'état peut faire mais ce qu'ils ne doit pas (**les états sont souverains**), quels moyens sont interdits en tant qu'excessifs. ==Il y a quand même la clause de martens hein==. Apart ça le reste c'est permis, à la carte.
 
 Le droit de LH c'est une question de balance, les dommages civiles collatéraux ne sont pas interdits. On doit comparer ceux-là avec les bénéfices militaires. Il y a donc peu d'interdictions absolues dans ce droit, c'est le petit chemin du DIH comme on l'a vu dans [[Séance 1-Intro]].
 ### Humanité
-Les CdG utilisent le terme *traitement humain*. C'est très important et un principe au centre des conventions, si LH c'est une concrétisation de la limitation les CG le sont pour l'humanité. On régule même la quantité de CHF que les pdgs doivent être payé pour leur travail->mais bon ça a été aboli par la pratique.
+Les CdG utilisent le terme *traitement humain*. C'est très important et un principe au centre des conventions, si LH c'est une concrétisation de la limitation les CG le sont pour l'humanité. On régule même la quantité de CHF que les pdgs doivent être payés pour leur travail->mais bon ça a été aboli par la pratique.
 ## DdH
 Les principes des DDH sont pour les CAI majoritairement. Pour les CANI plus vagues, dans le DC c'est moins notable mais pour les textes oui. De toute façon les parties suivent souvent la coutume.
 ## Distinction
@@ -179,7 +179,7 @@ Selon le texte c'est pas la même chose (objet civils et/ou personnes civiles). 
 Normalement on part du principe que ce type de dommage se produit près de la zone d'impact. Tout ce qui est physique.
 ###### **Évolutions**
 - 1977-2025 : Il a été acté que les objets à double usages sont des objectifs militaires selon les mêmes critères que tout objet quelconque. Cela pourrait signifier qu'on peut le frapper et ignorer la fraction civile, enfin il y en a qui pensent comme ça... mais il y a aussi une autre *école*-> Si une centrale produit 99% de l'énergie pour les civils et le reste pour les militaires et cet un pays où il n'y a pas beaucoup de production énergétique ça donne un avantage de la détruire mais aussi un grand dommage civile. Pas très proportionnel...
-- Aussi se départir des dommage purement physiques et tenir compte de manière très limitée des effets psychiques. Mais bon on peut pas dire aux commandants de tenir en compte cet effets toujours (la guerre n'est pas agréable en fin, mais certains cas sortent du traumatisme ordinaire). Mais on prend ça en compte des fois, on va pas faire une massacre à coté d'une école primaire **p.ex**.
+- Aussi se départir des dommages purement physiques et tenir compte de manière très limitée des effets psychiques. Mais bon on peut pas dire aux commandants de tenir en compte cet effets toujours (la guerre n'est pas agréable en fin, mais certains cas sortent du traumatisme ordinaire). Mais on prend ça en compte des fois, on va pas faire une massacre à coté d'une école primaire **p.ex**.
 - Depuis 1977 on prend en compte des dommages qui ne sont pas dans le lieu d'impact, pas tellement à proximité. On demande que ces dommages (*reverberating effects*) soient prévisibles. C'est les dommages collatéraux indirects comme détruire une station de dépuration d'eau, dans ce cas il y aurait aussi une distance temporelle de cause à effet.
 ##### Avantage militaire
 Il y a une distinction entre articles. L'avantage doit être concret et direct dans le type B, pas requis dans le type A. Le lien de causalité doit être direct, pas indirect.
@@ -218,7 +218,7 @@ Lorsqu'on planifie une attaque on commence par essayer de faire le moindre domma
 #### En fonction des vérifications
 On annule l'attaque si les dommages sont excessifs ou l'objectif n'est pas militaire. Ceci peut aussi se faire (et doit se faire!) pendant l'exécution. **E.g.** si un pilote se rend compte quand il va bombarder qui il y a des paramètres imprévus il suspend/annule l'attaque.
 ### Avertissement (PA1)
-Il faut avertir, lorsqu'il y a un risque de dommages (personnes pas biens). S'il y a pas ce risques (**e.g.** désert) on est pas obligés, l'objectif est d'évacuer.
+Il faut avertir, lorsqu'il y a un risque de dommages (personnes, pas biens). S'il y a pas ce risque (**e.g.** désert) on est pas obligés, l'objectif est d'évacuer.
 
 Il est possible d'avertir plutôt tard, juste avant l'attaque.
 
@@ -232,7 +232,7 @@ On évalue l'avertissement par rapport à l'objectif->évacuer les civils. Ça d
 ##### Mais
 Tous n'ont pas la même finalité (**e.g.** un hôpital, ou l'idée est d'éviter l'attaque en disant qu'on va attaquer si l'hôpital continue à être un objectif militaire).
 #### Formes
-Avertissement peut être donné dans la méthode préférée, pas important. Néanmoins il y a les spéciaux (juste avant l'attaque comme téléphoner) et les avertissements général (on peut juste dire qu'il y aura une attaque à un moment donné au lieu de dire que ça va être prochainement).
+Avertissement peut être donné dans la méthode préférée, pas important. Néanmoins il y a les spéciaux (juste avant l'attaque comme téléphoner) et les avertissements généraux (on peut juste dire qu'il y aura une attaque à un moment donné au lieu de dire que ça va être prochainement).
 ### Similarité dans l'avantage
 Si plusieurs objectifs donneraient le même avantage en étant détruits on choisit celui qui fait le moins de dommages collatéraux civils.
 #### Exemple
@@ -241,6 +241,6 @@ Si on détruit un pont on coupe l'approvisionnement:
 - Un autre dans un hameau.
 - Un dernier au seul hôpital de la région.
 
-Si l'avantage est le même on détruit le 1. Mais si en attaquant les 3 on a un avantage plus grands on est autorisés, en prenant les précautions nécessaires. Ça dépend si on veut couper 48h ou plus à long terme (ici tous serait plus avantageux).
+Si l'avantage est le même on détruit le 1. Mais si en attaquant les 3 on a un avantage plus grand on est autorisés, en prenant les précautions nécessaires. Ça dépend si on veut couper 48h ou plus à long terme (ici tous serait plus avantageux).
 
 #UNIGE #DIH 

@@ -92,7 +92,7 @@ Public policy decisions involve making incremental, not revolutionary, changes t
 ##### Explanation
 - Multiple species coexistence occurs if there is an interspecific tradeoff such that each species is a superior competitor for a limited range of values of the physical factor, and if the physical factor is heterogeneous.
 - More species->minimises risk of losing access to resources provided by them if conditions change.
-##### Biodiversity value - when data are available
+##### Biodiversity value - when data is available
 - The value is captured *hedonically*.
 - Crops that have a market price.
 - Use a productivity framework with prices.
@@ -111,7 +111,7 @@ We can assign a price to biodiversity from here.
 - It is to elicit people’s willingness-to-pay (WTP) in a hypothetical market.
 - Originally, for public goods, parks, fisheries, endangered species etc.
 - One person consumption does not affect another person consumption.
-- To date also for privately provided goods (i.e. water).
+- To date also for privately provided goods (**i.e.** water).
 - Direct questioning individuals to determine how would they react to some specific situations?
 - When we cannot use other valuation methods or cannot capture alternatives.
 	- Ricardian model->people don't do the same always, **e.g.** hotter climate=switch to other crops.
@@ -129,7 +129,7 @@ We can assign a price to biodiversity from here.
 - Boatable to fishable, from fishable to swimmable quality.
 #### In contrast to other techniques
 - Often only provide a partial estimate of environmental costs and benefits.
-- The need to describe in detail the good being valued, interviews in CV surveys are often quite time-consuming.
+- They need to describe in detail the good being valued, interviews in CV surveys are often quite time-consuming.
 - It is also very important that the questionnaire be extensively pre-tested to avoid various sources of bias.
 #### Major concerns
  - Strategic bias.

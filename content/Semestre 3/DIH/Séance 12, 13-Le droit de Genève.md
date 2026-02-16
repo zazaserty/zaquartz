@@ -33,13 +33,13 @@ La majorité (99%) des personnes avec droit au statut de PDG sont des combattant
 - Participants à une levée en masse.
 - Participants à des mouvements de résistance.
 
-Certains civils sont aussi couverts. Les PP capturées et détenues sont des PDG même si civils, mais normalement ceux là ne sont pas détenus. Hélas certains civils suivent les armées et font des travaux por elles en étant mandatés par l'état normalement, sans faire partie directement (**e.g.** correspondants de guerre).
+Certains civils sont aussi couverts. Les PP capturées et détenues sont des PDG même si civils, mais normalement ceux là ne sont pas détenus. Hélas certains civils suivent les armées et font des travaux por elles en étant mandatés par l'état normalement, sans en faire partie directement (**e.g.** correspondants de guerre).
 ##### Droits
 Certains ont droit aux protections sans avoir le statut de PDG, comme le cas de certains membres des forces armées :
 - Personnel exclusivement médical.
 - Personnel exclusivement religieux.
 
-Doivent bénéficier du traitement de PDG, mais leur statut diffère beaucoup. Ils ont beaucoup de privilèges et bénéficient aux moins des mêmes conditions (aussi bonnes) que les PDG. **E.g.** les médecins sont relâchés dés qu'ils ne sont pas nécessaires (peuvent être utiles pour traiter leur mêmes nationaux, mais si en on a beaucoup pas très utile), les PDG normalement qu'à la fin du conflit.
+Doivent bénéficier du traitement de PDG, mais leur statut diffère beaucoup. Ils ont beaucoup de privilèges et bénéficient aux moins des mêmes conditions (aussi bonnes) que les PDG. **E.g.** les médecins sont relâchés dés qu'ils ne sont pas nécessaires (peuvent être utiles pour traiter leurs mêmes nationaux, mais si en on a beaucoup pas très utile), les PDG normalement qu'à la fin du conflit.
 ##### Levée en masse c'est quoi?
 - Guerres patriotiques du 19ème->napoléon.
 	- Invasion du territoire, civils peuvent prendre des armes spontanément pour résister.
@@ -57,7 +57,7 @@ Ces conditions sont assez faciles à appliquer quand un mouvement contrôle un t
 - Respecter le DIH n'est plus une condition.
 - Abolition du signe distinctif et visible à distance.
 - Faut porter les armes ouvertement mais pendant une phase réduite (engagement et déploiement militaire précédant le lancement de l'attaque). On peu pas s'approcher comme civil, si on est visible avant l'attaque on doit pouvoir être distingué.
-- Le PA I explique que ceux qui violent sont traités comme les PDG et peuvent être jugés.
+- Le PA I explique que ceux qui violent le DIH sont traités comme les PDG et peuvent être jugés.
 - Pas coutumier.
 #### Présomption du statut de PDG
 Une personne peut être ou pas un combattant mais on présume toujours que quelqu'un capturé dans une zone de conflict est un PDG. Après on vérifie.
@@ -79,7 +79,7 @@ Pas dans le DIH non plus, très souvent de la peine de mort. Même la CH le fait
 #### Espion
 Dans le DIH PAI.
 - Civils sauf dans des territoires occupés pas de statut de PDG et poursuites pénales possibles.
-- Les combattants ça dépend si ils le font sur uniforme (PDG) ou pas (pas PDG).
+- Les combattants ça dépend s'ils le font sur uniforme (PDG) ou pas (pas PDG).
 - Pas PDG?=poursuite pénale et pas d'immunité.
 #### Mercenaires
 PAI Art. 47 lire pour améliorer. Faut démontrer que la personne a été recrutée comme mercenaire (faire la guerre pour l'argent, un paiement supérieur à celui d'un combattant régulier sans être ressortissant d'une partie au conflit ni résidant dans une), qui est et qu'il n'a pas de statut dans les forces armées. Sont détenus comme des civils, sont sous-privilégiés.
@@ -87,7 +87,7 @@ PAI Art. 47 lire pour améliorer. Faut démontrer que la personne a été recrut
 Civils protégés sont ceux hors des hostilités contrairement au PA1, surtout ceux qui sont ressortissants de l'état belligérant adverse. Sauf en ce qui concerne les soins, ça c'est pour tous (Art. 13 de la CdG IV miniaturise donc les CdG I & II pour les civils).
 
 Néanmoins tous les civils, bien que pas combattants, peuvent être des acteurs hostiles (**e.g** espionner) envers la puissance détentrice. Dans ce cas cette dernière peu révoquer certains de leurs droits.
-#### Hypothèses traitées par le CdG
+#### Hypothèses traitées par la convention
 - Civils étrangers (ennemis) se trouvant sur le territoire d'un belligérant au moment d'éclatement du conflit.
 - Civils se trouvant sur le territoire occupé.
 - Internement des civils et libération à la fin du conflit.
@@ -98,7 +98,7 @@ Néanmoins tous les civils, bien que pas combattants, peuvent être des acteurs 
 		- Les personnes interprétées systématiquement comme étant détenues (en gros à courte portée) ou bien dans un territoire occupé.
 	- Ne concerne que les étrangers (ennemis).
 		- Les apatrides sont comptés en fonction de leur résidence.
-		- Mais et si un CANI que devient CAI voit comment les nationaux s'entretuent?
+		- Mais et si un CANI qui devient CAI voit comment les nationaux s'entretuent?
 			- La jurisprudence a fait une interprétation téléologique, si on admet les apatrides à la protection ça prouve qu'on a pas un objectif d'exclusion; en conséquence ici ça s'appliquerait aussi puisque les personnes sont détenues de manière hostile en fonction d'une fracture éthniquo-religieuse.
 		- Et pour les neutres? Ils ont une représentation diplomatique mais pas vraiment l'objet de la convention.
 #### Occupation belligérante
@@ -133,7 +133,7 @@ Les civils ont certains droits selon la CdG IV. On interdit :
 - Les biens privés ne doivent pas être touchés sauf si nécessaire militairement.
 - Peines collectives interdites.
 - La violence contre les civils (**e.g.** torture).
-- Ne pas apprivoiser le territoire.
+- De ne pas apprivoiser le territoire.
 	- Sauf si c'est impossible, et dans ce cas il faut accepter l'aide humanitaire.
 #### Administration du territoire occupé (Haye)
 ##### Butin de guerre

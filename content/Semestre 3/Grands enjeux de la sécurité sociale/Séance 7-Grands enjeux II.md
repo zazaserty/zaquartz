@@ -13,7 +13,7 @@ En 1948 on avait déjà établit que pour protéger certains droits on a besoin 
 ![[Pasted image 20251117162646.png]]
 Une partie de la population, comme on l'avait prévu, n'avait pas accès au soins de santé : pas de diagnostiques, vaccins, etc... Dans l'Europe de l'ouest, premièrement dans le cas du Portugal et l'Espagne, on a crée des mesures d'accès universels aux soins de santé.
 
-On nous a dit aussi de rester chez nous, mais il y a peu de pays dans le monde où les travailleurs ont une protection financière quand ils ne travaillent pas et une partie ne peut pas travailler à distance. Un risque de pauvreté était présent, donc les états ont dû développer tout d'un coup des instruments pour aider les entreprises et les individus. La santé de chacun affecte celle des autres, on le note et on a agit en conséquence!
+On nous a dit aussi de rester chez nous, mais il y a peu de pays dans le monde où les travailleurs ont une protection financière quand ils ne travaillent pas et une partie ne peut pas travailler à distance. Un risque de pauvreté était présent, donc les états ont dû développer tout d'un coup des instruments pour aider les entreprises et les individus. La santé de chacun affecte celle des autres, on le note et on agit en conséquence!
 
 L'OIT conclut donc qu'il faut en tirer des leçons et pérenniser les instruments développés pendant la crise->protection durable, complète et universelle. Ça n'a pas été le cas après la pandémie. La mise en place de ces prestations pendant une crise dans des pays sans des moyens pour cibler les prestations (identifier et faire parvenir l'aide) c'est difficile. Peut-être que les systèmes de santé entre autres ne peuvent pas fournir l'aide.
 ##### Évolution

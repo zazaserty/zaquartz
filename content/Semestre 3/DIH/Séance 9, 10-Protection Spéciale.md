@@ -83,7 +83,7 @@ Renforcé par le fait (évident, mais bon on rappelle) que la protection génér
 
 On invite aussi les parties contractantes à conclure d'autres accords sur ce thème là (spéciaux). Que l'on sache, jamais fait.
 ##### CANI
-La deuxième exception est éliminée, bizarre puisque la protection est normalement plus forte dans le CAI. Cas rare et même unique. La raison est simple, dans un CAI on s'attend a détruire l'autre mais dans un CANI le problème est à nous.
+La deuxième exception est éliminée, bizarre puisque la protection est normalement plus forte dans les CAI. Cas rare et même unique. La raison est simple, dans un CAI on s'attend a détruire l'autre mais dans un CANI le problème est à nous.
 ##### Emblème
 3 cercles orangés comme emblème protecteur. Ceci facilite l'identification, mais normalement pas nécessaire, reconnaître une digue est facile **f.ex**. La protection ne dépend pas de l'emblème mais du fond.
 

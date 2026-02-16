@@ -27,13 +27,13 @@
 		- But d'aller du point A au point B
 	- Obligations vers le processus
 		- Demande aux Etats d'utiliser les interprétations existantes pour aller du point A au point B
-		- Etats doivent faire des rapports sur ce qu’ils font pour mettre en œuvre leurs obligations (vers un comité)
+		- Etats doivent faire des rapports sur ce qu’ils font pour mettre en œuvre leurs obligations (vers un comité).
+			- Contrôle sur les Etats par ce même comité.
 		- Directives donnés (appuyé largement sur la Convention 102 de l'OIT)
-	- Contrôle sur les Etats par ce même comité.
 #### Obligation politique
 - Initiative commune des Nations Unies pour un socle de protection sociale (Recommandation 202 de l'OIT)
 - Agenda 2030 (1.2, 3.8, 5, 8, 10)
-	- Engagement politique et morale des Etats
+	- Engagement politique et moral des Etats
 	- Contrainte institutionnelle
 	- Mise en œuvre sous contrôle de l'ONU
 		- Vérification du progrès des Etats
@@ -62,7 +62,7 @@
 	- Inégalités au sein et entre les pays
 	- Impacts possibles du changement climatique
 - Mise au focus des politiques économiques et des politiques sociales
-	- Hypothèse que la croissance économique va suffis pour éliminer la pauvreté (faux, il faut de la croissance sociale aussi).
+	- Hypothèse que la croissance économique va suffire pour éliminer la pauvreté (faux, il faut de la croissance sociale aussi).
 	![[Pasted image 20251028191027.png]]
 	![[Pasted image 20251028191234.png]]
 #### Rôle centrale de la protection sociale dans la lutte contre la pauvreté

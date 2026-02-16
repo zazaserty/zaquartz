@@ -20,7 +20,7 @@ Intergovernmental Panel on Climate Change (IPCC): *Climate change refers to a ch
 	5. The solutions to climate change are inherently complex:
 		- The kind of changes that are needed involve every sector of the economy, including buildings, transportation, food production, power generation, urban design, and industrial process.
 #### The consequences of human-induced climate change
-- Life on hearth is possible because certain gases (**e.g.** CO2) trap sunlight in our atmosphere and keep us warm.
+- Life on earth is possible because certain gases (**e.g.** CO2) trap sunlight in our atmosphere and keep us warm.
 - But in excess, these gases may work against us, holding in too much heat, blocking outward radiation, and altering our climate.
 - Such changes could affect agricultural yields, timber harvest, and water resource productivity.
 	- Rise in the sea level, ocean acidification, more storm and floods, etc.
@@ -70,7 +70,7 @@ The rise of GHGs concentration in the atmosphere has caused an increase in tempe
 	- Limited availability of adaptation technology and ability to pay for those technologies.
 	- Limited human and social capital.
 		- They often do not have the capacity to prevent certain events before they manifest, and thus to be able to act on that knowledge.
-		- Political power is often controlled by a restricted elite, who may be aware of the dangers of climate change, but it may chose to ignore them if those impacts fall on the politically and economically marginalised.
+		- Political power is often controlled by a restricted elite, who may be aware of the dangers of climate change, but may chose to ignore them if those impacts fall on the politically and economically marginalised.
 ###### **Climate change Awareness in Africa**
 ![[Pasted image 20251208151502.png]]
 ### Temperature and economic production
@@ -88,7 +88,7 @@ Climate change will affect economic growth and development in four different way
 #### Labour supply and Productivity
 - Climate change may affect labour force through changes in mortality, or its productivity, and thus leading to a reduction of the output.
 - For instance manual labour is harder in hot and humid climates.
-- The increased demand for air conditioning can lead to increase productivity, but at the same time productions costs increase as well.
+- The increased demand for air conditioning can lead to increase productivity, but at the same time production costs increase as well.
 ##### Positive impact in productivity?
 - Tol (2019) considering 27 research papers show that initial warming has overall positive net economic effects, while further warming would lead to net damages.
 	- The initial benefits are due to reduced costs of heating in the winter, reduced cold-related morality and morbidity, and carbon dioxide fertilisations, which makes plants growing faster and more drought resistant.

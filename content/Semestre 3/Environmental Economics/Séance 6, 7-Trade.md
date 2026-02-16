@@ -120,7 +120,7 @@ It's not that trade is responsible for a third of emissions but that the product
 ![[Pasted image 20251020155257.png]]
 Openness to trade tends to increase real income, and any liberalization that does so has at least two effects:
 - An increased scale of production will shift out the demand D for the right to pollute->this tends to increase pollution.
-- If environmental quality is a normal good, the increase in per capita income will increase the demand for environmental quality so that MD shifts up to pollute If regulators are responsive, the R curve will also shift up. This creates a technique effect (more stringent regulation) that tends to lower pollution.
+- If environmental quality is a normal good, the increase in per capita income will increase the demand for environmental quality so that MD shifts up to pollute. If regulators are responsive, the R curve will also shift up. This creates a technique effect (more stringent regulation) that tends to lower pollution.
 - The net result on pollution is uncertain. If technique effects are very large, pollution will fall. Basically we can't establish a standard effect of trade on pollution.
 #### The pollution haven hypothesis
 - If a country has a comparative advantage in pollution-intensive industries, then freer trade will shift the emission demand curve D to the right due to a composition effect.

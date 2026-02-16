@@ -37,7 +37,7 @@ Global south competitors are still not at gcsps level of expertise.
 - Bridging policy and expert communities.
 	- Connecting track 2 to 1. This is perfect for Geneva, it is possible to talk to officials after talking with between experts.
 #### Underlying
-- Track 2 is normally not a replacement for Track 1 It should support and complement Track 1. The result of the discussions, as substantive as they may be, have to be conveyed to relevant capitals.
+- Track 2 is normally not a replacement for Track 1. It should support and complement Track 1. The result of the discussions, as substantive as they may be, have to be conveyed to relevant capitals.
 ### Dialogue portfolio
 #### Geopolitics and arms control
 Bringing China/US/RSS together, often bilaterally.
@@ -54,7 +54,7 @@ Bringing China/US/RSS together, often bilaterally.
 - "Small Bridges" USA/China (on the Middle East).
 #### European security
 ![[Pasted image 20251015105027.png]]
-CH chairs OSCE conferences to generate and get the first possibly unfiltered ideas to solve an issue.
+The HC chairs OSCE conferences to generate and get the first possibly unfiltered ideas to solve an issue.
 #### Regional focus
 ![[Pasted image 20251015105038.png]]
 #### Ukraine-Russia
@@ -68,7 +68,7 @@ A negotiation then ensued in the OSCE, but the Russians weren't part of the nego
 
 The solution to geographical disagreements was ambiguities to make each side believe they held Crimea as to the language of the text.
 
-The Special Monitoring Mission (SMM) aimed to *contribute, throughout the country and in co-operation with the concerned OSCE executive structures and relevant actors of the international community (such as the United Nations and the Council of Europe, to reducing tensions and fostering peace, stability and security; and to monitoring and supporting the implementation of all OSCE principles and commitments*.
+The Special Monitoring Mission (SMM) aimed to *contribute, throughout the country and in co-operation with the concerned OSCE executive structures and relevant actors of the international community (such as the United Nations and the Council of Europe), to reducing tensions and fostering peace, stability and security; and to monitoring and supporting the implementation of all OSCE principles and commitments*.
 
 This is an **example** of the difficulties and process of negotiation between officials-> Track 1 diplomacy.
 #### Negotiations Minsk / Istanbul March / April 2022

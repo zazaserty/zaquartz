@@ -17,7 +17,7 @@ L'OIT est un peu dans une crise mais elle reste optimiste.
 - 3 activités qui n’ont pas changé.
 - Normes internationales du travail et autres instruments (191 conventions en 1015), adoptées par la Conférence internationale du Travail.
 	- Ratification est importante pour première étape.
-	- Mais si pays n’a pas ratifie c’est une idée pour les pays.
+	- Mais les pays ne ratifient pas, c’est quand même des idées pour eux.
 - Coopération technique (ou pour le développement) – aider les pays membres à mettre en œuvre les normes.
 - Recherche et statistiques : collecter, analyser et comparer les données relatives au monde du travail. But : informer le débat académique et politique (Revue internationale du Travail depuis 1921).
 	- Problèmes au début : chômage etc.
@@ -28,9 +28,9 @@ L'OIT est un peu dans une crise mais elle reste optimiste.
 - Acteurs : politiciens, chercheurs, médecins, hommes d’église, entrepreneurs philanthropes (Daniel le Grand), sources chrétiennes...
 - Motifs :
 	- Améliorer la situation des travailleurs.
-	- Prévenir des révoltes sociales et de grèves.
+	- Prévenir des révoltes sociales et des grèves.
 	- Convictions humanitaires (travail des enfants).
-- Première loi du travail-> les heures de travail par jour/travail des enfants- réduire les heures.
+- Première loi du travail-> les heures de travail par jour (travail des enfants) : réduire les heures.
 - Moyen : législation du travail.
 	- Les employeurs sont les premiers à revendiquer une législation internationale du travail pour décourager la concurrence déloyale.
 		- Parce que les employeurs veulent les mêmes conditions pour tous les autres pays (employeurs).
@@ -66,7 +66,7 @@ L'OIT est un peu dans une crise mais elle reste optimiste.
 - Etats-Unis et l’URSS deviennent membres en 1934.
 	- Avant c’était plus une organisation européenne.
 - L’OIT devient une organisation internationale a partir de 1934.
-- À l’époque : l’OIT essayer de créer l’emploi.
+- À l’époque : l’OIT essaye de créer l’emploi.
 ### Guerre, exile et un nouvel ordre mondial
 - L’Allemagne nazi menace d’envahir la Suisse-> veulent dissoudre l’OIT.
 - Départ pour Montréal en 1940.
@@ -85,7 +85,7 @@ L'OIT est un peu dans une crise mais elle reste optimiste.
 - Compétition entre deux modèles d’état sociale d’économie.
 - L’OIT comme espace de confrontation et de rencontre (notamment après 1954).
 - Vision partagée : industrialisation, croissance, planification, productivité, améliorer le système.
-- Conflits sur la liberté syndicale, travail forcée, et la discrimination.
+- Conflits sur la liberté syndicale, travail forcé, et la discrimination.
 - Les Etats-Unis se retirent en 1977, retour en 1980.
 - L’OIT survit à une perte de 25% de son budget.
 ### Contrainte au changement : l'OIT et la décolonisation
@@ -104,7 +104,7 @@ L'OIT est un peu dans une crise mais elle reste optimiste.
 - Focus : formation professionnelle.
 - Recherche innovante :
 	- « Découverte » de l’économie informelle et critique du modèle de développement dans les années 1970s.
-	- Découverte d’économie informelle (dans Ped) et la volonté de transforme cet secteur des secteur formelle (comme dans pays développe).
+	- Découverte d’économie informelle (dans Ped) et la volonté de le formaliser comme dans les pays développes.
 - Prix Nobel de la Paix pour l’OIT en 1968.
 ### L’OIT face à la mondialisation néolibérale : Fin de la guerre froide
 - Accélération de globalisation néolibérale – « victoire du capitalisme » et du ‘marché total’ ?
