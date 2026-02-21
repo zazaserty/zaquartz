@@ -24,5 +24,8 @@
 #### Quatrième semestre
 - [[Economic Analysis in International Organisations]]
 - [[International Environmental Law]]
+- [[Coopération Internationale]]
+- [[Institutions & Intégration Européennes]]
+- [[Politique Suisse]]
 
 #UNIGE #Plaque-tournante

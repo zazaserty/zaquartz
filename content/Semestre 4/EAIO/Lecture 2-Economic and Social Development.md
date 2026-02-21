@@ -19,7 +19,7 @@
 There has been an improvement, **e.g.** in Sub-Saharan Africa.
 ###### **Transitions**
 ![[Pasted image 20260216182458.png]]
-Usually shifts are not huge, sometimes is the thresholds that change.
+Usually shifts are not huge, sometimes it's the thresholds that change.
 ==Next week from here==
 #### Purchasing power parity
 - Income/standards of living vary substantially across the globe.

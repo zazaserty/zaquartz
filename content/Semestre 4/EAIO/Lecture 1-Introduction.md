@@ -8,11 +8,11 @@
 	- We know what it is from [[Séance19,20-Les externalités]].
 3. Provide public goods (non-excludable and non-rivalrous).
 	- Not profitable for private entities, government has to be the one to do it therefore (with the money raised through various means).
-		- Not clear how it could be made profitable for private entities, that's where this consensus on responsibility comes for.
+		- Not clear how it could be made profitable for private entities, that's where this consensus on responsibility comes from.
 4. Control noncompetitive behaviour.
 	- Monopoly **f.ex.**, which can appear naturally in some cases and are fought against by government.
 		- **E.g.** trains, where it's difficult to see various competing entities. So the government takes care of the infrastructure which reduces entry costs so they can compete (**e.g.** French vs. Italian trains to go to France).
-	- **F.ex**, impede the merging of certain firms which could become too big and assert too much dominance over the industries such as the car one, creating rising prices for consumers.
+	- **F.ex.** impede the merging of certain firms which could become too big and assert too much dominance over the industries such as the car one, creating rising prices for consumers.
 5. Change income distribution.
 	- Redistribute income to reduce inequality, as it is associated with a decrease in welfare. Only a central power can do this.
 ##### Justifying these reasons
@@ -27,11 +27,11 @@ As perfectly-competitive markets can be considered theoretical and non-realistic
 - Education / Technical cooperation.
 - Public supported media and information delivery.
 - Collection and distribution of price and other economic and social data.
-	- Some governments don't have national statistic institutes or do not connect certain types of data.
+	- Some governments don't have national statistic institutes or do not connect certain types of data, so OIs also partake in this.
 - Labelling requirements.
 	- **E.g** ISO.
 
-These policies exist at the national level as well.
+These policies exist at the national level as well as the international one.
 ### Externalities
 Externalities exist when the activities of one or more agents affect the preferences or technologies of other agents.
 - Negative (Positive) externalities: reduce (increase) utility or productivity of other agents.
