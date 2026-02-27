@@ -99,13 +99,14 @@ L’UE = succession d’événements, de crises et de compromis.
 ![[Pasted image 20260217113017.png]]
 - Approche : Économique → Politique (compétences *inversées*).
 	- L'économie a un effet *spillover* dans une coopération politique.
-		- **E.g.** règles communes qui facilitent les échanges.
+		- **E.g.** règles communes qui facilitent les échanges sont nécessaires quand on veut commercer ensemble et ces règles entraînent la nécessité pour d'autres choses et etc...
 - Trois moteurs d’intégration :
-	- Spillover (jusqu’à 1965).
+	- *Spillover* (jusqu’à 1965).
 	- Formalisme juridique.
+		- On codifie les avancées, on régule...
 	- Opinion publique.
 ![[Pasted image 20260217113257.png]]
-Une fois que la CECA avait été crée on se pose la question->on veut élargir les frontières envers d'autres pays? Cela peut changer les valeurs mais a aussi des avantages.
+Une fois que la CECA avait été crée on se pose la question->on veut élargir les frontières envers d'autres pays? Cela peut changer les valeurs mais a aussi ses avantages.
 #### Histoire condensée (1946-1995)
 ##### 1946-1958 : De l’ambition fédérale à l’intégration économique
 - 1951 : CECA (6 États).
@@ -116,14 +117,14 @@ Une fois que la CECA avait été crée on se pose la question->on veut élargir 
 ##### 1958-1966 : Débuts triomphants puis crise
 - 1962 : PAC.
 - 1965-66 : Chaise vide + Compromis Luxembourg.
-	- Grand succès économique mais de Gaulle ne voulait pas une fédération et donc créent le veto national.
-	- *Ambassadeur de l'UE* avait allé à Washington et la France n'avait pas aimé ça.
+	- Grand succès économique mais de Gaulle ne voulait pas une fédération et donc créent (informellement) le veto national dans le Conseil.
+	- *Ambassadeur de l'UE* avait allé à Washington et la France n'avait pas aimé ça+il y avait trop de centralisation, intégration et votes non-unanimes.
 		- Plus de droits de veto->processus politique plus long et donc moins de fédéralisation.
 ##### 1966-1974 : Retour intergouvernemental
 - 1968 : Union douanière.
 - 1973 : Premier élargissement (DK, UK, IE).
 	- Plus lent, plus de pays et d'opinions.
-	- Crise du budget européen, Thatcher bloque beaucoup de décisions pour que l'UK ne paie pas tellement. Elle oblige à l'UE pour prendre des décisions qui ne vont pas totalement dans son *ADN*, bien qu'elle ne soit pas anti-UE elle n'est pas vraiment pour non plus en sa totalité.
+	- Crise du budget européen, Thatcher bloque beaucoup de décisions pour que le RU ne paie pas tellement. Elle oblige à l'UE pour prendre des décisions qui ne vont pas totalement dans son *ADN*, bien qu'elle ne soit pas anti-UE elle n'est pas vraiment pour non plus en sa totalité.
 ##### 1974-1986 : Recherche second souffle
 - 1974 : Conseil européen.
 	- Blocage politique et chocs pétroliers, chômage, etc...
@@ -145,7 +146,7 @@ Une fois que la CECA avait été crée on se pose la question->on veut élargir 
 - 2007 : Accord traité Lisbonne (sans connotation fédéraliste).
 - 2009 : Entrée en vigueur Lisbonne (après 2 référendums IE).
 ![[Pasted image 20260217115028.png]]
-- Un art. 50 pour quitter l'UE, permet Brexit mais aussi homogéneisation et gestion de la crise Covid-19 sans GB pour vetoer.
+- Un art. 50 pour quitter l'UE, permet Brexit mais aussi homogénéisation et gestion de la crise Covid-19 sans GB pour *vetoer*.
 #### Décennies de crises (2009-2025)
 1. Crise économique & financière (2008-2013)
 	- FESF, Mécanisme stabilité, Pacte budgétaire (TSCG 2012).

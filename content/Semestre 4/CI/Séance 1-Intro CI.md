@@ -1,7 +1,7 @@
 ## Introduction
 ### Le système de Westphalie
 #### Territorialité
-Un État exerce une autorité exclusive sur un territoire géographique délimité par des frontières reconnues. Il y a eu une évolution graduelle envers cela, pas un changement brusque. **E.g.** il y avait d'autres autorités comme les guildes marchandes ou l'ordre ecclésiastique.
+Un État exerce une autorité exclusive sur un territoire géographique délimité par des frontières reconnues. Il y a eue une évolution graduelle envers cela, pas un changement brusque. **E.g.** il y avait d'autres autorités comme les guildes marchandes ou l'ordre ecclésiastique.
 #### Souveraineté Interne
 La souveraineté interne désigne l’autorité suprême et exclusive d’un État sur sa population, ses institutions et ses lois à l’intérieur de ses frontières.
 #### Souveraineté externe

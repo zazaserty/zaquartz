@@ -10,7 +10,7 @@
 	- Not profitable for private entities, government has to be the one to do it therefore (with the money raised through various means).
 		- Not clear how it could be made profitable for private entities, that's where this consensus on responsibility comes from.
 4. Control noncompetitive behaviour.
-	- Monopoly **f.ex.**, which can appear naturally in some cases and are fought against by government.
+	- Monopolies **f.ex.**, which can appear naturally in some cases and are fought against by government.
 		- **E.g.** trains, where it's difficult to see various competing entities. So the government takes care of the infrastructure which reduces entry costs so they can compete (**e.g.** French vs. Italian trains to go to France).
 	- **F.ex.** impede the merging of certain firms which could become too big and assert too much dominance over the industries such as the car one, creating rising prices for consumers.
 5. Change income distribution.
@@ -20,14 +20,14 @@
 - What is a Pareto optimal resource allocation? (Efficiency versus equity: Welfare economics theorems).
 - The fifth reason may be justified if society desires to guide the economy to a particular Pareto-optimal resource allocation, for example, one that is more equitable.
 	- Pareto doesn't always mean ethic or equitable.
-		- Concepts can vary between society.
+		- Concepts can vary between societies.
 
 As perfectly-competitive markets can be considered theoretical and non-realistic we need a central authority to maintain them in an ethical and equitable manner.
 ### Governments' Policies to Disseminate Information
 - Education / Technical cooperation.
 - Public supported media and information delivery.
 - Collection and distribution of price and other economic and social data.
-	- Some governments don't have national statistic institutes or do not connect certain types of data, so OIs also partake in this.
+	- Some governments don't have national statistic institutes or do not connect certain types of data, so IOs also partake in this.
 - Labelling requirements.
 	- **E.g** ISO.
 
