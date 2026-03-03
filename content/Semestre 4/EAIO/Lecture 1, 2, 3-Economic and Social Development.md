@@ -61,7 +61,7 @@ The list of the least developed countries (LDCs) is decided upon by the United N
 The following three criteria (thresholds for inclusion and for graduation) are used by the CDP to determine LDC status:
 - Per capita income (gross national income per capita).
 - Human assets (indicators of nutrition, health, school enrolment and literacy).
-- Economic vulnerability (indicators of natural and trade-related shocks, physical and economic exposure to shocks, and smallness and remoteness - landlocked country **f.ex.** which for trade has to go through transit countries or use a plane which you can't use for everything and is expensive->access to international markets can be more difficult without a sea - ).
+- Economic vulnerability (indicators of natural and trade-related shocks, physical and economic exposure to shocks, and smallness and remoteness - landlocked countries **f.ex.** which for trade has to go through transit countries or use a plane which you can't use for everything and is expensive->access to international markets can be more difficult without a sea - ).
 ###### **Distribution**
 ![[Pasted image 20260223210737.png]]
 Most in Africa, correlation with low income group almost perfect. Some in Asia and only one in the Caribbean (Haiti). Islands in Oceania also count, as they are very remote and small. But you can also have large countries like Bangladesh, because it checks every other factor.
@@ -90,7 +90,7 @@ New View of Development in IOs (consensus specially for SDGs): *human developmen
 - We go beyond having a decent salary (economic development) in this approach.
 	- Very subjective though (apart from moralistic or comprehensive), it's not the same activities that make everyone happier->depends on aspirations. But development here is associated to enjoying one's life... What is happiness or a decent job? Health is more straightforward **f.ex**.
 ##### Todaro's Three Core Values of Development
-- Development is not purely an economic phenomenon but rather a multi-dimensional process involving reorganisation and reorientation of the entire economic and social system. Development is the process of improving the quality of all human lives within three equally important aspects. It is multidimensional and not only monetary like with Sen.
+- Development is not purely an economic phenomenon but rather a multi-dimensional process involving reorganisation and reorientation of the entire economic and social system. Development is the process of improving the quality of all human lives within three equally important aspects. It is multidimensional and not only monetary, like with Sen.
 	1. Raising peoples’ living levels (sustenance), **i.e.** incomes and consumption, levels of food, medical services, education through relevant growth processes.
 		- Materialistic part of the definition.
 	2. Creating conditions conducive to the growth of peoples’ self-esteem through the establishment of social, political and economic systems and institutions which promote human dignity and respect.
@@ -101,7 +101,7 @@ New View of Development in IOs (consensus specially for SDGs): *human developmen
 		- Having private and public education **f.ex.** can increase variety and, therefore, access.
 #### Therefore
 ![[Pasted image 20260223231636.png]]
-OCDE considers that indeed we can't only look at the economic dimension of development. Dimensions that maintain and promote a certain level/dimensions of well-being have to be considered. There is a materialistic one (health, education, etc...). Personal activities and environment are less so. When it comes to sustaining well-being we focus a lot on the institutional frameworks in which individuals evolve.
+OCDE considers that indeed we can't only look at the economic dimension of development. Dimensions that maintain and promote a certain level/dimensions of well-being have to be considered. There is a materialistic side to all of this (health, education, etc...). Personal activities and environment are less so. When it comes to sustaining well-being we focus a lot on the institutional frameworks in which individuals evolve.
 #### Objectives of development
 We have dimensions that go outside purely nominal monetary indicators but we are still mainly within these as they are easier to measure (we dispose of comprehensive information about them). Regardless, based on what has just been discussed, the objectives should be:
 - To increase the availability and distribution (for maximum number of people equally/in a fair manner) of basic human necessities.
@@ -117,7 +117,7 @@ We have dimensions that go outside purely nominal monetary indicators but we are
 - The PPP conversion factor controls for price levels differentials (not inflation) and shows the number of units of a country’s currency required to buy the same amount of goods and services in the domestic market as one dollar would buy in the United States.
 - **Example**: nominal exchange rate (2022) Yen/$US: 131.
 	- PPP conversion rate (2022) Yen/$US: 95.
-- By applying this conversion factor, instead of a country’s nominal GNI per capita (expressed in U.S. dollars in accordance with the market exchange rate of the national currency) we obtain a real GNI per capita that reflect difference in prices for the same goods and services between this country and the United States, and independent of the fluctuations of the national currency exchange rate.
+- By applying this conversion factor, instead of a country’s nominal GNI per capita (expressed in U.S. dollars in accordance with the market exchange rate of the national currency) we obtain a real GNI per capita that reflects the difference in prices for the same goods and services between this country and the United States, and independent of the fluctuations of the national currency exchange rate.
 - GNI per capita in PPP terms thus should provide a better comparison of average income or consumption between economies (PPP convertor may not be updated for several years).
 - Countries with similar average incomes can differ substantially when it comes to people’s quality of life: access to education and health care, employment opportunities, availability of clean air and safe drinking water, the threat of crime, and so on.
 - Clear need for alternative/complementary measures of development.
@@ -128,5 +128,29 @@ We have dimensions that go outside purely nominal monetary indicators but we are
 ###### **Computation**
 ![[Pasted image 20260223234522.png]]
 We do a geometric mean of the dimension indexes so as to not give too much weight to values that are usually higher (**e.g.** life expectancy). This is just a normalisation process so as to get rid of the unit of measurement and remove biases (we take into account the ranges->max-min). It is however necessary to fix the maximum and minimum values for each indicator. The geometric mean allows use to reduce the impact of extreme values, this way you cannot *compensate* between values.
+![[Pasted image 20260302152034.png]]
+###### **Carbon footprint**
+- Planetary-pressures adjusted HDI: The adjustment corresponds to multiplying the HDI by an adjustment factor, creating the PHDI.
+	- If we want to be holistic in development we are going to need to consider the natural footprint of a country on the planet as well. If not, development is achieved by harming the planet.
+- The adjustment factor is calculated as the arithmetic mean of indices measuring carbon dioxide emissions per capita and material footprint per capita.
+	- A country’s material footprint measures the amount of material extracted (biomass, fossil fuels, metal ores and nonmetal ores) to meet domestic final demand for goods and services, regardless of where extraction occurs. It is a consumption-based measure that accounts for international trade.
+![[Pasted image 20260302152602.png]]
+![[Pasted image 20260302152903.png]]
+HDI is more composite, many countries here like Liechtenstein or Singapore lose ranks when using HDI as comprared to GNI/capita.
+![[Pasted image 20260302153244.png]]
+Low ranking countries don't do that bad on the GNI/capita score but have serious problems on the other dimensions of the HDI. For many HDI is, again, negative; although exceptions exist.
+![[Pasted image 20260302153814.png]]
+The farther a country is from the line (45º from 0) the tougher the adjustment (petrol exporting countries **f.ex**). Also, it is impossible to be above it statistically->has never been recorded. For very high HD groups they can only improve their PHDI, not the HDI as much.
+### Back to the OECD
+- The OECD framework for measuring well-being was first introduced in How’s Life? 2011.
+- It builds on a variety of national and international initiatives for measuring the progress of societies using a broad set of metrics, as well as on the recommendations of the Stiglitz, Sen and Fitoussi report (2009).
+- Conceptually, the framework reflects elements of the capabilities approach (Sen, 1985; Anand, Durand and Heckman, 2011), with many dimensions addressing the factors that can expand people’s choices and opportunities to live the lives that they value – including health, education, and income.
+![[Pasted image 20260302154728.png]]
+The regrettables are not always identifiable.
+![[Pasted image 20260302155251.png]]On another note, we can add as many variables as we want and be holistic, realistic, etc... but many countries don't have the strength to provide us with up to-date real statistics. Many indicators thus have to take old data, or none. Some indicators such as household income have to be extracted from interviews, this is another difficulty.
+![[Pasted image 20260302155358.png]]
+Very good at GDP/capita but many other indicators are not perfect, that's where more policy attention has to be devoted to (**e.g.** life expectancy). We do not necessarily need to compare countries for this as we can see.
+![[Pasted image 20260302155730.png]]
+Same but with lowest GDP/capita in OECD. Here we can see more problems in more areas. This is useful to see which dimensions we can take into account when pursuing for **example** higher GDP/capita knowing that we have issues on other stuff and we shouldn't forget them.
 
 #UNIGE #EAIO 

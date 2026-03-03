@@ -95,16 +95,16 @@ Centralisation lente malgré les pare-feux initiaux :
 - Politique économique.
 	- BNS (1905), article économique (1947), loi sur le marché intérieur et loi sur les cartels (1995).
 - Politique sociale.
-	- Assurance maladie-accident (1890, 1918-1994), AVS (1925, 1947), chômage (1951,1976), assurance maternité (1945, 2005).
+	- Assurance maladie-accident (1890, 1918-1994), AVS (1925, 1947), chômage (1951, 1976), assurance maternité (1945, 2005).
 		- ==N.B==-> s'il y a deux dates c'est puisque il faut d'abord donner la compétence constitutionnellement et après légiférer pour concrétiser le principe. Cela a **p.ex.** retardé la mise en oeuvre du principe d'un état providence fédéral comme avec l'assurance maternité.
 - Politique fiscale et financière.
 	- IFD (1935), TVA (1990).
-	- Sa s'ajoute aux revenus perçus à partir des droits de douane.
+	- S'ajoutent aux revenus perçus à partir des droits de douane.
 ##### Évolution des dépenses publiques
 ![[Pasted image 20260225143753.png]]
-Il y a une augmentation de ce que la Confédération perçoit et une correlation avec centralisation (**e.g.**->Covid-19 en 2020 avec beaucoup d'intervention fédérale). En tout cela n'est pas absolu mais un indicateur. Ça montre aussi que les cantons sont toujours importants.
+Il y a une augmentation de ce que la Confédération perçoit et une correlation avec la centralisation (**e.g.**->Covid-19 en 2020 avec beaucoup d'intervention fédérale). Quand même, cela n'est pas absolu mais qu'un indicateur. Ça montre aussi que les cantons sont toujours importants.
 ![[Pasted image 20260225143928.png]]
-On peut voir les domaines ou la CH joue un rôle important, tout comme les cantons et les communes. Dans la majorité des domaines l'intervention est néanmoins conjointe (**e.g.** éducation), même si on reconnaît des niveaux qui le font plus (**i.e.** les cantons pour l'éducation).
+On peut voir les domaines ou la CH joue un rôle important, tout comme les cantons et les communes. Dans la majorité des domaines l'intervention est néanmoins conjointe (**e.g.** éducation), même si on reconnaît des niveaux qui font plus (**i.e.** les cantons pour l'éducation).
 
 Cela cause un enchevêtrement->on ne sais pas trop qui doit intervenir, tout le monde veut et d'autres fois personne. Mais avec la RPT on a essayé d'atténuer ce phénomène (succès partiel).
 #### Compétences de décision
@@ -125,7 +125,7 @@ Cela cause un enchevêtrement->on ne sais pas trop qui doit intervenir, tout le 
 		- Les agences fédérales mettent en oeuvre le droit dans les états.
 	- CH/D/A: délégation de la mise en œuvre aux entités fédérées (fédéralisme coopératif).
 		- Les cantons et la CH coopèrent, la mise en oeuvre se fait en partie sous contrôle de l'état fédéral.
-- Le fédéralisme d’exécution (Art. 46 Cst) (Sciarini 2024: 62- 66).
+- Le fédéralisme d’exécution (Art. 46 Cst).
 	- Division du travail.
 	- Développement de la législation au niveau fédéral.
 	- Mise en œuvre confiée aux cantons (≠ étape mécanique).
@@ -144,7 +144,7 @@ Cela cause un enchevêtrement->on ne sais pas trop qui doit intervenir, tout le 
 #### Système institutionnel fédéraliste
 ##### Institutions verticales
 Participation des cantons dans les processus de décisions fédéraux.
-- Le Conseil des Etats.
+- Le Conseil des États.
 - La majorité des cantons dans les référendums obligatoires.
 - L'initiative cantonale.
 - Le référendum cantonal.
@@ -169,25 +169,25 @@ Coordination et coopération entre cantons, sans intervention de la Confédérat
 Cas intéressant du Danemark où les communes, bien qu'existant dans un état unitaire, ont beaucoup de compétences en matière sociale. On peut en effet, comme on la vu, avoir des états unitaires plus décentralisés.
 #### La Suisse parmi les Etats fédéraux (particularités)
 - Taille et degré de décentralisation.
-	- CH: Fédéralisme très décentralisé, Etat et entités fédérées (cantons) de petite taille. Aussi différences de tailles grandes entre cantons même si cela est pas exclusif à la Suisse, au contraire de sa taille comme pays à système fédéral.
+	- CH: Fédéralisme très décentralisé, Etat et entités fédérées (cantons) de petite taille. Aussi grandes différences de taille entre cantons même si cela est pas exclusif à la Suisse, au contraire de sa taille comme pays à système fédéral.
 - Influence des entités fédérées sur le régime de répartition des compétences.
 	- CH: Forte influence des cantons (points de véto fédéralistes). Il suffit d'avoir la moitié des cantons pour bloquer la centralisation.
 - Mode d'élection, composition et compétences de la *chambre haute*.
 	- CH: inspirée du Sénat américain; bicamérisme intégral. Dans les USA les deux chambres n'ont pas les mêmes pouvoirs.
 	- ![[Pasted image 20260225222607.png]]
 	- Tous les membres pèsent équitablement.
-- Fédéralisme dual vs fédéralisme coopératif.
-	- Séparation claire des compétences entre les deux niveaux vs coopération pour l'accomplissement d'une même tâche politique (ordre bipolaire).
+- Fédéralisme dual vs. fédéralisme coopératif.
+	- Séparation claire des compétences entre les deux niveaux vs. coopération pour l'accomplissement d'une même tâche politique (ordre bipolaire).
 	- CH: fédéralisme coopératif, très marqué dans le fédéralisme d'exécution. Pas d'agences de mises en oeuvre, il y a une coopération entre niveaux (fédéralisme d'exécution).
-- Fédéralisme concurrentiel vs fédéralisme solidaire.
-	- Mise en concurrence des entités fédérées pour améliorer les conditions-cadres (mobilité, exit) vs solidarité et équilibrage des conditions entre entités fédérées (loyauté).
+- Fédéralisme concurrentiel vs. fédéralisme solidaire.
+	- Mise en concurrence des entités fédérées pour améliorer les conditions-cadres (mobilité, exit) vs. solidarité et équilibrage des conditions entre entités fédérées (loyauté).
 	- CH: Accent sur la solidarité (péréquation financière, aides, collaboration inter-cantonale), avec exception (concurrence fiscale->niveau de paiement d'impôts pour s'assurer que les cantons ne dépensent pas de manière folle).
 - Fédéralisme asymétrique vs symétrique.
-	- Traitement différencié des entités fédérées (**ex**: autonomie) vs entités fédérées disposant des mêmes compétences et ressources.
+	- Traitement différencié des entités fédérées (**ex**: autonomie) vs. entités fédérées disposant des mêmes compétences et ressources.
 	- CH : Fédéralisme symétrique.
 	- CA : " asymétrique.
-- Fédéralisme congruent vs non congruent (Lijphart 2012: 195).
-	- Entités fédérées comme reconstitutions en miniature de la composition sociale et culturelle du pays dans son ensemble vs entités socialement et culturellement différentes.
+- Fédéralisme congruent vs. non congruent (Lijphart 2012: 195).
+	- Entités fédérées comme reconstitutions en miniature de la composition sociale et culturelle du pays dans son ensemble vs. entités socialement et culturellement différentes.
 	- CH: Fédéralisme non congruent.
 ### Avantages et inconvénients du fédéralisme
 #### Le fédéralisme protège les minorités
@@ -200,11 +200,11 @@ Cas intéressant du Danemark où les communes, bien qu'existant dans un état un
 	- inutile pour des minorités non territoriales.
 	- + conflit entre logique fédéraliste et logique démocratique (votes à la double majorité).
 #### Le fédéralisme rapproche les citoyen/nes du pouvoir
-- Arguments.
+- Arguments :
 	- Accès facilité à l'administration publique.
 	- Les citoyens peuvent mieux contrôler leurs autorités.
 	- Multiplication des postes politiques augmente les chances de se faire élire.
-- Contre-arguments.
+- Contre-arguments :
 	- La proximité est un mythe.
 	- La multiplication des postes politiques conduit au gaspillage des deniers publics.
 	- Les tracasseries administratives limitent la mobilité.
@@ -243,7 +243,7 @@ Cas intéressant du Danemark où les communes, bien qu'existant dans un état un
 - Révisions constitutionnelles acceptées en 2004.
 - Réforme entrée en vigueur en 2008.
 - Processus long... 20 ans.
-	- Succès partiel on veut y revenir.
+	- Succès partiel, on veut y revenir néanmoins.
 	- Grande réforme mais on est réputé y être mauvais en ce qui les concerne. Néanmoins on l'a fait tandis que l'Allemagne **p.ex.** n'a pas pu.
 ### Fédéralisme et adhésion à l'UE
 - Conséquences formelles :
@@ -256,7 +256,7 @@ Cas intéressant du Danemark où les communes, bien qu'existant dans un état un
 	- La liste s'allonge à mesure que l'UE approfondit son intégration.
 	- Surtout des compétences fédérales, pas cantonales quand même.
 - Problèmes pratiques
-	- Participation des cantons à l'élaboration de la politique européenne. Avant on était plus proche d'une adhésion et les cantons->
+	- Participation des cantons à l'élaboration de la politique européenne. Avant on était plus proche d'une adhésion et ->
 		- Cantons réclament régime de participation spécial et renforcé (information, consultation, participation).
 		- Question de l'organe de représentation des cantons dans les compétences qui les concernent.
 			- La conférence des gouvernements cantonaux (CdC) aurait pu l'être.

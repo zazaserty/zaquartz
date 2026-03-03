@@ -38,7 +38,7 @@ L'Ukraine a des ressources (**e.g.** terres rares) que la Russie veut. Cela conc
 
 Parallèlement c'est aussi la paix perpétuelle de Kant->il n'y a pas une démocratie pour arrêter Poutine.
 ##### Système international
-Anarchie->l'expansion de l'OTAN vers l'est est une menace pour la Russie et la Charte des Nations Unies ne peut pas empêcher un état d'envahir un autre.
+Anarchie->l'expansion de l'OTAN vers l'Est est une menace pour la Russie et la Charte des Nations Unies ne peut pas empêcher un état d'envahir un autre.
 #### Évolution à travers les périodes
 ![[Pasted image 20260224085310.png]]
 - Néo-conservatisme->valeur de la démocratie et force du réalisme.
@@ -71,7 +71,7 @@ Mais normalement on a une approche plus libérale en Occident, ce qui ne veut pa
 - Structure internationale : Interdépendance + normes et institutions.
 - Vision positive de l'être humain :
 	→ raison, modération, bien public (Auteurs classiques: John Ikenberry, Andrew Moravcsik, Robert Keohane, Josef Nye).
-	-> réalisme trop dur, être humain mauvais, etc...
+	-> réalisme trop dur : être humain mauvais, etc...
 - Valeurs universelles : Droits humains, paix, prospérité.
 
 Majoritairement opposé au (néo)réalisme, ensemble ils sont les deux principaux paradigmes.
@@ -109,12 +109,12 @@ Kant dit que l'amitié se retrouve quand les citoyens d'un pays socialisent.
 En Suisse on a le WEF, du lobbying pour promouvoir leur marché du profit à travers la coopération internationale. En effet, il y a des manifestations à travers des acteurs anti-capitalistes.
 #### Fondements du (néo)marxisme
 ![[Pasted image 20260224094019.png]]
-Ça se voit dans la OIT, organisation tripartite (==rapport avec structure de NMisme==?), promeut-elle le droit des travailleurs? Pour les (néo)marxistes non, au contraire des (néo)libéraux.
+Ça se voit dans la OIT, organisation tripartite, promeut-elle le droit des travailleurs? Pour les (néo)marxistes non, au contraire des (néo)libéraux. Elle ne ferait que perpétuer les relations capitalistes.
 #### Implications pratiques
 - Motifs politiques : Le système économique (liens entre facteurs et relations de production) détermine dans une large mesure la politique.
 - Rôle des OI : reflètent les intérêts du capital, les règles du commerce international discriminent les pays du Sud et empêchent leur développement (Cardoso, Prebisch…).
-	- Tout le monde veut développer le Sud mais ça n'arrive mais. Ça serait à cause de leur position dans le système international (doivent rester en guerre, exploités...).
-- Version Proche du constructivisme.
+	- Tout le monde veut développer le Sud mais ça n'arrive pas. Ça serait à cause de leur position dans le système international (doivent rester en guerre, exploités...).
+- Version proche du constructivisme.
 	- Le système capitaliste est stabilisé à travers l’hégémonie culturelle (Gramsci).
 ### Conclusion
 ![[Pasted image 20260224094511.png]]

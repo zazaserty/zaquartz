@@ -3,7 +3,7 @@
 ### Critical dates
 #### 1893
 ##### First dispute
-In 1893 we got the first environmental dispute ever, it occurred between the USA and the UK: the Bering's fur seals case. It was submitted to international arbitration, it was one of the first cases along with the Alabama one (non environmental, but important historically regardless).
+In 1893 we got the first environmental dispute ever, it occurred between the USA and the UK: the Bering's fur seals case. It was submitted to international arbitration, it was one of the first cases along with the Alabama one (non-environmental, but important historically regardless).
 ##### Arbitration
 In arbitration you can choose your arbitrators, with modern international courts this is not possible. This thus reduces the autonomy of states. At this time, there wasn't a permanent court for international justice that was established.
 ##### Issue
@@ -28,14 +28,14 @@ First ever international tribunal to have adopted a measure of environmental con
 The tribunal decided to protect these seals, not because of their intrinsic intergenerational value as natural resources, but because of purely utilitarian reasons. This way it'd be guaranteed that they could always keep being exploited. No one cared about protecting the environment back then, it is only now that we are capable of being critical about the real purposes. 
 
 There was no *opinio juris* around this, it was later accorded more importance although at first it was purely utilitarian. The first generation of environmental treaties was composed of texts such as *Convention designed to ensure the conservation of wild animals that are useful to men or inoffensive* or *Convention on the protection of birds useful to agriculture* which are very obviously not written from an *intergenerational equity* perspective. This tribunal was merely a *child of its time*.
-###### *Old treaties today*
-Applying that first generation of environmental treaties today difficulties arise... **E.g.** the *International Convention for the Regulation of Whaling*
+###### **Old treaties today**
+When applying that first generation of environmental treaties today difficulties arise... **E.g.** the *International Convention for the Regulation of Whaling*
 #### 1946: *International Convention for the Regulation of Whaling*
 It prohibits the hunting of whales ==except== if you do it for scientific purposes. This poses problems... Japan has been doing scientific *research* on whales for decades (JARPA 1, 2, 3, 4 now... and it'll continue). Australia considered that Japan was just hiding comercial whaling behind so-called *scientific research*. They had been studying the anatomy of whales through hunting for a long while but whale meat could be found domestically...
 ##### AUS-JP dispute
 Australia sued Japan in front of the International Court of Justice and said that it was necessary to interpret the convention in light of conservation purposes but the ICJ said this wasn't the purpose of the convention, but rather sustainable development of the whaling industry. Purpose has to be taken into account when interpreting, and the preamble is clear:
 ![[Pasted image 20260223165727.png]]
-This poses problems because we have a different mindset today. The ICJ admitted there was a conservation purpose but Japan wasn't really that wrong as if stocks are allowed to remain at a sustainable level hunting could be in line with the convention. The ICJ recognised the Convention’s conservation purpose but ruled that Japan’s JARPA II program did not qualify as scientific research and therefore violated the Whaling Convention, ordering its termination.
+This poses problems because we have a different mindset today. The ICJ admitted there was a conservation purpose but Japan wasn't really that wrong. If stocks are allowed to remain at a sustainable level, hunting could be in line with the convention. The ICJ recognised the Convention’s conservation purpose but ruled that Japan’s JARPA II program did not qualify as scientific research and therefore violated the Whaling Convention, ordering its termination.
 #### 1941
 ##### Melter at the USA-CANADA border
 Washington city in the USA (not DC) shared (and still does) a border with the city of Trail in Canada. In this city, metal was melted in a melter just at the border. The latter produced sulphur oxyde as a result of its operation which damaged the crops and cattle on the USA's side of the border. This externality in emissions resulted in a complaint from farmers to the US government so they would get diplomatic protection (help in claiming compensation from injuries caused by another government).
@@ -44,7 +44,7 @@ The Canadian government was asked for reparations and accepted its international
 ##### Consequences
 This process could have been relatively simple but the tribunal made history. For the first time, the *no harm* principle was enunciated.
 ![[Pasted image 20260223172443.png]]
-The tribunal said the under the principles of international law no state has the right to use or permit the use of its territory in such a way that it causes injury to the territory of another state. This was customary law apparently, where this was taken from... no idea. Indeed this had been contradicted before like with the case between Mexico and USA and the use of shared rivers like the Rio Grande (Harmon doctrine of absolute territorial sovereignty - pretty hypocritical to believe in it and fight for sulphur-affected farmers - which many countries believe in to this day, like others believe no harm of any kind - so no threshold - can be committed-> absolute territorial integrity).
+The tribunal said the under the principles of international law no state has the right to use or permit the use of its territory in such a way that it causes injury to the territory of another state. This was customary law apparently, where this was taken from... no idea. Indeed this had been contradicted before like with the case between Mexico and USA and the use of shared rivers like the Rio Grande (Harmon doctrine of absolute territorial sovereignty - pretty hypocritical to believe in it and fight for sulphur-affected farmers though - which many countries believe in to this day, like others believe no harm of any kind - so no threshold - can be committed-> absolute territorial integrity).
 
 But in any case, this status meant it was opposable to any member of the international community. ==It is a principle of customary international law==. It was however formulated with a threshold of severity (*...serious consequence and the injury is established by clear and convincing evidence.).
 ###### **Importance**
@@ -59,8 +59,12 @@ To produce energy they wanted to deviate the waters of LL and then get its cours
 ##### Environmental consequences
 Nowadays we would've said that it would harm the environment (fish **f.ex.**) in what pertains to the ecosystem among other things. This wasn't done by Spain though. The tribunal also said there was no veto power based on the BT, so Spain lost based purely on technical considerations. In this era there was, again, no attention paid to the environment but to economic considerations. Spain would get the water for irrigation so no problem was identified.
 ![[Pasted image 20260223175829.png]]
-The even said had it been alleged that there could be environmental ramifications the outcome could've been different.
+They even said had it been alleged that there could be environmental ramifications the outcome could've been different.
 ### Shift
-From the 60s there was a shift towards environmental awareness and more disasters also. This pushed parties to cooperate more.
+From the 60s there was a shift towards environmental awareness and more disasters also. This pushed parties to cooperate more. Despite this, there was resistance to this new order and the possible new international economic order pushed by developing countries->
+![[Pasted image 20260302162355.png]]
+In fact many countries such as Tanzania with their gas reserves are trying to revive this nowadays, and even expropriate foreign extractors.
+![[Pasted image 20260302162445.png]]
+Here there is no mention of the environment or the *no harm* principle. This doesn't mean whoever that there wasn't any progress at the international community level. Awareness was arising because of factual (unfortunate events, the first big environmental disasters like the very famous 1967 Torrey Canyon oil tanker that sank in the British Channel and shocked the international community after leaving 100k tons of crude oil there) and philosophical factors (emergence of a wave of ecological thinking->*silent spring* of Carson as a defining moment that rang the alarm on issues such as pesticides like DDT and their effect on the environment).
 
 #IEL #UNIGE 
