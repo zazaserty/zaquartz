@@ -1,7 +1,6 @@
 ## Intergouvernementalisme
 ### Réaction au néofonctionnalisme
-- L’IG était une réaction aux premières études de l’UE : le *Néofonctionnalisme*.
-- E. Haas : *The Uniting of Europe* en 1958.
+L’IG était une réaction aux premières études de l’UE : le *Néofonctionnalisme*->
 - A couronné une période très fructueuse d’intégration européenne (spillovers ici-dessous).
 	- CECA.
 	- Traité de Rome.
@@ -18,7 +17,7 @@ On se rend compte qu'on peut pas juste oublier l'état-nation :
 		- Peur d'une 3GM de la part de l'URSS vers l'Europe de l'Ouest mais on fait pas le CED finalement.
 		- Certains états avaient des empires... comment avoir une armée commune qui contrôle des empires?
 	- Pressions de la crise de Suez (1956).
-		- Nasser veut nationaliser le canal, les anglais s'opposent mais les USA et l'URSS bloquent l'intervention... se mettre ensemble ou laisser le pouvoir national séparé?
+		- Nasser veut nationaliser le canal, les anglais et les français s'opposent mais les USA et l'URSS bloquent l'intervention... se mettre ensemble ou laisser le pouvoir national séparé?
 	- La crise de la chaise vide (1965-1966).
 		- Compromis de Luxembourg.
 	- Le double veto gaulliste aux candidatures britanniques (1963, 1967).
@@ -55,17 +54,17 @@ En RI & études européennes, Hoffman remet l’État au centre :
 - Issu de l’école du *réalisme*, élève de R. Aron.
 - La mondialisation/intégration pas un processus automatique mais un contexte.
 	- Pas de téléologie vers un État ou une fédération dans l’UE.
-- Mais elle ne se réalise que dans la mesure où les États le permettent.
+- Elle ne se réalise que dans la mesure où les États le permettent.
 - États acteurs unitaires cherchent à gérer conflits et coopération.
 - Et à limiter les inconvénients de l’anarchie.
 - Coopération plutôt qu’intégration.
 - Avec la mondialisation et la guerre froide, les problèmes ont pris de l’ampleur.
 - Il fallait donc davantage de coordination pour y faire face.
 - Création de l’UE pour affronter des problèmes communs.
-- **Ex.** dans les années 1940-1950 :
-	- L’alimentation (PAC) : plus d’empires, plus de nourriture bon marché (sauf le Royaume-Uni avec le Commonwealth).
-	- La guerre et la concurrence déloyale (CECA) : éviter les distorsions commerciales.
-	- La concurrence commerciale des États-Unis : création d’un bloc commercial.
+	- **Ex.** dans les années 1940-1950 :
+		- L’alimentation (PAC) : plus d’empires, plus de nourriture bon marché (sauf le Royaume-Uni avec le Commonwealth).
+		- La guerre et la concurrence déloyale (CECA) : éviter les distorsions commerciales.
+		- La concurrence commerciale des États-Unis : création d’un bloc commercial.
 Donc mise en commun & partage de la souveraineté entre États européens, avec des décisions à l’unanimité :
 - L’IG suggère que les institutions européennes réduisent les coûts de transaction.
 - Réduisent les problèmes d’engagement crédible.
@@ -73,11 +72,18 @@ Donc mise en commun & partage de la souveraineté entre États européens, avec 
 - Les institutions de l’UE comme servantes, auxiliaires des États-nations vs. délégation & transfert de souveraineté à une institution européenne, avec des décisions à la majorité. 
 	- Arène de négociation pour les états.
 #### Galaxie IG et néoréaliste
-Lire page 11
+Quelques néoréalistes s’intéressent à l’intégration :
+- Waltz (1979): les progrès de l’intégration s’expliquent par la puissance américaine garante de la sécurité européenne.
+- Grieco (1988): relance européenne vs. États-Unis et le Japon.
+- Milward (1992): l’État-nation sauvé par l’Europe.
+	- La construction européenne réaffirme l’État-nation plutôt qu’elle ne le supplante.
+	- Sans l’Europe, l’État ne peut offrir le niveau de prospérité qui justifie sa survie.
+	- Après 1945: les États se sauvent de leur propre effondrement via l’intégration.
+	- L’interdépendance pas subie mais gérée.
 #### Apports de l'IG
 A ouvert une autre voie pour l’Europe après la faillite de la fédération :
 - Contexte des années 1940-50 : la fédération, c’est la paix.
-- Briand, Habsbourg, Churchill, De Gasperi: pour la fédération.
+- Briand, Habsbourg, Churchill, De Gasperi : pour la fédération.
 - IG : Confédération plutôt que fédération.
 A offert d’importantes leçons analytiques :
 - Si les États pilotent l’Europe, il faut analyser l’État et ses préférences.
@@ -176,7 +182,7 @@ Les boucles de rétroaction endogènes peuvent être déstabilisantes
 - Surtout en période de crise.
 - Le plus petit dénominateur commun crée des équilibres partiels, instables, sous-optimaux.
 	- Comme pour 2008.
-	- C'est la conséquence des différences de préferences.
+	- C'est la conséquence des différences de préférences.
 - La littérature sur le *failing forward*.
 	- A empiré les autres crises suite à 2008, institutions pas adéquates->**e.g.** Covid-19.
 		- Pendant la récession de 2020 l'Italie demande de l'aide et l'Allemagne et l'Hollande disent d'utiliser le MES mais les populistes en Italie ne voulaient pas à cause de la conditionnalité.
@@ -190,7 +196,7 @@ Les Etats ne peuvent pas tout controller :
 	- Diffusion.
 	- Pression des pairs et socialisation.
 	- Etc.
-- En gros d'autres mécanismes à part ceux du nouveau IGL==??==
+- En gros d'autres mécanismes à part ceux du nouveau IGL.
 ##### Principalement
 ![[Pasted image 20260303114817.png]]
 ### Le nouvel intergouvernementalisme (NIG)
@@ -213,6 +219,14 @@ L’IG et l’IGL éclairent la formation de coalitions et les dynamiques de né
 - Quelles sont les contraintes des autres pays ?
 	- Jeux à deux niveaux et espaces de négociation.
 ![[Pasted image 20260303115313.png]]
+#### Analyser la parole et le silence
+Les ministères des affaires étrangères, les journalistes et les universitaires cartographient les préférences des pays. Les coalitions territoriales évoluent en fonction des crises et du contexte. Souvent des enjeux pour comprendre ce qui se passe et qui influencer :
+- Les grands acteurs indécis.
+- Les petits pays qui peuvent faire pencher la balance.
+- Une grande énigme pour l’IG et le NIG :
+	- Pourquoi certains pays se taisent-ils ?
+	- Manque de capacité étatique ?
+	- Certains pays suivent, d’autres mènent ?
 ### Le fil conducteur de l'IG
 L’UE comme « Rash¯omon » :
 - UE vue à travers le prisme des théories centrées sur l’État.
