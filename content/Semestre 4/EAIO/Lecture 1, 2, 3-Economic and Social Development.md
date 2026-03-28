@@ -34,7 +34,7 @@ Usually shifts are not huge, sometimes it's the thresholds that change. Contribu
 ![[Pasted image 20260223204252.png]]
 Share of global income: PPP (**up**) vs. Atlas method (**down**). The share of developing economies is higher when measured using power parity. They make less but can buy more. However, big differences remain between high and low/middle-income countries.
 #### Developed versus Developing countries
-- The UN classifies all countries of the world into one of two broad categories: developed economies, economies and developing countries.
+- The UN classifies all countries of the world into one of two broad categories: developed economies and developing countries.
 	- Distinction since the 50-60s lot has changed since then.
 	- There were transition economies before (ex-USSR planified->market economy) not anymore. Some became developed.
 - The classification of economies by development status is intended for statistical convenience and does not express a judgement about the stage reached by a particular country or area in the development process.
@@ -68,7 +68,7 @@ Most in Africa, correlation with low income group almost perfect. Some in Asia a
 
 As we can see, some countries graduate. This is the case of Bangladesh in 2026... but with all the turmoil internationally (shocks because of USA) might be next year.
 ![[Pasted image 20260223211201.png]]
-This isn't an unique or absolute definition of what and who is develop(ment/ed).
+This isn't an unique or absolute definition of what/who is development/ed.
 ### What is development
 - It is somewhat *easy* to say which countries are richer and which are poorer as long as economic activities are accounted for.
 - But indicators of wealth, which reflect the quantity of resources available to a society, provide no information about the allocation of those resources.

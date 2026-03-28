@@ -63,5 +63,26 @@ Here we reverse the arrogance of Stockholm->we are part of nature and depend on 
 Despite all these important steps the state of the environment worsened and worsened, IEL failed in protecting the environment. The 1990s was probably the worst decade in terms of environmental disasters: The Bopal disaster with the pesticide plant in India, desertification in Africa, Tchernobyl, the Basel accident, etc...
 
 In 1987 we had a new idea->sustainable development. There was a severe need for a new agenda and action for the environment internationally.
+### WCED
+![[Pasted image 20260310145619.png]]
+The Brundtland Commission (commonly know as). The objective was to reflect on a new environmental agenda/approach for the United Nations. They worked from 84-7 all over the world talking with different segments of society (IOs, govs, NGOs... academia... corpos... indigenous communities, etc.). In 1987 they published the Brundtland Report->Our Common Future.
+
+Additionally, it was the first commission put in place by the UNGA to deal with the environment. Normally it was the UNEP (UN environmental program), put in place after Stockholm.
+#### The Report
+Comprehensive, systemic... perhaps the most important and forward-looking report ever.
+##### Paragraph 4
+![[Pasted image 20260310150253.png]]
+This paragraph shows that environmental urgency was already here long ago (1987!). It calls for decisive political action so as to manage environmental resources to allow sustainable human progress and survival.
+
+They underline, not prediction but ==notice== based on the latest best scientific evidence. It was the time to take decisions which were needed to secure present resources. It does not give a blueprint but a pathway, concrete solutions were missing->**NEW AGENDA** to enlarge spheres of cooperation. The pathway is sustainable development.
+
+The first commission to suggest adopting a new approach based on sustainable development, whereas Stockholm and the WCN were based on anthropocentrism and ecocentric approaches respectively.
+##### Paragraph 27
+![[Pasted image 20260310150707.png]]
+Intergenerational equity dimension to sustainable development is mentioned. It should allow for present generations to satisfy our needs without compromising those of future generations.
+
+Anthropocentric concerns are still here, but combined with environmental concerns; such is the way of sustainable development.
+
+Since there wasn't a Stockholm +10, based on this report the commission recommended to the UNGA the organisation of a new conference dedicated to the environment->5 years after the report they did the Rio Conference of 1992.
 
 #UNIGE #IEL 

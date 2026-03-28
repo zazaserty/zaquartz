@@ -106,7 +106,7 @@ L’UE = succession d’événements, de crises et de compromis.
 		- On codifie les avancées, on régule...
 	- Opinion publique.
 ![[Pasted image 20260217113257.png]]
-Une fois que la CECA avait été crée on se pose la question->on veut élargir les frontières envers d'autres pays? Cela peut changer les valeurs mais a aussi ses avantages.
+Une fois que la CECA avait été créée on se pose la question->on veut élargir les frontières envers d'autres pays? Cela peut changer les valeurs mais a aussi ses avantages.
 #### Histoire condensée (1946-1995)
 ##### 1946-1958 : De l’ambition fédérale à l’intégration économique
 - 1951 : CECA (6 États).

@@ -230,7 +230,7 @@ Cas intéressant du Danemark où les communes, bien qu'existant dans un état un
 	- *race to the bottom* (**cf** discussion sur la concurrence fiscale).
 ### La réforme du fédéralisme
 #### Problèmes
-- Disparités financières importantes entre le cantons.
+- Disparités financières importantes entre les cantons.
 - Enchevêtrement des tâches entre cantons et Confédération.
 	- système complexe et opaque.
 #### Réforme de la péréquation financière et de la répartition des tâches (RPT)

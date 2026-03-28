@@ -50,7 +50,7 @@ Pas de *police* mais... plein d'OI, ONG... pourquoi?
 Le système international est un miroir des rapports de pouvoir interétatiques.
 ![[Pasted image 20260224091225.png]]
 ### Fondements du (néo)réalisme
-- Acteurs : États souverains (Vision Unitaire à statism).
+- Acteurs : États souverains (Vision Unitaire à *statism*).
 	- On ne regarde pas à l'intérieur->*black box*.
 - Structure Internationale : Anarchie → dilemme de sécurité.
 - Vision négative de l’être humain projetée sur l'État: rivalité, dominance, méfiance.
@@ -91,7 +91,7 @@ Majoritairement opposé au (néo)réalisme, ensemble ils sont les deux principau
 ### Constructivisme
 Apparaît pour expliquer la fin de la Guerre Froide.
 ![[Pasted image 20260224092327.png]]
-**E.g.** les menaces sont construites->les mêmes armes dans les mains de différents acteurs ont une signification différentes. Ça peut changer de *pas une menace* à une *menace existentielle*.
+**E.g.** les menaces sont construites->les mêmes armes dans les mains de différents acteurs ont une signification différente. Ça peut changer de *pas une menace* à une *menace existentielle*.
 #### Fondamentaux du constructivisme
 - Acteurs multiples : États, OI, mais surtout privés (ONG, médias, experts, épistémiques).
 - Structure internationale: Intersubjective à des idées, normes, identités, savoir (anarchie *construite*).

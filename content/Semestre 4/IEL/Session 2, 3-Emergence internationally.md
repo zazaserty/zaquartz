@@ -63,8 +63,8 @@ They even said had it been alleged that there could be environmental ramificatio
 ### Shift
 From the 60s there was a shift towards environmental awareness and more disasters also. This pushed parties to cooperate more. Despite this, there was resistance to this new order and the possible new international economic order pushed by developing countries->
 ![[Pasted image 20260302162355.png]]
-In fact many countries such as Tanzania with their gas reserves are trying to revive this nowadays, and even expropriate foreign extractors.
+In fact many countries - such as Tanzania with their gas reserves - are trying to revive this nowadays, and even expropriate foreign extractors.
 ![[Pasted image 20260302162445.png]]
-Here there is no mention of the environment or the *no harm* principle. This doesn't mean whoever that there wasn't any progress at the international community level. Awareness was arising because of factual (unfortunate events, the first big environmental disasters like the very famous 1967 Torrey Canyon oil tanker that sank in the British Channel and shocked the international community after leaving 100k tons of crude oil there) and philosophical factors (emergence of a wave of ecological thinking->*silent spring* of Carson as a defining moment that rang the alarm on issues such as pesticides like DDT and their effect on the environment).
+Here there is no mention of the environment or the *no harm* principle. This doesn't mean however that there wasn't any progress at the international community level. Awareness was arising because of factual (unfortunate events, the first big environmental disasters like the very famous 1967 Torrey Canyon oil tanker that sank in the British Channel and shocked the international community after leaving 100k tons of crude oil there) and philosophical factors (emergence of a wave of ecological thinking->*silent spring* of Carson as a defining moment that rang the alarm on issues such as pesticides like DDTs and their effect on the environment).
 
 #IEL #UNIGE 

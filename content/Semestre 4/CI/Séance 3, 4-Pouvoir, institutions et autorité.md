@@ -27,7 +27,7 @@ Cette conception du pouvoir du point de la force brute laisse de côté d'autres
 2. Diffusion du pouvoir au-delà des États = gain en autorité d'acteurs non-étatiques.
 	- **E.g.** : Amnesty International.
 
-Dans le *soft power*, la Suisse est extrêmement importante->éducation, Genève Internationale (liens entre l'UNIGE et les institutions/orgs internationales, bonnes offices qui permet d'inviter tous mêmes les palestiniens ou les talibans au contraire que les USA). L'Arabie Saoudite commence à devenir plus importante comme donateur au sein de certains organisations et veut plus de *soft power*.
+Dans le *soft power*, la Suisse est extrêmement importante->éducation, Genève Internationale (liens entre l'UNIGE et les institutions/orgs internationales, bons offices qui permet d'inviter tous mêmes les palestiniens ou les talibans au contraire que les USA). L'Arabie Saoudite commence à devenir plus importante comme donateur au sein de certains organisations et veut plus de *soft power*.
 ![[Pasted image 20260303092144.png]]
 Les OIs sont interprétées comme vecteurs de *soft power* créés par les états pour étendre leur influence (**e.g.** *New Development Bank* qui est plus aligné avec les BRICS).
 #### Transitions du *hard power*
@@ -51,17 +51,17 @@ Néoréalisme (théorie de la stabilité hégémonique):
 	- L'instabilité actuelle vient du déclin des USA, des nouvelles puissances veulent s'imposer.
 	- Le rôle de EAU veulent s'affirmer régionalement et commettent des atrocités en Soudan, **p.ex.**->transition de pouvoir.
 ![[Pasted image 20260303085640.png]]
-- Si on a des états égaux le commerce est moins ouvert, on a besoin d'états forts et faibles. Quand le RU (*Pax Britanica*) ou les USA (*Pax Americana*) était des hégémons le commerce était plus ouvert **p.ex**.
+- Si on a des états égaux le commerce est moins ouvert, on a besoin d'états forts et faibles. Quand le RU (*Pax Britanica*) ou les USA (*Pax Americana*) étaient des hégémons le commerce était plus ouvert **p.ex**.
 ###### **Mais c'est plus complex, en réalité**
 ![[Pasted image 20260303085816.png]]
 Post-WW2 les USA ont accepté leur rôle d'hégémon mais pas avant, c'est à cause de cela que pendant l'entre-deux-guerres le commerce n'était pas si ouvert. Ils ont été protectionnistes, ils avaient peur pour leur industrie. Ce qui se passe dans l'état influence sa politique extérieure->libéralisme au lieu de réalisme.
 ### Diffusion de pouvoir au-delà des États : Comment les OIs exercent de l'autorité?
 #### L'autorité en RI : **Exemple** du FMI
 ##### Quest-ce que l'autorité?
-Définition de l'autorité = *a social contract in which a governor provides a political order of value to a community in exchange for compliance by the governed with the rules necessary to produce that order.*.
+Définition de l'autorité = *a social contract in which a governor provides a political order of value to a community in exchange for compliance by the governed with the rules necessary to produce that order*.
 ##### FMI
 ![[Pasted image 20260303092632.png]]
-Le FMI donne de l'argent aux pays en faillite (peuvent plus payer leur dette->plus de moyens pour payer institutions publiques, retraites, etc...) mais avec des conditions : plus récemment moins axés sur la démocratie mais aussi austérité, ouverture au commerce international.
+Le FMI donne de l'argent aux pays en faillite (peuvent plus payer leur dette->plus de moyens pour payer institutions publiques, retraites, etc...) mais avec des conditions : plus récemment moins axées sur la démocratie mais aussi austérité, ouverture au commerce international.
 
 Le FMI ne s'impose pas, les états viennent à lui. On respecte ses conditionnalités puisqu'il a une autorité. Ses valeurs néolibérales (0% marxistes) et la capacité de véto des USA sont respectés même par les pays sociaux, de gauche, communistes... puisque les pays néolibéraux sont plus riches qu'eux et donc les gouvernés vont leur faire plus confiance. Il peut donc dicter sur leur économie.
 
@@ -79,21 +79,30 @@ Tous les états n'aiment pas cela, certains ont un problème avec cette tendance
 Dans le cas du FMI les états eux-mêmes deviennent néolibéraux.
 #### Autorité formelle des OI
 Transférée par les États sur la base de traités intergouvernementaux:
-- *Our focus is on legal authority which is… institutionalized, i.e., codified in a set of formal rules;  b) circumscribed, i.e., specified with respect to who has authority over whom for what; and c) impersonal, i.e., it applies to roles, not persons*.
+- *Our focus is on legal authority which is… institutionalised, i.e., codified in a set of formal rules;  b) circumscribed, i.e., specified with respect to who has authority over whom for what; and c) impersonal, i.e., it applies to roles, not persons*.
 - *Delegation: a conditional grant of authority by member states to an independent body (secrétariat)*.
+	- Ces corps indépendants peuvent interpréter et appliquer de manière autonome ce qui élargit leur marge d'action.
 - *Pooling: the rules under which member states make decisions, the procedure by which those decisions are ratified, and the extent to which they are binding*.
+	- Majorité pour des décisions contraignantes->pourrait mener à une OI qui exerce plus de pouvoir que prévu originellement aussi **p.ex**.
 #### *Bindingness* vs *Legalisation*
 *Bindingness* chez Hooghe/Marks fait référence aux décisions prises par les OI (*droit secondaire*), *Legalisation* chez Abbot et al. fait référence surtout aux traités (*droit*), mais les deux concepts se chevauchent partiellement primaire.
 ![[Pasted image 20260303094444.png]]
+
+Avant on faisait la distinction entre politique et droit comme origines de OI, des textes comme celui-ci y répondent avec de la nuance.
 #### Autorité informelle des OI
 Propre aux OI:
 - "In addition to authority delegated from states, IOs have authority because they embody rational-legal principles that modern societies value and that are identified with liberal values viewed as legitimate and 'progressive'".
+	- Ces conditions ont motivé ou conditionne leur création.
 - OIs peuvent influencer les politiques nationales et internationales malgré l’absence d’un mandat contraignant (cadrage des problèmes, diffusion de normes, labels/standards, réseaux d’experts).
 	- On leur faisait confiance (à l'OMS) et pendant la crise du Covid-19 on leur donne de l'autorité en ce qui concerne les vols entre pays.
+	- Comme les MDG ou les SDG qui dictent les programmes étatiques ou la diffusion des normes comme la charte de l'ONU (pas légale d'utiliser la force) et d'autres OI, même si remis en cause de nos jours avec le *hard power*.
 - Importance des communautés epistémiques.
 	- OMS pendant le Covid-19 (réseau d'experts).
+	- Sur chaque problématique de la coopération on a des experts qui expliquent lesquels sont les problèmes à résoudre.
+		- Disent quelles sont les politiques nationales à mettre en oeuvre, certains pays n'ont pas les ressources pour en développer pour chaque sous-problème. Souvent ces groupes d'expertise comme ceux dans l'IPCC sont les meilleurs académiques, chef d'industrie, etc.
 #### Source d'autorité des OI
 ![[Pasted image 20260303094822.png]]
+Il peut y avoir des luttes de pouvoir comme la FDA aux USA qui dicte des normes contraires à celles de l'OMS (informel) ou dénonce des traités (formel).
 ### Conclusion
 - Transition et diffusion du pouvoir comme axes centraux de la transformation du système international; Différence entre "hard" et "soft" power.
 - La diffusion du pouvoir aux acteurs non-étatiques se prononce dans leur gain en autorité envers les États.
