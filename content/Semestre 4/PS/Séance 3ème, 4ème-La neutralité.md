@@ -106,7 +106,7 @@ On laisse derrière la première grande phase, le bloc soviétique chute de mani
 	→ dilemme neutralité-solidarité.
 	- Nous n'avons pas permis le survol dans ce cas. Tout en reconnaissant que la position était difficile a défendre, on s'est maintenu dans la neutralité plus stricte ici.
 - Fin (provisoire, même si pas connu à l'époque) de la confrontation Est-Ouest
-	→ remise en question de la fonction d'équilibre externe: "zone- tampon" dans le centre de l'Europe perd son sens.
+	→ remise en question de la fonction d'équilibre externe : *zone- tampon* dans le centre de l'Europe perd son sens.
 - Disparition/transformation de la menace extérieure.
 	-> affaiblissement de la fonction d'équilibre interne, le ciment de la société pour unir les sous-cultures.
 - Renforcement des mécanismes d'intervention de l'ONU.
@@ -121,10 +121,10 @@ On laisse derrière la première grande phase, le bloc soviétique chute de mani
 #### Réorientation de la politique extérieure, redéfinition de la neutralité
 - Rapport du Conseil fédéral de 1993.
 - Politique extérieure dans les années 1990.
-- Leitmotiv: la défense de l'indépendance passe par la coopération internationale; "sécurité par la coopération" (cf. environnement, terrorisme, prévention des conflits).
+- Leitmotiv : la défense de l'indépendance passe par la coopération internationale; *sécurité par la coopération* (cf. environnement, terrorisme, prévention des conflits).
 	- Perdre un peu d'indépendance formelle pour en récupérer en ce qui concerne le substantiel (être présents à la table de négociations). On peut pas être indépendants tout seuls dans un monde si interdépendant.
-- Instrument: retour à une neutralité différentielle (ou pour les "cas d'urgence"->guerre - Gabriel 1995). On réduit la portée de la neutralité quoi.
-	→ sanctions économiques (ONU: Yougoslavie 1992, Haïti 1993, Afghanistan 2000; UE: Yougoslavie 1998).
+- Instrument : retour à une neutralité différentielle (ou pour les *cas d'urgence*->guerre - Gabriel 1995). On réduit la portée de la neutralité quoi.
+	→ sanctions économiques (ONU : Yougoslavie 1992, Haïti 1993, Afghanistan 2000; UE: Yougoslavie 1998).
 	- Contribue même aux sanctions économiques de l'UE.
 	→ Adhésion à l'ONU (2002; initiative populaire).
 	- Facilité l'adhésion de la Suisse à l'ONU par l'initiative populaire supportée par le parlement et le CF (rare!).
@@ -149,20 +149,20 @@ Incompatibilité :
 #### Evolution dans les années 2000
 - Votes populaires sur la politique extérieure et la politique de sécurité ont tous été remportés par le gouvernement (bilatérales, Schengen/Dublin, adhésion à l'ONU, armée XXI->redimensionnement et changement des objectifs de l'armée).
 	- On s'ouvre petit à petit.
-- Soutien de l’électorat à la "sécurité par la coopération".
+- Soutien de l’électorat à la *sécurité par la coopération*.
 #### Conséquences
 - Réduction de l’asymétrie entre politique étrangère et politique économique extérieure (Kriesi et Trechsel 2008).
-- Avec les votations précitées, la Suisse a réduit son degré de "fermeture politique", et son degré d'intégration politique est comparable à celui de l'Autriche, mais reste une différence majeure: l'Autriche est membre de l'UE depuis longtemps, quand on ne pouvait (comme maintenant) se contenter que des accords bilatéraux.
+- Avec les votations précitées, la Suisse a réduit son degré de *fermeture politique*, et son degré d'intégration politique est comparable à celui de l'Autriche, mais reste une différence majeure : l'Autriche est membre de l'UE depuis longtemps, quand on ne pouvait (comme maintenant) se contenter que des accords bilatéraux.
 - Mais peut-on encore parler de neutralité? La neutralité a-t-elle encore du sens aujourd'hui?
 	- Certains disent que ça n'a plus de sens avec le terrorisme, l'environment, etc... S'acharner pour rien quoi.
 ### Neutralité et nouvelle guerre (froide)
 #### Invasion de l'Ukraine par la Russie
 - Grave crise et situation inédite.
-- Pour la Suisse, combinaison des deux situations où il est impossible de rester neutre: forte polarisation et fort besoin de solidarité avec le pays victime de l'agression.
+- Pour la Suisse, combinaison des deux situations où il est impossible de rester neutre : forte polarisation et fort besoin de solidarité avec le pays victime de l'agression.
 	- Rester neutre voudrait dire être pour la RSS.
 #### Réaction du Conseil fédéral
-- Premier temps (très court): ne pas s'associer aux sanctions économiques de l'UE, mais éviter que la Suisse soit utilisée pour contourner les sanctions.
-- Deuxième temps (quelques jours plus tard): changement de stratégie, association pleine et entière aux sanctions.
+- Premier temps (très court) : ne pas s'associer aux sanctions économiques de l'UE, mais éviter que la Suisse soit utilisée pour contourner les sanctions.
+- Deuxième temps (quelques jours plus tard) : changement de stratégie, association pleine et entière aux sanctions.
 	- Trop de pression des pays européens.
 #### Invasion de l'Ukraine par la Russie
 - Conséquences pour la neutralité.
@@ -173,7 +173,7 @@ Incompatibilité :
 - Vif débat sur la réexportation des armes suisses, compatible avec le droit de neutralité, mais interdite par la loi sur le matériel de guerre (LFMG) au nom de la politique de neutralité.
 - Assouplissement de la LFMG par le parlement en décembre 2025, mais contesté par référendum de la gauche.
 	- Supposément à cause de l'objectif économique d'aider l'industrie d'armement suisse, pas parce qu'ils sont pour la Russie.
-	- On votera dessus.
+	- On y votera dessus.
 - Initiative populaire par l'UDC visant à inscrire la neutralité intégrale dans la Constitution.
 	- Pas de coopération militaire (**p.ex.** OTAN), sanctions (comme celles de l'UE, sauf celles de l'ONU).
 	- Rejetée par le CF, CE (contreprojet), CN (rejet de CP et IN) et maintenant navette et futur vote probablement cet année.

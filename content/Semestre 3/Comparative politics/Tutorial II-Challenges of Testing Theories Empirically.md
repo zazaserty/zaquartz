@@ -31,6 +31,8 @@ The z-scaling overstates polarisation; mistrust ≠ populism; cohort gaps are sm
 - **Vote outcome:** N&I model A and P **separately**. Should test the combined A+P; when you do, cohort gaps are tiny and sometimes younger lean more A+P.
 	![[Pasted image 20251029172520.png]]
 - **Mechanism claim:** values → populism → vote. The chain isn’t shown directly; opposition to immigration predicts A+P better than “generation.”
+
+These measurement problems illustrate the broader methodological requirement that [[Université de Genève/Semestre 2/Introduction à la démarche scientifique/Séance 6, 7-C'est quoi une démarche scientifique?#C'est quoi un concept|concepts have clear boundaries and valid empirical referents]], especially when a proxy does not capture the concept it is meant to measure.
 ### Economic explanation
 ![[Pasted image 20251029170930.png]]
 ![[Pasted image 20251029170944.png]]

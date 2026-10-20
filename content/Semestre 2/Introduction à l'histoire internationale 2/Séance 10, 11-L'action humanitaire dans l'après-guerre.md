@@ -110,6 +110,8 @@ Ici : survol sur l'action humanitaire en guerre->évolutions et dilemmes.
 	- CICR termine son action lorsqu’un de ses avions est abattu par des forces armées, pilote †, sept. 1969.
 - Leçons tirés de l’échec :
 	-  CICR revendique codification pour que les conventions de Genève soient mieux respectées pendant les guerres civiles ou de sécession->Protocole additionnel de 1977.
+
+Cette revendication de codification peut être rapprochée de la [[Université de Genève/Semestre 2/Droit international public/Séance 21, 22, 23-La torture, le génocide, crime contre l'humanité et de guerre#Crimes de guerre|distinction juridique entre conflits armés internationaux et non internationaux]], qui précise l’écart de régime évoqué ici.
 ### Naissance de Médecins sans frontières (1971)
 #### Césure symbolique importante dans l'histoire de l'humanitaire
 - Contexte générale : naissance du Tiers-mondisme de la gauche, chrétien et anticolonialiste, rôle de 1968.

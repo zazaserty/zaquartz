@@ -4,14 +4,14 @@
 - Complexe de régimes (*Regime complex*) : *un ensemble d'institutions partiellement chevauchantes et non hiérarchiques régissant un domaine thématique particulier*.
 - Complexité des régimes (*Regime complexity*) : *la présence de régimes imbriqués, partiellement chevauchants et parallèles qui ne sont pas hiérarchiquement ordonnés*.
 
-Comme le trafique d'êtres humains qui touche la santé publique, la criminalité, les droits de l'home, le travail... chaque domaine avec ses propres règles, institutions... Ça arrive avec beaucoup de thèmes dans les RI.
+Comme le trafique d'êtres humains qui touche la santé publique, la criminalité, les droits de l'homme, le travail... chaque domaine avec ses propres règles, institutions... Ça arrive avec beaucoup de thèmes dans les RI.
 ### Causes de la *regime complexity*
 ![[Pasted image 20260317091250.png]]
 Mieux gérer interdépendance->on peut pas avoir une OI qui s'occupe de poursuivre crimes et protéger travailleurs dans le cadre du trafique d'êtres humains si on va avoir besoin d'institutions séparées pour les deux en général.
 
 Pour le réalisme c'est aussi faire plus et plus d'OI comme elles coûtent plus et sont plus difficiles à comprendre, les USA **p.ex.** peuvent choisir quoi payer et répandre leur vision du monde. Dans une perspective réaliste, la complexité des régimes offre aux États puissants une plus grande marge de manœuvre, leur permettant de pratiquer le forum shopping et le venue shifting, ainsi que d’exploiter leurs ressources pour influencer plusieurs institutions, contrairement aux États plus faibles qui ne pourront pas tout suivre et devront peut-être se contenter de aller avec les forts plutôt.
 
-**Exemple** de *venue shifting*->Board Of Peace pour discuter les mêmes problèmes que dans l'UNSC mais de manière plus alignée pour leur intérêts.
+**Exemple** de *venue shifting*->Board Of Peace pour discuter les mêmes problèmes que dans l'UNSC mais de manière plus alignée avec leurs intérêts.
 ### Quel régime international pour les migrations?
 Pas une migration mais *des migrations* ; Comment classer ces différents types de migration?
 ![[Pasted image 20260317091834.png]]
@@ -57,7 +57,7 @@ Des fois on ajoute des clauses pour la readmission de citoyens (demandeur d'asil
 - 1985 création du forum informel *Intergovernmental Consultations on Migration, Asylum and Refugees* (IGC) entre 7 *like-minded states*.
 ![[Pasted image 20260317094957.png]]
 Plus de pays émetteurs rejoignent (du sud) plus l'OI se préoccupe de ce qu'ils veulent. Mais le nord n'aime pas ça et crée l'IGC.
-#### de multilateral à bilateral
+#### De multilateral à bilateral
 ![[Pasted image 20260317095220.png]]
 ### Implications
 ![[Pasted image 20260317095403.png]]

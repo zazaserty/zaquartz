@@ -7,7 +7,7 @@
 - Définition 2: division du pouvoir sans rapports hiérarchiques entre centre et entités fédérées.
 	- *Le fédéralisme implique une distribution fondamentale du pouvoir entre de multiples centres (…), pas la délégation de pouvoirs d'un centre unique, comme dans un système pyramidal* (Elazar 1997: 239).
 #### État fédéral vs. État unitaire
-- Critère formel: division du pouvoir entre plusieurs niveaux (dans la Constitution).
+- Critère formel : division du pouvoir entre plusieurs niveaux (dans la Constitution).
 - Distinction supplémentaire.
 	- Le degré de centralisation varie à l'intérieur des deux grandes catégories.
 	→ on peut placer les États démocratiques sur un continuum: du plus fédéraliste et décentralisé au plus unitaire et centralisé (Lijphart 1999, 2012).
@@ -23,7 +23,7 @@
 - Après le Congrès de Vienne ont revient à une confédération. Chaque état reste totalement souverain.
 - Tensions croissantes entre cantons catholiques conservateurs et cantons protestants libéraux-radicaux.
 	- Les catholiques conservateurs (cantons primitifs) voulaient garder leur contrôle sur la population (religion était importante) et les protestants étaient progressistes... ils voulaient un état.
-- Enjeu: création d'un véritable Etat.
+- Enjeu : création d'un véritable Etat.
 	- Conflit idéologique (conf vs. état) et religieux (catho vs. protestants).
 ##### 1845
 - Cantons catholiques conservateurs signent un traité séparé pour se protéger contre une éventuelle agression des protestants progressistes et libéraux. Le Sonderbund.
@@ -169,7 +169,7 @@ Coordination et coopération entre cantons, sans intervention de la Confédérat
 Cas intéressant du Danemark où les communes, bien qu'existant dans un état unitaire, ont beaucoup de compétences en matière sociale. On peut en effet, comme on la vu, avoir des états unitaires plus décentralisés.
 #### La Suisse parmi les Etats fédéraux (particularités)
 - Taille et degré de décentralisation.
-	- CH: Fédéralisme très décentralisé, Etat et entités fédérées (cantons) de petite taille. Aussi grandes différences de taille entre cantons même si cela est pas exclusif à la Suisse, au contraire de sa taille comme pays à système fédéral.
+	- CH: Fédéralisme très décentralisé, Etat et entités fédérées (cantons) de petite taille. Aussi grandes différences de taille entre cantons même si cela n'est pas exclusif à la Suisse, au contraire de sa taille comme pays à système fédéral.
 - Influence des entités fédérées sur le régime de répartition des compétences.
 	- CH: Forte influence des cantons (points de véto fédéralistes). Il suffit d'avoir la moitié des cantons pour bloquer la centralisation.
 - Mode d'élection, composition et compétences de la *chambre haute*.
@@ -228,6 +228,8 @@ Cas intéressant du Danemark où les communes, bien qu'existant dans un état un
 	- La concurrence peut aussi avoir des conséquences négatives.
 	- concurrence *déloyale* (externalités, *free-riding*).
 	- *race to the bottom* (**cf** discussion sur la concurrence fiscale).
+
+Pris ensemble, ces avantages et inconvénients peuvent être replacés dans une [[Université de Genève/Semestre 3/Comparative politics/Séance 8-Institutions of Comparative Democracies III#Consequences of federalism|grille comparative des conséquences du fédéralisme]], qui permet de confronter le cas suisse à des enjeux de représentation et de proximité, d’expérimentation, de coordination, de complexité de l’action et d’attribution de la responsabilité, sans supposer des effets identiques dans toutes les configurations fédérales.
 ### La réforme du fédéralisme
 #### Problèmes
 - Disparités financières importantes entre les cantons.
@@ -256,7 +258,7 @@ Cas intéressant du Danemark où les communes, bien qu'existant dans un état un
 	- La liste s'allonge à mesure que l'UE approfondit son intégration.
 	- Surtout des compétences fédérales, pas cantonales quand même.
 - Problèmes pratiques
-	- Participation des cantons à l'élaboration de la politique européenne. Avant on était plus proche d'une adhésion et ->
+	- Participation des cantons à l'élaboration de la politique européenne. Avant on était plus proches d'une adhésion et ->
 		- Cantons réclament régime de participation spécial et renforcé (information, consultation, participation).
 		- Question de l'organe de représentation des cantons dans les compétences qui les concernent.
 			- La conférence des gouvernements cantonaux (CdC) aurait pu l'être.

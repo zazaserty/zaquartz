@@ -31,7 +31,7 @@ This doesn't solve the issue, Rio kind of obscures the meaning even more. They f
 #### Rio +10 and the Johannesburg Declaration on Sustainable Development (2002)
 The Johannesburg Summit on Sustainable Development, 10 years after Rio the international community corrects the mistake of the Rio declaration legally.
 ![[Pasted image 20260316164757.png]]
-Interdependent and mutually reinforcing pillars of sustainable development, economic development, social development and environmental protection. Because in Rio the social development pillar of sustainable development was forgotten. It's not only about 2 reinforcing and interdependent pillars but 3.
+Interdependent and mutually reinforcing pillars of sustainable development: economic development, social development and environmental protection. Because in Rio the social development pillar of sustainable development was forgotten. It's not only about 2 reinforcing and interdependent pillars but 3.
 
 After 2002, as before, the meaning stayed blurred and kept being confusing for the international community.
 #### Rio +20
@@ -51,7 +51,7 @@ Here it's the same thing as in *the future we want*.
 ![[Pasted image 20260316172215.png]]
 Same issue as with *The future we want*.
 #### Convention on Biological Diversity (1992)
-Rio sister convention, there were 3 on them->this one + UN framework convention on climate change and the UN convention on desertification. They were up for signing in the Rio Conference.
+Rio sister convention, there were 3 of them->this one + UN framework convention on climate change and the UN convention on desertification. They were up for signing in the Rio Conference.
 ![[Pasted image 20260316172128.png]]
  In other treaties it's not even called sustainable development but something else. Now it's about sustainable use... but is it the same? It's the same language.
 #### United Nations Convention to Combat Desertification (1994)

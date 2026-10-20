@@ -28,6 +28,8 @@ Totalement opposé à Kalergi et son idée de fédération comme véhicule de pa
 Comment créer un bien commun entre états-nations sans resquilleurs? Pour cela il faut des organisations qui réduisent les coûts de transaction et permettent de se coordonner entre pays à travers des compromis. Des pactes comme celui de *Briand-Kellogg* sont beaux et idéalistes mais comment les mettre en oeuvre?
 
 Ces institutions seraient technocratiques et adaptées à leur fonction, en étant efficaces et en conséquence créatrices d'une loyauté. Après cela vient la dépendance, et le risque de régression est réduit.
+
+Cette logique fonctionnaliste rejoint l’analyse des [[Université de Genève/Semestre 2/Introduction aux relations internationales/Séance 12-Institutions internationales#Institutions|mécanismes par lesquels les institutions soutiennent la coopération]], notamment en réduisant les coûts de transaction et en facilitant les standards, le contrôle de conformité et le règlement des différends, sans rendre l’intégration politique automatique.
 #### Trois limites du fonctionnalisme
 ![[Pasted image 20260224104727.png]]
 - Très idéaliste et normatif, reste abstrait. D'autres approches qui conservent plus la souveraineté pourraient être meilleures et moins débilitantes (dépendance peut l'être). Pas une reception parfaite. Dans son époque l'interdépendance avait été utilisée de manière perverse (**e.g.** 3ème R. avec Roumanie).

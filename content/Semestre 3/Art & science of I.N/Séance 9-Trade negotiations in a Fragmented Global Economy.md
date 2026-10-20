@@ -79,6 +79,9 @@ A fragmented global economy.
 - Trade & security nexus: export controls, dual-use goods, supply chain decoupling.
 	- A connection, like with China.
 - Development: SDT, policy space, capacity building, graduation.
+
+Part of the institutional background to the present negotiating crisis can be seen in the [[Université de Genève/Semestre 2/Introduction à l'économie internationale/Séance 11, 13, 14-Les politiques commerciales II#Cycle de Doha : Paralysie de la fonction de négociation ?|constraints exposed by the paralysis of the Doha Round]].
+
 #### What works/doesn't
 ![[Pasted image 20251119113236.png]]
 #### How does Switzerland engage in the WTO

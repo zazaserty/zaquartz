@@ -12,7 +12,7 @@ The increase in trade has even outpaced economic growth:
 ### Understanding the gains from trade
 - Why do you think countries trade with each other?
 - What are the gains from trade?
-- As seen in [[Université de Genève/Semestre 3/Semestre 2/Introduction à l'économie internationale/Introduction à l'économie internationale|Introduction à l'économie internationale]]
+- As seen in [[Université de Genève/Semestre 2/Introduction à l'économie internationale/Introduction à l'économie internationale|Introduction à l'économie internationale]]
 #### Basic principles of international trade
 - Since Adam Smith in 1776 and David Ricardo 1817, many economists have believed that countries, as a whole, benefit by an increase in welfare from freer trade.
 	- Trade allows countries to specialise in producing goods for which they have a lower opportunity cost.
@@ -360,6 +360,7 @@ Strategies that have been tried, from most comprehensive with highest impact (bu
 ##### Main problem
 - A lot of information is needed to estimate the carbon content of a product, especially given the fact that the value chains are global and highly fragmented.
 - Risk of retaliation if WTO rules are not changed.
+- This reflects the [[Université de Genève/Semestre 4/IEL/Session 10-The environment and the International Economic System|legal tension between environmental measures and WTO rules]].
 #### Climate clubs
 - William Nordhaus (2015): start with a coalition or club of countries implementing an ambitious carbon tax and use external sanctions to induce the uncooperative parties/non-members to join.
 	- External sanctions are penalty tariffs uniform on all products of nonparticipants, not only on polluting ones (**i.e.** solve the problem of measuring the carbon content of products).

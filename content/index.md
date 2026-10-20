@@ -27,5 +27,17 @@
 - [[Coopération Internationale]]
 - [[Institutions & Intégration Européennes]]
 - [[Politique Suisse]]
+### Troisième année
+#### Cinquième semestre
+- [[Politics of International Economic Relations]]
+- [[Méthodes appliquées au domaine international]]
+
+## Thèmes transversaux
+- Climat et environnement : [[Université de Genève/Semestre 4/IEL/Session 6.5-The precautionary principle in international environmental law#Principle 15|principe de précaution]].
+- Commerce international et développement : [[Université de Genève/Semestre 2/Introduction aux relations internationales/Séance 13-Commerce internationale#GATT/WTO|commerce et institutions commerciales]].
+- Démocratie et institutions politiques : [[Université de Genève/Semestre 3/Comparative politics/Séance 8-Institutions of Comparative Democracies III#Veto players|institutions et points de veto]].
+- Droit international et droits humains : [[Université de Genève/Semestre 2/Introduction aux relations internationales/Séance 22-Droits humains|droits humains en relations internationales]].
+- Organisations internationales et coopération : [[Université de Genève/Semestre 2/Introduction aux relations internationales/Séance 12-Institutions internationales#Institutions|institutions et coopération]].
+- Méthodes de recherche et statistiques : [[Université de Genève/Semestre 2/Introduction à la démarche scientifique/Séance 6, 7-C'est quoi une démarche scientifique?#Les éléments fondamentaux : concepts, théories et méthodes|concepts, théories et méthodes]] et [[Université de Genève/Semestre 2/Introduction à la statistique/Séance 7-Inférence statistique#Échantillon|échantillonnage et inférence]].
 
 #UNIGE #Plaque-tournante

@@ -15,7 +15,7 @@ A la fin de première, choisir  orientation entre:
 Chaque modalité a ses propres débouches (passerelle en droit, masters...)
 Consulter séances d'orientation pour bien choisir sa modalité.
 ### Guide d'études
-A voir dans [l'espace étudiants BARI](unige.ch/gsi/fr). On y peut trouver le règlement d'études (==Seulement celui entré en vigueur le 18 septembre 2023==).
+A voir dans [l'espace étudiants BARI](https://www.unige.ch/gsi/espace-etudiants/bachelors/espace-etudiants-bari). On y peut trouver le règlement d'études (==Seulement celui entré en vigueur le 18 septembre 2023==).
 ### Règlement d'études
 Il faut réussir le BARI max en 4 années. Pour réussir la première année il faut obtenir une moyenne =4/>4 et aucun "Non" dans les evaluations. Moyenne= (Note x Crédits)/60.
 Note= 0/7
@@ -26,7 +26,7 @@ Mis a jour chaque année, important de le revérifier.
 ### Masters
 Certains son consécutifs (UNIGE), donc il garantissent una place aux titulaire du BARI.
 ### S'inscrire aux examens/cours
-C'est auto, du moment que l'inscription a un cours est faite. Il faut choisir, donc s'inscrire aux examens et cours optionnels du semestre de printemps. Formulaire d'inscription sur [portail étudiant](portail.unige.ch).
+C'est auto, du moment que l'inscription a un cours est faite. Il faut choisir, donc s'inscrire aux examens et cours optionnels du semestre de printemps. Formulaire d'inscription sur [portail étudiant](https://portail.unige.ch).
 Vérifier régulièrement le courrier institutionnel.
 #### Délais
 - 14 oct pour introduction à la microéconomie en anglais

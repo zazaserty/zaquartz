@@ -50,6 +50,8 @@ Coopération est plus facile dans des petits groupes que dans des grands groupes
 ### Institutions
 #### Définition
 Ensemble de règles (connues et partagées par la communauté) qui structurent les interactions de façon précise. Elles créent des attentes. Dans les RI il n'y a pas le gouvernement pour surveiller et mettre en oeuvre comme dans le droit interne, on a besoin d'une structure pour solutionner les problèmes de coopération.
+
+La définition institutionnelle employée ici peut être distinguée de la [[Université de Genève/Semestre 2/Droit international public/Séance 12, 13-OI#Définition|définition juridique d’une organisation internationale]], qui exige notamment un traité constitutif, une association d’États, une structure propre et une personnalité juridique.
 #### Fonctions
 - Établir des standards comportementaux.
 - Réduire les coûts de transaction.

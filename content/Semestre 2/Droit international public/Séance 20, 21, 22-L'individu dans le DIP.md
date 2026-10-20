@@ -92,6 +92,8 @@ Civils et politiques, droits des individu.
 Sociaux et culturels. Virage social des DH.
 ##### 3ème
 Des programmes politiques : environnement et paix.
+
+La possible traduction juridique de ces revendications environnementales est approfondie à travers le [[Université de Genève/Semestre 4/IEL/Session 7, 8-Human Rights and the Environment#Human Rights Courts and the Environment|recours aux juridictions des droits humains en matière environnementale]].
 #### Extraterritorialité.
 Généralement c'est le cas, l'état doit le respect des DH dans son territoire et aussi vis-à-vis d'autres territoires lorsqu'il en a le contrôle comme dans un territoire occupé. Si tu ne contrôles pas un territoire ça ne s'applique pas, au moins pas selon la jurisprudence (bombardements en Serbie pas l'OTAN).
 #### Droits absolus

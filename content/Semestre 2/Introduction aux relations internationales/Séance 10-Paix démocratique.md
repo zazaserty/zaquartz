@@ -32,6 +32,8 @@ Les anocraties sont entre -5 et 5 pour le *Polity IV*, ce sont des régimes ou l
 #### Hypothèses centrales
 - Démocraties ont une probabilité moins élevée de faire la guerre->**hypothèse monadique** (concerne qu'une seul unité, dans ce cas un état. Chaque état agit sans tenir en compte l'identité de l'autre état.).
 - Guerre entre démocraties moins probable qu’entre autocraties ou entre les deux types->**hypothèse dyadique** (concerne deux états. On prend en compte les caractéristiques des deux états.).
+
+La distinction entre hypothèses monadique et dyadique constitue ici une application de la [[Université de Genève/Semestre 2/Introduction à la démarche scientifique/Séance 6, 7-C'est quoi une démarche scientifique?#Différence|différence méthodologique entre théorie générale et hypothèse empirique testable]].
 #### Corrélation : démocratie et guerre
 ![[Pasted image 20250320182022.png]]
 Notre hypothèse monadique n'est pas vraie, mais la dyadique est confirmée.

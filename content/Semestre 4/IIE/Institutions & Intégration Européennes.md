@@ -4,5 +4,12 @@
 - [[Séance 4-Le pouvoir exécutif]]
 - [[Séance 5-Le pouvoir législatif]]
 - [[Séance 6-Les organes de contrôle]]
+- [[Séance 7-Le(s) marché(s) unique(s)]]
+- [[Séance 8-L'action extérieure]]
+- [[Séance 9-L'Europe numérique]]
+- [[Séance 10-La crise de l'Euro]]
+- [[Séance 11-La crise du COVID-19]]
+- [[Séance 12-L'UE et la Crise de l'Ukraine]]
+- [[Séance 13-L'UE et la crise transatlantique]]
 
 #UNIGE #IIE #Plaque-tournante 

@@ -26,6 +26,8 @@
 - Possibilité de comparer la population au chômage avec celle ayant un emploi.
 - Possibilité de comparer entre plusieurs pays et sur la durée.
 - Possibilité d’articulation avec des questions de regulation du chômage EU.
+
+La portée de cette représentativité peut être précisée par les [[Université de Genève/Semestre 2/Introduction à la statistique/Séance 7-Inférence statistique#Échantillon|conditions statistiques d’un échantillon représentatif et non biaisé]], notamment le recours à une sélection aléatoire.
 #### Résumé
 ![[Pasted image 20250506153729.png]]
 #### Exemples d'enquête sur le chômage

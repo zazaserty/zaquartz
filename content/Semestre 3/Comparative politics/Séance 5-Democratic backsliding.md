@@ -23,6 +23,9 @@ Carrier/Carothers:
 	- Decreased the political independence of the civil service.
 		- More political jobs (even in lower ranks) in the USA than in other countries, but Trump takes it even further. As such, people aren't selected by merit but political alignment.
 	- Purged perceived opponents from the branch.
+
+Taken together, these developments can be read through the [[Université de Genève/Semestre 3/Comparative politics/Séance 4-Regimes III#Executive Aggrandisement|general mechanism of executive aggrandisement]], without by themselves settling how the United States should currently be classified.
+
 *Unitary executive theory* is a theory that advocates for the control of the president over all the parts of the executive.
 ##### Congress
 Carrier/Carothers:

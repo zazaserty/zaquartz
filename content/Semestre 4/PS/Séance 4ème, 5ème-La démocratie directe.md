@@ -49,6 +49,7 @@ Champ d'application (art. 138 et 139 Cst féd) :
 ##### Hypothèse de L. Neidhart (1970)
 - Référendum (menace référendaire) a favorisé le développement de procédures sophistiquées de règlement des conflits dans la phase pré-parlementaire.
 - Transformation de la "démocratie majoritaire" et "référendaire" en "démocratie de négociation" (concordance).
+	- Dans le cas suisse, cette menace référendaire fonctionne ainsi comme un [[Université de Genève/Semestre 3/Comparative politics/Séance 8-Institutions of Comparative Democracies III#Effects of referenda|point de veto incitant à la négociation en amont]] et à l’intégration des opposants.
 	- La loi est souvent pensée pour passer le référendum, sinon elle est souvent changée à cause de la menace référendaire.
 	- En partie responsable de la concordance, on a progressé vers un gouvernement avec les principaux partis de manière à ce qu'ils s’opposent moins fréquemment à travers le référendum.
 ##### Utilisateurs
@@ -62,7 +63,7 @@ Champ d'application (art. 138 et 139 Cst féd) :
 	→ Possible surcharge (cf Avenir suisse 2015).
 	- Même si pas représentés au parlement on peut poursuivre le *policy-seeking*.
 ##### Mais ouverture limitée par
-- Ressources nécessaires; possibilité d’invalidation si elle est contraire au droit impératif du DIP ou à ses engagements internationaux & si elle ne respecte pas l'unite de la matière, mais rarement utilisée->couper les aides au *souverains* (peuples) & aujourd'hui souvent beaucoup d'initiatives qui sont plus loin qu'une seule demande; possibilité de contre-projet (direct/indirect) pour arrive à la retiration ou augmenter les chances d'un refus de l'initiative; mise en œuvre.
+- Ressources nécessaires; possibilité d’invalidation si elle est contraire au droit impératif du DIP ou à ses engagements internationaux & si elle ne respecte pas l'unite de la matière, mais rarement utilisée->couper les ailes au *souverains* (peuples) & aujourd'hui souvent beaucoup d'initiatives qui sont plus loin qu'une seule demande; possibilité de contre-projet (direct/indirect) pour arrive à la retiration ou augmenter les chances d'un refus de l'initiative; mise en œuvre.
 ##### Utilisateurs
 - Instrument traditionnel de la gauche (mouvement ouvrier) et des nouveaux mouvements sociaux.
 - Instrument des petits partis de la droite nationaliste.
@@ -148,7 +149,7 @@ Majorité des cantons critiquée.
 - Part des votants qui ont empiriquement permis aux 11.5 cantons les plus petits de bloquer une majorité du peuple : 20-25%.
 ##### Votations populaires avec collision majorité du peuple et majorité des cantons
 ![[Pasted image 20260325153437.png]]
-Des fois le tribunal fédéral a annulé, comme dans le cas de mauvaises informations sur les effets d'une initiative, les votations.
+Des fois le tribunal fédéral a annulé, comme dans le cas de mauvaises informations sur les effets d'une initiative, les votations (**e.g.** AVS 2019 Genève).
 ##### Etude Vatter / Sager (1996)
 8 votations: Oui du peuple contré par majorité de cantons.
 - Deuxième majorité profite surtout aux cantons ruraux de la Suisse centrale, au détriment de la Suisse romande et du Tessin.

@@ -72,6 +72,7 @@ Quels types de biens sont concernés? Quelques **exemples** :
 	- Climat :
 		- Entreprises fossiles = bénéfice privatisé mais coût climatique socialisé.
 		- Pays X poursuivant transition = bénéfice socialisé mais coûts privatisés.
+		- Ce mécanisme est formalisé par le [[Université de Genève/Semestre 3/Environmental Economics/Séance 3-Pollution as market failure|modèle économique de l’externalité de pollution]].
 #### Perdants et gagnants domestiques
 - Industries fossiles = perdants potentiels transition.
 - Réussissent à ralentir politiques transition. Pourquoi?

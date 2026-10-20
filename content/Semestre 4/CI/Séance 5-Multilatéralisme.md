@@ -5,7 +5,7 @@
 - Cadre institutionnel + des principes communs.
 - Très présent à Genève, dans sa forme plus technique même si on est en train de perdre ce côté multilatéral.
 ### Et les OI
-- Organisation Intergouvernementale: an organization that has representatives from three or more member states supporting a permanent secretariat to perform on-going tasks related to a  common purpose (voir texte de S. Park dans Baylis/Smith/Owens sur moodle).
+- Organisation Intergouvernementale : *an organisation that has representatives from three or more member states supporting a permanent secretariat to perform on-going tasks related to a common purpose.*
 - Une OI est simplement une organisation entre États, tandis que le multilatéralisme désigne un idéal de coopération fondé sur des règles communes, l’égalité et la non-discrimination.
 - donc toutes les OI ne sont pas forcément vraiment multilatérales.
 ![[Pasted image 20260324082848.png]]
@@ -24,7 +24,7 @@ Certaines inconnues, on (le public) n'est pas toujours conscient de cette explos
 ##### Article 2
 - Article 2(4) →Interdit la guerre (opposition au concept de guerre juste).
 	- Clair et nettement.
-- Article 2(7) →Importance des États et de la souveraineté (non- ingérence); hormis lors de mesures coercitives prévues sous le chapitre VII.
+- Article 2(7) →Importance des États et de la souveraineté (non-ingérence); hormis lors de mesures coercitives prévues sous le chapitre VII.
 	- Hormis quand il y a quelque chose de très grave comme un génocide, prévu déjà dans la charte.
 #### Chapitre III : Organes
 ##### Assemblée générale
@@ -38,13 +38,13 @@ Certaines inconnues, on (le public) n'est pas toujours conscient de cette explos
 #### Chapitre V & VI
 ##### Chapitre V : Conseil de sécurité
 - Article 23 → Composition: 5 membres permanents avec veto; 10 membres non-permanents élus (important!).
-	- Ces états bloquent la discussion de certains thèmes comme Taiwan, Ukraine, etc... ils touchent à leur intérêts propres. Quoi que des résolutions peuvent passer d'autres manières.
+	- Ces états bloquent la discussion de certains thèmes comme Taiwan, Ukraine, etc... ils touchent à leur intérêts propres. Quoique des résolutions peuvent passer d'autres manières (UNGA).
 	- Mettre le véto c'est pas si facile, rappelle asymétrie de pouvoir dans la charte et isole les pays.
 	- Aussi vote majoritaire entre membres non-permanents.
 - Article 24 →Fonction de maintien de la paix et de la sécurité internationale.
 	- Dernièrement, ou même toujours, mauvais taff.
 ##### Chapitre VI : Règlement pacifique
-- Article 33 → Mesures non coercitives en cas de différends Consentement des États/différentes parties au conflit (e.g., United Nations Interim Force in Lebanon).
+- Article 33 → Mesures non coercitives en cas de différends : Consentement des États/différentes parties au conflit (e.g., United Nations Interim Force in Lebanon).
 	- Forces de maintien de la paix pour séparer deux états, lesquels devraient la vouloir en tout cas. Peuvent faire appel sous ce chapitre pour les casques bleus, le 6 et demi pour des casques bleus avec plus d'autorité pour presque engager les états et le 7 pour pratiquement de la paix forcée (*peace enforcement*).
 #### Chapitre VII : Action en cas de menace contre la paix, de rupture de la paix et d'acte d'agression
 ##### Article 39: Constater l’existence d’une menace contre la paix
@@ -70,11 +70,11 @@ Certaines inconnues, on (le public) n'est pas toujours conscient de cette explos
 ### Procédure d’admission d’un état : les cas de la Palestine
 Comment une entité devient un état au niveau du Droit International ? (Convention de Montevidéo).
 - Population.
-	- Même pas mal de réfugiés dans les pays environnantes.
+	- Même pas mal de réfugiés dans les pays environnants.
 - Territoire.
 	- Jérusalem de l'Est, Gaza et la *West Bank*.
  - Gouvernement.
-	 - Fatah en Cisjordanie qui gère le territoire et le Hamas en Gaza. Gouvernements légitimes mais séparés... D'un point de vue administratif au moins la Cisjordanie en a un.
+	 - Fatah en Cisjordanie qui gère le territoire et le Hamas en Gaza. Gouvernements légitimes (on rentre pas dans le normatif) mais séparés... D'un point de vue administratif au moins la Cisjordanie en a un.
 - Relations internationales.
 	- Reconnue par certains états mais ça c'est que des paroles.
 	- 80+ consulats/ambassades dans pas mal de pays même dans ceux qui ne la reconnaissent pas.
@@ -108,7 +108,7 @@ Précurseurs: 1948 Convention Pour la prévention et la répression du crime du 
 	- le crime a été commis sur le territoire d'un État partie ou qui accepte la juridiction de la CPI.
 - Par le Conseil de Sécurité qui saisit le procureur en vertu du chapitre VII de la Charte des Nations unies.
 	- Dont il ne sont pas membres... pour aller contre des états n'ayant pas le véto.
-- CPI à si les structures nationales ne peuvent pas ou ne veulent pas.
+- CPI intervient si les structures nationales ne peuvent pas ou ne veulent pas.
 #### CPI - Judiciarisation
 ![[Pasted image 20260324094419.png]]
 #### CPI - Quel impact?

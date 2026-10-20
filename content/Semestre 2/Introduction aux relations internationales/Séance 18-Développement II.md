@@ -53,6 +53,7 @@
 2. Interventionnisme étatique (comme ISI).
 3. Contrôle étatique du système financier pour diriger ressources vers secteurs exportateurs (comme ISI).
 4. Protectionnisme / politique industrielle d’industries naissantes classique (Etats-Unis et Allemagne au 19e siècle).
+	- Dans ce cadre, l’[[Université de Genève/Semestre 2/Introduction à l'économie internationale/Séance 7,8-Économies d'échelle#Industrie naissante|argument économique de l’industrie naissante]] peut fournir, sous certaines conditions, une justification économique à une protection temporaire en présence de rendements croissants ou de défaillances de marché, sans en garantir l’efficacité.
 5. Salaires réels ouvriers comprimés dans secteurs exportateurs (rareté biens consommation, faibles salaires nominaux = hostilité aux organisations syndicales) / contraire ISI.
 6. Pas de propriété étatique du capital.
 7. Pas de grands monopoles industriels mais oligopoles incités à se livrer concurrence (**p.e.** industrie automobile japonaise).

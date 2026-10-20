@@ -44,6 +44,8 @@ Quand on fait un traité on peut pas tout prévoir, il faut améliorer peut êtr
 
 Aussi vérifier que les actes des institutions sont légaux, comme quand la BCE a acheté des dettes souveraines et l'ALL s'est plaint.
 
+Le contrôle de légalité exercé par la CJUE, juridiction supranationale de l’Union, et ses effets politiques peuvent être éclairés par le [[Université de Genève/Semestre 3/Comparative politics/Séance 8-Institutions of Comparative Democracies III#Judicial review|cadre comparatif du judicial review]].
+
 Aussi vérifier que pas plus d'intégration que les états membres veulent est créée pour éviter la désintégration.
 ##### Les six types de recours
 ![[Pasted image 20260324105139.png]]
@@ -55,7 +57,7 @@ Pour le recours en manquement en 2015 **e.g.** la Pologne avait dit que le droit
 ![[Pasted image 20260324105643.png]]
 ##### Le rôle de la Cour dans l'intégration
 ![[Pasted image 20260324105700.png]]
-Entre 57 et 90 apres CL logique IG et la COM passe a l'arrière plan alors que la CJUE par les normes juridiques qu'elle crée, elle accélère l'intégration. On avait pas vraiment pensé à ça dans le traité de rome. Au début elle crée l'effet direct européen et après la primauté du droit européen. Après va mettre en place une dynamique politique importante->on reconnaît les normes des autres pays au lieu d'essayer de faire tout de zéro au niveau européen. 3 moments charnière de la CJUE quoi.
+Entre 57 et 90 après CL logique IG et la COM passe a l'arrière plan alors que la CJUE par les normes juridiques qu'elle crée, elle accélère l'intégration. On avait pas vraiment pensé à ça dans le traité de Rome. Au début elle crée l'effet direct européen et après la primauté du droit européen. Après va mettre en place une dynamique politique importante->on reconnaît les normes des autres pays au lieu d'essayer de faire tout de zéro au niveau européen. 3 moments charnière de la CJUE quoi.
 ![[Pasted image 20260324110032.png]]
 ![[Pasted image 20260324110446.png]]
 On essaie d'éviter le dumping social pour mettre en place un marche intérieur sans mettre en péril l'état social dans les pays.
@@ -92,7 +94,7 @@ Très important surtout avec le problème en Pologne (Law & Order). La mission e
 Elle a des bureaux même en dehors de l'UE, quoique pas à Bruxelles. Important pour des politiques comme celles d'aide au développement.
 ##### Le médiateur en chiffres (2024)
 ![[Pasted image 20260324113731.png]]
-70% des cas ils aident les plaignants, beaucoup de pression pour bouler les plaintes vite. Ça réduit le pouvoir de la commission mais augmente sa transparence et donc sa légitimité.
+70% des cas ils aident les plaignants, beaucoup de pression pour bouger les plaintes vite. Ça réduit le pouvoir de la commission mais augmente sa transparence et donc sa légitimité.
 ##### **Exemples** d'enquêtes stratégiques
 ![[Pasted image 20260324114002.png]]
 Important pour faire respecter des choses vitales comme les droits de l'homme dans Frontex.

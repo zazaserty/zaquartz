@@ -5,8 +5,9 @@
 	* Lié à un domaine (forêts, pesticide, énergie, climat, etc.).
 #### Les complexes de régimes
 - *Réseau de trois régimes ou plus liés à un sujet déterminé, qui présentent des membres communs et qui génèrent des interactions de contenu, de normes ou opérationnelles reconnues comme problématiques, qu’elles soient, ou non, effectivement gérées* (Orsini et al. 2013).
-	- Notion qui reflète la croissante imbrication entre régimes internationaux.
+	- Notion qui reflète l’imbrication croissante entre régimes internationaux.
 	- Les régimes qui composent un complexe peuvent se faire concurrence, développer des synergies ou encore entrer en conflit.
+	- Cette dynamique est illustrée par l’[[Université de Genève/Semestre 4/IEL/Session 10-The environment and the International Economic System|interaction entre les régimes du commerce et de l’environnement]].
 ![[Pasted image 20250519122918.png]]
 ### La convention-cadre des nations unies sur les changements climatiques (CCNUCC)
 - Adoptée à Rio en 1992.

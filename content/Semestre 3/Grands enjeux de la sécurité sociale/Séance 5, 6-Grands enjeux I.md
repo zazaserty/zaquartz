@@ -202,7 +202,7 @@ Les personnes de 65 ans ou plus et les jeunes... les personnes avec moins de dip
 ![[Pasted image 20251110174337.png]]
 #### La résilience face aux catastrophes et aux crises économiques et sociales
 ##### Crise financière asiatique et reconnaissance de l’importance de la protection sociale
-- Comme on l'a vu dans [[Séance 4-Les risques]].
+- Comme on l'a vu dans [[Séance 4, 5-Les risques]].
 ![[Pasted image 20251110174623.png]]
 ![[Pasted image 20251110174631.png]]
 ![[Pasted image 20251110174649.png]]

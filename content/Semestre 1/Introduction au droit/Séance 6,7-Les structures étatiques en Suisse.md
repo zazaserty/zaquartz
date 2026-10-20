@@ -42,6 +42,8 @@ Un autre principe de ce système est celui de superposition. Les entités fédé
 Dans le cas de l'Allemagne celle ci c'est unifié tardivement-> confédération courte-> fédération allemande. Comme on peut observer, l'Allemagne ne peut pas être réorganisée. Il doit rester une fédération, pour éviter les événements pre-WW2 une autre fois.
 ![[Pasted image 20241004095247.png]]
 ## Divers régimes politiques
+Au-delà de cette typologie descriptive, une [[Université de Genève/Semestre 3/Comparative politics/Séance 7-Institutions of Comparative Democracies II#Government Systems|analyse comparative des systèmes de gouvernement]] approfondit les conséquences politiques des modes de sélection et de révocation de l’exécutif, des relations entre exécutif et législatif, de la double légitimité, de la rigidité institutionnelle et des risques de blocage, indépendamment des descriptions nationales qui suivent.
+
 ### Monarchie constitutionnelle et parlementaire
 #### Constitutionnelle
 Beaucoup de pays européens le sont, puisqu'ils étaient des monarchies strictes avant. Dans ce type de régime le parlement détient le pouvoir politique prépondérant. Le rôle du monarque est purement représentative vis à vis de l’extérieur, résiduel. Ceci est constitutionnel puisque c'est la constitution qui lui reconnaît la posibilité d’exister, et pas une justification arbitraire comme dieu.

@@ -24,7 +24,7 @@
 ### En Suisse
 - Jusqu'en 2019, pas de mini-publics dont les membres ont été sélectionnés par le biais d’un tirage au sort officiel.
 - L'hypothèse de Sonderfall : la Suisse n’en a pas besoin, en raison de la démocratie directe.
-- Mais c'est le contraire qui est vrai : depuis le *demoscan Sion* en 2019, il y a eu env. 15 mini-publics en [Suisse](www.demoscan.ch). Les taux de réponses positives parmi les citoyens sélectionnés au hasard sont plus élevés qu'en Europe.
+- Mais c'est le contraire qui est vrai : depuis le *demoscan Sion* en 2019, il y a eu env. 15 mini-publics en [Suisse](https://demoscan.ch/). Les taux de réponses positives parmi les citoyens sélectionnés au hasard sont plus élevés qu'en Europe.
 - Fort intérêt des administrations publiques pour les mini-publics.
 #### L'administration publique comme déclencheur d'innovations démocratiques
 - Tant celles et ceux qui détiennent le pouvoir (p. ex. Macron) que celles et ceux qui le critiquent (p. ex. les jeunes de la grève du climat, les gilets jaunes) prônent les mini-publics. Mais en coulisses, ils sont souvent initiés par les administrations publiques.

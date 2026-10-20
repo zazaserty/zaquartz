@@ -57,6 +57,7 @@ Mais si le gouvernement répond aux contestations des producteurs portés sur le
 #### Gagnants vs. perdants
 ##### Stolper-Samuelson
 Facteurs abondant profite du commerce.
+Cette intuition distributive est formalisée par le [[Université de Genève/Semestre 2/Introduction à l'économie internationale/Séance 5,6,7-HO#Rémunération des facteurs de production (Théorème Stolper-Samuelson)|mécanisme économique de Stolper-Samuelson]].
 ##### Ricardo-Viner
 Industries qui utilisent le facteur abondant profitent du commerce.
 ##### Théorie de l'entreprise
@@ -98,6 +99,8 @@ Information sur tous les examens [ici](https://www.wto.org/english/tratop_e/tpr_
 ![[Pasted image 20250331145135.png]]
 ##### Portail
 Information sur tous les cas de l'ORD, [ici](https://www.wto.org/english/tratop_e/dispu_e/dispu_e.htm).
+
+L’articulation entre ce mécanisme commercial et la coopération environnementale est illustrée par l’[[Université de Genève/Semestre 4/IEL/Session 10-The environment and the International Economic System#Shrimp case|affaire Crevettes-Tortues devant l’OMC]], qui montre comment le règlement des différends distingue protection environnementale et restriction unilatérale discriminatoire.
 #### Efficacité du GATT
 - Analyse Quantitative.
 - Variable Dépendante : importations de pays j a i en années t.

@@ -92,6 +92,8 @@ Orban se sauve la face en sortant, décision prise sans lui. Un véto tout le te
 Les crises ont enlevé cette centralité et renforcé le rôle d'autres institutions. Elle n'a pas le pouvoir démontré entre 1985-95.
 
 Théorie du principal-agent : les principaux (gens qui décident) ne peuvent pas tout faire à cause de diverses conflits comme ceux territoriaux ou politiques (gauche/droite). En général avec l'intégration européenne progresse (supranational et IG) d'autres principaux appairassent comme le PE qui est supranational. Donc il faut respecter les deux. Cela est arrivé avec le traité UE-Mercosur ou le PE voulait le traité mais il fallait aussi suivre la logique IG. En effet c'est pour cela que la Commission a le monopole de l'initiative législative et de rappeler les normes->**e.g.** HG doit payer 1 mill par jour pour non-respect démocratie UE. On délègue en gros.
+
+La délégation décrite ici peut aussi être replacée dans le [[Université de Genève/Semestre 2/Droit international public/Séance 12, 13-OI#Compétences/Powers|cadre juridique des compétences attribuées et implicites des organisations internationales]], sans réduire les compétences de la Commission à la seule relation principal-agent.
 #### Composition de la Commission
 - Actuellement 27 commissaires (1 par État membre).
 - Le Traité de Lisbonne prévoyait une Commission réduite (2/3 des États). . . mais jamais appliqué !
@@ -113,6 +115,9 @@ Ils ont donc essayé d'être plus démocratiques->
 #### Les Spitzenkandidaten : une révolution démocratique ?
 ![[Pasted image 20260310114446.png]]
 On voulait lier la commission aux cycles du PE et les élections pour dé-technocratiser. Pas marché avec Weber, manquait de légitimité à cause de son manque d'expérience et son copinage avec l'extrême droite (**e.g.** Orban).
+
+Cette tentative de relier les élections parlementaires à la sélection de l’exécutif constitue un [[Université de Genève/Semestre 3/Comparative politics/Séance 7-Institutions of Comparative Democracies II#Parliamentarism|rapprochement partiel avec la logique parlementaire]], sans faire de l’Union un régime parlementaire national ni rendre cette sélection automatique, comme le montre l’application incomplète et contestée du mécanisme.
+
 #### Compétences et fonctionnement de la Commission
 ##### Les quatre fonctions de la Commission
 ![[Pasted image 20260310114836.png]]

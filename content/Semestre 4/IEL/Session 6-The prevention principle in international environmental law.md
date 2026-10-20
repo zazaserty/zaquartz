@@ -1,5 +1,5 @@
 ## Prevention in IEL
-Perhaps most important principle in IEL, IEL is all about preventing environmental harms and thus this is at its very core.
+Perhaps most important principle in IEL, IEL is all about preventing environmental harm and thus this is at its very core.
 ### Origins
 #### Trails smelter case of 1941
 ![[Pasted image 20260323221350.png]]
@@ -13,7 +13,7 @@ In the same spirit that the trails smelter tribunal where no one really knows wh
 
 It isn't surprising that no harm was here since the beginning and the international community was for it because the very original reason of being of IEL was this. As such there was no hesitation by states in codifying it through soft law once IEL was born.
 #### Stockholm
-Until the 1980s, no autonomy (end of the decade or even early 90s, no focus on prevention but on no harm). It gets sophisticated with Rio whereas in Stockholm it's still just part of no harm.
+Until the 1980s, no autonomy (end of the decade or even early 90s, no focus on prevention but rather on no harm). It gets sophisticated with Rio whereas in Stockholm it's still just part of no harm.
 ![[Pasted image 20260323222750.png]]
 #### Rio
 ![[Pasted image 20260323222827.png]]
@@ -54,9 +54,9 @@ The ILC stopped the work because of the state-led attacks against this draft how
 #### Award in the Arbitration regarding the Iron Rhine
 Is there a link between sustainable development and prevention? This tribunal did make one.
 ![[Pasted image 20260323233522.png]]
-Economic development requires for the planning for environmental protection in the cadre of sustainable development, so a positive approach. The link is there->anticipating measures of environmental protection. Requirement to prevent or mitigate harm to the environment where development may cause it.
+Economic development requires planning for environmental protection in the context of sustainable development, so a positive approach. The link is there->anticipating measures of environmental protection. Requirement to prevent or mitigate harm to the environment where development may cause it.
 ![[Pasted image 20260323234252.png]]
-Less timidity than the court, it explicitly says principle of general international law citing the previous more timid case.
+Less timidity than the court (ICJ, Danube Project), it explicitly says principle of general international law citing the previous more timid case.
 ![[Pasted image 20260323234615.png]]
 Special emphasis on the duty of prevention autonomously. And then it says that was basically what the court for the danube dispute wanted to say.
 #### Pulp Mills on the River Urugay of 2010
@@ -68,11 +68,10 @@ Not result but efforts. Variable geometry, USA and Argentina don't have the same
 - Cooperation->inform others about the project, see their views.
 - Adoption and enforcement of environmental legislation, as in many countries the legislation is to be implemented despite its idealness.
 	- Both towards public and private operators under the territory of a state. The ICJ even said this in 2025 in an advisory ruling.
-- ![[Pasted image 20260324000242.png]]
-	- Third is the requirement to conduct an EIA before green-lighting a project, whether done privately or publicly for a private or public project that can have risks.
-		- Says it is customary (very clear!! doesn't say general or whatever, says customary) and thus required because of acceptance by state practice, no state can say that it's their choice. The flexibility rests on how to do it, not whether to.
-			- ![[Pasted image 20260324000506.png]]
-#### Certain Activities Carried Out by Nicaragua in the Border Area of 2015
+ ![[Pasted image 20260324000242.png]]
+- Third is the requirement to conduct an EIA before green-lighting a project, whether done privately or publicly for a private or public project that can have risks.
+	- Says it is customary (very clear!! doesn't say general or whatever, says customary) and thus required because of acceptance by state practice, no state can say that it's their choice. The flexibility rests on how to do it, not whether to.		 ![[Pasted image 20260324000506.png]]
+#### Certain Activities Carried Out by Nicaragua in the Border Area (2015)
 In this case NIC complains about lack of EIA from CR, and CR says it was exempted in case of emergencies by domestic law. And the court said no way, you can regulate how to but not exempt yourself from doing it, because it's customary.
 
 #UNIGE #IEL 

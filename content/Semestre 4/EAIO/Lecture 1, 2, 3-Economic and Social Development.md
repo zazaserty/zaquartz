@@ -48,7 +48,7 @@ Share of global income: PPP (**up**) vs. Atlas method (**down**). The share of d
 - Historical inertia plays a role, most groups (except ex-transitioning countries) are constant.
 ##### FCS
 The list of fragile and conflict-affected situations (FCS) is released annually by the World Bank Group (WBG) and aims to inform strategic and operational decision-making within the WBG.
-- **PURPOSE**: The list functions primarily as a tool to help the WBG adapt its approaches, policies, and instruments in difficult and complex environments seeing what the problems in the countries are and that the concerns are. But objectives can vary, we see that it varies between IOs. In WTO similar countries in classification speak together **f.ex**.
+- **PURPOSE**: The list functions primarily as a tool to help the WBG adapt its approaches, policies, and instruments in difficult and complex environments seeing what the problems in the countries are and what the concerns are. But objectives can vary, we see that it varies between IOs. In WTO similar countries in classification speak together **f.ex**.
 - **SCOPE**: Given the complexity of fragility and conflict, the list is not meant to be comprehensive— it does not include all countries affected, nor is it a ranking of countries.
 - **SOURCES/METHODOLOGY**: The list is based on publicly available global indicators followed by an internal review; and is updated every year on July 1st to reflect changes in country situations.
 ##### LDC

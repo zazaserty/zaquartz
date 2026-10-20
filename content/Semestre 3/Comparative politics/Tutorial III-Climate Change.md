@@ -4,6 +4,8 @@ IR scholars explain that there is a lack of collective action and a free-riding 
 
 Others put more emphasis on climate as a distributional conflict->who pays? People which jobs in dirty industries **f.ex.** could be more impacted.
 
+This complements the analysis of [[Université de Genève/Semestre 2/Introduction aux relations internationales/Séance 23-Enjeux Climatiques#Conflits distributifs dans les politiques climatiques|domestic and international distributional conflicts]].
+
 Should states focus their efforts on international cooperation like the Paris accords or on domestic distributional struggles then?
 ### Group work I: Finnegan 2023
 #### What does it mean to view climate change mitigation as a policy investment? Alternative view?

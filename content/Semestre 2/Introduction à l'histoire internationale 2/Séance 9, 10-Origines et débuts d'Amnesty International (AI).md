@@ -174,6 +174,8 @@ Trois modèles d’explication : stato-centré, institutionnalisme, société ci
 	- AI crucial pour la Convention internationale pour la protection de toutes les personnes contre les disparitions forcées (1990).
 	- Protocole facultatif à la Convention contre la torture et autres peines ou traitements cruels, inhumains ou dégradants (2002).
 - 2006 : création du Conseil des droits de l’homme pour améliorer le système de *surveillance* de l’ONU.
+
+La portée juridique de cette mobilisation peut être prolongée par la [[Université de Genève/Semestre 2/Droit international public/Séance 21, 22, 23-La torture, le génocide, crime contre l'humanité et de guerre#La torture|définition internationale de la torture et les obligations qui l’accompagnent]].
 #### AI et l'ONU
 Ramesh Thakur souligne la complémentarité d’AI avec l’ONU.
 - Théâtre pour la négociation des normes (*forum for norm-setting*) : ONU.
