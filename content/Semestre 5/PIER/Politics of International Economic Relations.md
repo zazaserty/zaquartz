@@ -4,5 +4,6 @@
 - [[Week 4 - Financial liberalisation]]
 - [[Week 5 - Regionalism and PTAs]]
 - [[Week 6 - Globalisation and its critics]]
+- [[Week 7 - The rise of populism]]
 
 #UNIGE #Plaque-tournante #PIER
